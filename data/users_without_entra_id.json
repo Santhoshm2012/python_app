@@ -1,0 +1,3737 @@
+[
+  {
+    "userId":"7dafee56-102d-ed11-9db1-000d3a65164f",
+    "userName":"Calvin Menezes",
+    "email":"Calvin.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"a6996978-0925-49d8-b5c1-66abd375cc39",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"8ea7f096-00cd-ec11-a7b5-000d3a653abe",
+    "userName":"Nandini Kumaran",
+    "email":"Nandini.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"e2d653e0-b5ba-48d3-a9fe-9797c3270fb4",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"da8fb8b0-e4a5-ec11-983f-000d3a65b5dc",
+    "userName":"Fayrooz Shahana Noufal Koya",
+    "email":"fayrooz.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4b21ce25-9e0e-4790-a3d5-48ed15786710",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"4b28cf51-83b9-ec11-983f-000d3a65c37c",
+    "userName":"Dhanasekar Karuppanagounder",
+    "email":"Dhanasekar.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"d492634c-512c-4cd0-b1a2-7b50fc42dca8",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"57cb8f80-9cb9-ec11-983f-000d3a65c37c",
+    "userName":"Rishabh Varshney",
+    "email":"Rishabh.v@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4d0a2157-eace-4289-a572-c8cb562fa9d3",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"59cb8f80-9cb9-ec11-983f-000d3a65c37c",
+    "userName":"Yokesh Kumar",
+    "email":"Yokesh.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"b13bb07d-abe8-46c8-8853-d89fb4cb8267",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ebcb8f80-9cb9-ec11-983f-000d3a65c37c",
+    "userName":"Prema Anirudh",
+    "email":"Prema.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"d8e4a4ca-2318-4cb5-a015-5fcc44bc3672",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"94013bec-6bb7-ec11-9840-000d3a65f2bf",
+    "userName":"# PowerAutomate-DesktopFlowRuntime",
+    "email":"PowerAutomate-DesktopFlowRuntime@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"d12404b5-b2b4-ec11-983f-000d3a65fbb2",
+    "userName":"Sreenivasa Eragala Reddy",
+    "email":"Sreenivasa.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"04ac2610-961c-47b8-a1ea-5ded4383684e",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"298c2926-6fb6-ec11-983f-000d3a65fbb2",
+    "userName":"Rajarajan Senthil Kumar",
+    "email":"Rajarajan.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"6e793557-fe36-488e-b7c0-fbd804b627ff",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"81080b83-9db5-ec11-983f-000d3a65fdcd",
+    "userName":"Tushar Chanana",
+    "email":"Tushar.c@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4cbf3377-2e3c-4dfc-8258-f7b7a27ffe18",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"4c63e0ef-6ef1-ec11-bb3d-000d3a666a5b",
+    "userName":"Pramod Reddy Raghichetty",
+    "email":"pramod.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"5335694b-687c-4339-9002-df483a34c936",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"fa10d689-7e90-ef11-8a6a-000d3a6685a9",
+    "userName":"# Muhammed Anas",
+    "email":"anas.m@cybersecurity-nxxt.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"720c5f92-d73a-42c1-a141-63d82c102fc6",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f2d39cb2-f17f-ef11-ac21-000d3a6685a9",
+    "userName":"Saniya Nousheen",
+    "email":"saniya.n@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"91622143-06e6-49f4-a694-85c9cfa7a9f0",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c0e49ddc-1b86-ef11-ac21-000d3a6685a9",
+    "userName":"# Omar Khrisat",
+    "email":"omar.khrisat@alfanar.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"f984b3ea-4265-4ccd-9041-16b47190ab8b",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"3758a5d4-308a-ef11-ac21-000d3a6685a9",
+    "userName":"Padmini Achalla",
+    "email":"padmini.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"c1f36399-4417-45b4-964b-4e942d1c6f6d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7474aedf-f8b2-ef11-b8e9-000d3a6685a9",
+    "userName":"Vijaykumar Devanand Devinayaki",
+    "email":"Vijaykumar.D@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"e8dffce6-9da0-4b5c-b974-f352031feb51",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"28167533-1368-ef11-bfe2-000d3a668cd5",
+    "userName":"Ali idriss",
+    "email":"ali.i@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"3ed9324a-9c2c-4927-bddf-8d235b33d8d9",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"1b9fde5f-7568-ef11-bfe2-000d3a668cd5",
+    "userName":"Subhajeet #",
+    "email":"subhajeet@ahlancyber.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"5dcfafbe-3211-47a6-a899-135cf92b86e6",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b9b57775-7669-ef11-bfe2-000d3a668cd5",
+    "userName":"Mohiddin Mohammed",
+    "email":"mohiddin.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"c6114d89-82b8-4673-90d2-14495300b7ee",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"72a36552-d569-ef11-bfe2-000d3a668cd5",
+    "userName":"Ahmed Al Riyami",
+    "email":"ahmed.ar@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"fb7abcf7-b5ee-43db-b71d-eea3ec35594d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e4d3938a-976a-ef11-bfe2-000d3a668cd5",
+    "userName":"Dana Alhadhrami",
+    "email":"dana.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"5c7a4403-b62b-4095-8a50-295502e64733",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"61b2e5b6-ab83-ee11-8179-000d3a669ba8",
+    "userName":"Aadhya Sathish",
+    "email":"aadhya.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"a7ec4e58-bcef-4c32-bc90-df19dcfd743f",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9055e089-ee61-ee11-8df0-000d3a669ba8",
+    "userName":"Raashid Shaikh",
+    "email":"raashid.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"bff53bfc-5c86-464e-be3c-3633004d2658",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"37ac6848-1064-ee11-8df0-000d3a669ba8",
+    "userName":"Karthikeyan Ganesan",
+    "email":"Karthikeyan.g@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"d9dcd8b3-1eb7-4373-ba74-7577ca0fec13",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"22d80b9c-fb10-ee11-8f6c-000d3a669ba8",
+    "userName":"Nooruddeen Aratukadavu",
+    "email":"Noor@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"42c024ff-f19e-42c7-a622-64a0f3f55f99",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e09b27dd-6d24-ee11-9cbc-000d3a669ba8",
+    "userName":"Krupali Ahir",
+    "email":"krupali.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"f3928792-7371-41c0-b02d-4e40b47e9fec",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"1cafb467-02b9-ee11-a569-000d3a669ba8",
+    "userName":"Manoj Potru",
+    "email":"manoj.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"2f890857-38f2-490e-b973-5a563d28a3c4",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"45226342-0b40-ee11-bdf3-000d3a669ba8",
+    "userName":"Rajan Dhital",
+    "email":"mso.support1@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"55b1615a-287c-4fbb-aafa-e2e6943b4094",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"326dd0d6-2c40-ee11-bdf3-000d3a669ba8",
+    "userName":"Saswati Dash",
+    "email":"saswati.d@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"908a5893-9675-4de1-86e5-7f1efef1d6a4",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b417fc3f-f640-ee11-bdf3-000d3a669ba8",
+    "userName":"Abdul Samad Shakir",
+    "email":"abdul.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"35e88065-8d3a-4a55-94ed-b96b9e11e71c",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"56ad7cd3-5642-ee11-bdf3-000d3a669ba8",
+    "userName":"Sunil Singh",
+    "email":"sunil.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"1561e7aa-e808-4c35-b900-52ec32d9eebb",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c3f767d2-6a2f-ee11-bdf4-000d3a669ba8",
+    "userName":"Kathir Selvan",
+    "email":"kathir.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"bddd8808-d0be-4e93-a17a-1c282ea9e48d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"0d8f4b3d-9d2f-ee11-bdf4-000d3a669ba8",
+    "userName":"Mohamed Fiazuddin",
+    "email":"Mohamed.f@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"cc4e4d12-31be-438d-99f4-9d18509f3af2",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"1bfce017-9a48-ee11-be6e-000d3a669ba8",
+    "userName":"# Salman Patel",
+    "email":"salman.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"44975d53-3f01-4e47-8665-880fe1b42f17",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"76cffd8e-9703-ef11-9f89-000d3a685f1e",
+    "userName":"Aditya Mohan Jha",
+    "email":"Aditya.j@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"f4c3f033-e519-4ffc-8849-7cbf8f40db08",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"cf529e79-3bfe-ee11-a1fe-000d3a685f1e",
+    "userName":"Sajish Nambiar",
+    "email":"sajish.n@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"f6f6373c-96cc-495b-b393-bb2dba92256d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ac03a378-f125-f011-8c4e-000d3a69161a",
+    "userName":"# Flow-CDSNativeConnectorItaly",
+    "email":"Flow-CDSNativeConnectorItaly@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"38d2a47e-f125-f011-8c4e-000d3a69161a",
+    "userName":"# ApolloProdFirstParty",
+    "email":"ApolloProdFirstParty@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a3c67f51-1434-f011-8c4e-000d3a69161a",
+    "userName":"# D365 Sales LeadQual",
+    "email":"D365SalesLeadQual@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"12c77f51-1434-f011-8c4e-000d3a69161a",
+    "userName":"# D365 Sales AcctRsrch",
+    "email":"D365SalesAcctRsrch@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"5343b157-1434-f011-8c4e-000d3a69161a",
+    "userName":"# D365 Sales OutrchAgt",
+    "email":"D365SalesOutrchAgt@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"98029ad4-4c21-f011-998b-000d3a69167e",
+    "userName":"# CAPI_Prod",
+    "email":"CAPI_Prod@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6d8bc30e-16d6-eb11-bacb-000d3ab15843",
+    "userName":"# RelevanceSearch",
+    "email":"RelevanceSearch@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6391fb16-c1e3-ef11-be20-000d3ab15bf7",
+    "userName":"Priyal Dhade",
+    "email":"Priyadharshini.J@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"2b654833-dc4b-4030-a6d5-5df68ba12665",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"497ce588-d6e3-ef11-be20-000d3ab15bf7",
+    "userName":"Tania Kashif Ekram",
+    "email":"tania.e@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"26b719a0-9a8f-48ad-a16d-613d9bc5c615",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"64a962c2-ab09-ec11-b6e6-000d3ab1f3c0",
+    "userName":"Kishan Kumar",
+    "email":"Kishan.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"42a1cc7c-b0d3-462c-a752-d33c5cb66ba2",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"cecee0d8-ab09-ec11-b6e6-000d3ab1f3c0",
+    "userName":"Parshwa Amitkumar Shah",
+    "email":"Parshwa.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"2b52fcb1-6103-4c39-b9ab-17592df7fe6f",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"3860b0d3-ab09-ec11-b6e6-000d3ab2577d",
+    "userName":"Jerry Savio Patrick",
+    "email":"Jerry.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4e29f143-8309-4f3a-9932-1d2e2c14caee",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"bba9dafd-a204-f011-bae2-000d3ab2bb88",
+    "userName":"Muhammad Waleed Rafiq",
+    "email":"Waleed@ahlancyber.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"e326da0d-5bf1-4a4e-b996-38a8b3c6fac0",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e99ea46b-7142-ef11-a316-000d3ab2e4a7",
+    "userName":"Sajal Pandey",
+    "email":"sajal.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"1162c37e-dab5-4017-9d23-d606dbd2c6eb",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"55b271d9-a4fb-ef11-bae4-000d3ab483e3",
+    "userName":"# DataverseReportService",
+    "email":"DataverseReportService@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"dfc9fddf-a4fb-ef11-bae4-000d3ab483e3",
+    "userName":"# Contextual AI S2S Prod Application",
+    "email":"ContextualAIS2SProdApplication@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"4857f814-f54f-ef11-bfe2-000d3ab4cfeb",
+    "userName":"# NOUF N Y I ALAMIRAH",
+    "email":"nouf.alamirah@kfh.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4ea77673-2416-49ad-b20c-876e100bd23d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"901d25a7-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Ajay Kumar Gaddamidi",
+    "email":"Ajaykumar.g@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"05321655-bead-4a27-b092-da5715ad7bad",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"577997ad-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Shibil Abdul Razak Muhammed",
+    "email":"shibil.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"5ec2aeb5-d55b-4daa-8705-4b45694d5a15",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"797997ad-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Premkumar Samuel Chander Devanand",
+    "email":"Premkumar.d@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"5693f41c-4337-4b07-84ba-694521305adc",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"8c7997ad-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Saddiq Ameen",
+    "email":"Saddiq.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"d7e54bde-60a4-410e-9eb3-aad51adadb5d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f47997ad-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Ismail Ahmed",
+    "email":"Ismail.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"da2f8b1a-65f5-4521-90f6-05563b00acf2",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"2c7a97ad-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Gayathri Pothiraj",
+    "email":"Gayathri.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"269090ad-feac-4421-936f-6b9a86a36d42",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f23b92b3-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Adhithyan Sudhaghar",
+    "email":"Adhithyan.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"37b24e20-f167-431f-9232-3a6e097a9423",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"0e3c92b3-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Sudakshina Singha Roy",
+    "email":"Sudakshina.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"19ac3670-0668-4789-adf6-c1350d340158",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"623c92b3-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Touhid Shaikh",
+    "email":"Touhid.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"74546dfa-b1ec-4f08-bc44-a2d04394ece1",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"733c92b3-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Keerthidharan Rajendran",
+    "email":"Keerthidharan.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"7f758422-eb9b-4922-96fb-86135a07f2ec",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"183d92b3-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Husain Maad",
+    "email":"Husain.m@pcskuwait.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"a75932cc-aec4-43be-a40b-7f76e4988e7e",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"2b3d92b3-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Abhishek Pandey",
+    "email":"Abhi.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"a5633cfd-036d-471f-84cb-10632f7cd094",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"2d3d92b3-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Sohel Farukh Shaikh",
+    "email":"Sohel.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"03636fa0-a4b5-4cc1-8568-9f4cdf03c776",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"473d92b3-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Imran Malick Ghouse",
+    "email":"Imran.g@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"b69c10b5-03aa-4360-aaf4-5bcaef664177",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a6878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Deepak Karun",
+    "email":"Deepak.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"30edec49-9306-4b62-a9e9-75007002dc97",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ba878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Shaique Akhtar",
+    "email":"Shaique.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"b3644c31-9062-4205-be12-aaff32e939d6",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"eb878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Faique Akhtar",
+    "email":"Faique.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"f19eb811-3a9b-495f-ab0f-a71367cacfae",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"0c888ab9-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Arpit Dhanotiya",
+    "email":"Arpit.d@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4cbd99f3-7618-4b7a-8c02-06fcd81587c4",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"2da7e436-583b-ec11-b6e5-000d3ab5c24a",
+    "userName":"# Dynamics 365 record assignment",
+    "email":"Dynamics365recordassignment@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"eee2855d-a718-f011-998a-000d3ab5c49d",
+    "userName":"Asadul Hasan",
+    "email":"Asadul.H@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"bae69d37-f62f-4e6d-af74-d93a41019d38",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"4c8b16a0-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Adith Haridas",
+    "email":"adith@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"3f82d6a2-7bff-4985-8322-0ea3db69beeb",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6e8b16a0-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Kiran Nair",
+    "email":"Kiran.g@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"fd2c11bf-c44f-433e-b3f0-f3c8d715660f",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"858b16a0-76b4-eb11-8236-000d3ab6406f",
+    "userName":"ASWIN SASIDHARAN",
+    "email":"Aswin.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"98cb8c73-a7ea-4a0e-87a7-b544036a746a",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"8f8b16a0-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Sanju Tom Thomas",
+    "email":"Sanju.t@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"dfb3c1ad-0e59-4bf8-a464-cbc5ee41bdc0",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9d8b16a0-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Abdullah Ashraf",
+    "email":"Abdullah.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"467364ce-eff2-4a74-b0e1-44a23e57cd4e",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a38b16a0-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Muhammed Shafeeque",
+    "email":"Muhammed.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"cae08e3e-b213-40a6-84e5-8acd12ce8b2f",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"d18b16a0-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Ganesh Ram",
+    "email":"Ganesh.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"8f545672-7f73-4c3f-9526-5eebab29da11",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"df8b16a0-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Abhishek Padhi",
+    "email":"Abhishek.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"c63c2989-8c51-47c5-9798-4f5d5a8141a6",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"0a8c16a0-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Anirudh Tulsidas Shetty",
+    "email":"Anirudh.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4f951221-5cac-4ccc-814a-dbaff2186444",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9be70ea6-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Mayank Thakar",
+    "email":"Mayank.t@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"ff1f2945-1529-400f-83d8-eda0475616a2",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f3e70ea6-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Vaidhyanathan Seetharaman",
+    "email":"Vaidhyanathan.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"7923d447-de51-411f-b34c-ad759db762ff",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"15e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Venkatesh Narendra",
+    "email":"Venkatesh.n@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"627f6c6f-6353-4afc-bb29-ebaf4923f378",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"36e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Munfed Rana",
+    "email":"munfed@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"402e72af-57d6-411c-8958-f733f429f078",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"59e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Mohd Tahir",
+    "email":"Mohd.t@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"99369c1a-c4f4-46b0-bebe-f3afb9b64d8c",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9ce80ea6-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Arjun Remasan",
+    "email":"Arjun.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"caea5ec9-b135-4f1d-a633-7dbd8cb45183",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9505d1d9-1e3d-ef11-8409-000d3ab64ef2",
+    "userName":"Anoushka Das",
+    "email":"anoushka.d@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"fe14ebc8-7ad7-4b02-8378-30670e80072c",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"1d6abe0b-1a23-ef11-840a-000d3ab64ef2",
+    "userName":"Anirudh Krishnaprasad",
+    "email":"anirudh.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"9decf917-20f6-4bb3-8032-889cf322022a",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c5ecda5f-af24-ef11-840a-000d3ab64ef2",
+    "userName":"Alen Joseph",
+    "email":"alen.j@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4fbcb20b-a486-4b13-99f6-e2ae8bbc56aa",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ef7a595c-9228-ef11-840a-000d3ab64ef2",
+    "userName":"Divyansh Mishra",
+    "email":"divyansh.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"cd84f646-a6f0-4b25-9fd4-903ac562a48d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"73a9d767-0a9c-ef11-8a6a-000d3ab6556d",
+    "userName":"Muhammed Anas",
+    "email":"anas.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"1246bf28-eaae-4025-93af-4bda6e84be34",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e92cad70-717a-ef11-a670-000d3ab6556d",
+    "userName":"Prajwal Kumar Pandey",
+    "email":"prajwal.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"80b80bf8-21c8-4546-b4fd-6bdbd1ea0d06",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"d16c985b-f4a7-ef11-b8e9-000d3ab6556d",
+    "userName":"Ashor Rithik",
+    "email":"Ashor.R@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"9048079e-4e6a-470f-a5fd-4739219f9d12",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"0fe824d3-07a8-ef11-b8e9-000d3ab6556d",
+    "userName":"Hani Mohammed",
+    "email":"hani.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4d5d1d49-2c7f-4b21-a696-95bf02159d30",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"060b30af-3bc6-eb11-8235-000d3ab68dd4",
+    "userName":"# Dynamics365SCV",
+    "email":"Dynamics365SCV@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"350b30af-3bc6-eb11-8235-000d3ab68dd4",
+    "userName":"# SharePointOnline",
+    "email":"SharePointOnline@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"be4a13c9-b72c-ec11-b6e5-000d3ab7f6b7",
+    "userName":"Mohd Aqab Zahiruddin Shaikh",
+    "email":"Aqab.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"1297ed51-1315-4518-9510-b4a2b4b31235",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"50e2ad28-76dd-ef11-a72f-000d3ab83f62",
+    "userName":"# Ravichandran Jothi",
+    "email":"ravichandran.j@cybersecurity-nxxt.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"2d96cc1f-7970-43cb-8813-e514447325fb",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a0f6b266-03e2-ef11-a730-000d3ab83f62",
+    "userName":"# Pranav  Muthaiyan",
+    "email":"pranav.m@cybersecurity-nxxt.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"ba5eec0f-787f-4151-a3a7-83a22e7daffa",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c921de98-b9e0-ec11-bb3c-000d3ab855ae",
+    "userName":"Shahina Husain",
+    "email":"Shahina.h@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"6b775959-3fb9-462c-b8b3-51990fe66f29",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"13f68b1d-5af0-ec11-bb3d-000d3ab8620d",
+    "userName":"Prasenjit Mitra",
+    "email":"Prasenjit.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"24fcc766-ba74-49e1-a06b-f6c2b3737119",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ca66906b-c2f3-ec11-bb3d-000d3ab8620d",
+    "userName":"Rashmi Srinivasa",
+    "email":"Rashmi.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"2aa8cbfd-0c87-4756-904f-c752f39eba24",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"3c8fdd44-1311-ef11-9f89-000d3ab86cd9",
+    "userName":"Lakshmikanth SR",
+    "email":"lakshmikanth.sr@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"5880af93-54c4-4707-9841-a8402defabdb",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ce9f608f-d114-ed11-b83d-000d3ab89df4",
+    "userName":"Mohammed Ayyub",
+    "email":"Ayyub.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"356b82eb-66ba-46e9-b0eb-9f9bc437945c",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7",
+    "userName":"# InsightsAppsPlatform",
+    "email":"InsightsAppsPlatform@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"45e69b50-a810-ed11-b83d-000d3ab99a64",
+    "userName":"Sihem Djoudi",
+    "email":"Sihem.b@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"bbd760c7-8afe-4bf8-a16d-2d5fa34a08f2",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"92b516af-7f0f-ed11-b83c-000d3ab9e773",
+    "userName":"# AppDeploymentOrchestration",
+    "email":"AppDeploymentOrchestration@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"8a4e80c9-a6db-eb11-bacb-000d3aba42cf",
+    "userName":"# AIBuilder_StructuredML_Prod_CDS",
+    "email":"AIBuilder_StructuredML_Prod_CDS@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"626fe506-9bf2-eb11-94ef-000d3aba6d30",
+    "userName":"Adel Radwan A E",
+    "email":"Adel.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"ecb721c1-84bd-424e-ad9d-c296f03d65b5",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"06dc9267-a637-ee11-bdf4-000d3ad80d87",
+    "userName":"Prasanna Venkatesh CB",
+    "email":"prasanna.v@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"01b40ece-f22b-4c2f-ba8a-99fe4cf0c0ce",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"41a69959-8412-ec11-b6e5-000d3ad81836",
+    "userName":"# DAMSIsland",
+    "email":"DAMSIsland@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a0c3555d-7c03-ed11-82e5-000d3ad96601",
+    "userName":"Rohini Menon Anangha",
+    "email":"Rohini.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"b13e0e20-0515-4e63-a37e-6a88eb1e8934",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"eb7c4522-d25c-ec11-8f8f-000d3ad96aee",
+    "userName":"Marlon Chinthaka De Silva",
+    "email":"Marlon.d@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"cc56f96f-4e67-4881-9ca5-ca329919e536",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f0943514-d223-ef11-840a-000d3ad96d4c",
+    "userName":"Rajesh Sundaram",
+    "email":"Rajesh.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"82703ba3-e075-4842-b5bd-62ad959a8a3d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"df33eff0-f123-ef11-840a-000d3ad96d4c",
+    "userName":"Fabia Puliyott",
+    "email":"fabia.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"9608f580-735d-4df5-934e-325158dc0969",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"03d7c17a-b0e4-ec11-bb3c-000d3ad96fe8",
+    "userName":"Tessu Johny",
+    "email":"Tessu.j@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"b388275a-7812-4b4a-b05c-ad539a15d8c5",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"600b3288-920c-ef11-9f89-000d3ad9703b",
+    "userName":"Amna Al Remeithi",
+    "email":"amna.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"da7a6233-169d-4ed8-8258-fe803c5d36d7",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"cd66f96c-7142-ef11-a316-000d3ad9e121",
+    "userName":"Punam Shah",
+    "email":"punam.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"ecfd5e47-c7f6-49ee-989c-ad64563f51a5",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"693dc2ce-53e6-ec11-bb3c-000d3ada3d2e",
+    "userName":"Mohammad Ahmad",
+    "email":"Mohammad.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"e09d7b6d-258c-4736-9cbd-82b2bc1a3d6c",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"424f566c-bce7-ec11-bb3c-000d3ada3d2e",
+    "userName":"Sumit Karak",
+    "email":"Sumit.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"0547f34c-e6bb-4c17-8edc-0f09092a54e3",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ee82b819-4229-ec11-b6e5-000d3ada45f6",
+    "userName":"# Deflection",
+    "email":"Deflection@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7ae30327-eb29-ed11-9db1-000d3adaff3c",
+    "userName":"Muhammad Qasim Azam",
+    "email":"Qasim.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"703bd730-14fd-449c-83ea-a702e296a160",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"538d0de7-252a-ed11-9db1-000d3adaff3c",
+    "userName":"Swathi Venugopal",
+    "email":"Swathi.v@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"470b6b60-2421-48c9-b66c-c7b1e274305a",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"5d5e2b76-2fdd-ee11-904b-000d3adb178b",
+    "userName":"Shrikant Gulia",
+    "email":"shrikant.gulia@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"061748f5-faf6-4889-82f5-a2d26cd3c8e0",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b12be3ca-86e7-ee11-904c-000d3adb178b",
+    "userName":"Murali Nelluru",
+    "email":"murali.n@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"9b73cce1-b1cc-4ac0-9283-d6df8136f759",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"d51833bb-d023-ec11-b6e5-000d3adb194e",
+    "userName":"# TPSProxyService",
+    "email":"TPSProxyService@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"eb1833bb-d023-ec11-b6e5-000d3adb194e",
+    "userName":"# Flow-CDSNativeConnector",
+    "email":"Flow-CDSNativeConnector@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"bf5d11f3-0fb1-ec11-9840-000d3adc2ba7",
+    "userName":"Arunudaya Rajendran",
+    "email":"Arunudaya.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"05332922-b4ba-4d11-bac3-a93521f4ab3f",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"22b4f5e6-35b0-ec11-9840-000d3adc2d59",
+    "userName":"Prashant Yadav",
+    "email":"Prashant.y@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"68bb9a76-866e-400a-997b-bbe25810be9b",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"72939227-ffb0-ec11-9840-000d3adc2d59",
+    "userName":"Mohamed Ahmed Abdellatif Alaaeldin",
+    "email":"Mohamed.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"d7135d35-ead8-4b58-aa2d-7b5943f08926",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"8a8e06ba-9a7f-ee11-8179-000d3adc8967",
+    "userName":"Sridhar Pulivarthy",
+    "email":"sridhar.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"eafcd003-1c5d-4877-8102-9f689d0d6539",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"78cbc940-7983-ee11-8179-000d3adc8967",
+    "userName":"Noorah #",
+    "email":"noorah@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"e0701f65-914e-4d50-80fb-3ce9f8fafcbc",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"4c499125-2186-ee11-8179-000d3adc8967",
+    "userName":"Manoj Gopinath",
+    "email":"manoj.gopinath@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"eaf0e2e2-e755-438f-8344-37cc90219ea5",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"335aca07-b776-ed11-81ab-000d3adc8967",
+    "userName":"Dopati Subbarao",
+    "email":"Subbarao.d@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4bd9ca0c-0eba-4ffb-bac4-e9bd78456410",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"edafb556-ac7b-ed11-81ad-000d3adc8967",
+    "userName":"Ram Bharathwaj Ananthakrishnan",
+    "email":"Ram.b@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"a6c7ac19-1222-4e51-904a-a9b750aa3727",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"61d4cd24-4f8a-ed11-81ad-000d3adc8967",
+    "userName":"Nitin Kumar Dubey",
+    "email":"Nitinkumar.d@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"d68f9eae-4d1a-46ea-a0ee-c19d7305b63a",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"88aaf0c5-428b-ed11-81ad-000d3adc8967",
+    "userName":"Soumya Soni",
+    "email":"Soumya.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"0f7ce7ff-014c-48a4-8b11-b359290cb1fe",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6a221f4c-ff8c-ed11-81ad-000d3adc8967",
+    "userName":"Hirusha Fernando",
+    "email":"Hirusha.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"0582d867-37b2-4747-a7f2-959eddbc989c",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"aadd265f-30b1-ed11-83ff-000d3adc8967",
+    "userName":"Harish Lekkala",
+    "email":"Harish.l@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"44bdf3ec-5be7-4ef8-afe3-72e1214c2e84",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"de74323b-d8b1-ed11-83ff-000d3adc8967",
+    "userName":"Sneha Jayapradeep",
+    "email":"Sneha.j@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"b48d07d7-3a4b-4887-a245-e1ad99e732cf",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"d5de573b-60c1-ed11-83ff-000d3adc8967",
+    "userName":"Rachana Avdoot Kumbhar",
+    "email":"Rachana.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"0dcfc0d0-c2f7-4c1b-aa51-959d6b8e4d63",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a7163d77-64ed-ed11-8849-000d3adc8967",
+    "userName":"Mohammed Tausif Reza",
+    "email":"Mohammed.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"d113eebe-53ec-4fa7-9ab2-5b890c32c14a",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a9163d77-64ed-ed11-8849-000d3adc8967",
+    "userName":"Alina Ghimire",
+    "email":"Alina.g@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"74cf1733-85ed-4dac-8d81-58f9ad61b50a",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b3163d77-64ed-ed11-8849-000d3adc8967",
+    "userName":"Kushal Poudel",
+    "email":"Kushal.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"630ef699-7b06-4b09-ab8c-ccd3f514d45d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"1d5eab5a-acf0-ed11-8849-000d3adc8967",
+    "userName":"Shireesha Chepuri",
+    "email":"Shireesha.c@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"558344fc-fd45-4b4c-a135-be303f19c42d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f319b9e6-50f6-ed11-8849-000d3adc8967",
+    "userName":"Fatima Khurshid",
+    "email":"Fatima.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"095b58b5-d869-4c45-bf82-6240187fe33e",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"8778188d-e8fa-ed11-8849-000d3adc8967",
+    "userName":"Yasmeen Fatima Ansar",
+    "email":"Yasmeen.A@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"d515f79d-71c4-4511-8973-00c55eaad78b",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"fce87b10-2561-ee11-8df0-000d3adc8967",
+    "userName":"Yaseen Khan",
+    "email":"yaseen.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"f6590660-b708-4e43-8177-24aa7a3f69ec",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c688093e-6861-ee11-8df0-000d3adc8967",
+    "userName":"Mohammed Zidan",
+    "email":"mohammed.z@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"0a469191-f057-4a7d-a930-12e770980fcc",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"76eaec48-140f-ee11-8f6d-000d3adc8967",
+    "userName":"Arvind K",
+    "email":"Arvind.K@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"0358a7bc-47eb-462a-8e05-9517cef65d13",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"47ff72d7-1305-ee11-8f6e-000d3adc8967",
+    "userName":"Aamir Ahemad Ali Peerzada",
+    "email":"Aamir.P@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"79cc7a6c-50af-4075-b7e1-f0f929925a9b",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a5148b3a-7d0a-ee11-8f6e-000d3adc8967",
+    "userName":"Thameem Sulthan Abdul Siddique",
+    "email":"Thameem.S@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"1d359443-e7e5-4f4e-93f1-3d326a52bb4e",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9e194ef8-2fbf-ee11-9079-000d3adc8967",
+    "userName":"Rabina Lamichhane",
+    "email":"mso.support6@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"0bd4a863-b061-47c4-a479-18bbbe2eb48d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"44814c24-41c4-ee11-9079-000d3adc8967",
+    "userName":"Shivam Varshney",
+    "email":"Shivam.v@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"6388d68d-6e1f-4f35-868d-4d1659616f47",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a7a79fdf-a9c5-ee11-9079-000d3adc8967",
+    "userName":"Bilal Qureshi",
+    "email":"bilal.q@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"5d1dc766-bc39-4a6a-9342-6c55f617543f",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f60f4537-6ac6-ee11-9079-000d3adc8967",
+    "userName":"Ashu Choudhary",
+    "email":"ashu@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"02799417-e74c-4f3c-9159-2007d31ee1c8",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b3a22168-c35e-ed11-9561-000d3adc8967",
+    "userName":"Suchi Vaish",
+    "email":"Suchi.v@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"157c696f-55e0-47cd-8e88-40363d820f12",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"04379de1-db68-ed11-9561-000d3adc8967",
+    "userName":"Shubham Bansal",
+    "email":"Shubham.b@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"8b988c01-5fc2-4cd8-b7f7-bb0107aea9f3",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c2dd85b3-366e-ed11-9561-000d3adc8967",
+    "userName":"Unais Muhammed",
+    "email":"Unais.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"1b7fa386-c4ec-436d-a137-1a49eba51fc6",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"20638050-eb1e-ee11-9966-000d3adc8967",
+    "userName":"Sivaranjini Sundarkumar",
+    "email":"Sivaranjani.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"9a0aa990-811a-4636-b6a0-0e72a11c41a0",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b9af3263-a820-ee11-9966-000d3adc8967",
+    "userName":"Kumail Esaf",
+    "email":"Kumail.E@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"e207a3b0-cd65-447f-80d2-eb3f03952269",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"d8513670-edad-ee11-a569-000d3adc8967",
+    "userName":"Avanti Patil",
+    "email":"avanti.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"b904391e-be04-48eb-8933-88e60784c61b",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"2b711611-24b5-ee11-a569-000d3adc8967",
+    "userName":"Fahmida Najeeb",
+    "email":"fahmida.n@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4489ce26-0114-45f2-9bff-608c19432959",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"140e4a4f-55bb-ee11-a569-000d3adc8967",
+    "userName":"Jumanah Alkanhal",
+    "email":"jumanah@ahlancyber.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"bdd91e58-34a6-479c-8377-8e8653fc617d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9d705753-aae2-ed11-a7c7-000d3adc8967",
+    "userName":"# Mohammed Hussein Shihadah",
+    "email":"mohammed.hussein@kfh.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4e37f1cc-6ac4-41b9-a0a8-54f19ff4b814",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"1403b3cf-baae-ed11-aad0-000d3adc8967",
+    "userName":"Sarath Sasi",
+    "email":"Sarath.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"d325abab-e502-4d6c-9f66-f99e264b03ae",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7c347a9b-f697-ed11-aad1-000d3adc8967",
+    "userName":"Vinod Sasidharan Nair",
+    "email":"Vinod.n@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"ef62ebde-00da-4a05-9a95-8aa805fabbce",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ccabda95-ab9b-ed11-aad1-000d3adc8967",
+    "userName":"Suhas Krishnamoorthy",
+    "email":"Suhas.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"ff05f9fe-9f25-4493-949f-8e110d1167b3",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"bf55dfe7-109e-ed11-aad1-000d3adc8967",
+    "userName":"Yash Pankaj Bhayani",
+    "email":"Yash.b@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"afa883f6-0dee-408f-9c80-84176927161f",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7fecd150-22a2-ed11-aad1-000d3adc8967",
+    "userName":"Aakanksha Bansal",
+    "email":"Aakanksha.b@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"dca30407-5508-4903-a48d-a37dbc2527ad",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"44e52956-7ba5-ed11-aad1-000d3adc8967",
+    "userName":"Vimal Varadan",
+    "email":"Vimal.v@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"ea912f40-ddc6-49f3-a0e4-0e692702ab24",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6f79285f-e4a6-ed11-aad1-000d3adc8967",
+    "userName":"Sasikumar Chandran",
+    "email":"Sasikumar.c@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"79ce1183-1d59-49a5-899e-737ed8a88dc6",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"3de4a7f8-08ce-ed11-b597-000d3adc8967",
+    "userName":"Gokul Vellaramkunnel Gopalakrishnan",
+    "email":"Gokul.v@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"789c9a8c-c3ad-43b0-97ef-b94d7a1973b9",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c2710d15-fe30-ee11-bdf4-000d3adc8967",
+    "userName":"Ankur Mehta",
+    "email":"ankur.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"3465b2e2-3917-47f5-bc28-41234bd91521",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"023c05a2-d0a4-ee11-be37-000d3adc8967",
+    "userName":"Asma Abdelhadi",
+    "email":"asma.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"68f67238-e51f-4800-9e4d-3de9096b0df6",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"be85386b-e147-ee11-be6d-000d3adc8967",
+    "userName":"Tapan Tyagi",
+    "email":"tapan.t@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"1b0c8f5a-4673-48ab-b897-03a960d5044d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a620dc57-ff52-ee11-be6e-000d3adc8967",
+    "userName":"Abhishek Kumar Jha",
+    "email":"Abhishek.j@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"8d53428b-60fe-4375-a3a9-c237c0e9ea0a",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b8da777f-3a60-ec11-8f8f-000d3adcc269",
+    "userName":"# CCAAnalytics",
+    "email":"CCAAnalytics@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9cd8515e-90ac-ec11-9841-000d3adcf107",
+    "userName":"# GlobalActiveMetricsMonitoringAlerting",
+    "email":"GlobalActiveMetricsMonitoringAlerting@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"04abe273-7eba-eb11-8235-000d3adda42c",
+    "userName":"# Flow-RP",
+    "email":"Flow-RP@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"2ad0086a-e5be-eb11-bacc-000d3ade3348",
+    "userName":"Priyank Johari",
+    "email":"Priyank.j@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"6ee750d0-d77e-4255-8648-cdc9e98643c7",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"edba1d70-e5be-eb11-bacc-000d3ade3348",
+    "userName":"Swathi Ashok",
+    "email":"Swathi.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4696bbdd-7328-409f-80cd-d7cc01dcf837",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"10ede443-9a61-ec11-8f8f-000d3ade64e5",
+    "userName":"Syed Tahir Ali Ahmed",
+    "email":"Syed.t@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"2b836455-fe03-400c-bf76-6f9b207a1cd6",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"42989931-3162-ec11-8f8f-000d3ade64e5",
+    "userName":"Apurva Salve",
+    "email":"Apurva.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"10e32449-6dbf-4c1c-9460-5d1a4742eff2",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7d121d0e-9d66-ec11-8f8f-000d3ade64e5",
+    "userName":"Pradeep Kumar",
+    "email":"Pradeep.kr@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"9d8d6d3b-5287-4a65-a489-03f77e3ab683",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"41435676-ec67-ec11-8f8f-000d3ade64e5",
+    "userName":"Pavan Kumar Chennupati",
+    "email":"Pavankumar.c@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"d23d8019-6068-42f1-8147-5ebe02716475",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"52787cd7-c19a-ec11-b400-000d3ade8b04",
+    "userName":"Shilna Abdul Razak",
+    "email":"Shilna.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"f09c96a8-2272-435b-bdac-e2fd6f2a250d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"1e802f64-9880-ec11-8d21-000d3adea945",
+    "userName":"# PowerAIIntegration",
+    "email":"PowerAIIntegration@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"335ffab7-540e-ed11-82e4-000d3adecd12",
+    "userName":"Syed Irfan Husain",
+    "email":"Syedirfan.h@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"2989aac2-b1d7-42f7-8581-5c8cd3f2a257",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"51c4e76e-0f18-ef11-9f89-000d3adf5229",
+    "userName":"Sameer Karn",
+    "email":"sameer.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"dfa910b9-b620-418e-a148-86bd36cc8cb5",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c5796e33-6f06-ed11-82e5-0022489a1b39",
+    "userName":"Sanit Sambhaji Kadam",
+    "email":"Sanit.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"a9e850cf-1270-4030-a6e5-dedc145e0ad0",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"cc796e33-6f06-ed11-82e5-0022489a1b39",
+    "userName":"Calvin Lobo",
+    "email":"Calvin.l@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"71ded547-458d-4402-849c-87c21ddddd05",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"3b48937f-bb3c-ee11-bdf4-0022489a2143",
+    "userName":"Mohit Chauhan",
+    "email":"mohit.c@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"57a4ccf3-7ed8-48b6-8023-fa10a3a6f3ba",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e5fc9b37-b87a-ed11-81ad-0022489a24b8",
+    "userName":"Balakrishna Medishetty",
+    "email":"Balakrishna.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"15fcc803-b236-4b08-a4ef-16f6416a3f58",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e5075a89-9b7b-ed11-81ad-0022489a24b8",
+    "userName":"Rohit Pawar",
+    "email":"Rohit.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"e855adec-5f82-49f5-a084-701fe4836dc8",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"8fdda029-6487-ed11-81ad-0022489a24b8",
+    "userName":"Rashed Mohamed Binsafwan",
+    "email":"Rashed.b@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"43434733-1c7c-40fb-b289-ca5ee3e653aa",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"fc41e4f9-5f8a-ed11-81ad-0022489a24b8",
+    "userName":"Nitesh Mishra",
+    "email":"Nitesh.M@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"c50f6fd3-5bb9-44e9-943d-f2eba27a23a9",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"dab03a8c-818a-ed11-81ad-0022489a24b8",
+    "userName":"Aishwarya Rai",
+    "email":"Aishwarya.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"e4eb6414-c875-46b6-966e-ee795c924584",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"3da5b157-928a-ed11-81ad-0022489a24b8",
+    "userName":"Mohammed Shamseldin",
+    "email":"m.shams@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"31dc1d48-fd53-4fe4-b09a-d2f5b5230009",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6a1b00ed-3cb4-ed11-83ff-0022489a24b8",
+    "userName":"Aadam Shaik",
+    "email":"Aadam@ahlancyber.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"bd0e5b45-d9a5-4455-b38a-faf77c24d8e3",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"8377a146-8ac1-ed11-83ff-0022489a24b8",
+    "userName":"Hanuma Reddy Emani",
+    "email":"Hanuma.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4ffaef83-a87d-45e5-9282-be2583b60ec5",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"de53c953-b9f3-ed11-8849-0022489a24b8",
+    "userName":"Risvana Veerasseri",
+    "email":"Risvana.v@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"87106b09-5096-4583-8277-d1fdf7d5c12c",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"55926766-87f5-ed11-8849-0022489a24b8",
+    "userName":"Farhan Riyas",
+    "email":"Farhan.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"21b5788d-6bc4-4f8b-ba7b-5ec0e0afeeda",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a2c23959-960e-ee11-8f6d-0022489a24b8",
+    "userName":"Dilip Kumar S",
+    "email":"Dilip.S@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"abd6d202-a68b-45df-bbfd-b5c209224a39",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"32faa7ce-e505-ee11-8f6e-0022489a24b8",
+    "userName":"Chinna Meegada Surendra Reddy",
+    "email":"Surendra.R@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"fa6057f6-30f9-43ad-9117-03d7560df488",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"27ff37a6-850a-ee11-8f6e-0022489a24b8",
+    "userName":"Cheryl Andrea Fernando",
+    "email":"Cheryl.F@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"e50b0a81-3143-4a66-a5f6-dc4f55014de3",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"75ddabf2-2fbf-ee11-9079-0022489a24b8",
+    "userName":"Punam Shah",
+    "email":"mso.support5@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"00cef6bb-7a8f-4dd0-8b38-fdf2dc287a10",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"2bd3767b-b15e-ed11-9561-0022489a24b8",
+    "userName":"Nihal Rajeev Sainudeen",
+    "email":"Nihal.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"1407e7a8-c205-45e0-bf9d-da2d2b7b567f",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a3c89eac-fe6a-ed11-9561-0022489a24b8",
+    "userName":"Mohammed Faisal",
+    "email":"Mohammed.f@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"e10dbb62-0807-4901-99a4-f21c50fee1a2",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ac3b1cec-d06b-ed11-9561-0022489a24b8",
+    "userName":"Dinesh Gorrapilli",
+    "email":"Dinesh.g@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"f36e832f-3cc9-4b3c-be5c-70c164c27b6b",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"3b86c4a4-9059-ed11-9562-0022489a24b8",
+    "userName":"Saranya Srinivasan",
+    "email":"Saranya.srinivasan@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"5c2bf141-bee5-4e7d-98b1-fc2c9318a0a9",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"fdee0b7a-855b-ed11-9562-0022489a24b8",
+    "userName":"Naveen Chandanagiri",
+    "email":"Naveen.c@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"057f9e26-a6fe-4167-936a-e911dccb3dbd",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"844c18dd-6d24-ee11-9cbc-0022489a24b8",
+    "userName":"Altaf Rizvi",
+    "email":"altaf.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"fe693b54-d1bc-4df2-bd2a-43436c5a8302",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"311104c9-7a3d-ed11-9db0-0022489a24b8",
+    "userName":"Roshan Moideen",
+    "email":"Roshan.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"89af0b04-6492-4c73-9894-0cdc551c031d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e622d05b-9e31-ed11-9db1-0022489a24b8",
+    "userName":"Nandeesh #",
+    "email":"Nandeesh@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"f8588a2f-7507-4fc2-a2f1-842b9aec249c",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"78002825-4a33-ed11-9db1-0022489a24b8",
+    "userName":"Ranjit Shankar Patil",
+    "email":"Ranjit.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"5589c4af-019b-4d28-b57a-51bd3773cd49",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"40b5bec9-443a-ed11-9db1-0022489a24b8",
+    "userName":"Sharanya Bhagavathy",
+    "email":"Sharanya.b@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"f860b20f-4bc3-4686-9914-7696c67fdf47",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e6da4393-c3e2-ed11-a7c7-0022489a24b8",
+    "userName":"Sameera Ali Akbar",
+    "email":"Sameera.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"3869bf8c-fbd9-4692-aaf6-3b833a85317d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"cc36fed3-90ae-ed11-aad0-0022489a24b8",
+    "userName":"Ismail Shaikh",
+    "email":"Ismail.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"0ae1987e-37f1-4aa1-b279-b661a5854a4c",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a1ee209f-039b-ed11-aad1-0022489a24b8",
+    "userName":"Krishnaraj Raveendran Nair",
+    "email":"Krishnaraj.r@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"b58cdc83-2691-4b19-a2f0-238db83ff738",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"06f7fb76-7d9c-ed11-aad1-0022489a24b8",
+    "userName":"Fathima Mariyamma Sathar",
+    "email":"fathima.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"8bfa12f8-697a-4983-9263-d898ea9edfbf",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"cb27c803-b59f-ed11-aad1-0022489a24b8",
+    "userName":"Tanu Srivastava",
+    "email":"Tanu.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"d1f52c63-3727-4261-8839-d91b42311315",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"1d59274e-f8a1-ed11-aad1-0022489a24b8",
+    "userName":"Meghana S",
+    "email":"Meghana.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4cc06718-360d-4a07-bba6-72b9d63438ff",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"681f1b8b-eb54-ed11-bba2-0022489a24b8",
+    "userName":"Kavya Sri",
+    "email":"kavya.sri@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"c5d65954-f2f6-4386-8473-2c7d017d7923",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"42adb7bb-a644-ed11-bba3-0022489a24b8",
+    "userName":"Sujith Bhaskaran",
+    "email":"Sujith.b@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"c008668d-a968-4057-b5d8-030c80b4382d",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"01f1b693-0b24-f011-8c4d-0022489b28c9",
+    "userName":"Venkata Pradeep Karasala",
+    "email":"Pradeep.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"55ecf77d-dc22-4094-9a9d-b21860e258fa",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f20bbf77-ac76-ee11-8179-0022489b4696",
+    "userName":"# PowerPlatformAuthorization",
+    "email":"PowerPlatformAuthorization@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f35cb77d-ac76-ee11-8179-0022489b4696",
+    "userName":"# PowerPlatformEnvironmentManagement",
+    "email":"PowerPlatformEnvironmentManagement@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6654db69-f71d-ef11-840b-0022489b4696",
+    "userName":"# PowerAutomate-AiFlowsAppUser-Web",
+    "email":"PowerAutomate-AiFlowsAppUser-Web@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"24e21576-f71d-ef11-840b-0022489b4696",
+    "userName":"# PowerAutomate-AiFlowsAppUser-Worker",
+    "email":"PowerAutomate-AiFlowsAppUser-Worker@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7bd1db90-7fc0-ee11-907a-0022489b4696",
+    "userName":"# Contact Center",
+    "email":"ContactCenter@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b12f8297-7fc0-ee11-907a-0022489b4696",
+    "userName":"# Contact Center Secondary",
+    "email":"ContactCenterSecondary@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"be2f8297-7fc0-ee11-907a-0022489b4696",
+    "userName":"# Contact Center Diagnostics",
+    "email":"ContactCenterDiagnostics@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"cb2f8297-7fc0-ee11-907a-0022489b4696",
+    "userName":"# URAssignment",
+    "email":"URAssignment@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"d64c239c-9b6c-ef11-a670-0022489b4696",
+    "userName":"# Dynamics 365 Copilot for Sales",
+    "email":"Dynamics365CopilotforSales@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"376a2247-a96c-ef11-a670-0022489b4696",
+    "userName":"# CDSReportService-SGP",
+    "email":"CDSReportService-SGP@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"fa640371-cc99-ed11-aad1-0022489b4696",
+    "userName":"# Flow-CDSNativeConnectorSingapore",
+    "email":"Flow-CDSNativeConnectorSingapore@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"fb443a85-197d-ef11-ac21-0022489b4696",
+    "userName":"# Power Policy Non-Prod",
+    "email":"PowerPolicyNon-Prod@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"464f568b-197d-ef11-ac21-0022489b4696",
+    "userName":"# Power Policy Prod",
+    "email":"PowerPolicyProd@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"773868ba-6d53-ef11-bfe3-0022489b4696",
+    "userName":"# Contact Center Management App - Public",
+    "email":"ContactCenterManagementApp-Public@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ef419352-2555-ef11-bfe3-0022489b4696",
+    "userName":"# Portal RP Service",
+    "email":"PortalRPService@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"2b596895-2555-ef11-bfe3-0022489b4696",
+    "userName":"# PowerPages Data Runtime PROD",
+    "email":"PowerPagesDataRuntimePROD@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"066e2276-08aa-eb11-8236-0022489b4c66",
+    "userName":"# PpdfCDSClient",
+    "email":"PpdfCDSClient@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a239aad0-0aaa-eb11-8236-0022489b4c66",
+    "userName":"# PowerAutomate-MachineManagementRelay",
+    "email":"PowerAutomate-MachineManagementRelay@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e58458c7-0baa-eb11-8236-0022489b4c66",
+    "userName":"# Microsoft Copilot Studio",
+    "email":"MicrosoftCopilotStudio@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c4a97839-13aa-eb11-8236-0022489b4c66",
+    "userName":"# D365OfficeDataSvc",
+    "email":"D365OfficeDataSvc@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"cea97839-13aa-eb11-8236-0022489b4c66",
+    "userName":"# Dynamics365Athena",
+    "email":"Dynamics365Athena@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"2c50733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# Dynamics365Athena2",
+    "email":"Dynamics365Athena2@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"3650733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# PowerQueryOnline",
+    "email":"PowerQueryOnline@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"4050733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# EnterpriseSales",
+    "email":"EnterpriseSales@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"4a50733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# DataLakeStorage",
+    "email":"DataLakeStorage@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"5450733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# AriaMdlExporter",
+    "email":"AriaMdlExporter@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"5e50733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# ProductInsights",
+    "email":"ProductInsights@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6850733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# JobsServiceProd",
+    "email":"JobsServiceProd@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7250733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# CDSFileStorage",
+    "email":"CDSFileStorage@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7c50733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# CCADataAnalyticsML",
+    "email":"CCADataAnalyticsML@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"8650733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# CDSReportService-NAM",
+    "email":"CDSReportService-NAM@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9050733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# CDSUserManagement",
+    "email":"CDSUserManagement@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9a50733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# CDSGlobalDiscovery",
+    "email":"CDSGlobalDiscovery@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a450733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# DAMS",
+    "email":"DAMS@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ae50733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# BAP",
+    "email":"BAP@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b850733f-13aa-eb11-8236-0022489b4c66",
+    "userName":"# Omnichannel",
+    "email":"Omnichannel@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"2c19b3b6-14aa-eb11-8236-0022489b4c66",
+    "userName":"# BizQA",
+    "email":"BizQA@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"12f47dad-15aa-eb11-8236-0022489b4c66",
+    "userName":"# AIBuilderProd",
+    "email":"AIBuilderProd@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c2b851f4-15aa-eb11-8236-0022489b4c66",
+    "userName":"# PowerAutomate-ProcessMining",
+    "email":"PowerAutomate-ProcessMining@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7d560420-16aa-eb11-8236-0022489b4c66",
+    "userName":"Power Apps Checker Application",
+    "email":"pacheckerapp@microsoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"e2d8f37a-8c8d-4797-9400-4a798fcc0c4a",
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"cc6eeb08-2aaa-eb11-8236-0022489b4c66",
+    "userName":"# Dynamics 365 Sales Forecasting",
+    "email":"Dynamics365SalesForecasting@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9811da84-2aaa-eb11-8236-0022489b4c66",
+    "userName":"# Dynamics 365 Sales",
+    "email":"Dynamics365Sales@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c2de3a54-2baa-eb11-8236-0022489b4c66",
+    "userName":"# SIAutoCapture",
+    "email":"SIAutoCapture@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"be359f9b-2daa-eb11-8236-0022489b4c66",
+    "userName":"Microsoft Forms Pro",
+    "email":"enterprisesurveyappuser@contoso.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"d216a64e-3538-4888-9e18-970c9ea1ea85",
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"5a11eb6b-30aa-eb11-8236-0022489b4c66",
+    "userName":"Support User",
+    "email":"crmoln@microsoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6311eb6b-30aa-eb11-8236-0022489b4c66",
+    "userName":"Delegated Admin",
+    "email":"crmoln2@microsoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"82deb0f9-490e-ef11-9f8a-0022489b4d69",
+    "userName":"# PowerPlatformDataAnalytics",
+    "email":"PowerPlatformDataAnalytics@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"8e775be8-1c58-ef11-bfe3-0022489b4d69",
+    "userName":"# Sales Conversation Intelligence",
+    "email":"SalesConversationIntelligence@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"531a0680-3e24-ef11-840b-0022489b4de1",
+    "userName":"# D365WorkAssignment2",
+    "email":"D365WorkAssignment2@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"55f52686-3e24-ef11-840b-0022489b4de1",
+    "userName":"# D365WorkAssignment3",
+    "email":"D365WorkAssignment3@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"83eee59a-b4f2-ed11-8849-0022489b4de1",
+    "userName":"# DynamicsInstaller",
+    "email":"DynamicsInstaller@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f3994dcc-62a4-ef11-8a6b-0022489b4de1",
+    "userName":"# Dataverse Information Protection",
+    "email":"DataverseInformationProtection@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f0b04d8d-a7e8-ee11-904d-0022489b4de1",
+    "userName":"# ProjectForTheWebBackgroundServices",
+    "email":"ProjectForTheWebBackgroundServices@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"1492dbd6-9c58-ed11-9562-0022489b4de1",
+    "userName":"# Flow-CDSNativeConnectorSouthAfrica",
+    "email":"Flow-CDSNativeConnectorSouthAfrica@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"847c0fdd-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-APJ",
+    "email":"CDSReportService-APJ@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"947c0fdd-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-CAN",
+    "email":"CDSReportService-CAN@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a57c0fdd-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-CHE",
+    "email":"CDSReportService-CHE@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b77c0fdd-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-EMEA",
+    "email":"CDSReportService-EMEA@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c87c0fdd-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-FRA",
+    "email":"CDSReportService-FRA@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"de7c0fdd-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-GBR",
+    "email":"CDSReportService-GBR@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"382e0ae3-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-GER",
+    "email":"CDSReportService-GER@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"482e0ae3-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-IND",
+    "email":"CDSReportService-IND@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"5c2e0ae3-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-JPN",
+    "email":"CDSReportService-JPN@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6c2e0ae3-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-KOR",
+    "email":"CDSReportService-KOR@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7b2e0ae3-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-NOR",
+    "email":"CDSReportService-NOR@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"862e0ae3-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-OCE",
+    "email":"CDSReportService-OCE@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"912e0ae3-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-SAM",
+    "email":"CDSReportService-SAM@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a82e0ae3-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-UAE",
+    "email":"CDSReportService-UAE@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b32e0ae3-9c58-ed11-9562-0022489b4de1",
+    "userName":"# CDSReportService-ZAF",
+    "email":"CDSReportService-ZAF@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"aaf634cd-69b8-ed11-9886-0022489b4de1",
+    "userName":"# CCaaSCRMClient",
+    "email":"CCaaSCRMClient@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"8b5606a1-3fba-ee11-a569-0022489b4de1",
+    "userName":"# UnifiedRoutingForRecord_App",
+    "email":"UnifiedRoutingForRecord_App@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"86348f11-f775-ef11-a670-0022489b4de1",
+    "userName":"Microsoft Microsoft Flow CDS Integration Service",
+    "email":"flowdev@microsoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"27de4c5e-b7a3-4884-b36c-18ec951b7f32",
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9f9e7032-84e8-ed11-a7c6-0022489b4de1",
+    "userName":"# D365 Experimentation",
+    "email":"D365Experimentation@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"126654e0-28a4-ed11-aad1-0022489b4de1",
+    "userName":"# PowerAppsCustomerManagementPlaneBackend",
+    "email":"PowerAppsCustomerManagementPlaneBackend@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"276654e0-28a4-ed11-aad1-0022489b4de1",
+    "userName":"# PowerAppsDataPlaneBackend",
+    "email":"PowerAppsDataPlaneBackend@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"376654e0-28a4-ed11-aad1-0022489b4de1",
+    "userName":"# Quartzite",
+    "email":"Quartzite@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"5e0504f9-8ac6-ed11-b597-0022489b4de1",
+    "userName":"# KISPAdminProd",
+    "email":"KISPAdminProd@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b7da05ff-8ac6-ed11-b597-0022489b4de1",
+    "userName":"# KISPIngProd",
+    "email":"KISPIngProd@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c2da05ff-8ac6-ed11-b597-0022489b4de1",
+    "userName":"# KISPSyncProd",
+    "email":"KISPSyncProd@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6e556fe8-3d54-ef11-bfe3-0022489b4de1",
+    "userName":"# CloudFlowRunHistory",
+    "email":"CloudFlowRunHistory@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"3fdac4f6-3d54-ef11-bfe3-0022489b4de1",
+    "userName":"# ConnectorManagementServiceBackend",
+    "email":"ConnectorManagementServiceBackend@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e5eff26e-b4ca-ee11-907a-0022489ba0c8",
+    "userName":"# PowerAutomate-DesktopFlowAI",
+    "email":"PowerAutomate-DesktopFlowAI@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"fb1237e1-9d90-ee11-be36-0022489ba0c8",
+    "userName":"# Dyn365 IntentBasedRouting PACS Prod",
+    "email":"Dyn365IntentBasedRoutingPACSProd@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"532dc07f-2374-ed11-81ab-0022489ba102",
+    "userName":"# MicrosoftCustomerEngagementPortalInfra",
+    "email":"MicrosoftCustomerEngagementPortalInfra@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"5638d5cf-ac35-ef11-840a-0022489ba102",
+    "userName":"# CDSUserManagementApi",
+    "email":"CDSUserManagementApi@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"90bf2edc-ac35-ef11-840a-0022489ba102",
+    "userName":"# SSSAdminProd",
+    "email":"SSSAdminProd@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ae1761c6-47f7-ed11-8849-0022489ba102",
+    "userName":"# CatalogServiceEur",
+    "email":"CatalogServiceEur@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"4e43795f-86cf-ee11-907a-0022489ba102",
+    "userName":"# D365 SequenceStats",
+    "email":"D365SequenceStats@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"5f501362-0a5e-ed11-9561-0022489ba102",
+    "userName":"# CDSAcisInfraAppGlobal",
+    "email":"CDSAcisInfraAppGlobal@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"fb64c680-0162-ed11-9561-0022489ba102",
+    "userName":"# PowerBIApplicationUser",
+    "email":"PowerBIApplicationUser@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"01f87407-2a28-ee11-9966-0022489ba102",
+    "userName":"# D365WorkAssignment",
+    "email":"D365WorkAssignment@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"14bc2270-953b-ed11-9db1-0022489ba102",
+    "userName":"# PowerCards-S2S-IL-Prod",
+    "email":"PowerCards-S2S-IL-Prod@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"14ccc10d-36ed-ee11-a203-0022489ba102",
+    "userName":"# PowerVirtualAgentsProdS2S",
+    "email":"PowerVirtualAgentsProdS2S@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"5abb2fd2-f4a3-ed11-aad1-0022489ba102",
+    "userName":"# D365 Sms Channel",
+    "email":"D365SmsChannel@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"43f09376-f5a3-ed11-aad1-0022489ba102",
+    "userName":"# D365 Personalization",
+    "email":"D365Personalization@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7af09376-f5a3-ed11-aad1-0022489ba102",
+    "userName":"# D365 Dataverse Data",
+    "email":"D365DataverseData@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"d0d8ac80-177d-ef11-ac21-0022489ba102",
+    "userName":"# AIBuilder_StructuredML_Gcc_CDS_Legacy",
+    "email":"AIBuilder_StructuredML_Gcc_CDS_Legacy@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9ab79e09-6bc7-ed11-b597-0022489ba102",
+    "userName":"# MicrosoftDynamicsNRDService",
+    "email":"MicrosoftDynamicsNRDService@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f10a40e8-1c29-ef11-840b-0022489ba240",
+    "userName":"# CDSReportService-SWE",
+    "email":"CDSReportService-SWE@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e7752e5e-bbdc-ee11-904d-0022489ba240",
+    "userName":"# D365EEApp",
+    "email":"D365EEApp@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b3d4c4dc-68d3-ee11-907a-0022489ba240",
+    "userName":"# Flow-CDSNativeConnectorSweden",
+    "email":"Flow-CDSNativeConnectorSweden@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"fd199860-0926-ee11-9965-0022489ba382",
+    "userName":"Aayushman Thapa Magar",
+    "email":"Aayushman.t@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"58c778d4-2403-4516-b8dc-c960a5c16290",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f0bf131b-443e-ed11-9db0-0022489ba382",
+    "userName":"Chirag Ahuja",
+    "email":"Chirag.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"9826b3ea-5d56-4489-a26e-07a9fd3c9521",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7a50a822-f137-ed11-9db1-0022489ba382",
+    "userName":"Punitha Gowthaman",
+    "email":"Punitha.g@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"417c954b-e237-4e28-ba3e-c800802ee380",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"35f02e46-8c39-ed11-9db1-0022489ba382",
+    "userName":"Mohammed Khizar Anjum",
+    "email":"Khizar.a@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"5ab477b4-4550-4828-a540-8be9bd8cc019",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"8e0f8cd1-8d48-ed11-bba2-0022489ba382",
+    "userName":"Gaurav Kumar",
+    "email":"Gaurav.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"3d17879d-c490-4b60-856b-d3ee096c8ad2",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ab68d148-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncFramework-NAM",
+    "email":"DataSyncFramework-NAM@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e968d148-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncFramework-EMEA-FRA-GBR-GER",
+    "email":"DataSyncFramework-EMEA-FRA-GBR-GER@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f468d148-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncFramework-APJ",
+    "email":"DataSyncFramework-APJ@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ff68d148-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncFramework-SAM",
+    "email":"DataSyncFramework-SAM@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ebb3c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncFramework-JPN",
+    "email":"DataSyncFramework-JPN@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f7b3c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncFramework-OCE",
+    "email":"DataSyncFramework-OCE@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"02b4c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncFramework-CAN",
+    "email":"DataSyncFramework-CAN@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"0db4c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncFramework-IND-UAE-ZAF",
+    "email":"DataSyncFramework-IND-UAE-ZAF@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"18b4c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncFramework-CHE",
+    "email":"DataSyncFramework-CHE@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"24b4c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncFramework-NOR",
+    "email":"DataSyncFramework-NOR@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"33b4c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncFramework-KOR",
+    "email":"DataSyncFramework-KOR@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"41b4c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncService-NAM",
+    "email":"DataSyncService-NAM@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"4eb4c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncService-EMEA-FRA-GBR-GER",
+    "email":"DataSyncService-EMEA-FRA-GBR-GER@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"5ab4c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncService-APJ",
+    "email":"DataSyncService-APJ@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"68b4c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncService-SAM",
+    "email":"DataSyncService-SAM@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"84b4c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncService-JPN",
+    "email":"DataSyncService-JPN@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a9b4c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncService-OCE",
+    "email":"DataSyncService-OCE@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"bab4c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncService-CAN",
+    "email":"DataSyncService-CAN@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f3b4c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncService-IND-UAE-ZAF",
+    "email":"DataSyncService-IND-UAE-ZAF@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"27b5c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncService-CHE",
+    "email":"DataSyncService-CHE@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"57b5c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncService-NOR",
+    "email":"DataSyncService-NOR@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"69b5c94e-8533-ec11-b6e6-0022489bd51d",
+    "userName":"# DataSyncService-KOR",
+    "email":"DataSyncService-KOR@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7db153c8-ab7d-ec11-8d21-0022489bef85",
+    "userName":"Mayuri Kalita",
+    "email":"Mayuri.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"d69b0711-792f-4c20-a382-7ca6132ad6cf",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"02286aa7-fe01-ec11-94ee-0022489c0c91",
+    "userName":"# ChronusProdFirstParty",
+    "email":"ChronusProdFirstParty@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"cc18bd07-0d07-ec11-94ef-0022489c0f78",
+    "userName":"Adeel Shahzad Sabir Hussain",
+    "email":"Adeel.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"51b54783-e3b2-4878-9a13-ca5f314aeec9",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"315f5e35-88d8-ec11-a7b5-0022489c2ada",
+    "userName":"# PowerAutomate-MachineProvisioning",
+    "email":"PowerAutomate-MachineProvisioning@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"60502afb-a2c2-eb11-bacc-0022489c4a92",
+    "userName":"Gautham Srinivasa T",
+    "email":"Gautham.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"017db7c6-3d07-4fb5-8468-dc1974e613c2",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"8f761d2b-99da-ec11-bb3d-0022489c869d",
+    "userName":"Shubham Dupare",
+    "email":"Shubham.d@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"8e6cb696-3688-4503-a6bf-047fa362b755",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9d745fd7-f3f6-eb11-94ee-0022489c96ee",
+    "userName":"# DataServices",
+    "email":"DataServices@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c7d01ab8-8940-ec11-8c62-0022489cba62",
+    "userName":"Anwar Mohammed",
+    "email":"Anwar.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"38a8b6df-eee7-48d6-a29f-7384c170b8bb",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7d0cd5e7-ff9d-ec11-b400-0022489cbe08",
+    "userName":"Sneha Sundaram",
+    "email":"Sneha.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"0e168d29-2d69-4104-bf43-661bb03e18c1",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"39f8216e-3ded-ec11-bb3d-0022489cd7be",
+    "userName":"Prasanna Gurumurthi",
+    "email":"Prasanna.g@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"540b6f49-1ff1-49a1-90b6-eecc7514e717",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6725240a-5e46-ef11-bfe2-0022489cdeb6",
+    "userName":"Amit Padhy",
+    "email":"amit.p@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"c8d2fa2b-afc6-42de-96b3-27753abadc19",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"f1b11704-734a-ef11-bfe2-0022489cdeb6",
+    "userName":"Toshmani Dwivedi",
+    "email":"Toshmani.d@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"b7a6e674-9d16-4ccb-b626-6f8fab5ba399",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e301c441-844d-ef11-bfe2-0022489cdeb6",
+    "userName":"Priyanka Singh",
+    "email":"priyanka.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"a78bb05d-9707-4a7f-a092-b98bb10d4860",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"15abe503-1a52-ef11-bfe3-0022489cdeb6",
+    "userName":"Sai Jitendra",
+    "email":"sai.j@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"fb2aa297-bc5f-4485-9588-6dd99c7f37f2",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"811d2677-f385-ec11-93b0-0022489de866",
+    "userName":"# PowerAutomate-MachineProvisioning-PPE",
+    "email":"PowerAutomate-MachineProvisioning-PPE@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6f8c1c7c-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorPreview",
+    "email":"Flow-CDSNativeConnectorPreview@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"3fe7a382-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorUS",
+    "email":"Flow-CDSNativeConnectorUS@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"50e7a382-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorEurope",
+    "email":"Flow-CDSNativeConnectorEurope@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"63e7a382-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorAsia",
+    "email":"Flow-CDSNativeConnectorAsia@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"6ee7a382-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorAustralia",
+    "email":"Flow-CDSNativeConnectorAustralia@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7ce7a382-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorIndia",
+    "email":"Flow-CDSNativeConnectorIndia@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"99e7a382-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorJapan",
+    "email":"Flow-CDSNativeConnectorJapan@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b3e7a382-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorCanada",
+    "email":"Flow-CDSNativeConnectorCanada@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"c8e7a382-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorUK",
+    "email":"Flow-CDSNativeConnectorUK@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"d4e7a382-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorBrazil",
+    "email":"Flow-CDSNativeConnectorBrazil@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e3e7a382-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorFrance",
+    "email":"Flow-CDSNativeConnectorFrance@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"03e8a382-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorUAE",
+    "email":"Flow-CDSNativeConnectorUAE@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"14e8a382-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorGermany",
+    "email":"Flow-CDSNativeConnectorGermany@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"21e8a382-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorSwitzerland",
+    "email":"Flow-CDSNativeConnectorSwitzerland@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"9680aa88-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorKorea",
+    "email":"Flow-CDSNativeConnectorKorea@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a280aa88-f8bc-ec11-9840-0022489e2e28",
+    "userName":"# Flow-CDSNativeConnectorNorway",
+    "email":"Flow-CDSNativeConnectorNorway@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"0e7bc04f-50f8-ec11-bb3d-0022489e2fb0",
+    "userName":"Ankit Kashyap Baruah",
+    "email":"Ankit.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"35367b5f-a5c5-45a7-bd9d-556794a81370",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"187cf01c-74c4-ec11-a7b6-0022489f0518",
+    "userName":"Sudhanshu Mishra",
+    "email":"Sudhanshu.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"7498b1ab-adc2-46c9-824d-4f7305ab389a",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"73cde10d-75c0-ec11-983f-0022489f239f",
+    "userName":"Samitha Nazar",
+    "email":"Samitha.n@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"965a6a05-c4e4-4f46-bfcb-499b1b256e9e",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e619f166-6204-ef11-9f89-002248a41fb1",
+    "userName":"Barira Khan",
+    "email":"barira.k@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"e8c85afb-9e6c-4f01-8066-b81f477fbd2f",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"7646329b-50f2-ef11-be1f-6045bddd1bad",
+    "userName":"Haytham El Mardi",
+    "email":"haytham@ahlancyber.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"652b4f2e-4bde-43e7-9a71-0f252ae1e405",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"77cd8c26-f368-ef11-bfe2-6045bddeadfa",
+    "userName":"Shiraj Ramachandran",
+    "email":"shiraj@ahlancyber.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"8b7c68a9-ea2f-4317-8909-189ca02a7659",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"e57f14e2-2669-ef11-bfe2-6045bddeadfa",
+    "userName":"Piyasha Das",
+    "email":"piyasha.d@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"788ce7f9-ff82-4ef9-adfc-e40a49a12157",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"81ae65a8-2d69-ef11-bfe2-6045bddeadfa",
+    "userName":"Mohan Maruti Jadhav",
+    "email":"mohan.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"4968a064-3823-4993-9b2a-f7b201f6c2c1",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"cbf56f06-6369-ef11-bfe2-6045bddeadfa",
+    "userName":"Rahat Khan",
+    "email":"rahat@ahlancyber.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"ab21e34e-2c31-4e27-9053-a965e4bdf7db",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"d148e28d-9369-ef11-bfe2-6045bddeadfa",
+    "userName":"Daman Sood",
+    "email":"daman.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"1a6a7163-8c38-4d3e-ad88-51e4fad1ac7e",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"84a3ac3f-a369-ef11-bfe2-6045bddeadfa",
+    "userName":"Praveen Kaushik",
+    "email":"pkaushik@ahlancyber.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"2abe7aea-038c-4ff9-9278-df212b29b177",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"5adf92c6-bd69-ef11-bfe2-6045bddeadfa",
+    "userName":"Adhil Shanin",
+    "email":"adhil.s@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"02cb55a0-9705-4966-b16c-96839a420511",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"73d4e057-4ce2-ef11-a730-6045bddf00e4",
+    "userName":"Farco Yuhan",
+    "email":"Farco.Y@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"64deb4ae-11e6-4999-8b8f-ac721e3e4063",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"2b53c846-27ec-ee11-a203-6045bde0cdf4",
+    "userName":"# Dynamics 365 Web API",
+    "email":"Dynamics365WebAPI_cf298f00-9482-493d-89ac-703046f564a3@973926c8-e5c1-4cac-8156-bdfa1886f2a7.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"696ced3b-5d1d-4ea2-b375-97fa6700530e",
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"a710cf95-5063-4d17-8a05-6e5031abf54e",
+    "userName":"INTEGRATION",
+    "email":null,
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"12e3b979-4a36-f011-8c4d-7c1e52362954",
+    "userName":"# Access review demo",
+    "email":"Accessreviewdemo_1c6da0cb-ad09-450b-8ddf-efbba4347e78@973926c8-e5c1-4cac-8156-bdfa1886f2a7.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"36bf1a4a-7097-4adb-bb79-57614ca6705b",
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"98bd59ac-b513-f011-998a-7c1e52362954",
+    "userName":"Jamilah Mohammed A Alshammari",
+    "email":"Jamilah@ahlancyber.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"527a95ac-0984-4535-a2d7-a3a6dfae8d64",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"3f2f2e1c-71f2-ef11-be1f-7c1e523678c6",
+    "userName":"Vinay Kumar Madala",
+    "email":"vinay.m@paramountassure.com",
+    "businessUnitId":null,
+    "azureAdObjectId":"0550f135-5998-42a4-b286-d898a3453070",
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"cf624f5e-4cbb-ef11-b8e8-7c1e5276d8f4",
+    "userName":"# Power Policy Service CM Local",
+    "email":"PowerPolicyServiceCMLocal@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"41f65564-4cbb-ef11-b8e8-7c1e5276d8f4",
+    "userName":"# Power Policy Service CM NONPROD",
+    "email":"PowerPolicyServiceCMNONPROD@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"52f65564-4cbb-ef11-b8e8-7c1e5276d8f4",
+    "userName":"# Power Policy Service CM PROD",
+    "email":"PowerPolicyServiceCMPROD@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":false,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"66f65564-4cbb-ef11-b8e8-7c1e5276d8f4",
+    "userName":"# Power Policy Service CM GCC",
+    "email":"PowerPolicyServiceCMGCC@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"87f65564-4cbb-ef11-b8e8-7c1e5276d8f4",
+    "userName":"# Power Policy Service CM DOD",
+    "email":"PowerPolicyServiceCMDOD@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"abf65564-4cbb-ef11-b8e8-7c1e5276d8f4",
+    "userName":"# Power Policy Local",
+    "email":"PowerPolicyLocal@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"b76d9070-4cbb-ef11-b8e8-7c1e5276d8f4",
+    "userName":"# Power Policy GCC",
+    "email":"PowerPolicyGCC@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"ca6d9070-4cbb-ef11-b8e8-7c1e5276d8f4",
+    "userName":"# Power Policy DOD",
+    "email":"PowerPolicyDOD@onmicrosoft.com",
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  },
+  {
+    "userId":"589a4bce-76ae-4beb-8bc4-a9d3f66826a0",
+    "userName":"SYSTEM",
+    "email":null,
+    "businessUnitId":null,
+    "azureAdObjectId":null,
+    "isDisabled":true,
+    "parentSystemUserId":null
+  }
+]

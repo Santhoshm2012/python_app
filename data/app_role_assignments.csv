@@ -1,0 +1,688 @@
+userId,roleId,userName,email,businessUnitId,roleName,assignmentDate
+8353ba00-5fa3-ec11-983f-000d3a65be92,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Bharat Devashi Luva,Bharat.l@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+8353ba00-5fa3-ec11-983f-000d3a65be92,10f98a2a-c34f-41e6-a158-6620fe31729b,Bharat Devashi Luva,Bharat.l@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+8353ba00-5fa3-ec11-983f-000d3a65be92,5e81fd0c-fc50-462f-9c49-6c7029aabe02,Bharat Devashi Luva,Bharat.l@paramountassure.com,,Paramount MSS Shift Lead,2022-03-09T09:44:02Z
+8353ba00-5fa3-ec11-983f-000d3a65be92,61ae5738-3a67-48e3-bf1a-73551ed6a812,Bharat Devashi Luva,Bharat.l@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+94013bec-6bb7-ec11-9840-000d3a65f2bf,ee2c8e11-6d57-4c5d-9f84-659c0db132bb,# PowerAutomate-DesktopFlowRuntime,PowerAutomate-DesktopFlowRuntime@onmicrosoft.com,,Desktop Flows Runtime Application User,2022-04-08T18:44:10Z
+81080b83-9db5-ec11-983f-000d3a65fdcd,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Tushar Chanana,4cbf33772e3c4dfc8258f7b7a27ffe18Tushar.c@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+81080b83-9db5-ec11-983f-000d3a65fdcd,5e81fd0c-fc50-462f-9c49-6c7029aabe02,Tushar Chanana,4cbf33772e3c4dfc8258f7b7a27ffe18Tushar.c@paramountassure.com,,Paramount MSS Shift Lead,2022-03-09T09:44:02Z
+81080b83-9db5-ec11-983f-000d3a65fdcd,61ae5738-3a67-48e3-bf1a-73551ed6a812,Tushar Chanana,4cbf33772e3c4dfc8258f7b7a27ffe18Tushar.c@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+e37f7f00-e891-ef11-8a6a-000d3a6685a9,3dac4d9e-568c-e611-80d4-00155d42a122,Srimoy Roy,srimoy.r@paramountassure.com,,Customer service app access,2021-05-01T01:47:06Z
+b8a67aa0-9269-ef11-bfe2-000d3a668cd5,cad52a75-568c-e611-80d4-00155d42a122,Nur Diyabi,nur.d@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+b8a67aa0-9269-ef11-bfe2-000d3a668cd5,3dac4d9e-568c-e611-80d4-00155d42a122,Nur Diyabi,nur.d@paramountassure.com,,Customer service app access,2021-05-01T01:47:06Z
+b8a67aa0-9269-ef11-bfe2-000d3a668cd5,46cd56c8-00aa-eb11-8236-0022489b4c66,Nur Diyabi,nur.d@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+b8a67aa0-9269-ef11-bfe2-000d3a668cd5,97d156c8-00aa-eb11-8236-0022489b4c66,Nur Diyabi,nur.d@paramountassure.com,,System Customizer,2021-04-30T22:09:55Z
+e09b27dd-6d24-ee11-9cbc-000d3a669ba8,cad52a75-568c-e611-80d4-00155d42a122,Krupali Ahir,f3928792737141c0b02d4e40b47e9feckrupali.a@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+ce42d658-dd9f-ee11-be37-000d3a669ba8,cad52a75-568c-e611-80d4-00155d42a122,Muhammed Musthafa KV,muhammed.m@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+2fceae02-c04b-ee11-be6f-000d3a669ba8,cad52a75-568c-e611-80d4-00155d42a122,Rahul Saxena,rahul.saxena@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+834f4305-8e57-ee11-be6f-000d3a669ba8,833974ed-68e3-4b75-b286-6ec0910b00f8,Mukund Setlur,mukund.s@paramountassure.com,,PCS Marketing User,2021-05-25T12:22:19Z
+ac03a378-f125-f011-8c4e-000d3a69161a,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorItaly,Flow-CDSNativeConnectorItaly@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+38d2a47e-f125-f011-8c4e-000d3a69161a,68f2d372-e1a5-4298-9a93-4b39757caf93,# ApolloProdFirstParty,ApolloProdFirstParty@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+a3c67f51-1434-f011-8c4e-000d3a69161a,ba60eb02-6cbe-437c-a196-1151a8bd07df,# D365 Sales LeadQual,D365SalesLeadQual@onmicrosoft.com,,Sales Lead Research App User Role,2025-05-18T18:17:06Z
+a3c67f51-1434-f011-8c4e-000d3a69161a,494d392f-d3f4-42ba-af49-30c6f41e6093,# D365 Sales LeadQual,D365SalesLeadQual@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+a3c67f51-1434-f011-8c4e-000d3a69161a,f6f7455f-bcea-44dc-abbd-7fd51b1cc880,# D365 Sales LeadQual,D365SalesLeadQual@onmicrosoft.com,,Sales system access extension,2021-05-01T03:08:41Z
+a3c67f51-1434-f011-8c4e-000d3a69161a,896a28e5-678d-4fa8-ad59-c606d1aa98ce,# D365 Sales LeadQual,D365SalesLeadQual@onmicrosoft.com,,DataProcessingConfigTableAppAccess,2022-03-05T20:58:54Z
+12c77f51-1434-f011-8c4e-000d3a69161a,ba60eb02-6cbe-437c-a196-1151a8bd07df,# D365 Sales AcctRsrch,D365SalesAcctRsrch@onmicrosoft.com,,Sales Lead Research App User Role,2025-05-18T18:17:06Z
+12c77f51-1434-f011-8c4e-000d3a69161a,f6f7455f-bcea-44dc-abbd-7fd51b1cc880,# D365 Sales AcctRsrch,D365SalesAcctRsrch@onmicrosoft.com,,Sales system access extension,2021-05-01T03:08:41Z
+5343b157-1434-f011-8c4e-000d3a69161a,ba60eb02-6cbe-437c-a196-1151a8bd07df,# D365 Sales OutrchAgt,D365SalesOutrchAgt@onmicrosoft.com,,Sales Lead Research App User Role,2025-05-18T18:17:06Z
+5343b157-1434-f011-8c4e-000d3a69161a,f6f7455f-bcea-44dc-abbd-7fd51b1cc880,# D365 Sales OutrchAgt,D365SalesOutrchAgt@onmicrosoft.com,,Sales system access extension,2021-05-01T03:08:41Z
+98029ad4-4c21-f011-998b-000d3a69167e,e57bff35-58b4-4725-aee2-40fb18f4c8bd,# CAPI_Prod,CAPI_Prod@onmicrosoft.com,,AIB Roles,2021-05-01T00:39:19Z
+6d8bc30e-16d6-eb11-bacb-000d3ab15843,46cd56c8-00aa-eb11-8236-0022489b4c66,# RelevanceSearch,RelevanceSearch@onmicrosoft.com,,System Administrator,2021-04-30T22:09:52Z
+6d8bc30e-16d6-eb11-bacb-000d3ab15843,494d392f-d3f4-42ba-af49-30c6f41e6093,# RelevanceSearch,RelevanceSearch@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+6d8bc30e-16d6-eb11-bacb-000d3ab15843,b21a7144-299d-4c21-a116-30f60e9c159a,# RelevanceSearch,RelevanceSearch@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+f837ec5b-39da-eb11-bacb-000d3ab17fbc,e4aaba74-49bd-eb11-bacc-000d3ade3348,Ramaswamy Ganapathy Subramanian,Ramg@paramountassure.com,,PCS Management User,2021-05-25T11:08:00Z
+f837ec5b-39da-eb11-bacb-000d3ab17fbc,96d156c8-00aa-eb11-8236-0022489b4c66,Ramaswamy Ganapathy Subramanian,Ramg@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+f837ec5b-39da-eb11-bacb-000d3ab17fbc,2407db5e-edae-4e36-9be1-fd61d4d15809,Ramaswamy Ganapathy Subramanian,Ramg@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-01T03:25:34Z
+f937ec5b-39da-eb11-bacb-000d3ab17fbc,e4aaba74-49bd-eb11-bacc-000d3ade3348,Premchand Kurup,premchandk@paramountassure.com,,PCS Management User,2021-05-25T11:08:00Z
+f937ec5b-39da-eb11-bacb-000d3ab17fbc,cad52a75-568c-e611-80d4-00155d42a122,Premchand Kurup,premchandk@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+f937ec5b-39da-eb11-bacb-000d3ab17fbc,96d156c8-00aa-eb11-8236-0022489b4c66,Premchand Kurup,premchandk@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+f937ec5b-39da-eb11-bacb-000d3ab17fbc,2407db5e-edae-4e36-9be1-fd61d4d15809,Premchand Kurup,premchandk@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-01T03:25:34Z
+64a962c2-ab09-ec11-b6e6-000d3ab1f3c0,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Kishan Kumar,42a1cc7cb0d3462ca752d33c5cb66ba2Kishan.k@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+64a962c2-ab09-ec11-b6e6-000d3ab1f3c0,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Kishan Kumar,42a1cc7cb0d3462ca752d33c5cb66ba2Kishan.k@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+64a962c2-ab09-ec11-b6e6-000d3ab1f3c0,61ae5738-3a67-48e3-bf1a-73551ed6a812,Kishan Kumar,42a1cc7cb0d3462ca752d33c5cb66ba2Kishan.k@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+cecee0d8-ab09-ec11-b6e6-000d3ab1f3c0,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Parshwa Amitkumar Shah,2b52fcb161034c39b9ab17592df7fe6fParshwa.a@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+cecee0d8-ab09-ec11-b6e6-000d3ab1f3c0,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Parshwa Amitkumar Shah,2b52fcb161034c39b9ab17592df7fe6fParshwa.a@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+cecee0d8-ab09-ec11-b6e6-000d3ab1f3c0,61ae5738-3a67-48e3-bf1a-73551ed6a812,Parshwa Amitkumar Shah,2b52fcb161034c39b9ab17592df7fe6fParshwa.a@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+e5cee0d8-ab09-ec11-b6e6-000d3ab1f3c0,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Devika Sunil Nair,Devika.s@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:02Z
+e5cee0d8-ab09-ec11-b6e6-000d3ab1f3c0,814606fd-e146-41ce-a050-aa5bb055f072,Devika Sunil Nair,Devika.s@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:23:02Z
+e5cee0d8-ab09-ec11-b6e6-000d3ab1f3c0,f1051237-de7e-4d12-8562-c1becfe03c42,Devika Sunil Nair,Devika.s@paramountassure.com,,Customer service app access,2021-05-25T12:23:02Z
+e5cee0d8-ab09-ec11-b6e6-000d3ab1f3c0,c15682e6-5481-45c6-b1b7-e28cda116159,Devika Sunil Nair,Devika.s@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:35Z
+3937400e-bc0b-ec11-b6e6-000d3ab1f3c0,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Lubna Kawal,Lubna.k@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+3937400e-bc0b-ec11-b6e6-000d3ab1f3c0,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Lubna Kawal,Lubna.k@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+3937400e-bc0b-ec11-b6e6-000d3ab1f3c0,61ae5738-3a67-48e3-bf1a-73551ed6a812,Lubna Kawal,Lubna.k@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+3860b0d3-ab09-ec11-b6e6-000d3ab2577d,4e3fbb40-4630-4fe6-8ead-12b1be0c707d,Jerry Savio Patrick,4e29f14383094f3a99321d2e2c14caeeJerry.s@paramountassure.com,,Customer service app access,2021-05-25T12:23:30Z
+3860b0d3-ab09-ec11-b6e6-000d3ab2577d,ab07de09-78cc-431c-b5dc-1a745f7c388e,Jerry Savio Patrick,4e29f14383094f3a99321d2e2c14caeeJerry.s@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:35Z
+3860b0d3-ab09-ec11-b6e6-000d3ab2577d,75f59018-685a-4cbd-b026-a22b3d609591,Jerry Savio Patrick,4e29f14383094f3a99321d2e2c14caeeJerry.s@paramountassure.com,,PCS Country Manager,2021-05-25T12:23:30Z
+3860b0d3-ab09-ec11-b6e6-000d3ab2577d,57b647c3-8703-45e7-8c31-e2a475693ab0,Jerry Savio Patrick,4e29f14383094f3a99321d2e2c14caeeJerry.s@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:30Z
+c2acca2a-a0d7-ee11-904d-000d3ab41c07,cad52a75-568c-e611-80d4-00155d42a122,Abila Rafeequ,abila@ahlancyber.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+b548db8e-1dbc-ee11-9078-000d3ab41c07,cad52a75-568c-e611-80d4-00155d42a122,Athira Janardhanan,Athira.j@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+e1e8d293-7fc9-ee11-9079-000d3ab41c07,cad52a75-568c-e611-80d4-00155d42a122,Mohamed Azil,azil@ahlancyber.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+7bb23dfe-94cc-ee11-9079-000d3ab41c07,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Priyanka Venkateswar,priyanka.v@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+7bb23dfe-94cc-ee11-9079-000d3ab41c07,10f98a2a-c34f-41e6-a158-6620fe31729b,Priyanka Venkateswar,priyanka.v@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+7bb23dfe-94cc-ee11-9079-000d3ab41c07,fb5973e1-e623-4dfa-b5f8-78f7c8054e96,Priyanka Venkateswar,priyanka.v@paramountassure.com,,System Administrator,2021-05-25T12:22:19Z
+7bb23dfe-94cc-ee11-9079-000d3ab41c07,a42e2c08-5248-438b-845a-f005c0e26037,Priyanka Venkateswar,priyanka.v@paramountassure.com,,PCS Management User,2021-05-25T12:22:19Z
+4f519886-75cf-ec11-a7b5-000d3ab45df7,cad52a75-568c-e611-80d4-00155d42a122,Hala Al-Sadi,Hala.alsadi@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+ac79caa0-7935-f011-8c4d-000d3ab46049,cad52a75-568c-e611-80d4-00155d42a122,Swathi S,swathi.s@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+ac79caa0-7935-f011-8c4d-000d3ab46049,46cd56c8-00aa-eb11-8236-0022489b4c66,Swathi S,swathi.s@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+ac79caa0-7935-f011-8c4d-000d3ab46049,97d156c8-00aa-eb11-8236-0022489b4c66,Swathi S,swathi.s@paramountassure.com,,System Customizer,2021-04-30T22:09:55Z
+55b271d9-a4fb-ef11-bae4-000d3ab483e3,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataverseReportService,DataverseReportService@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+55b271d9-a4fb-ef11-bae4-000d3ab483e3,c8f8c510-2421-4d63-965b-91a7e722d6a0,# DataverseReportService,DataverseReportService@onmicrosoft.com,,Report Service Role,2025-02-22T01:26:54Z
+dfc9fddf-a4fb-ef11-bae4-000d3ab483e3,a543aafd-bd67-463d-9ef6-721bb8e471b1,# Contextual AI S2S Prod Application,ContextualAIS2SProdApplication@onmicrosoft.com,,SuggestedActionS2SRole,2025-05-27T19:05:46Z
+dfc9fddf-a4fb-ef11-bae4-000d3ab483e3,4f9dbfce-f797-40d8-a8ac-902e441e371b,# Contextual AI S2S Prod Application,ContextualAIS2SProdApplication@onmicrosoft.com,,ContextualAIS2SRole,2025-03-07T22:32:33Z
+d56610e3-2148-ef11-bfe2-000d3ab4cfeb,cad52a75-568c-e611-80d4-00155d42a122,Suraj Lal,suraj.l@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+bb6725e4-055e-ef11-bfe3-000d3ab4cfeb,cad52a75-568c-e611-80d4-00155d42a122,Sidra Kaleem Ahmed,sidra@ahlancyber.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+5fa3a3a7-54d3-ef11-a72e-000d3ab500c7,cad52a75-568c-e611-80d4-00155d42a122,Harshit Gupta,harshit@ahlancyber.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+901d25a7-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Ajay Kumar Gaddamidi,Ajaykumar.g@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+577997ad-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Shibil Abdul Razak Muhammed,shibil.r@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+627997ad-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Pragati Ramane,Pragati.r@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+627997ad-76b4-eb11-8236-000d3ab5a61f,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Pragati Ramane,Pragati.r@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+627997ad-76b4-eb11-8236-000d3ab5a61f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Pragati Ramane,Pragati.r@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+6e7997ad-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Suhas Udipi Shastri,Suhasshastri.u@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+797997ad-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Premkumar Samuel Chander Devanand,5693f41c43374b0784ba694521305adcPremkumar.d@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+857997ad-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Manikandan Natarajan,Mani@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+8c7997ad-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Saddiq Ameen,Saddiq.a@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+917997ad-76b4-eb11-8236-000d3ab5a61f,eef96238-7bf1-4b60-8ae4-01db3ef05317,Sarath Mandalay,Sarath.m@paramountassure.com,,Basic User,2021-05-25T12:22:19Z
+917997ad-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Sarath Mandalay,Sarath.m@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+917997ad-76b4-eb11-8236-000d3ab5a61f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Sarath Mandalay,Sarath.m@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+917997ad-76b4-eb11-8236-000d3ab5a61f,8698c9c9-3f99-4e36-828a-c66c3c18c41b,Sarath Mandalay,Sarath.m@paramountassure.com,,PCS Sales User,2021-05-25T12:22:19Z
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Peter Fernandez,Peter.f@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,10f98a2a-c34f-41e6-a158-6620fe31729b,Peter Fernandez,Peter.f@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Peter Fernandez,Peter.f@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,fb5973e1-e623-4dfa-b5f8-78f7c8054e96,Peter Fernandez,Peter.f@paramountassure.com,,System Administrator,2021-05-25T12:22:19Z
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,49fcfe3f-dd2c-4bcd-83b9-949dc7a6aff8,Peter Fernandez,Peter.f@paramountassure.com,,PCS Country Manager,2024-08-30T04:44:36Z
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,8698c9c9-3f99-4e36-828a-c66c3c18c41b,Peter Fernandez,Peter.f@paramountassure.com,,PCS Sales User,2021-05-25T12:22:19Z
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,b9e61fb3-ab34-4df6-bb56-fd9c04d39399,Peter Fernandez,Peter.f@paramountassure.com,,System Customizer,2021-05-25T12:22:19Z
+b77997ad-76b4-eb11-8236-000d3ab5a61f,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Namith Najeeb,Namith@ahlancyber.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:02Z
+b77997ad-76b4-eb11-8236-000d3ab5a61f,01728372-7e2a-428f-bcc9-45b03498ec65,Namith Najeeb,Namith@ahlancyber.com,,Basic User,2021-05-25T12:23:02Z
+b77997ad-76b4-eb11-8236-000d3ab5a61f,de7c6374-1532-4491-8c28-74207bbfe7e3,Namith Najeeb,Namith@ahlancyber.com,,PCS Presales User,2021-05-25T12:23:02Z
+b77997ad-76b4-eb11-8236-000d3ab5a61f,c8928031-87d8-45c2-8e84-88d7349b5338,Namith Najeeb,Namith@ahlancyber.com,,PCS Country Manager,2021-05-25T12:23:02Z
+b77997ad-76b4-eb11-8236-000d3ab5a61f,814606fd-e146-41ce-a050-aa5bb055f072,Namith Najeeb,Namith@ahlancyber.com,,Sales Enterprise app access,2021-05-25T12:23:02Z
+b77997ad-76b4-eb11-8236-000d3ab5a61f,f1051237-de7e-4d12-8562-c1becfe03c42,Namith Najeeb,Namith@ahlancyber.com,,Customer service app access,2021-05-25T12:23:02Z
+b77997ad-76b4-eb11-8236-000d3ab5a61f,58630023-a0f2-43dd-b951-f5a420124d18,Namith Najeeb,Namith@ahlancyber.com,,System Administrator,2021-05-25T12:23:02Z
+d67997ad-76b4-eb11-8236-000d3ab5a61f,eef96238-7bf1-4b60-8ae4-01db3ef05317,Saidharanee Chinna Swamy,Saidharanee.s@paramountassure.com,,Basic User,2021-05-25T12:22:19Z
+d67997ad-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Saidharanee Chinna Swamy,Saidharanee.s@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+d67997ad-76b4-eb11-8236-000d3ab5a61f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Saidharanee Chinna Swamy,Saidharanee.s@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+e87997ad-76b4-eb11-8236-000d3ab5a61f,eef96238-7bf1-4b60-8ae4-01db3ef05317,Taronish Cowas Bajan,Taronish.cb@paramountassure.com,,Basic User,2021-05-25T12:22:19Z
+e87997ad-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Taronish Cowas Bajan,Taronish.cb@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+e87997ad-76b4-eb11-8236-000d3ab5a61f,10f98a2a-c34f-41e6-a158-6620fe31729b,Taronish Cowas Bajan,Taronish.cb@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+e87997ad-76b4-eb11-8236-000d3ab5a61f,8698c9c9-3f99-4e36-828a-c66c3c18c41b,Taronish Cowas Bajan,Taronish.cb@paramountassure.com,,PCS Sales User,2021-05-25T12:22:19Z
+f47997ad-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Ismail Ahmed,da2f8b1a65f5452190f605563b00acf2Ismail.a@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+0a7a97ad-76b4-eb11-8236-000d3ab5a61f,3dac4d9e-568c-e611-80d4-00155d42a122,Paramount Technical Support,helpdesk@paramountassure.com,,Customer service app access,2021-05-01T01:47:06Z
+0a7a97ad-76b4-eb11-8236-000d3ab5a61f,c20bc7ba-6506-ec11-94ef-0022489c0f78,Paramount Technical Support,helpdesk@paramountassure.com,,Paramount Support Admin,2021-08-26T12:04:15Z
+0a7a97ad-76b4-eb11-8236-000d3ab5a61f,2407db5e-edae-4e36-9be1-fd61d4d15809,Paramount Technical Support,helpdesk@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-01T03:25:34Z
+217a97ad-76b4-eb11-8236-000d3ab5a61f,eef96238-7bf1-4b60-8ae4-01db3ef05317,Zaid Nihad M Awwad,Zaid.a@paramountassure.com,,Basic User,2021-05-25T12:22:19Z
+217a97ad-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Zaid Nihad M Awwad,Zaid.a@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+217a97ad-76b4-eb11-8236-000d3ab5a61f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Zaid Nihad M Awwad,Zaid.a@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+217a97ad-76b4-eb11-8236-000d3ab5a61f,8698c9c9-3f99-4e36-828a-c66c3c18c41b,Zaid Nihad M Awwad,Zaid.a@paramountassure.com,,PCS Sales User,2021-05-25T12:22:19Z
+2c7a97ad-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Gayathri Pothiraj,269090adfeac4421936f6b9a86a36d42Gayathri.p@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+357a97ad-76b4-eb11-8236-000d3ab5a61f,da2ec702-2d3b-4689-9ce2-31ccc731a3d9,Manjunatha AM,Manjunath.a@paramountassure.com,,Customer service app access,2021-05-25T12:23:21Z
+357a97ad-76b4-eb11-8236-000d3ab5a61f,d3a2ceaa-b0ef-4e0e-b32d-47fa7e4a9124,Manjunatha AM,Manjunath.a@paramountassure.com,,PCS Sales User,2021-05-25T12:23:21Z
+357a97ad-76b4-eb11-8236-000d3ab5a61f,0877d869-bbec-4712-8e87-84a8df506466,Manjunatha AM,Manjunath.a@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:21Z
+357a97ad-76b4-eb11-8236-000d3ab5a61f,4a580c0a-3d1c-430e-b6c1-8ee890731a4b,Manjunatha AM,Manjunath.a@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:23:21Z
+357a97ad-76b4-eb11-8236-000d3ab5a61f,e95ed157-d14d-41bc-b782-dc2f6bf01709,Manjunatha AM,Manjunath.a@paramountassure.com,,Basic User,2021-05-25T12:23:21Z
+427a97ad-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Meghna Muralidharan,Meghna.n@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+427a97ad-76b4-eb11-8236-000d3ab5a61f,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Meghna Muralidharan,Meghna.n@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+427a97ad-76b4-eb11-8236-000d3ab5a61f,cc83918e-18ed-4608-8340-44bafe6d8e7b,Meghna Muralidharan,Meghna.n@paramountassure.com,,Paramount MSS Engineer,2022-03-09T09:42:19Z
+427a97ad-76b4-eb11-8236-000d3ab5a61f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Meghna Muralidharan,Meghna.n@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+f23b92b3-76b4-eb11-8236-000d3ab5a61f,eef96238-7bf1-4b60-8ae4-01db3ef05317,Adhithyan Sudhaghar,37b24e20f167431f92323a6e097a9423Adhithyan.s@paramountassure.com,,Basic User,2021-05-25T12:22:19Z
+f23b92b3-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Adhithyan Sudhaghar,37b24e20f167431f92323a6e097a9423Adhithyan.s@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+f23b92b3-76b4-eb11-8236-000d3ab5a61f,1b90c3d7-2175-4d47-a715-66451e11b51e,Adhithyan Sudhaghar,37b24e20f167431f92323a6e097a9423Adhithyan.s@paramountassure.com,,PCS Presales User,2021-05-25T12:22:19Z
+fd3b92b3-76b4-eb11-8236-000d3ab5a61f,46cd56c8-00aa-eb11-8236-0022489b4c66,Rajesh Kethineni,Rajesh.k@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+fd3b92b3-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Rajesh Kethineni,Rajesh.k@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+0e3c92b3-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Sudakshina Singha Roy,19ac367006684789adf6c1350d340158Sudakshina.s@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+393c92b3-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Anup Nair,Anup.n@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+4d3c92b3-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Deepesh Bharat Shah,Deepesh.s@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+4d3c92b3-76b4-eb11-8236-000d3ab5a61f,10f98a2a-c34f-41e6-a158-6620fe31729b,Deepesh Bharat Shah,Deepesh.s@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+4d3c92b3-76b4-eb11-8236-000d3ab5a61f,301ef12e-04c7-46fb-8ffb-b136ab19788a,Deepesh Bharat Shah,Deepesh.s@paramountassure.com,,PCS BU Manager,2021-05-25T12:22:19Z
+623c92b3-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Touhid Shaikh,74546dfab1ec4f08bc44a2d04394ece1Touhid.s@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+733c92b3-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Keerthidharan Rajendran,7f758422eb9b492296fb86135a07f2ecKeerthidharan.r@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+763c92b3-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Naveen Kumar,Naveen.k@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+763c92b3-76b4-eb11-8236-000d3ab5a61f,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Naveen Kumar,Naveen.k@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+763c92b3-76b4-eb11-8236-000d3ab5a61f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Naveen Kumar,Naveen.k@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+953c92b3-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Mohammed Muzammil Kaleemulla,Muzammil.k@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+953c92b3-76b4-eb11-8236-000d3ab5a61f,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Mohammed Muzammil Kaleemulla,Muzammil.k@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+953c92b3-76b4-eb11-8236-000d3ab5a61f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Mohammed Muzammil Kaleemulla,Muzammil.k@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+ac3c92b3-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Shipra Gupta,shipra.G@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+ac3c92b3-76b4-eb11-8236-000d3ab5a61f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Shipra Gupta,shipra.G@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+ac3c92b3-76b4-eb11-8236-000d3ab5a61f,dd53e9b2-2120-41f2-82c7-905078b63c12,Shipra Gupta,shipra.G@paramountassure.com,,Paramount Support Admin,2021-08-26T12:04:15Z
+003d92b3-76b4-eb11-8236-000d3ab5a61f,cad52a75-568c-e611-80d4-00155d42a122,Razal Mohammed,Razal.m@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+003d92b3-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Razal Mohammed,Razal.m@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+183d92b3-76b4-eb11-8236-000d3ab5a61f,4ca55d0c-3396-44b2-a783-556374f100de,Husain Maad,a75932ccaec443bea40b7f76e4988e7eHusain.m@pcskuwait.com,,Basic User,2021-05-25T12:23:12Z
+183d92b3-76b4-eb11-8236-000d3ab5a61f,6e25b396-f450-44b0-8f50-74aa965c050e,Husain Maad,a75932ccaec443bea40b7f76e4988e7eHusain.m@pcskuwait.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:12Z
+183d92b3-76b4-eb11-8236-000d3ab5a61f,d1179082-801e-4c42-b312-cdc07db49308,Husain Maad,a75932ccaec443bea40b7f76e4988e7eHusain.m@pcskuwait.com,,PCS Sales User,2021-05-25T12:23:12Z
+293d92b3-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Ashish Joshi,Ashish.j@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+293d92b3-76b4-eb11-8236-000d3ab5a61f,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Ashish Joshi,Ashish.j@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+293d92b3-76b4-eb11-8236-000d3ab5a61f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Ashish Joshi,Ashish.j@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+2b3d92b3-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Abhishek Pandey,a5633cfd036d471f84cb10632f7cd094Abhi.p@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+2d3d92b3-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Sohel Farukh Shaikh,03636fa0a4b54cc185689f4cdf03c776Sohel.s@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+473d92b3-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Imran Malick Ghouse,Imran.g@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+4f3d92b3-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Gaurav Gopal Sharma,Gaurav.s@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+a6878ab9-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Deepak Karun,30edec4993064b62a9e975007002dc97Deepak.k@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+a6878ab9-76b4-eb11-8236-000d3ab5a61f,8d6c47a8-4022-4e04-bdcc-1d3c7a248611,Deepak Karun,30edec4993064b62a9e975007002dc97Deepak.k@paramountassure.com,,Paramount Support BU Manager,2021-08-26T12:19:33Z
+a6878ab9-76b4-eb11-8236-000d3ab5a61f,1b90c3d7-2175-4d47-a715-66451e11b51e,Deepak Karun,30edec4993064b62a9e975007002dc97Deepak.k@paramountassure.com,,PCS Presales User,2021-05-25T12:22:19Z
+a6878ab9-76b4-eb11-8236-000d3ab5a61f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Deepak Karun,30edec4993064b62a9e975007002dc97Deepak.k@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+b7878ab9-76b4-eb11-8236-000d3ab5a61f,eef96238-7bf1-4b60-8ae4-01db3ef05317,Suhas Varambally,suhas@paramountassure.com,,Basic User,2021-05-25T12:22:19Z
+b7878ab9-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Suhas Varambally,suhas@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+b7878ab9-76b4-eb11-8236-000d3ab5a61f,3350f4e4-1cc6-4402-91af-44e5b8535110,Suhas Varambally,suhas@paramountassure.com,,PCS Country Manager,2021-05-25T12:22:19Z
+b7878ab9-76b4-eb11-8236-000d3ab5a61f,10f98a2a-c34f-41e6-a158-6620fe31729b,Suhas Varambally,suhas@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+ba878ab9-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Shaique Akhtar,b3644c3190624205be12aaff32e939d6Shaique.a@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+eb878ab9-76b4-eb11-8236-000d3ab5a61f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Faique Akhtar,f19eb8113a9b495fab0fa71367cacfaeFaique.a@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+eb878ab9-76b4-eb11-8236-000d3ab5a61f,8d6c47a8-4022-4e04-bdcc-1d3c7a248611,Faique Akhtar,f19eb8113a9b495fab0fa71367cacfaeFaique.a@paramountassure.com,,Paramount Support BU Manager,2021-08-26T12:19:33Z
+eb878ab9-76b4-eb11-8236-000d3ab5a61f,1b90c3d7-2175-4d47-a715-66451e11b51e,Faique Akhtar,f19eb8113a9b495fab0fa71367cacfaeFaique.a@paramountassure.com,,PCS Presales User,2021-05-25T12:22:19Z
+eb878ab9-76b4-eb11-8236-000d3ab5a61f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Faique Akhtar,f19eb8113a9b495fab0fa71367cacfaeFaique.a@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+09888ab9-76b4-eb11-8236-000d3ab5a61f,31e98577-700a-4d6b-9f81-007a0f2ab25c,Ramesh Vempali,Ramesh.v@paramountassure.com,,Basic User,2021-05-25T12:22:40Z
+09888ab9-76b4-eb11-8236-000d3ab5a61f,b584d6bf-8d31-41f3-a4cd-5aa7f7dac6e1,Ramesh Vempali,Ramesh.v@paramountassure.com,,Customer service app access,2021-05-25T12:22:40Z
+09888ab9-76b4-eb11-8236-000d3ab5a61f,00f28924-3fea-4297-be86-8a11757c0562,Ramesh Vempali,Ramesh.v@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:40Z
+09888ab9-76b4-eb11-8236-000d3ab5a61f,a32a29cb-e882-4760-a547-f68b5cd44b78,Ramesh Vempali,Ramesh.v@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:40Z
+09888ab9-76b4-eb11-8236-000d3ab5a61f,4f208498-72bf-4544-964c-fac9e53b8ed6,Ramesh Vempali,Ramesh.v@paramountassure.com,,PCS Country Manager,2021-05-25T12:22:40Z
+0c888ab9-76b4-eb11-8236-000d3ab5a61f,96d156c8-00aa-eb11-8236-0022489b4c66,Arpit Dhanotiya,4cbd99f376184b7a8c0206fcd81587c4Arpit.d@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+2da7e436-583b-ec11-b6e5-000d3ab5c24a,cab938ec-7717-eb11-a81b-000d3ac38fe6,# Dynamics 365 record assignment,Dynamics365recordassignment@onmicrosoft.com,,Sync Skills,2021-11-01T21:10:58Z
+4ce10f9a-76b4-eb11-8236-000d3ab6406f,46cd56c8-00aa-eb11-8236-0022489b4c66,Krishnakumar K,krishnakumar.k@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+4ce10f9a-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Krishnakumar K,krishnakumar.k@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Amit Sharma,amit.sharma@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,8d6c47a8-4022-4e04-bdcc-1d3c7a248611,Amit Sharma,amit.sharma@paramountassure.com,,Paramount Support BU Manager,2021-08-26T12:19:33Z
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,cc83918e-18ed-4608-8340-44bafe6d8e7b,Amit Sharma,amit.sharma@paramountassure.com,,Paramount MSS Engineer,2022-03-09T09:42:19Z
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,10f98a2a-c34f-41e6-a158-6620fe31729b,Amit Sharma,amit.sharma@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,1b90c3d7-2175-4d47-a715-66451e11b51e,Amit Sharma,amit.sharma@paramountassure.com,,PCS Presales User,2021-05-25T12:22:19Z
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Amit Sharma,amit.sharma@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,fb5973e1-e623-4dfa-b5f8-78f7c8054e96,Amit Sharma,amit.sharma@paramountassure.com,,System Administrator,2021-05-25T12:22:19Z
+52e10f9a-76b4-eb11-8236-000d3ab6406f,46cd56c8-00aa-eb11-8236-0022489b4c66,PCS DIC Finance,DICFinance@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+52e10f9a-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,PCS DIC Finance,DICFinance@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+6de10f9a-76b4-eb11-8236-000d3ab6406f,10f98a2a-c34f-41e6-a158-6620fe31729b,Shiju Chandroth,Shiju.c@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+6de10f9a-76b4-eb11-8236-000d3ab6406f,fb5973e1-e623-4dfa-b5f8-78f7c8054e96,Shiju Chandroth,Shiju.c@paramountassure.com,,System Administrator,2021-05-25T12:22:19Z
+6de10f9a-76b4-eb11-8236-000d3ab6406f,301ef12e-04c7-46fb-8ffb-b136ab19788a,Shiju Chandroth,Shiju.c@paramountassure.com,,PCS BU Manager,2021-05-25T12:22:19Z
+8ce10f9a-76b4-eb11-8236-000d3ab6406f,46cd56c8-00aa-eb11-8236-0022489b4c66,DIC ADMIN,DICadmin@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+8ce10f9a-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,DIC ADMIN,DICadmin@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+408b16a0-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Suryakiran Manoharan,suryakiran.m@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+4c8b16a0-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Adith Haridas,3f82d6a27bff498583220ea3db69beebadith@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+558b16a0-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Kotaiba Al Haj Mohamad Ali,Kotaiba.a@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+608b16a0-76b4-eb11-8236-000d3ab6406f,e4aaba74-49bd-eb11-bacc-000d3ade3348,Ashok Chandrasekharan,Ashok.c@paramountassure.com,,PCS Management User,2021-05-25T11:08:00Z
+608b16a0-76b4-eb11-8236-000d3ab6406f,cad52a75-568c-e611-80d4-00155d42a122,Ashok Chandrasekharan,Ashok.c@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+608b16a0-76b4-eb11-8236-000d3ab6406f,7c380e8d-8e4c-42f3-a5aa-6959b83a4c65,Ashok Chandrasekharan,Ashok.c@paramountassure.com,,PCS Country Manager,2024-08-30T04:44:26Z
+608b16a0-76b4-eb11-8236-000d3ab6406f,73cf9a21-c874-49e7-a3c7-881ece56ef30,Ashok Chandrasekharan,Ashok.c@paramountassure.com,,PCS Country Manager,2024-08-30T04:44:47Z
+608b16a0-76b4-eb11-8236-000d3ab6406f,2407db5e-edae-4e36-9be1-fd61d4d15809,Ashok Chandrasekharan,Ashok.c@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-01T03:25:34Z
+638b16a0-76b4-eb11-8236-000d3ab6406f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Qusai Barwaniwala,qusai@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+638b16a0-76b4-eb11-8236-000d3ab6406f,8d6c47a8-4022-4e04-bdcc-1d3c7a248611,Qusai Barwaniwala,qusai@paramountassure.com,,Paramount Support BU Manager,2021-08-26T12:19:33Z
+638b16a0-76b4-eb11-8236-000d3ab6406f,10f98a2a-c34f-41e6-a158-6620fe31729b,Qusai Barwaniwala,qusai@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+638b16a0-76b4-eb11-8236-000d3ab6406f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Qusai Barwaniwala,qusai@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+638b16a0-76b4-eb11-8236-000d3ab6406f,301ef12e-04c7-46fb-8ffb-b136ab19788a,Qusai Barwaniwala,qusai@paramountassure.com,,PCS BU Manager,2021-05-25T12:22:19Z
+6e8b16a0-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Kiran Nair,fd2c11bfc44f433eb3f0f3c8d715660fKiran.g@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+858b16a0-76b4-eb11-8236-000d3ab6406f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,ASWIN SASIDHARAN,98cb8c73a7ea4a0e87a7b544036a746aAswin.s@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+858b16a0-76b4-eb11-8236-000d3ab6406f,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,ASWIN SASIDHARAN,98cb8c73a7ea4a0e87a7b544036a746aAswin.s@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+858b16a0-76b4-eb11-8236-000d3ab6406f,61ae5738-3a67-48e3-bf1a-73551ed6a812,ASWIN SASIDHARAN,98cb8c73a7ea4a0e87a7b544036a746aAswin.s@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+9d8b16a0-76b4-eb11-8236-000d3ab6406f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Abdullah Ashraf,467364ceeff24a74b0e144a23e57cd4eAbdullah.a@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+9d8b16a0-76b4-eb11-8236-000d3ab6406f,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Abdullah Ashraf,467364ceeff24a74b0e144a23e57cd4eAbdullah.a@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+9d8b16a0-76b4-eb11-8236-000d3ab6406f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Abdullah Ashraf,467364ceeff24a74b0e144a23e57cd4eAbdullah.a@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+a18b16a0-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Priyanka Madhan,Priyanka.m@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+be8b16a0-76b4-eb11-8236-000d3ab6406f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Walid Almallahi,Walid.a@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+be8b16a0-76b4-eb11-8236-000d3ab6406f,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Walid Almallahi,Walid.a@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+be8b16a0-76b4-eb11-8236-000d3ab6406f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Walid Almallahi,Walid.a@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+c78b16a0-76b4-eb11-8236-000d3ab6406f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Mushahid Alam,M.alam@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+c78b16a0-76b4-eb11-8236-000d3ab6406f,10f98a2a-c34f-41e6-a158-6620fe31729b,Mushahid Alam,M.alam@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+c78b16a0-76b4-eb11-8236-000d3ab6406f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Mushahid Alam,M.alam@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+c78b16a0-76b4-eb11-8236-000d3ab6406f,301ef12e-04c7-46fb-8ffb-b136ab19788a,Mushahid Alam,M.alam@paramountassure.com,,PCS BU Manager,2021-05-25T12:22:19Z
+d18b16a0-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Ganesh Ram,8f5456727f734c3f95265eebab29da11Ganesh.r@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+df8b16a0-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Abhishek Padhi,c63c29898c5147c597984f5d5a8141a6Abhishek.p@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+e38b16a0-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Rania Hammoud,Rania.h@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+f98b16a0-76b4-eb11-8236-000d3ab6406f,cad52a75-568c-e611-80d4-00155d42a122,Manisha Tanwar,Manisha.t@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+f98b16a0-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Manisha Tanwar,Manisha.t@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+0a8c16a0-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Anirudh Tulsidas Shetty,4f9512215cac4ccc814adbaff2186444Anirudh.s@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+73e70ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Greeshma Rajan,Greeshma.r@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+87e70ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Ismail Mohammad,ismail.m@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+99e70ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Human Resources Support,HRsupport@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+9be70ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Mayank Thakar,ff1f29451529400f83d8eda0475616a2Mayank.t@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+b6e70ea6-76b4-eb11-8236-000d3ab6406f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Nagendra Kesani,Nagendra.k@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+b6e70ea6-76b4-eb11-8236-000d3ab6406f,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Nagendra Kesani,Nagendra.k@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+b6e70ea6-76b4-eb11-8236-000d3ab6406f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Nagendra Kesani,Nagendra.k@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+d4e70ea6-76b4-eb11-8236-000d3ab6406f,46cd56c8-00aa-eb11-8236-0022489b4c66,Muthukumaran Periyaswamy,Muthukumaran.p@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+d4e70ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Muthukumaran Periyaswamy,Muthukumaran.p@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+f7e70ea6-76b4-eb11-8236-000d3ab6406f,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Salma Begum,817e6d71d3934dfb9a0b7a9481dd8287Salma.n@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:02Z
+f7e70ea6-76b4-eb11-8236-000d3ab6406f,f1051237-de7e-4d12-8562-c1becfe03c42,Salma Begum,817e6d71d3934dfb9a0b7a9481dd8287Salma.n@paramountassure.com,,Customer service app access,2021-05-25T12:23:02Z
+f7e70ea6-76b4-eb11-8236-000d3ab6406f,c15682e6-5481-45c6-b1b7-e28cda116159,Salma Begum,817e6d71d3934dfb9a0b7a9481dd8287Salma.n@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:35Z
+19e80ea6-76b4-eb11-8236-000d3ab6406f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Unaise Eranju Kunnumel,Unaise.k@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+19e80ea6-76b4-eb11-8236-000d3ab6406f,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Unaise Eranju Kunnumel,Unaise.k@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+19e80ea6-76b4-eb11-8236-000d3ab6406f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Unaise Eranju Kunnumel,Unaise.k@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+36e80ea6-76b4-eb11-8236-000d3ab6406f,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Munfed Rana,munfed@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:02Z
+36e80ea6-76b4-eb11-8236-000d3ab6406f,c72e281a-449d-463d-94bc-7bedd85700c0,Munfed Rana,munfed@paramountassure.com,,Paramount Support Admin,2021-08-26T12:04:15Z
+36e80ea6-76b4-eb11-8236-000d3ab6406f,f1051237-de7e-4d12-8562-c1becfe03c42,Munfed Rana,munfed@paramountassure.com,,Customer service app access,2021-05-25T12:23:02Z
+3ce80ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Kutbuddin Nogama,Kutbuddin.n@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+56e80ea6-76b4-eb11-8236-000d3ab6406f,eef96238-7bf1-4b60-8ae4-01db3ef05317,Muhammad Omair Fahimuddin,Omair.m@paramountassure.com,,Basic User,2021-05-25T12:22:19Z
+56e80ea6-76b4-eb11-8236-000d3ab6406f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Muhammad Omair Fahimuddin,Omair.m@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+56e80ea6-76b4-eb11-8236-000d3ab6406f,10f98a2a-c34f-41e6-a158-6620fe31729b,Muhammad Omair Fahimuddin,Omair.m@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+56e80ea6-76b4-eb11-8236-000d3ab6406f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Muhammad Omair Fahimuddin,Omair.m@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+56e80ea6-76b4-eb11-8236-000d3ab6406f,8698c9c9-3f99-4e36-828a-c66c3c18c41b,Muhammad Omair Fahimuddin,Omair.m@paramountassure.com,,PCS Sales User,2021-05-25T12:22:19Z
+59e80ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Mohd Tahir,99369c1ac4f446b0bebef3afb9b64d8cMohd.t@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+6de80ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Govardhanan Devendran,Govardhanan.d@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+70e80ea6-76b4-eb11-8236-000d3ab6406f,46cd56c8-00aa-eb11-8236-0022489b4c66,Rizwan Sherif,e5617b09418d4780a43ebd8b71a7e994Rizwan.s@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+70e80ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Rizwan Sherif,e5617b09418d4780a43ebd8b71a7e994Rizwan.s@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+85e80ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Shubham Jain,Shubham.j@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+87e80ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Mohammad Nooman Paul,Nomaan.p@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+97e80ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Chandra Shekar Kakarla S,Chandra.r@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+a0e80ea6-76b4-eb11-8236-000d3ab6406f,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Mohammad Arif Ansari,Arif.a@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+a0e80ea6-76b4-eb11-8236-000d3ab6406f,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Mohammad Arif Ansari,Arif.a@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+a0e80ea6-76b4-eb11-8236-000d3ab6406f,61ae5738-3a67-48e3-bf1a-73551ed6a812,Mohammad Arif Ansari,Arif.a@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+bce80ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Haroon Abdul Aleem Wardak,Haroon.w@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+c0e80ea6-76b4-eb11-8236-000d3ab6406f,96d156c8-00aa-eb11-8236-0022489b4c66,Manoj Manohar Ghorpade,Manoj.g@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+798efc1c-7f84-ef11-ac21-000d3ab6556d,cad52a75-568c-e611-80d4-00155d42a122,Siva Manoharan,siva.m@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+798efc1c-7f84-ef11-ac21-000d3ab6556d,46cd56c8-00aa-eb11-8236-0022489b4c66,Siva Manoharan,siva.m@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+798efc1c-7f84-ef11-ac21-000d3ab6556d,97d156c8-00aa-eb11-8236-0022489b4c66,Siva Manoharan,siva.m@paramountassure.com,,System Customizer,2021-04-30T22:09:55Z
+798efc1c-7f84-ef11-ac21-000d3ab6556d,10f98a2a-c34f-41e6-a158-6620fe31729b,Siva Manoharan,siva.m@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+798efc1c-7f84-ef11-ac21-000d3ab6556d,fb5973e1-e623-4dfa-b5f8-78f7c8054e96,Siva Manoharan,siva.m@paramountassure.com,,System Administrator,2021-05-25T12:22:19Z
+798efc1c-7f84-ef11-ac21-000d3ab6556d,a42e2c08-5248-438b-845a-f005c0e26037,Siva Manoharan,siva.m@paramountassure.com,,PCS Management User,2021-05-25T12:22:19Z
+060b30af-3bc6-eb11-8235-000d3ab68dd4,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# Dynamics365SCV,Dynamics365SCV@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+350b30af-3bc6-eb11-8235-000d3ab68dd4,d58407f2-48d5-e711-a82c-000d3a37c848,# SharePointOnline,SharePointOnline@onmicrosoft.com,,Environment Maker,2021-04-30T22:53:41Z
+6700e6eb-352b-ec11-b6e5-000d3ab7fee9,d58407f2-48d5-e711-a82c-000d3a37c848,Siddhartha Sarkar,Siddhartha.s@paramountassure.com,,Environment Maker,2021-04-30T22:53:41Z
+ad6e940b-7f23-ed11-b83d-000d3ab8ce15,cad52a75-568c-e611-80d4-00155d42a122,Sales | Paramount,Connect@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# InsightsAppsPlatform,InsightsAppsPlatform@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7,f75f4034-068a-463c-ba85-0ae80ad5aecd,# InsightsAppsPlatform,InsightsAppsPlatform@onmicrosoft.com,,Flow-RP Role,2021-05-01T00:21:47Z
+9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7,b8299fc3-f7a2-4655-a2d9-48ca2dec0346,# InsightsAppsPlatform,InsightsAppsPlatform@onmicrosoft.com,,Insights Apps Platform Role,2022-05-20T19:40:44Z
+9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7,68f2d372-e1a5-4298-9a93-4b39757caf93,# InsightsAppsPlatform,InsightsAppsPlatform@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7,ab8b8c58-1f50-4037-8b26-7523d6145cc3,# InsightsAppsPlatform,InsightsAppsPlatform@onmicrosoft.com,,Async ingestion,2023-04-24T01:35:26Z
+9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7,3b305bc7-5cf5-464b-985e-d6237f6496f1,# InsightsAppsPlatform,InsightsAppsPlatform@onmicrosoft.com,,Service Deleter,2022-02-11T20:17:33Z
+92b516af-7f0f-ed11-b83c-000d3ab9e773,494d392f-d3f4-42ba-af49-30c6f41e6093,# AppDeploymentOrchestration,AppDeploymentOrchestration@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+92b516af-7f0f-ed11-b83c-000d3ab9e773,68f2d372-e1a5-4298-9a93-4b39757caf93,# AppDeploymentOrchestration,AppDeploymentOrchestration@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+92b516af-7f0f-ed11-b83c-000d3ab9e773,1bb44f6d-15a5-48aa-a2f2-8d2cb0095d2d,# AppDeploymentOrchestration,AppDeploymentOrchestration@onmicrosoft.com,,App Deployment Orchestration Role,2022-06-18T19:42:27Z
+92b516af-7f0f-ed11-b83c-000d3ab9e773,3b305bc7-5cf5-464b-985e-d6237f6496f1,# AppDeploymentOrchestration,AppDeploymentOrchestration@onmicrosoft.com,,Service Deleter,2022-02-11T20:17:33Z
+8a4e80c9-a6db-eb11-bacb-000d3aba42cf,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# AIBuilder_StructuredML_Prod_CDS,AIBuilder_StructuredML_Prod_CDS@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+8a4e80c9-a6db-eb11-bacb-000d3aba42cf,494d392f-d3f4-42ba-af49-30c6f41e6093,# AIBuilder_StructuredML_Prod_CDS,AIBuilder_StructuredML_Prod_CDS@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+8a4e80c9-a6db-eb11-bacb-000d3aba42cf,e57bff35-58b4-4725-aee2-40fb18f4c8bd,# AIBuilder_StructuredML_Prod_CDS,AIBuilder_StructuredML_Prod_CDS@onmicrosoft.com,,AIB Roles,2021-05-01T00:39:19Z
+8a4e80c9-a6db-eb11-bacb-000d3aba42cf,68f2d372-e1a5-4298-9a93-4b39757caf93,# AIBuilder_StructuredML_Prod_CDS,AIBuilder_StructuredML_Prod_CDS@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+8a4e80c9-a6db-eb11-bacb-000d3aba42cf,3f199ebd-977e-43e5-abe5-fe865a1f2904,# AIBuilder_StructuredML_Prod_CDS,AIBuilder_StructuredML_Prod_CDS@onmicrosoft.com,,AIB SML Roles,2021-07-03T02:30:56Z
+75053526-abdd-eb11-bacb-000d3aba4ed5,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Divya Sumangala,Divya.s@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:02Z
+75053526-abdd-eb11-bacb-000d3aba4ed5,f1051237-de7e-4d12-8562-c1becfe03c42,Divya Sumangala,Divya.s@paramountassure.com,,Customer service app access,2021-05-25T12:23:02Z
+75053526-abdd-eb11-bacb-000d3aba4ed5,c15682e6-5481-45c6-b1b7-e28cda116159,Divya Sumangala,Divya.s@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:35Z
+1a695fbd-b4df-eb11-bacb-000d3aba4ed5,5464d532-3129-4dc8-ac31-07cbf98fc2d8,CRM -Admin,crm.admin@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+1a695fbd-b4df-eb11-bacb-000d3aba4ed5,61ae5738-3a67-48e3-bf1a-73551ed6a812,CRM -Admin,crm.admin@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+1a695fbd-b4df-eb11-bacb-000d3aba4ed5,fb5973e1-e623-4dfa-b5f8-78f7c8054e96,CRM -Admin,crm.admin@paramountassure.com,,System Administrator,2021-05-25T12:22:19Z
+1a695fbd-b4df-eb11-bacb-000d3aba4ed5,8698c9c9-3f99-4e36-828a-c66c3c18c41b,CRM -Admin,crm.admin@paramountassure.com,,PCS Sales User,2021-05-25T12:22:19Z
+626fe506-9bf2-eb11-94ef-000d3aba6d30,31e98577-700a-4d6b-9f81-007a0f2ab25c,Adel Radwan A E,ecb721c184bd424ead9dc296f03d65b5Adel.r@paramountassure.com,,Basic User,2021-05-25T12:22:40Z
+626fe506-9bf2-eb11-94ef-000d3aba6d30,b584d6bf-8d31-41f3-a4cd-5aa7f7dac6e1,Adel Radwan A E,ecb721c184bd424ead9dc296f03d65b5Adel.r@paramountassure.com,,Customer service app access,2021-05-25T12:22:40Z
+626fe506-9bf2-eb11-94ef-000d3aba6d30,98b1beac-1504-4e3d-a9c5-eebcd0673ada,Adel Radwan A E,ecb721c184bd424ead9dc296f03d65b5Adel.r@paramountassure.com,,PCS Sales User,2021-05-25T12:22:40Z
+626fe506-9bf2-eb11-94ef-000d3aba6d30,a32a29cb-e882-4760-a547-f68b5cd44b78,Adel Radwan A E,ecb721c184bd424ead9dc296f03d65b5Adel.r@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:40Z
+e20963f7-7df3-eb11-94ef-000d3aba6d30,96d156c8-00aa-eb11-8236-0022489b4c66,Kalyan Kaskar,Kalyan.k@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+0f7386ee-9b28-ef11-840a-000d3ad96d4c,cad52a75-568c-e611-80d4-00155d42a122,Nawraa Alshowaikh,nawraa.a@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+b23c506b-3d0c-ef11-9f89-000d3ad9703b,cad52a75-568c-e611-80d4-00155d42a122,Asheesh Shukla,asheesh.s@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+ee82b819-4229-ec11-b6e5-000d3ada45f6,494d392f-d3f4-42ba-af49-30c6f41e6093,# Deflection,Deflection@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+ee82b819-4229-ec11-b6e5-000d3ada45f6,c95980b3-97dc-4762-a037-c15fe02dae8c,# Deflection,Deflection@onmicrosoft.com,,Deflection Service Role,2022-07-22T22:12:16Z
+d51833bb-d023-ec11-b6e5-000d3adb194e,02123b67-66ae-4a69-8cdc-6473b94ad1a9,# TPSProxyService,TPSProxyService@onmicrosoft.com,,BusinessApplicationPlatformRole,2021-05-01T00:21:47Z
+eb1833bb-d023-ec11-b6e5-000d3adb194e,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnector,Flow-CDSNativeConnector@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+5df24e86-4fae-ec11-9840-000d3adc2ba7,cad52a75-568c-e611-80d4-00155d42a122,Rahul Arun,Rahul.a@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+ff0065b3-b7b1-ec11-9840-000d3adc2ba7,cad52a75-568c-e611-80d4-00155d42a122,Dheeraj Tolaney,Dheeraj.t@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+1b991aeb-dd77-ee11-8179-000d3adc8967,cad52a75-568c-e611-80d4-00155d42a122,Vaishal Mehta,Vaishal.m@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+6c2d2195-c58c-ed11-81ad-000d3adc8967,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Pradeep Perinchery,Pradeep@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+6c2d2195-c58c-ed11-81ad-000d3adc8967,301ef12e-04c7-46fb-8ffb-b136ab19788a,Pradeep Perinchery,Pradeep@paramountassure.com,,PCS BU Manager,2021-05-25T12:22:19Z
+f4d61f41-86b7-ed11-83fe-000d3adc8967,cad52a75-568c-e611-80d4-00155d42a122,Renju Kumar,Renju.k@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+dba1d204-37f2-ed11-8849-000d3adc8967,cad52a75-568c-e611-80d4-00155d42a122,Amr Ezzat Sayed Hassan,Amr@ahlancyber.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+93b67866-8a19-ee11-8f6d-000d3adc8967,cad52a75-568c-e611-80d4-00155d42a122,Arputharaj Moideen,arputharaj.m@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+c26691c2-1d1f-ee11-9966-000d3adc8967,cad52a75-568c-e611-80d4-00155d42a122,Shefeeh Malakuzhiyil,shefeeh.m@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+72812fda-6d24-ee11-9cbc-000d3adc8967,46cd56c8-00aa-eb11-8236-0022489b4c66,Nuzhath Khan,nuzhath.k@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+51ea521b-63ac-ed11-aad0-000d3adc8967,70a8cd50-bd80-ec11-8d21-000d3adf7ec1,Mohammad Hussain Shaik,Mohammad.h@paramountassure.com,,PCS Business Development Manager,2023-04-19T08:37:30Z
+51ea521b-63ac-ed11-aad0-000d3adc8967,cad52a75-568c-e611-80d4-00155d42a122,Mohammad Hussain Shaik,Mohammad.h@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+51ea521b-63ac-ed11-aad0-000d3adc8967,3dac4d9e-568c-e611-80d4-00155d42a122,Mohammad Hussain Shaik,Mohammad.h@paramountassure.com,,Customer service app access,2021-05-01T01:47:06Z
+51ea521b-63ac-ed11-aad0-000d3adc8967,46cd56c8-00aa-eb11-8236-0022489b4c66,Mohammad Hussain Shaik,Mohammad.h@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+faf051c4-9a9b-ed11-aad1-000d3adc8967,cad52a75-568c-e611-80d4-00155d42a122,Divya Raj,Divya.raj@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+c2710d15-fe30-ee11-bdf4-000d3adc8967,cad52a75-568c-e611-80d4-00155d42a122,Ankur Mehta,3465b2e2391747f5bc2841234bd91521ankur.m@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+48747db0-413b-ee11-bdf4-000d3adc8967,cad52a75-568c-e611-80d4-00155d42a122,Sourabh Suri,sourabh@ahlancyber.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+b8da777f-3a60-ec11-8f8f-000d3adcc269,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# CCAAnalytics,CCAAnalytics@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+b8da777f-3a60-ec11-8f8f-000d3adcc269,09686f40-772a-42d8-98ca-199483b1b275,# CCAAnalytics,CCAAnalytics@onmicrosoft.com,,CCA Analytics App,2022-05-13T21:48:30Z
+b8da777f-3a60-ec11-8f8f-000d3adcc269,494d392f-d3f4-42ba-af49-30c6f41e6093,# CCAAnalytics,CCAAnalytics@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+b8da777f-3a60-ec11-8f8f-000d3adcc269,68f2d372-e1a5-4298-9a93-4b39757caf93,# CCAAnalytics,CCAAnalytics@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+b8da777f-3a60-ec11-8f8f-000d3adcc269,8278be3d-dd12-4187-aac6-69a0543ebd85,# CCAAnalytics,CCAAnalytics@onmicrosoft.com,,Power BI Embedded App Access,2022-06-10T23:04:29Z
+b8da777f-3a60-ec11-8f8f-000d3adcc269,896a28e5-678d-4fa8-ad59-c606d1aa98ce,# CCAAnalytics,CCAAnalytics@onmicrosoft.com,,DataProcessingConfigTableAppAccess,2022-03-05T20:58:54Z
+9cd8515e-90ac-ec11-9841-000d3adcf107,60b66ae1-fd75-44ca-b494-10169bb07998,# GlobalActiveMetricsMonitoringAlerting,GlobalActiveMetricsMonitoringAlerting@onmicrosoft.com,,Global Active Metrics Monitoring Alerting Custom Role,2022-03-25T22:46:30Z
+04abe273-7eba-eb11-8235-000d3adda42c,f75f4034-068a-463c-ba85-0ae80ad5aecd,# Flow-RP,Flow-RP@onmicrosoft.com,,Flow-RP Role,2021-05-01T00:21:47Z
+1507681c-6c4b-ec11-8c62-000d3addb5d9,cad52a75-568c-e611-80d4-00155d42a122,Prem Prasad,Prem.p@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+0dd127ed-304d-ec11-8c62-000d3addb5d9,cad52a75-568c-e611-80d4-00155d42a122,Hazem Amin Mohamed,Hazem.a@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+9355b12c-9747-ec11-8c62-000d3addd641,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Deepthy Surendran Nambiar,Deepthy.sn@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+9355b12c-9747-ec11-8c62-000d3addd641,61ae5738-3a67-48e3-bf1a-73551ed6a812,Deepthy Surendran Nambiar,Deepthy.sn@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+9355b12c-9747-ec11-8c62-000d3addd641,6716df0e-7efd-4f4b-9158-c45ef7f15bfc,Deepthy Surendran Nambiar,Deepthy.sn@paramountassure.com,,Paramount MSS Analyst,2022-03-09T09:39:45Z
+ffecdb91-1bbe-eb11-bacc-000d3ade3348,96d156c8-00aa-eb11-8236-0022489b4c66,Mathivathani Devaraj,Mathivathani.d@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+2ad0086a-e5be-eb11-bacc-000d3ade3348,eef96238-7bf1-4b60-8ae4-01db3ef05317,Priyank Johari,6ee750d0d77e42558648cdc9e98643c7Priyank.j@paramountassure.com,,Basic User,2021-05-25T12:22:19Z
+2ad0086a-e5be-eb11-bacc-000d3ade3348,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Priyank Johari,6ee750d0d77e42558648cdc9e98643c7Priyank.j@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+2ad0086a-e5be-eb11-bacc-000d3ade3348,833974ed-68e3-4b75-b286-6ec0910b00f8,Priyank Johari,6ee750d0d77e42558648cdc9e98643c7Priyank.j@paramountassure.com,,PCS Marketing User,2021-05-25T12:22:19Z
+2cd0086a-e5be-eb11-bacc-000d3ade3348,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Nitin Rajotia,Nitin.r@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+2cd0086a-e5be-eb11-bacc-000d3ade3348,10f98a2a-c34f-41e6-a158-6620fe31729b,Nitin Rajotia,Nitin.r@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+2cd0086a-e5be-eb11-bacc-000d3ade3348,301ef12e-04c7-46fb-8ffb-b136ab19788a,Nitin Rajotia,Nitin.r@paramountassure.com,,PCS BU Manager,2021-05-25T12:22:19Z
+edba1d70-e5be-eb11-bacc-000d3ade3348,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Swathi Ashok,4696bbdd7328409f80cdd7cc01dcf837Swathi.a@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+edba1d70-e5be-eb11-bacc-000d3ade3348,10f98a2a-c34f-41e6-a158-6620fe31729b,Swathi Ashok,4696bbdd7328409f80cdd7cc01dcf837Swathi.a@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+edba1d70-e5be-eb11-bacc-000d3ade3348,8698c9c9-3f99-4e36-828a-c66c3c18c41b,Swathi Ashok,4696bbdd7328409f80cdd7cc01dcf837Swathi.a@paramountassure.com,,PCS Sales User,2021-05-25T12:22:19Z
+c4071676-e5be-eb11-bacc-000d3ade3348,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Abdullah Dalle,Abdullah.d@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:02Z
+c4071676-e5be-eb11-bacc-000d3ade3348,01728372-7e2a-428f-bcc9-45b03498ec65,Abdullah Dalle,Abdullah.d@paramountassure.com,,Basic User,2021-05-25T12:23:02Z
+c4071676-e5be-eb11-bacc-000d3ade3348,f1051237-de7e-4d12-8562-c1becfe03c42,Abdullah Dalle,Abdullah.d@paramountassure.com,,Customer service app access,2021-05-25T12:23:02Z
+c4071676-e5be-eb11-bacc-000d3ade3348,2454bedc-2065-4e2d-91c7-df446702e181,Abdullah Dalle,Abdullah.d@paramountassure.com,,PCS Sales User,2021-05-25T12:23:02Z
+e1071676-e5be-eb11-bacc-000d3ade3348,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Jathin Das J B,Jathin@ahlancyber.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:02Z
+e1071676-e5be-eb11-bacc-000d3ade3348,01728372-7e2a-428f-bcc9-45b03498ec65,Jathin Das J B,Jathin@ahlancyber.com,,Basic User,2021-05-25T12:23:02Z
+e1071676-e5be-eb11-bacc-000d3ade3348,de7c6374-1532-4491-8c28-74207bbfe7e3,Jathin Das J B,Jathin@ahlancyber.com,,PCS Presales User,2021-05-25T12:23:02Z
+e1071676-e5be-eb11-bacc-000d3ade3348,814606fd-e146-41ce-a050-aa5bb055f072,Jathin Das J B,Jathin@ahlancyber.com,,Sales Enterprise app access,2021-05-25T12:23:02Z
+e1071676-e5be-eb11-bacc-000d3ade3348,f1051237-de7e-4d12-8562-c1becfe03c42,Jathin Das J B,Jathin@ahlancyber.com,,Customer service app access,2021-05-25T12:23:02Z
+e5071676-e5be-eb11-bacc-000d3ade3348,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Ashhad Alam,Ashhad.a@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:02Z
+e5071676-e5be-eb11-bacc-000d3ade3348,814606fd-e146-41ce-a050-aa5bb055f072,Ashhad Alam,Ashhad.a@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:23:02Z
+e5071676-e5be-eb11-bacc-000d3ade3348,2454bedc-2065-4e2d-91c7-df446702e181,Ashhad Alam,Ashhad.a@paramountassure.com,,PCS Sales User,2021-05-25T12:23:02Z
+e5071676-e5be-eb11-bacc-000d3ade3348,58630023-a0f2-43dd-b951-f5a420124d18,Ashhad Alam,Ashhad.a@paramountassure.com,,System Administrator,2021-05-25T12:23:02Z
+e7071676-e5be-eb11-bacc-000d3ade3348,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Sandeepa Dutt,Sandeepa.d@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:02Z
+e7071676-e5be-eb11-bacc-000d3ade3348,01728372-7e2a-428f-bcc9-45b03498ec65,Sandeepa Dutt,Sandeepa.d@paramountassure.com,,Basic User,2021-05-25T12:23:02Z
+e7071676-e5be-eb11-bacc-000d3ade3348,34886658-2ccc-4b2f-9301-5383c14b8a2a,Sandeepa Dutt,Sandeepa.d@paramountassure.com,,PCS Renewal Sales,2021-07-14T07:49:03Z
+e7071676-e5be-eb11-bacc-000d3ade3348,814606fd-e146-41ce-a050-aa5bb055f072,Sandeepa Dutt,Sandeepa.d@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:23:02Z
+e7071676-e5be-eb11-bacc-000d3ade3348,f1051237-de7e-4d12-8562-c1becfe03c42,Sandeepa Dutt,Sandeepa.d@paramountassure.com,,Customer service app access,2021-05-25T12:23:02Z
+1b081676-e5be-eb11-bacc-000d3ade3348,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Ashish Pradhan,Ashish.p@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+1b081676-e5be-eb11-bacc-000d3ade3348,10f98a2a-c34f-41e6-a158-6620fe31729b,Ashish Pradhan,Ashish.p@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+1b081676-e5be-eb11-bacc-000d3ade3348,8698c9c9-3f99-4e36-828a-c66c3c18c41b,Ashish Pradhan,Ashish.p@paramountassure.com,,PCS Sales User,2021-05-25T12:22:19Z
+a5081676-e5be-eb11-bacc-000d3ade3348,eef96238-7bf1-4b60-8ae4-01db3ef05317,Deepa Jayakumar,Deepa@paramountassure.com,,Basic User,2021-05-25T12:22:19Z
+a5081676-e5be-eb11-bacc-000d3ade3348,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Deepa Jayakumar,Deepa@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+a5081676-e5be-eb11-bacc-000d3ade3348,10f98a2a-c34f-41e6-a158-6620fe31729b,Deepa Jayakumar,Deepa@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+a5081676-e5be-eb11-bacc-000d3ade3348,3e8e07b6-a743-49de-9c07-b5ed7dcb8ea1,Deepa Jayakumar,Deepa@paramountassure.com,,PCS Renewal Sales,2021-07-14T07:49:03Z
+ab081676-e5be-eb11-bacc-000d3ade3348,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Sojy Vengal Oommen,Sojy.o@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:02Z
+ab081676-e5be-eb11-bacc-000d3ade3348,01728372-7e2a-428f-bcc9-45b03498ec65,Sojy Vengal Oommen,Sojy.o@paramountassure.com,,Basic User,2021-05-25T12:23:02Z
+ab081676-e5be-eb11-bacc-000d3ade3348,f1051237-de7e-4d12-8562-c1becfe03c42,Sojy Vengal Oommen,Sojy.o@paramountassure.com,,Customer service app access,2021-05-25T12:23:02Z
+ab081676-e5be-eb11-bacc-000d3ade3348,2454bedc-2065-4e2d-91c7-df446702e181,Sojy Vengal Oommen,Sojy.o@paramountassure.com,,PCS Sales User,2021-05-25T12:23:02Z
+241ead33-e9bd-eb11-bacc-000d3ade3673,b6d2af81-b9f3-49f5-be36-2c9a8e856e1e,Yasser Tanany,Yasser.t@pcskuwait.com,,Sales Enterprise app access,2021-05-25T12:23:12Z
+241ead33-e9bd-eb11-bacc-000d3ade3673,4ca55d0c-3396-44b2-a783-556374f100de,Yasser Tanany,Yasser.t@pcskuwait.com,,Basic User,2021-05-25T12:23:12Z
+241ead33-e9bd-eb11-bacc-000d3ade3673,6e25b396-f450-44b0-8f50-74aa965c050e,Yasser Tanany,Yasser.t@pcskuwait.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:12Z
+241ead33-e9bd-eb11-bacc-000d3ade3673,b224c529-9045-478d-b837-b79e8f1257dc,Yasser Tanany,Yasser.t@pcskuwait.com,,PCS Country Manager,2021-05-25T12:23:12Z
+1f84d15e-3f27-ec11-b6e5-000d3ade5275,d58407f2-48d5-e711-a82c-000d3a37c848,D365 Admin,D365admin@paramountassure.com,,Environment Maker,2021-04-30T22:53:41Z
+41435676-ec67-ec11-8f8f-000d3ade64e5,46cd56c8-00aa-eb11-8236-0022489b4c66,Pavan Kumar Chennupati,d23d8019606842f181475ebe02716475Pavankumar.c@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+a60bd48b-ab1a-ec11-b6e6-000d3adf021a,cad52a75-568c-e611-80d4-00155d42a122,Nadim Muhammed,Nadim@ahlancyber.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+2aef13e2-9d82-ec11-8d21-000d3adf7dc6,cad52a75-568c-e611-80d4-00155d42a122,Venkatakrishnan Sowrirajan,Venkatakrishnan.s@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+21dcaf28-4cab-ec11-983f-000d3adf9c9b,cad52a75-568c-e611-80d4-00155d42a122,Apurva Gupta,Apurva.g@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+21dcaf28-4cab-ec11-983f-000d3adf9c9b,3dac4d9e-568c-e611-80d4-00155d42a122,Apurva Gupta,Apurva.g@paramountassure.com,,Customer service app access,2021-05-01T01:47:06Z
+21dcaf28-4cab-ec11-983f-000d3adf9c9b,46cd56c8-00aa-eb11-8236-0022489b4c66,Apurva Gupta,Apurva.g@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+c2e3883f-86b7-ed11-83ff-0022489a24b8,cad52a75-568c-e611-80d4-00155d42a122,Sachin Chougule,sachin.c@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+6eaeb678-3c5c-ed11-9562-0022489a24b8,46cd56c8-00aa-eb11-8236-0022489b4c66,Jayesh Vasu Devadiga,Jayesh.d@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+f20bbf77-ac76-ee11-8179-0022489b4696,a855e539-7253-43d3-9ee5-43ea042b7823,# PowerPlatformAuthorization,PowerPlatformAuthorization@onmicrosoft.com,,Global Discovery Service Role,2021-05-01T00:21:48Z
+f35cb77d-ac76-ee11-8179-0022489b4696,46cd56c8-00aa-eb11-8236-0022489b4c66,# PowerPlatformEnvironmentManagement,PowerPlatformEnvironmentManagement@onmicrosoft.com,,System Administrator,2021-04-30T22:09:52Z
+6654db69-f71d-ef11-840b-0022489b4696,84012ef2-00bd-412e-8654-b1e3a90feafc,# PowerAutomate-AiFlowsAppUser-Web,PowerAutomate-AiFlowsAppUser-Web@onmicrosoft.com,,Power Automate AI Flows Application User,2024-05-29T20:09:53Z
+24e21576-f71d-ef11-840b-0022489b4696,84012ef2-00bd-412e-8654-b1e3a90feafc,# PowerAutomate-AiFlowsAppUser-Worker,PowerAutomate-AiFlowsAppUser-Worker@onmicrosoft.com,,Power Automate AI Flows Application User,2024-05-29T20:09:53Z
+7bd1db90-7fc0-ee11-907a-0022489b4696,494d392f-d3f4-42ba-af49-30c6f41e6093,# Contact Center,ContactCenter@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+7bd1db90-7fc0-ee11-907a-0022489b4696,68f2d372-e1a5-4298-9a93-4b39757caf93,# Contact Center,ContactCenter@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+b12f8297-7fc0-ee11-907a-0022489b4696,f7f90019-dc14-e911-816a-000d3a069ebd,# Contact Center Secondary,ContactCenterSecondary@onmicrosoft.com,,Omnichannel administrator,2022-02-26T23:32:54Z
+b12f8297-7fc0-ee11-907a-0022489b4696,c30bdbfe-7553-e811-8147-000d3aa39708,# Contact Center Secondary,ContactCenterSecondary@onmicrosoft.com,,Omnichannel agent,2023-03-01T19:15:33Z
+b12f8297-7fc0-ee11-907a-0022489b4696,e4435009-7653-e811-8147-000d3aa39708,# Contact Center Secondary,ContactCenterSecondary@onmicrosoft.com,,Omnichannel supervisor,2023-03-01T19:15:42Z
+b12f8297-7fc0-ee11-907a-0022489b4696,494d392f-d3f4-42ba-af49-30c6f41e6093,# Contact Center Secondary,ContactCenterSecondary@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+b12f8297-7fc0-ee11-907a-0022489b4696,68f2d372-e1a5-4298-9a93-4b39757caf93,# Contact Center Secondary,ContactCenterSecondary@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+b12f8297-7fc0-ee11-907a-0022489b4696,3b305bc7-5cf5-464b-985e-d6237f6496f1,# Contact Center Secondary,ContactCenterSecondary@onmicrosoft.com,,Service Deleter,2022-02-11T20:17:33Z
+be2f8297-7fc0-ee11-907a-0022489b4696,494d392f-d3f4-42ba-af49-30c6f41e6093,# Contact Center Diagnostics,ContactCenterDiagnostics@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+be2f8297-7fc0-ee11-907a-0022489b4696,68f2d372-e1a5-4298-9a93-4b39757caf93,# Contact Center Diagnostics,ContactCenterDiagnostics@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+cb2f8297-7fc0-ee11-907a-0022489b4696,494d392f-d3f4-42ba-af49-30c6f41e6093,# URAssignment,URAssignment@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+cb2f8297-7fc0-ee11-907a-0022489b4696,68f2d372-e1a5-4298-9a93-4b39757caf93,# URAssignment,URAssignment@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+cb2f8297-7fc0-ee11-907a-0022489b4696,dad4c8cd-aab9-ee11-a568-6045bd07894c,# URAssignment,URAssignment@onmicrosoft.com,,Omnichannel Assignment API access,2024-04-15T19:09:01Z
+cb2f8297-7fc0-ee11-907a-0022489b4696,3b305bc7-5cf5-464b-985e-d6237f6496f1,# URAssignment,URAssignment@onmicrosoft.com,,Service Deleter,2022-02-11T20:17:33Z
+d64c239c-9b6c-ef11-a670-0022489b4696,15bcda22-775e-4f2c-bdf5-e7c1f39d3919,# Dynamics 365 Copilot for Sales,Dynamics365CopilotforSales@onmicrosoft.com,,Copilot for Sales Integration User,2024-09-06T22:01:50Z
+fa640371-cc99-ed11-aad1-0022489b4696,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorSingapore,Flow-CDSNativeConnectorSingapore@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+464f568b-197d-ef11-ac21-0022489b4696,e9a54b07-f763-45a1-88e7-0b67bbe18cf2,# Power Policy Prod,PowerPolicyProd@onmicrosoft.com,,Power Policy App User Role,2024-11-09T18:41:51Z
+773868ba-6d53-ef11-bfe3-0022489b4696,f7f90019-dc14-e911-816a-000d3a069ebd,# Contact Center Management App - Public,ContactCenterManagementApp-Public@onmicrosoft.com,,Omnichannel administrator,2022-02-26T23:32:54Z
+ef419352-2555-ef11-bfe3-0022489b4696,494d392f-d3f4-42ba-af49-30c6f41e6093,# Portal RP Service,PortalRPService@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+ef419352-2555-ef11-bfe3-0022489b4696,b21a7144-299d-4c21-a116-30f60e9c159a,# Portal RP Service,PortalRPService@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+ef419352-2555-ef11-bfe3-0022489b4696,68f2d372-e1a5-4298-9a93-4b39757caf93,# Portal RP Service,PortalRPService@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+ef419352-2555-ef11-bfe3-0022489b4696,3b305bc7-5cf5-464b-985e-d6237f6496f1,# Portal RP Service,PortalRPService@onmicrosoft.com,,Service Deleter,2022-02-11T20:17:33Z
+ef419352-2555-ef11-bfe3-0022489b4696,cc181d27-3ce6-41e8-b0f4-d951496afcfd,# Portal RP Service,PortalRPService@onmicrosoft.com,,Portal RP Service Role,2024-08-08T01:27:09Z
+2b596895-2555-ef11-bfe3-0022489b4696,68f2d372-e1a5-4298-9a93-4b39757caf93,# PowerPages Data Runtime PROD,PowerPagesDataRuntimePROD@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+2b596895-2555-ef11-bfe3-0022489b4696,a75a6d67-1730-4298-8fc7-af7e93064fa1,# PowerPages Data Runtime PROD,PowerPagesDataRuntimePROD@onmicrosoft.com,,Portal Application User,2022-11-06T19:26:55Z
+2b596895-2555-ef11-bfe3-0022489b4696,3b305bc7-5cf5-464b-985e-d6237f6496f1,# PowerPages Data Runtime PROD,PowerPagesDataRuntimePROD@onmicrosoft.com,,Service Deleter,2022-02-11T20:17:33Z
+34d456c8-00aa-eb11-8236-0022489b4c66,532f6506-3bbd-eb11-bacc-000d3ade3348,Subramanian P #,Subbu.p@paramountassure.com,,PCS Sales User,2021-05-25T09:24:40Z
+34d456c8-00aa-eb11-8236-0022489b4c66,cad52a75-568c-e611-80d4-00155d42a122,Subramanian P #,Subbu.p@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+34d456c8-00aa-eb11-8236-0022489b4c66,3dac4d9e-568c-e611-80d4-00155d42a122,Subramanian P #,Subbu.p@paramountassure.com,,Customer service app access,2021-05-01T01:47:06Z
+34d456c8-00aa-eb11-8236-0022489b4c66,46cd56c8-00aa-eb11-8236-0022489b4c66,Subramanian P #,Subbu.p@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+34d456c8-00aa-eb11-8236-0022489b4c66,96d156c8-00aa-eb11-8236-0022489b4c66,Subramanian P #,Subbu.p@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+34d456c8-00aa-eb11-8236-0022489b4c66,c20bc7ba-6506-ec11-94ef-0022489c0f78,Subramanian P #,Subbu.p@paramountassure.com,,Paramount Support Admin,2021-08-26T12:04:15Z
+34d456c8-00aa-eb11-8236-0022489b4c66,e4f59ed6-8c9f-ec11-b400-0022489cbe08,Subramanian P #,Subbu.p@paramountassure.com,,Paramount MSS Analyst,2022-03-09T09:39:44Z
+34d456c8-00aa-eb11-8236-0022489b4c66,01c5e532-8d9f-ec11-b400-0022489cbe08,Subramanian P #,Subbu.p@paramountassure.com,,Paramount MSS Engineer,2022-03-09T09:42:19Z
+34d456c8-00aa-eb11-8236-0022489b4c66,2407db5e-edae-4e36-9be1-fd61d4d15809,Subramanian P #,Subbu.p@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-01T03:25:34Z
+066e2276-08aa-eb11-8236-0022489b4c66,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# PpdfCDSClient,PpdfCDSClient@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+066e2276-08aa-eb11-8236-0022489b4c66,46cd56c8-00aa-eb11-8236-0022489b4c66,# PpdfCDSClient,PpdfCDSClient@onmicrosoft.com,,System Administrator,2021-04-30T22:09:52Z
+066e2276-08aa-eb11-8236-0022489b4c66,8cd056c8-00aa-eb11-8236-0022489b4c66,# PpdfCDSClient,PpdfCDSClient@onmicrosoft.com,,Delegate,2021-04-30T22:09:54Z
+066e2276-08aa-eb11-8236-0022489b4c66,68f2d372-e1a5-4298-9a93-4b39757caf93,# PpdfCDSClient,PpdfCDSClient@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+066e2276-08aa-eb11-8236-0022489b4c66,f2550a3a-f9c6-4409-bf77-8d4ceadb27ab,# PpdfCDSClient,PpdfCDSClient@onmicrosoft.com,,Power Platform Dataflows Service Role,2023-07-02T19:05:07Z
+a239aad0-0aaa-eb11-8236-0022489b4c66,9f572d55-6090-493b-904a-3956bdc55343,# PowerAutomate-MachineManagementRelay,PowerAutomate-MachineManagementRelay@onmicrosoft.com,,Desktop Flows Machine Application User,2021-04-30T23:21:40Z
+e58458c7-0baa-eb11-8236-0022489b4c66,d58407f2-48d5-e711-a82c-000d3a37c848,# Microsoft Copilot Studio,MicrosoftCopilotStudio@onmicrosoft.com,,Environment Maker,2021-04-30T22:53:41Z
+e58458c7-0baa-eb11-8236-0022489b4c66,a1801436-efd6-e811-a96e-000d3a3ab886,# Microsoft Copilot Studio,MicrosoftCopilotStudio@onmicrosoft.com,,CCI admin,2021-04-30T23:26:06Z
+e58458c7-0baa-eb11-8236-0022489b4c66,97d156c8-00aa-eb11-8236-0022489b4c66,# Microsoft Copilot Studio,MicrosoftCopilotStudio@onmicrosoft.com,,System Customizer,2021-04-30T22:09:55Z
+c4a97839-13aa-eb11-8236-0022489b4c66,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# D365OfficeDataSvc,D365OfficeDataSvc@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+cea97839-13aa-eb11-8236-0022489b4c66,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# Dynamics365Athena,Dynamics365Athena@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+cea97839-13aa-eb11-8236-0022489b4c66,8a2f35d9-e447-4285-974c-81382317ca21,# Dynamics365Athena,Dynamics365Athena@onmicrosoft.com,,Bulk Archival Role,2022-04-15T20:03:09Z
+cea97839-13aa-eb11-8236-0022489b4c66,7be5a395-6b58-4f8c-908f-97dc8810fc50,# Dynamics365Athena,Dynamics365Athena@onmicrosoft.com,,EAC Reader App Access,2021-04-30T23:02:35Z
+2c50733f-13aa-eb11-8236-0022489b4c66,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# Dynamics365Athena2,Dynamics365Athena2@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+2c50733f-13aa-eb11-8236-0022489b4c66,494d392f-d3f4-42ba-af49-30c6f41e6093,# Dynamics365Athena2,Dynamics365Athena2@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+2c50733f-13aa-eb11-8236-0022489b4c66,b21a7144-299d-4c21-a116-30f60e9c159a,# Dynamics365Athena2,Dynamics365Athena2@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+2c50733f-13aa-eb11-8236-0022489b4c66,8a2f35d9-e447-4285-974c-81382317ca21,# Dynamics365Athena2,Dynamics365Athena2@onmicrosoft.com,,Bulk Archival Role,2022-04-15T20:03:09Z
+2c50733f-13aa-eb11-8236-0022489b4c66,7be5a395-6b58-4f8c-908f-97dc8810fc50,# Dynamics365Athena2,Dynamics365Athena2@onmicrosoft.com,,EAC Reader App Access,2021-04-30T23:02:35Z
+2c50733f-13aa-eb11-8236-0022489b4c66,896a28e5-678d-4fa8-ad59-c606d1aa98ce,# Dynamics365Athena2,Dynamics365Athena2@onmicrosoft.com,,DataProcessingConfigTableAppAccess,2022-03-05T20:58:54Z
+3650733f-13aa-eb11-8236-0022489b4c66,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# PowerQueryOnline,PowerQueryOnline@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+4050733f-13aa-eb11-8236-0022489b4c66,896a28e5-678d-4fa8-ad59-c606d1aa98ce,# EnterpriseSales,EnterpriseSales@onmicrosoft.com,,DataProcessingConfigTableAppAccess,2022-03-05T20:58:54Z
+4a50733f-13aa-eb11-8236-0022489b4c66,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# DataLakeStorage,DataLakeStorage@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+4a50733f-13aa-eb11-8236-0022489b4c66,896a28e5-678d-4fa8-ad59-c606d1aa98ce,# DataLakeStorage,DataLakeStorage@onmicrosoft.com,,DataProcessingConfigTableAppAccess,2022-03-05T20:58:54Z
+5450733f-13aa-eb11-8236-0022489b4c66,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# AriaMdlExporter,AriaMdlExporter@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+5e50733f-13aa-eb11-8236-0022489b4c66,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# ProductInsights,ProductInsights@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+6850733f-13aa-eb11-8236-0022489b4c66,46cd56c8-00aa-eb11-8236-0022489b4c66,# JobsServiceProd,JobsServiceProd@onmicrosoft.com,,System Administrator,2021-04-30T22:09:52Z
+7250733f-13aa-eb11-8236-0022489b4c66,d110d819-9b72-430f-894a-94dc87e04519,# CDSFileStorage,CDSFileStorage@onmicrosoft.com,,FileStoreService App Access,2021-04-30T23:06:08Z
+7c50733f-13aa-eb11-8236-0022489b4c66,46cd56c8-00aa-eb11-8236-0022489b4c66,# CCADataAnalyticsML,CCADataAnalyticsML@onmicrosoft.com,,System Administrator,2021-04-30T22:09:52Z
+9050733f-13aa-eb11-8236-0022489b4c66,46cd56c8-00aa-eb11-8236-0022489b4c66,# CDSUserManagement,CDSUserManagement@onmicrosoft.com,,System Administrator,2021-04-30T22:09:52Z
+9a50733f-13aa-eb11-8236-0022489b4c66,a855e539-7253-43d3-9ee5-43ea042b7823,# CDSGlobalDiscovery,CDSGlobalDiscovery@onmicrosoft.com,,Global Discovery Service Role,2021-05-01T00:21:48Z
+ae50733f-13aa-eb11-8236-0022489b4c66,02123b67-66ae-4a69-8cdc-6473b94ad1a9,# BAP,BAP@onmicrosoft.com,,BusinessApplicationPlatformRole,2021-05-01T00:21:47Z
+b850733f-13aa-eb11-8236-0022489b4c66,46cd56c8-00aa-eb11-8236-0022489b4c66,# Omnichannel,Omnichannel@onmicrosoft.com,,System Administrator,2021-04-30T22:09:52Z
+2c19b3b6-14aa-eb11-8236-0022489b4c66,494d392f-d3f4-42ba-af49-30c6f41e6093,# BizQA,BizQA@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+2c19b3b6-14aa-eb11-8236-0022489b4c66,88b87c37-1472-4798-ac48-d56509eb6e1d,# BizQA,BizQA@onmicrosoft.com,,BizQAApp,2021-05-01T00:32:29Z
+12f47dad-15aa-eb11-8236-0022489b4c66,e57bff35-58b4-4725-aee2-40fb18f4c8bd,# AIBuilderProd,AIBuilderProd@onmicrosoft.com,,AIB Roles,2021-05-01T00:39:19Z
+c2b851f4-15aa-eb11-8236-0022489b4c66,d58407f2-48d5-e711-a82c-000d3a37c848,# PowerAutomate-ProcessMining,PowerAutomate-ProcessMining@onmicrosoft.com,,Environment Maker,2021-04-30T22:53:41Z
+c2b851f4-15aa-eb11-8236-0022489b4c66,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# PowerAutomate-ProcessMining,PowerAutomate-ProcessMining@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+c2b851f4-15aa-eb11-8236-0022489b4c66,8278be3d-dd12-4187-aac6-69a0543ebd85,# PowerAutomate-ProcessMining,PowerAutomate-ProcessMining@onmicrosoft.com,,Power BI Embedded App Access,2022-06-10T23:04:29Z
+c2b851f4-15aa-eb11-8236-0022489b4c66,737c8c79-7411-4eef-8f7d-e2abe7e7faec,# PowerAutomate-ProcessMining,PowerAutomate-ProcessMining@onmicrosoft.com,,Process Mining Application,2021-05-01T00:41:24Z
+7d560420-16aa-eb11-8236-0022489b4c66,4931681d-8163-e811-a965-000d3a11fe32,Power Apps Checker Application,pacheckerapp@microsoft.com,,Export Customizations (Solution Checker),2021-04-30T23:28:28Z
+7d560420-16aa-eb11-8236-0022489b4c66,e05075eb-9d74-e811-a95c-000d3a1c53e4,Power Apps Checker Application,pacheckerapp@microsoft.com,,Solution Checker,2021-05-01T00:44:59Z
+7d560420-16aa-eb11-8236-0022489b4c66,68f2d372-e1a5-4298-9a93-4b39757caf93,Power Apps Checker Application,pacheckerapp@microsoft.com,,Service Writer,2021-04-30T23:07:25Z
+cc6eeb08-2aaa-eb11-8236-0022489b4c66,7bc42107-2fba-4a47-9d1d-51877a3be378,# Dynamics 365 Sales Forecasting,Dynamics365SalesForecasting@onmicrosoft.com,,Forecast AppUser,2021-05-01T03:05:12Z
+9811da84-2aaa-eb11-8236-0022489b4c66,2c321cf0-f096-ea11-a81a-000d3a6ecd99,# Dynamics 365 Sales,Dynamics365Sales@onmicrosoft.com,,EAC App Access,2021-04-30T23:02:34Z
+9811da84-2aaa-eb11-8236-0022489b4c66,ba60eb02-6cbe-437c-a196-1151a8bd07df,# Dynamics 365 Sales,Dynamics365Sales@onmicrosoft.com,,Sales Lead Research App User Role,2025-05-18T18:17:06Z
+9811da84-2aaa-eb11-8236-0022489b4c66,f6f7455f-bcea-44dc-abbd-7fd51b1cc880,# Dynamics 365 Sales,Dynamics365Sales@onmicrosoft.com,,Sales system access extension,2021-05-01T03:08:41Z
+9811da84-2aaa-eb11-8236-0022489b4c66,79b9f3b0-c8c2-4c1e-9d4c-97f0c38d1401,# Dynamics 365 Sales,Dynamics365Sales@onmicrosoft.com,,Sales Who Knows Whom Search Admin,2023-04-27T19:39:12Z
+9811da84-2aaa-eb11-8236-0022489b4c66,896a28e5-678d-4fa8-ad59-c606d1aa98ce,# Dynamics 365 Sales,Dynamics365Sales@onmicrosoft.com,,DataProcessingConfigTableAppAccess,2022-03-05T20:58:54Z
+9811da84-2aaa-eb11-8236-0022489b4c66,b5b6cb27-47e9-49f7-84bb-f6823fc8461c,# Dynamics 365 Sales,Dynamics365Sales@onmicrosoft.com,,Sales system access,2021-05-01T03:08:42Z
+c2de3a54-2baa-eb11-8236-0022489b4c66,5d667671-6492-4651-a297-cb1a9981e159,# SIAutoCapture,SIAutoCapture@onmicrosoft.com,,SalesInsights AutoCapture Admin,2021-05-01T03:14:23Z
+be359f9b-2daa-eb11-8236-0022489b4c66,46cd56c8-00aa-eb11-8236-0022489b4c66,Microsoft Forms Pro,enterprisesurveyappuser@contoso.com,,System Administrator,2021-04-30T22:09:52Z
+be359f9b-2daa-eb11-8236-0022489b4c66,abce3b01-5697-4973-9d7d-fca48ca84445,Microsoft Forms Pro,enterprisesurveyappuser@contoso.com,,Survey Services Administrator(Deprecated),2021-05-01T03:30:22Z
+5a11eb6b-30aa-eb11-8236-0022489b4c66,d0d056c8-00aa-eb11-8236-0022489b4c66,Support User,crmoln@microsoft.com,,Support User,2021-04-30T22:09:54Z
+6311eb6b-30aa-eb11-8236-0022489b4c66,46cd56c8-00aa-eb11-8236-0022489b4c66,Delegated Admin,crmoln2@microsoft.com,,System Administrator,2021-04-30T22:09:52Z
+82deb0f9-490e-ef11-9f8a-0022489b4d69,57e714ae-debb-4164-9380-58b8585358a8,# PowerPlatformDataAnalytics,PowerPlatformDataAnalytics@onmicrosoft.com,,Power Platform Data Analytics Role,2024-05-09T21:20:37Z
+82deb0f9-490e-ef11-9f8a-0022489b4d69,a0537877-879d-4b70-a391-bb07b94fbba2,# PowerPlatformDataAnalytics,PowerPlatformDataAnalytics@onmicrosoft.com,,DataLakeFolderEntityContributor,2024-05-09T21:20:36Z
+8e775be8-1c58-ef11-bfe3-0022489b4d69,f6f7455f-bcea-44dc-abbd-7fd51b1cc880,# Sales Conversation Intelligence,SalesConversationIntelligence@onmicrosoft.com,,Sales system access extension,2021-05-01T03:08:41Z
+8e775be8-1c58-ef11-bfe3-0022489b4d69,b5b6cb27-47e9-49f7-84bb-f6823fc8461c,# Sales Conversation Intelligence,SalesConversationIntelligence@onmicrosoft.com,,Sales system access,2021-05-01T03:08:42Z
+531a0680-3e24-ef11-840b-0022489b4de1,255ee185-7158-41df-891f-bc3ef9b60365,# D365WorkAssignment2,D365WorkAssignment2@onmicrosoft.com,,Sales Work Assignment API Access,2023-07-22T00:52:11Z
+531a0680-3e24-ef11-840b-0022489b4de1,a567525b-10b3-473d-8665-ef33786e4d26,# D365WorkAssignment2,D365WorkAssignment2@onmicrosoft.com,,Sales Work Assignment API Extended Access,2024-06-06T19:53:36Z
+55f52686-3e24-ef11-840b-0022489b4de1,255ee185-7158-41df-891f-bc3ef9b60365,# D365WorkAssignment3,D365WorkAssignment3@onmicrosoft.com,,Sales Work Assignment API Access,2023-07-22T00:52:11Z
+55f52686-3e24-ef11-840b-0022489b4de1,a567525b-10b3-473d-8665-ef33786e4d26,# D365WorkAssignment3,D365WorkAssignment3@onmicrosoft.com,,Sales Work Assignment API Extended Access,2024-06-06T19:53:36Z
+83eee59a-b4f2-ed11-8849-0022489b4de1,46cd56c8-00aa-eb11-8236-0022489b4c66,# DynamicsInstaller,DynamicsInstaller@onmicrosoft.com,,System Administrator,2021-04-30T22:09:52Z
+f3994dcc-62a4-ef11-8a6b-0022489b4de1,494d392f-d3f4-42ba-af49-30c6f41e6093,# Dataverse Information Protection,DataverseInformationProtection@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+f3994dcc-62a4-ef11-8a6b-0022489b4de1,df3185a3-3141-4361-fb29-6eaa33dd0169,# Dataverse Information Protection,DataverseInformationProtection@onmicrosoft.com,,Purview Label Role,2024-11-03T21:20:32Z
+f0b04d8d-a7e8-ee11-904d-0022489b4de1,209a44f9-636e-40bb-8cb0-67a34459f39a,# ProjectForTheWebBackgroundServices,ProjectForTheWebBackgroundServices@onmicrosoft.com,,Project Background Services App Role,2024-03-12T18:16:36Z
+1492dbd6-9c58-ed11-9562-0022489b4de1,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorSouthAfrica,Flow-CDSNativeConnectorSouthAfrica@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+aaf634cd-69b8-ed11-9886-0022489b4de1,46cd56c8-00aa-eb11-8236-0022489b4c66,# CCaaSCRMClient,CCaaSCRMClient@onmicrosoft.com,,System Administrator,2021-04-30T22:09:52Z
+8b5606a1-3fba-ee11-a569-0022489b4de1,e4435009-7653-e811-8147-000d3aa39708,# UnifiedRoutingForRecord_App,UnifiedRoutingForRecord_App@onmicrosoft.com,,Omnichannel supervisor,2023-03-01T19:15:42Z
+8b5606a1-3fba-ee11-a569-0022489b4de1,494d392f-d3f4-42ba-af49-30c6f41e6093,# UnifiedRoutingForRecord_App,UnifiedRoutingForRecord_App@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+8b5606a1-3fba-ee11-a569-0022489b4de1,68f2d372-e1a5-4298-9a93-4b39757caf93,# UnifiedRoutingForRecord_App,UnifiedRoutingForRecord_App@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+8b5606a1-3fba-ee11-a569-0022489b4de1,3b305bc7-5cf5-464b-985e-d6237f6496f1,# UnifiedRoutingForRecord_App,UnifiedRoutingForRecord_App@onmicrosoft.com,,Service Deleter,2022-02-11T20:17:33Z
+86348f11-f775-ef11-a670-0022489b4de1,b9b08637-acf6-e711-a95a-000d3a11f5ee,Microsoft Microsoft Flow CDS Integration Service,flowdev@microsoft.com,,Approvals User,2024-09-18T19:45:58Z
+86348f11-f775-ef11-a670-0022489b4de1,d58407f2-48d5-e711-a82c-000d3a37c848,Microsoft Microsoft Flow CDS Integration Service,flowdev@microsoft.com,,Environment Maker,2021-04-30T22:53:41Z
+86348f11-f775-ef11-a670-0022489b4de1,854af338-f3c5-e711-8122-000d3aa01c52,Microsoft Microsoft Flow CDS Integration Service,flowdev@microsoft.com,,Approvals Administrator,2024-09-18T19:45:56Z
+86348f11-f775-ef11-a670-0022489b4de1,96d156c8-00aa-eb11-8236-0022489b4c66,Microsoft Microsoft Flow CDS Integration Service,flowdev@microsoft.com,,Basic User,2021-04-30T22:09:55Z
+9f9e7032-84e8-ed11-a7c6-0022489b4de1,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# D365 Experimentation,D365Experimentation@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+9f9e7032-84e8-ed11-a7c6-0022489b4de1,a02d65d0-5d67-4a36-b1a6-dffe75974a58,# D365 Experimentation,D365Experimentation@onmicrosoft.com,,Cxp Experimentation Services User,2023-04-02T19:52:35Z
+126654e0-28a4-ed11-aad1-0022489b4de1,527c7b12-e5ac-4408-9f46-ecc762397544,# PowerAppsCustomerManagementPlaneBackend,PowerAppsCustomerManagementPlaneBackend@onmicrosoft.com,,PowerAppsRPRole,2022-04-15T20:03:12Z
+276654e0-28a4-ed11-aad1-0022489b4de1,527c7b12-e5ac-4408-9f46-ecc762397544,# PowerAppsDataPlaneBackend,PowerAppsDataPlaneBackend@onmicrosoft.com,,PowerAppsRPRole,2022-04-15T20:03:12Z
+376654e0-28a4-ed11-aad1-0022489b4de1,6e33f75d-802e-4d79-b9e7-1fcdd2b3122e,# Quartzite,Quartzite@onmicrosoft.com,,RPE Role,2024-11-16T21:33:44Z
+376654e0-28a4-ed11-aad1-0022489b4de1,494d392f-d3f4-42ba-af49-30c6f41e6093,# Quartzite,Quartzite@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+5e0504f9-8ac6-ed11-b597-0022489b4de1,bd33526c-3668-4f81-9045-cb70c6156dc6,# KISPAdminProd,KISPAdminProd@onmicrosoft.com,,IntegratedSearchApp,2023-12-22T01:06:26Z
+b7da05ff-8ac6-ed11-b597-0022489b4de1,bd33526c-3668-4f81-9045-cb70c6156dc6,# KISPIngProd,KISPIngProd@onmicrosoft.com,,IntegratedSearchApp,2023-12-22T01:06:26Z
+c2da05ff-8ac6-ed11-b597-0022489b4de1,bd33526c-3668-4f81-9045-cb70c6156dc6,# KISPSyncProd,KISPSyncProd@onmicrosoft.com,,IntegratedSearchApp,2023-12-22T01:06:26Z
+6e556fe8-3d54-ef11-bfe3-0022489b4de1,f75f4034-068a-463c-ba85-0ae80ad5aecd,# CloudFlowRunHistory,CloudFlowRunHistory@onmicrosoft.com,,Flow-RP Role,2021-05-01T00:21:47Z
+3fdac4f6-3d54-ef11-bfe3-0022489b4de1,527c7b12-e5ac-4408-9f46-ecc762397544,# ConnectorManagementServiceBackend,ConnectorManagementServiceBackend@onmicrosoft.com,,PowerAppsRPRole,2022-04-15T20:03:12Z
+e5eff26e-b4ca-ee11-907a-0022489ba0c8,726d11d6-d9cf-4503-ade9-d6a4be7fa095,# PowerAutomate-DesktopFlowAI,PowerAutomate-DesktopFlowAI@onmicrosoft.com,,Desktop Flows AI Application User,2024-02-13T21:11:18Z
+532dc07f-2374-ed11-81ab-0022489ba102,494d392f-d3f4-42ba-af49-30c6f41e6093,# MicrosoftCustomerEngagementPortalInfra,MicrosoftCustomerEngagementPortalInfra@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+532dc07f-2374-ed11-81ab-0022489ba102,b21a7144-299d-4c21-a116-30f60e9c159a,# MicrosoftCustomerEngagementPortalInfra,MicrosoftCustomerEngagementPortalInfra@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+532dc07f-2374-ed11-81ab-0022489ba102,68f2d372-e1a5-4298-9a93-4b39757caf93,# MicrosoftCustomerEngagementPortalInfra,MicrosoftCustomerEngagementPortalInfra@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+532dc07f-2374-ed11-81ab-0022489ba102,a75a6d67-1730-4298-8fc7-af7e93064fa1,# MicrosoftCustomerEngagementPortalInfra,MicrosoftCustomerEngagementPortalInfra@onmicrosoft.com,,Portal Application User,2022-11-06T19:26:55Z
+532dc07f-2374-ed11-81ab-0022489ba102,3b305bc7-5cf5-464b-985e-d6237f6496f1,# MicrosoftCustomerEngagementPortalInfra,MicrosoftCustomerEngagementPortalInfra@onmicrosoft.com,,Service Deleter,2022-02-11T20:17:33Z
+5638d5cf-ac35-ef11-840a-0022489ba102,46cd56c8-00aa-eb11-8236-0022489b4c66,# CDSUserManagementApi,CDSUserManagementApi@onmicrosoft.com,,System Administrator,2021-04-30T22:09:52Z
+90bf2edc-ac35-ef11-840a-0022489ba102,46cd56c8-00aa-eb11-8236-0022489b4c66,# SSSAdminProd,SSSAdminProd@onmicrosoft.com,,System Administrator,2021-04-30T22:09:52Z
+ae1761c6-47f7-ed11-8849-0022489ba102,46cd56c8-00aa-eb11-8236-0022489b4c66,# CatalogServiceEur,CatalogServiceEur@onmicrosoft.com,,System Administrator,2021-04-30T22:09:52Z
+ae1761c6-47f7-ed11-8849-0022489ba102,494d392f-d3f4-42ba-af49-30c6f41e6093,# CatalogServiceEur,CatalogServiceEur@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+ae1761c6-47f7-ed11-8849-0022489ba102,68f2d372-e1a5-4298-9a93-4b39757caf93,# CatalogServiceEur,CatalogServiceEur@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+4e43795f-86cf-ee11-907a-0022489ba102,494d392f-d3f4-42ba-af49-30c6f41e6093,# D365 SequenceStats,D365SequenceStats@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+4e43795f-86cf-ee11-907a-0022489ba102,afd66a78-57d5-4bad-a60d-b226b1a8b5d3,# D365 SequenceStats,D365SequenceStats@onmicrosoft.com,,Sales Sequence Stats Service User,2024-02-20T00:14:19Z
+4e43795f-86cf-ee11-907a-0022489ba102,9094f3e2-40e1-491f-b8d9-b621a38f60ef,# D365 SequenceStats,D365SequenceStats@onmicrosoft.com,,Sales Sequence Stats Reporting Service User,2024-02-20T00:24:11Z
+5f501362-0a5e-ed11-9561-0022489ba102,4a434894-a4a4-48bf-b939-7b6327529e2e,# CDSAcisInfraAppGlobal,CDSAcisInfraAppGlobal@onmicrosoft.com,,SupportUserCustomAPI Role,2022-10-30T21:40:01Z
+fb64c680-0162-ed11-9561-0022489ba102,e94f2257-92be-48b3-bc66-2279e0e68675,# PowerBIApplicationUser,PowerBIApplicationUser@onmicrosoft.com,,Sync Permissions,2022-11-11T20:43:12Z
+01f87407-2a28-ee11-9966-0022489ba102,255ee185-7158-41df-891f-bc3ef9b60365,# D365WorkAssignment,D365WorkAssignment@onmicrosoft.com,,Sales Work Assignment API Access,2023-07-22T00:52:11Z
+01f87407-2a28-ee11-9966-0022489ba102,a567525b-10b3-473d-8665-ef33786e4d26,# D365WorkAssignment,D365WorkAssignment@onmicrosoft.com,,Sales Work Assignment API Extended Access,2024-06-06T19:53:36Z
+14bc2270-953b-ed11-9db1-0022489ba102,f9e46d0f-d53e-4d5c-b06b-24948b4606ed,# PowerCards-S2S-IL-Prod,PowerCards-S2S-IL-Prod@onmicrosoft.com,,Cards Role,2022-09-23T23:11:58Z
+14ccc10d-36ed-ee11-a203-0022489ba102,89fbbea7-7a4f-43eb-9962-2329f1cf5cff,# PowerVirtualAgentsProdS2S,PowerVirtualAgentsProdS2S@onmicrosoft.com,,VA Analytics Role,2024-03-28T19:04:54Z
+5abb2fd2-f4a3-ed11-aad1-0022489ba102,ff99ba3d-063d-428e-bc39-aa63a13b96e7,# D365 Sms Channel,D365SmsChannel@onmicrosoft.com,,Shared Sms Channels Role,2023-02-03T18:56:55Z
+43f09376-f5a3-ed11-aad1-0022489ba102,d55cd2f7-60e8-44cd-8ba8-dd45382e9151,# D365 Personalization,D365Personalization@onmicrosoft.com,,Cxp Personalization Services User,2023-02-03T19:00:13Z
+7af09376-f5a3-ed11-aad1-0022489ba102,060a3f14-a531-4214-a30f-22ef4c5838ce,# D365 Dataverse Data,D365DataverseData@onmicrosoft.com,,Cxp Dataverse Datasource Services User,2023-02-03T19:00:12Z
+7af09376-f5a3-ed11-aad1-0022489ba102,494d392f-d3f4-42ba-af49-30c6f41e6093,# D365 Dataverse Data,D365DataverseData@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+d0d8ac80-177d-ef11-ac21-0022489ba102,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# AIBuilder_StructuredML_Gcc_CDS_Legacy,AIBuilder_StructuredML_Gcc_CDS_Legacy@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+d0d8ac80-177d-ef11-ac21-0022489ba102,494d392f-d3f4-42ba-af49-30c6f41e6093,# AIBuilder_StructuredML_Gcc_CDS_Legacy,AIBuilder_StructuredML_Gcc_CDS_Legacy@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+d0d8ac80-177d-ef11-ac21-0022489ba102,e57bff35-58b4-4725-aee2-40fb18f4c8bd,# AIBuilder_StructuredML_Gcc_CDS_Legacy,AIBuilder_StructuredML_Gcc_CDS_Legacy@onmicrosoft.com,,AIB Roles,2021-05-01T00:39:19Z
+d0d8ac80-177d-ef11-ac21-0022489ba102,68f2d372-e1a5-4298-9a93-4b39757caf93,# AIBuilder_StructuredML_Gcc_CDS_Legacy,AIBuilder_StructuredML_Gcc_CDS_Legacy@onmicrosoft.com,,Service Writer,2021-04-30T23:07:25Z
+d0d8ac80-177d-ef11-ac21-0022489ba102,3f199ebd-977e-43e5-abe5-fe865a1f2904,# AIBuilder_StructuredML_Gcc_CDS_Legacy,AIBuilder_StructuredML_Gcc_CDS_Legacy@onmicrosoft.com,,AIB SML Roles,2021-07-03T02:30:56Z
+9ab79e09-6bc7-ed11-b597-0022489ba102,494d392f-d3f4-42ba-af49-30c6f41e6093,# MicrosoftDynamicsNRDService,MicrosoftDynamicsNRDService@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+9ab79e09-6bc7-ed11-b597-0022489ba102,6543ef96-37ab-4add-8c31-6dcd7cfa12ab,# MicrosoftDynamicsNRDService,MicrosoftDynamicsNRDService@onmicrosoft.com,,Non-Relational Data App Access,2024-05-19T18:27:02Z
+e7752e5e-bbdc-ee11-904d-0022489ba240,9b18e47d-a666-ef11-a670-0022480b93b6,# D365EEApp,D365EEApp@onmicrosoft.com,,Email engagement app user role,2024-10-25T22:21:30Z
+e7752e5e-bbdc-ee11-904d-0022489ba240,f6f7455f-bcea-44dc-abbd-7fd51b1cc880,# D365EEApp,D365EEApp@onmicrosoft.com,,Sales system access extension,2021-05-01T03:08:41Z
+b3d4c4dc-68d3-ee11-907a-0022489ba240,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorSweden,Flow-CDSNativeConnectorSweden@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+77f7fdb9-8949-ed11-bba2-0022489ba382,cad52a75-568c-e611-80d4-00155d42a122,Afsal Koya,Afsal@ahlancyber.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+ab68d148-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncFramework-NAM,DataSyncFramework-NAM@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+ab68d148-8533-ec11-b6e6-0022489bd51d,b21a7144-299d-4c21-a116-30f60e9c159a,# DataSyncFramework-NAM,DataSyncFramework-NAM@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+e968d148-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncFramework-EMEA-FRA-GBR-GER,DataSyncFramework-EMEA-FRA-GBR-GER@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+e968d148-8533-ec11-b6e6-0022489bd51d,b21a7144-299d-4c21-a116-30f60e9c159a,# DataSyncFramework-EMEA-FRA-GBR-GER,DataSyncFramework-EMEA-FRA-GBR-GER@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+f468d148-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncFramework-APJ,DataSyncFramework-APJ@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+f468d148-8533-ec11-b6e6-0022489bd51d,b21a7144-299d-4c21-a116-30f60e9c159a,# DataSyncFramework-APJ,DataSyncFramework-APJ@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+ff68d148-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncFramework-SAM,DataSyncFramework-SAM@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+ff68d148-8533-ec11-b6e6-0022489bd51d,b21a7144-299d-4c21-a116-30f60e9c159a,# DataSyncFramework-SAM,DataSyncFramework-SAM@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+ebb3c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncFramework-JPN,DataSyncFramework-JPN@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+ebb3c94e-8533-ec11-b6e6-0022489bd51d,b21a7144-299d-4c21-a116-30f60e9c159a,# DataSyncFramework-JPN,DataSyncFramework-JPN@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+f7b3c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncFramework-OCE,DataSyncFramework-OCE@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+f7b3c94e-8533-ec11-b6e6-0022489bd51d,b21a7144-299d-4c21-a116-30f60e9c159a,# DataSyncFramework-OCE,DataSyncFramework-OCE@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+02b4c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncFramework-CAN,DataSyncFramework-CAN@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+02b4c94e-8533-ec11-b6e6-0022489bd51d,b21a7144-299d-4c21-a116-30f60e9c159a,# DataSyncFramework-CAN,DataSyncFramework-CAN@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+0db4c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncFramework-IND-UAE-ZAF,DataSyncFramework-IND-UAE-ZAF@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+0db4c94e-8533-ec11-b6e6-0022489bd51d,b21a7144-299d-4c21-a116-30f60e9c159a,# DataSyncFramework-IND-UAE-ZAF,DataSyncFramework-IND-UAE-ZAF@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+18b4c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncFramework-CHE,DataSyncFramework-CHE@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+18b4c94e-8533-ec11-b6e6-0022489bd51d,b21a7144-299d-4c21-a116-30f60e9c159a,# DataSyncFramework-CHE,DataSyncFramework-CHE@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+24b4c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncFramework-NOR,DataSyncFramework-NOR@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+24b4c94e-8533-ec11-b6e6-0022489bd51d,b21a7144-299d-4c21-a116-30f60e9c159a,# DataSyncFramework-NOR,DataSyncFramework-NOR@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+33b4c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncFramework-KOR,DataSyncFramework-KOR@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+33b4c94e-8533-ec11-b6e6-0022489bd51d,b21a7144-299d-4c21-a116-30f60e9c159a,# DataSyncFramework-KOR,DataSyncFramework-KOR@onmicrosoft.com,,Data Sync Framework Role,2021-10-02T22:28:37Z
+41b4c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncService-NAM,DataSyncService-NAM@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+41b4c94e-8533-ec11-b6e6-0022489bd51d,fc3e65d9-450a-4301-933b-f9bcaee20521,# DataSyncService-NAM,DataSyncService-NAM@onmicrosoft.com,,Data Sync Service Role,2021-09-18T20:16:32Z
+4eb4c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncService-EMEA-FRA-GBR-GER,DataSyncService-EMEA-FRA-GBR-GER@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+4eb4c94e-8533-ec11-b6e6-0022489bd51d,fc3e65d9-450a-4301-933b-f9bcaee20521,# DataSyncService-EMEA-FRA-GBR-GER,DataSyncService-EMEA-FRA-GBR-GER@onmicrosoft.com,,Data Sync Service Role,2021-09-18T20:16:32Z
+5ab4c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncService-APJ,DataSyncService-APJ@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+5ab4c94e-8533-ec11-b6e6-0022489bd51d,fc3e65d9-450a-4301-933b-f9bcaee20521,# DataSyncService-APJ,DataSyncService-APJ@onmicrosoft.com,,Data Sync Service Role,2021-09-18T20:16:32Z
+68b4c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncService-SAM,DataSyncService-SAM@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+68b4c94e-8533-ec11-b6e6-0022489bd51d,fc3e65d9-450a-4301-933b-f9bcaee20521,# DataSyncService-SAM,DataSyncService-SAM@onmicrosoft.com,,Data Sync Service Role,2021-09-18T20:16:32Z
+84b4c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncService-JPN,DataSyncService-JPN@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+84b4c94e-8533-ec11-b6e6-0022489bd51d,fc3e65d9-450a-4301-933b-f9bcaee20521,# DataSyncService-JPN,DataSyncService-JPN@onmicrosoft.com,,Data Sync Service Role,2021-09-18T20:16:32Z
+a9b4c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncService-OCE,DataSyncService-OCE@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+a9b4c94e-8533-ec11-b6e6-0022489bd51d,fc3e65d9-450a-4301-933b-f9bcaee20521,# DataSyncService-OCE,DataSyncService-OCE@onmicrosoft.com,,Data Sync Service Role,2021-09-18T20:16:32Z
+bab4c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncService-CAN,DataSyncService-CAN@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+bab4c94e-8533-ec11-b6e6-0022489bd51d,fc3e65d9-450a-4301-933b-f9bcaee20521,# DataSyncService-CAN,DataSyncService-CAN@onmicrosoft.com,,Data Sync Service Role,2021-09-18T20:16:32Z
+f3b4c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncService-IND-UAE-ZAF,DataSyncService-IND-UAE-ZAF@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+f3b4c94e-8533-ec11-b6e6-0022489bd51d,fc3e65d9-450a-4301-933b-f9bcaee20521,# DataSyncService-IND-UAE-ZAF,DataSyncService-IND-UAE-ZAF@onmicrosoft.com,,Data Sync Service Role,2021-09-18T20:16:32Z
+27b5c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncService-CHE,DataSyncService-CHE@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+27b5c94e-8533-ec11-b6e6-0022489bd51d,fc3e65d9-450a-4301-933b-f9bcaee20521,# DataSyncService-CHE,DataSyncService-CHE@onmicrosoft.com,,Data Sync Service Role,2021-09-18T20:16:32Z
+57b5c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncService-NOR,DataSyncService-NOR@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+57b5c94e-8533-ec11-b6e6-0022489bd51d,fc3e65d9-450a-4301-933b-f9bcaee20521,# DataSyncService-NOR,DataSyncService-NOR@onmicrosoft.com,,Data Sync Service Role,2021-09-18T20:16:32Z
+69b5c94e-8533-ec11-b6e6-0022489bd51d,494d392f-d3f4-42ba-af49-30c6f41e6093,# DataSyncService-KOR,DataSyncService-KOR@onmicrosoft.com,,Service Reader,2021-04-30T23:07:25Z
+69b5c94e-8533-ec11-b6e6-0022489bd51d,fc3e65d9-450a-4301-933b-f9bcaee20521,# DataSyncService-KOR,DataSyncService-KOR@onmicrosoft.com,,Data Sync Service Role,2021-09-18T20:16:32Z
+a2ce141f-b87e-ec11-8d21-0022489be1a8,cad52a75-568c-e611-80d4-00155d42a122,Sharif Elregeiba,Sharif.e@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+c4f22425-b87e-ec11-8d21-0022489be1a8,cad52a75-568c-e611-80d4-00155d42a122,Gouthaman Puthen Veettil,Gouthaman.p@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+c4f22425-b87e-ec11-8d21-0022489be1a8,46cd56c8-00aa-eb11-8236-0022489b4c66,Gouthaman Puthen Veettil,Gouthaman.p@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+7db153c8-ab7d-ec11-8d21-0022489bef85,cad52a75-568c-e611-80d4-00155d42a122,Mayuri Kalita,Mayuri.k@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+7fb153c8-ab7d-ec11-8d21-0022489bef85,cad52a75-568c-e611-80d4-00155d42a122,Vijay George,Vijay.g@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+7fb153c8-ab7d-ec11-8d21-0022489bef85,46cd56c8-00aa-eb11-8236-0022489b4c66,Vijay George,Vijay.g@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+cc18bd07-0d07-ec11-94ef-0022489c0f78,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Adeel Shahzad Sabir Hussain,Adeel.s@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+cc18bd07-0d07-ec11-94ef-0022489c0f78,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Adeel Shahzad Sabir Hussain,Adeel.s@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+cc18bd07-0d07-ec11-94ef-0022489c0f78,61ae5738-3a67-48e3-bf1a-73551ed6a812,Adeel Shahzad Sabir Hussain,Adeel.s@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+d018bd07-0d07-ec11-94ef-0022489c0f78,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Rajeev Pakideeri,Rajeev.p@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+d018bd07-0d07-ec11-94ef-0022489c0f78,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Rajeev Pakideeri,Rajeev.p@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+d018bd07-0d07-ec11-94ef-0022489c0f78,61ae5738-3a67-48e3-bf1a-73551ed6a812,Rajeev Pakideeri,Rajeev.p@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+e218bd07-0d07-ec11-94ef-0022489c0f78,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Rajshekhar Deshmukh,Rajshekhar.D@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+e218bd07-0d07-ec11-94ef-0022489c0f78,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Rajshekhar Deshmukh,Rajshekhar.D@paramountassure.com,,Paramount Support Associate,2021-08-26T11:54:34Z
+e218bd07-0d07-ec11-94ef-0022489c0f78,61ae5738-3a67-48e3-bf1a-73551ed6a812,Rajshekhar Deshmukh,Rajshekhar.D@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+4104786d-fa71-ec11-8943-0022489c0f97,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Imran Pasha,Imran.p@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+4104786d-fa71-ec11-8943-0022489c0f97,5e81fd0c-fc50-462f-9c49-6c7029aabe02,Imran Pasha,Imran.p@paramountassure.com,,Paramount MSS Shift Lead,2022-03-09T09:44:02Z
+4104786d-fa71-ec11-8943-0022489c0f97,61ae5738-3a67-48e3-bf1a-73551ed6a812,Imran Pasha,Imran.p@paramountassure.com,,Customer service app access,2021-05-25T12:22:19Z
+315f5e35-88d8-ec11-a7b5-0022489c2ada,d58407f2-48d5-e711-a82c-000d3a37c848,# PowerAutomate-MachineProvisioning,PowerAutomate-MachineProvisioning@onmicrosoft.com,,Environment Maker,2021-04-30T22:53:41Z
+315f5e35-88d8-ec11-a7b5-0022489c2ada,9f572d55-6090-493b-904a-3956bdc55343,# PowerAutomate-MachineProvisioning,PowerAutomate-MachineProvisioning@onmicrosoft.com,,Desktop Flows Machine Application User,2021-04-30T23:21:40Z
+f7a523f5-a2c2-eb11-bacc-0022489c4a92,10f98a2a-c34f-41e6-a158-6620fe31729b,Amritha Kamalon,Amritha.k@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+60502afb-a2c2-eb11-bacc-0022489c4a92,eef96238-7bf1-4b60-8ae4-01db3ef05317,Gautham Srinivasa T,017db7c63d074fb58468dc1974e613c2Gautham.s@paramountassure.com,,Basic User,2021-05-25T12:22:19Z
+60502afb-a2c2-eb11-bacc-0022489c4a92,3e8e07b6-a743-49de-9c07-b5ed7dcb8ea1,Gautham Srinivasa T,017db7c63d074fb58468dc1974e613c2Gautham.s@paramountassure.com,,PCS Renewal Sales,2021-07-14T07:49:03Z
+6b502afb-a2c2-eb11-bacc-0022489c4a92,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Tarun Kumar,tarun.k@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:22:20Z
+6b502afb-a2c2-eb11-bacc-0022489c4a92,10f98a2a-c34f-41e6-a158-6620fe31729b,Tarun Kumar,tarun.k@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:22:19Z
+6b502afb-a2c2-eb11-bacc-0022489c4a92,1b90c3d7-2175-4d47-a715-66451e11b51e,Tarun Kumar,tarun.k@paramountassure.com,,PCS Presales User,2021-05-25T12:22:19Z
+78502afb-a2c2-eb11-bacc-0022489c4a92,b6d2af81-b9f3-49f5-be36-2c9a8e856e1e,Deepak Kankarwal,Deepak.sk@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:23:12Z
+78502afb-a2c2-eb11-bacc-0022489c4a92,4ca55d0c-3396-44b2-a783-556374f100de,Deepak Kankarwal,Deepak.sk@paramountassure.com,,Basic User,2021-05-25T12:23:12Z
+78502afb-a2c2-eb11-bacc-0022489c4a92,6e25b396-f450-44b0-8f50-74aa965c050e,Deepak Kankarwal,Deepak.sk@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:12Z
+78502afb-a2c2-eb11-bacc-0022489c4a92,d1179082-801e-4c42-b312-cdc07db49308,Deepak Kankarwal,Deepak.sk@paramountassure.com,,PCS Sales User,2021-05-25T12:23:12Z
+a6502afb-a2c2-eb11-bacc-0022489c4a92,b6d2af81-b9f3-49f5-be36-2c9a8e856e1e,Priya Dsilva,Priya.d@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:23:12Z
+a6502afb-a2c2-eb11-bacc-0022489c4a92,4ca55d0c-3396-44b2-a783-556374f100de,Priya Dsilva,Priya.d@paramountassure.com,,Basic User,2021-05-25T12:23:12Z
+a6502afb-a2c2-eb11-bacc-0022489c4a92,6e25b396-f450-44b0-8f50-74aa965c050e,Priya Dsilva,Priya.d@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:12Z
+a6502afb-a2c2-eb11-bacc-0022489c4a92,a0dbb94c-1c5f-4816-9666-848e814ee6cb,Priya Dsilva,Priya.d@paramountassure.com,,Customer service app access,2021-05-25T12:23:12Z
+a6502afb-a2c2-eb11-bacc-0022489c4a92,d1179082-801e-4c42-b312-cdc07db49308,Priya Dsilva,Priya.d@paramountassure.com,,PCS Sales User,2021-05-25T12:23:12Z
+47f47567-36c4-eb11-bacc-0022489c4a92,96d156c8-00aa-eb11-8236-0022489b4c66,Zena #,zenabot@paramountassure.com,,Basic User,2021-04-30T22:09:55Z
+9d745fd7-f3f6-eb11-94ee-0022489c96ee,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,# DataServices,DataServices@onmicrosoft.com,,DataLakeWorkspaceAppAccess,2021-04-30T23:03:44Z
+9d745fd7-f3f6-eb11-94ee-0022489c96ee,896a28e5-678d-4fa8-ad59-c606d1aa98ce,# DataServices,DataServices@onmicrosoft.com,,DataProcessingConfigTableAppAccess,2022-03-05T20:58:54Z
+ba32f60c-a577-ec11-8d21-0022489ca392,cad52a75-568c-e611-80d4-00155d42a122,Mohammad Khaled,Mohammad.k@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+7711d021-9240-ec11-8c62-0022489cba62,46cd56c8-00aa-eb11-8236-0022489b4c66,Sooraj S Sukumaran,Sooraj.s@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+22b08f4b-2e9d-ec11-b400-0022489cbe08,cad52a75-568c-e611-80d4-00155d42a122,Adil Mohamed Musliam VT,Adil.m@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+55878116-03eb-ec11-bb3d-0022489cd7be,cad52a75-568c-e611-80d4-00155d42a122,Sugumar Sivalingam,Sugumar.s@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+55878116-03eb-ec11-bb3d-0022489cd7be,46cd56c8-00aa-eb11-8236-0022489b4c66,Sugumar Sivalingam,Sugumar.s@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+bfd05313-74ec-ec11-bb3d-0022489cd7be,cad52a75-568c-e611-80d4-00155d42a122,Sumaira Mohammed Ashraf,Sumaira.m@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+bfd05313-74ec-ec11-bb3d-0022489cd7be,46cd56c8-00aa-eb11-8236-0022489b4c66,Sumaira Mohammed Ashraf,Sumaira.m@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+bfd05313-74ec-ec11-bb3d-0022489cd7be,97d156c8-00aa-eb11-8236-0022489b4c66,Sumaira Mohammed Ashraf,Sumaira.m@paramountassure.com,,System Customizer,2021-04-30T22:09:55Z
+3e10e1f7-864a-ef11-bfe2-0022489cdeb6,cad52a75-568c-e611-80d4-00155d42a122,Akshay Sharma,akshay.s@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+6f8c1c7c-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorPreview,Flow-CDSNativeConnectorPreview@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+3fe7a382-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorUS,Flow-CDSNativeConnectorUS@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+50e7a382-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorEurope,Flow-CDSNativeConnectorEurope@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+63e7a382-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorAsia,Flow-CDSNativeConnectorAsia@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+6ee7a382-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorAustralia,Flow-CDSNativeConnectorAustralia@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+7ce7a382-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorIndia,Flow-CDSNativeConnectorIndia@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+99e7a382-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorJapan,Flow-CDSNativeConnectorJapan@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+b3e7a382-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorCanada,Flow-CDSNativeConnectorCanada@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+c8e7a382-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorUK,Flow-CDSNativeConnectorUK@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+d4e7a382-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorBrazil,Flow-CDSNativeConnectorBrazil@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+e3e7a382-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorFrance,Flow-CDSNativeConnectorFrance@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+03e8a382-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorUAE,Flow-CDSNativeConnectorUAE@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+14e8a382-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorGermany,Flow-CDSNativeConnectorGermany@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+21e8a382-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorSwitzerland,Flow-CDSNativeConnectorSwitzerland@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+9680aa88-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorKorea,Flow-CDSNativeConnectorKorea@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+a280aa88-f8bc-ec11-9840-0022489e2e28,8be3e3ca-a304-451f-9dc1-2478d224ea0e,# Flow-CDSNativeConnectorNorway,Flow-CDSNativeConnectorNorway@onmicrosoft.com,,Flow-CDS Native Connector Role,2021-07-31T01:08:52Z
+0c199783-523b-ee11-bdf4-0022489ea33a,cad52a75-568c-e611-80d4-00155d42a122,Grisha Thawani,grisha.t@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+4df96533-a0d7-ee11-904c-002248a18b93,cad52a75-568c-e611-80d4-00155d42a122,Shwetank Jayaswal,shwetank.j@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+4df96533-a0d7-ee11-904c-002248a18b93,46cd56c8-00aa-eb11-8236-0022489b4c66,Shwetank Jayaswal,shwetank.j@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+4df96533-a0d7-ee11-904c-002248a18b93,7cc4833a-3ec3-4e92-a5d5-90b0af07b89e,Shwetank Jayaswal,shwetank.j@paramountassure.com,,Sales Enterprise app access,2021-05-25T12:23:30Z
+4df96533-a0d7-ee11-904c-002248a18b93,75f59018-685a-4cbd-b026-a22b3d609591,Shwetank Jayaswal,shwetank.j@paramountassure.com,,PCS Country Manager,2021-05-25T12:23:30Z
+4df96533-a0d7-ee11-904c-002248a18b93,57b647c3-8703-45e7-8c31-e2a475693ab0,Shwetank Jayaswal,shwetank.j@paramountassure.com,,Dynamics 365 App for Outlook User,2021-05-25T12:23:30Z
+1b8accf4-f8ec-ef11-be1f-6045bddd1bad,cad52a75-568c-e611-80d4-00155d42a122,Hareesh Poonthottathil,Hareesh.p@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+459f6627-d0ed-ef11-be1f-6045bddd1bad,cad52a75-568c-e611-80d4-00155d42a122,Ganga Gowri Ponnuswamy,Ganga.g@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+5d30d823-f5ea-ef11-be20-6045bddd1bad,cad52a75-568c-e611-80d4-00155d42a122,Amneh Moh’d Ali Shehadeh,Amneh.s@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+63e230e1-fd68-ef11-bfe2-6045bddeadfa,cad52a75-568c-e611-80d4-00155d42a122,Alghareeb Omar,alghareeb@ahlancyber.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+1e7dac82-32da-ef11-a72f-6045bddf00e4,cad52a75-568c-e611-80d4-00155d42a122,Kavin S,Kavin.S@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+1e7dac82-32da-ef11-a72f-6045bddf00e4,3dac4d9e-568c-e611-80d4-00155d42a122,Kavin S,Kavin.S@paramountassure.com,,Customer service app access,2021-05-01T01:47:06Z
+5061a163-c6df-ef11-a72f-6045bddf00e4,cad52a75-568c-e611-80d4-00155d42a122,Jaden Ade,Jaden.A@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+2b53c846-27ec-ee11-a203-6045bde0cdf4,46cd56c8-00aa-eb11-8236-0022489b4c66,# Dynamics 365 Web API,Dynamics365WebAPI_cf298f00-9482-493d-89ac-703046f564a3@973926c8-e5c1-4cac-8156-bdfa1886f2a7.com,,System Administrator,2021-04-30T22:09:52Z
+398dac59-3032-f011-8c4d-7c1e52362954,cad52a75-568c-e611-80d4-00155d42a122,Nour Eddin Babi,Nour.e@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+b0347c91-7935-f011-8c4d-7c1e52362954,cad52a75-568c-e611-80d4-00155d42a122,Mohamed Yaser Farook M,Yaser.f@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+b0347c91-7935-f011-8c4d-7c1e52362954,3dac4d9e-568c-e611-80d4-00155d42a122,Mohamed Yaser Farook M,Yaser.f@paramountassure.com,,Customer service app access,2021-05-01T01:47:06Z
+b0347c91-7935-f011-8c4d-7c1e52362954,46cd56c8-00aa-eb11-8236-0022489b4c66,Mohamed Yaser Farook M,Yaser.f@paramountassure.com,,System Administrator,2021-04-30T22:09:52Z
+b0347c91-7935-f011-8c4d-7c1e52362954,97d156c8-00aa-eb11-8236-0022489b4c66,Mohamed Yaser Farook M,Yaser.f@paramountassure.com,,System Customizer,2021-04-30T22:09:55Z
+12e3b979-4a36-f011-8c4d-7c1e52362954,46cd56c8-00aa-eb11-8236-0022489b4c66,# Access review demo,Accessreviewdemo_1c6da0cb-ad09-450b-8ddf-efbba4347e78@973926c8-e5c1-4cac-8156-bdfa1886f2a7.com,,System Administrator,2021-04-30T22:09:52Z
+12e3b979-4a36-f011-8c4d-7c1e52362954,97d156c8-00aa-eb11-8236-0022489b4c66,# Access review demo,Accessreviewdemo_1c6da0cb-ad09-450b-8ddf-efbba4347e78@973926c8-e5c1-4cac-8156-bdfa1886f2a7.com,,System Customizer,2021-04-30T22:09:55Z
+5041cfd3-2515-f011-998a-7c1e52362954,cad52a75-568c-e611-80d4-00155d42a122,Zameer Baig Mirza,Zameer@ahlancyber.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+e99de6d9-2515-f011-998a-7c1e52362954,cad52a75-568c-e611-80d4-00155d42a122,Harinand Baburaj Sindhu,Harinand@ahlancyber.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+179ee6d9-2515-f011-998a-7c1e52362954,cad52a75-568c-e611-80d4-00155d42a122,Akram Adel Mohamed Tawfik Elsayed,Akram@ahlancyber.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+bdf54c33-dd15-f011-998a-7c1e52362954,cad52a75-568c-e611-80d4-00155d42a122,Nidal Nasouh Awad Abushaqreh,Nidal.n@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+6f136b3f-dd15-f011-998a-7c1e52362954,cad52a75-568c-e611-80d4-00155d42a122,Jagadishkumar Pantheti Venkatadri Raju,Jagadishkumar.p@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+ae60cc5d-0f0a-f011-bae3-7c1e52362954,cad52a75-568c-e611-80d4-00155d42a122,Farzeen Wasim,Farzeen@ahlancyber.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+cdb36fef-0ef5-ef11-be1f-7c1e52362954,cad52a75-568c-e611-80d4-00155d42a122,Khasiba Sultan Obaid M A,Khasiba.S@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z
+52f65564-4cbb-ef11-b8e8-7c1e5276d8f4,e9a54b07-f763-45a1-88e7-0b67bbe18cf2,# Power Policy Service CM PROD,PowerPolicyServiceCMPROD@onmicrosoft.com,,Power Policy App User Role,2024-11-09T18:41:51Z
+77d6c7ed-db20-f011-9989-7c1e52881ff7,cad52a75-568c-e611-80d4-00155d42a122,Ashish Ganapati Hegde,Ashish.g1@paramountassure.com,,Sales Enterprise app access,2021-05-01T03:51:34Z

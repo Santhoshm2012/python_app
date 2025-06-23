@@ -1,0 +1,2052 @@
+[
+  {
+    "userId":"418cf370-1c30-ed11-9db1-000d3a65164f",
+    "userName":"Varadharajan Shanmugam",
+    "email":"Varadharajan.s@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,PCS-GRC-LAB-USERS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,AUB Project Files,Department_GRC,SG_GRC_Users",
+    "businessUnitId":null,
+    "managerId":"f98b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Manisha.t@paramountassure.com",
+    "azureAdObjectId":"d8c82ebe-e5f0-4cbb-a291-e68e6d354616"
+  },
+  {
+    "userId":"3b644a99-742f-ed11-9db1-000d3a651fbe",
+    "userName":"Nitin Tumbade",
+    "email":"Nitin.t@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Office 365 Security,Microsoft 365 Business Premium Licensed Users,PCS-LAB-USERS,Dynamics 365 Support,DATA SECURITY TEAM,Department_Data Security,SG_Data Security_Users",
+    "businessUnitId":null,
+    "managerId":"93b67866-8a19-ee11-8f6d-000d3adc8967",
+    "managerEmail":"arputharaj.m@paramountassure.com",
+    "azureAdObjectId":"c0ef01d0-2de6-42d7-bc97-12aa8c61a41f"
+  },
+  {
+    "userId":"0f8e48c4-f4c9-ec11-a7b5-000d3a653893",
+    "userName":"Rugma Satheesh",
+    "email":"Rugma.s@paramountassure.com",
+    "groupMemberships":"AdminAgents,PCS Employees - UAE,Paramount,Microsoft Core Team,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,CybersecurityNxxT Team,Office 365 Security,Dynamics 365 Support,Data Protection Cloud Services,DLP Flow test,IT Test,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"fd3b92b3-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Rajesh.k@paramountassure.com",
+    "azureAdObjectId":"a0f33ed2-c782-4f39-8648-6c05cca3798b"
+  },
+  {
+    "userId":"8353ba00-5fa3-ec11-983f-000d3a65be92",
+    "userName":"Bharat Devashi Luva",
+    "email":"Bharat.l@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,PCS MSS Team,Microsoft 365 E5 Licensed Users,PCS - Ajman Municipality,Team MSS,PCS_Jumaalmajid,MSS Security Advisory,Office 365 Security,Farah,DC-SOC,Teams_Group_FARAH EXPERIENCES,PCS-MSS-DCAA,PCS-MSS-MIRAL,PCS-LAB-USERS,Miral SOC Group,Dynamics 365 Sales ,KIB_GROUP,SOC Tamkeen,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,Teams_Group_MSS_projects,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,Alpheya_Sentinel_Siem_Admins,MSS-EWEC-Admin,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"ff0065b3-b7b1-ec11-9840-000d3adc2ba7",
+    "managerEmail":"Dheeraj.t@paramountassure.com",
+    "azureAdObjectId":"dcacb04f-1360-4d83-8c55-2f1bdc3762cf"
+  },
+  {
+    "userId":"4d28cf51-83b9-ec11-983f-000d3a65c37c",
+    "userName":"Prem Anand Rajendran",
+    "email":"Premanand.r@paramountassure.com",
+    "groupMemberships":"Air Arabia NOC,PCS NOC,All Users,MSS SOC Team,PCS MSS Team,Microsoft 365 E5 Licensed Users,Excellence Driving Centre,PCS_Jumaalmajid,MSS Security Advisory,The Executive Council,PCSAIPOLD,Scope Investment,SOC - Scope Investment,PCS-MSS-AIR-ARABIA,Gulf Islamic Investment (GII),Internal Team,Dynamics 365 Support,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,CSNxxT-Employees,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,PCS MATRIX,CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"c513748e-b901-4066-8af2-8fd89aad704c"
+  },
+  {
+    "userId":"4f28cf51-83b9-ec11-983f-000d3a65c37c",
+    "userName":"Karthikeyan Devikumar",
+    "email":"Karthikeyan.d@paramountassure.com",
+    "groupMemberships":"Paramount,Air Arabia NOC,PCS NOC,All Users,MSS SOC Team,PCS MSS Team,Microsoft 365 E5 Licensed Users,PCS - Ajman Municipality,PCS_Jumaalmajid,Farah,PCSAIPOLD,DC-SOC,SOC - Scope Investment,PCS-MSS-AIR-ARABIA,PCS-MSS-DCAA,PCS-MSS-MIRAL,Internal Team,Miral SOC Group,Dynamics 365 Support,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,CSNxxT-Employees,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"8353ba00-5fa3-ec11-983f-000d3a65be92",
+    "managerEmail":"Bharat.l@paramountassure.com",
+    "azureAdObjectId":"828a0c6f-7972-442a-afd6-d0a6e2f0057c"
+  },
+  {
+    "userId":"5128cf51-83b9-ec11-983f-000d3a65c37c",
+    "userName":"Manooj Chamaparambil",
+    "email":"Manooj.c@paramountassure.com",
+    "groupMemberships":"Air Arabia NOC,PCS NOC,All Users,MSS SOC Team,PCS MSS Team,Microsoft 365 E5 Licensed Users,Excellence Driving Centre,PCS_Jumaalmajid,MSS Security Advisory,The Executive Council,PCSAIPOLD,Scope Investment,SOC - Scope Investment,PCS-MSS-AIR-ARABIA,Gulf Islamic Investment (GII),Internal Team,Dynamics 365 Support,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,CSNxxT-Employees,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,PCS MATRIX,CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"69ff8819-44af-409a-90cd-29f8df54df5c"
+  },
+  {
+    "userId":"5bcb8f80-9cb9-ec11-983f-000d3a65c37c",
+    "userName":"Sindhuja Velmurugan",
+    "email":"Sindhuja.v@paramountassure.com",
+    "groupMemberships":"Paramount,Air Arabia NOC,PCS NOC,All Users,MSS SOC Team,PCS MSS Team,Microsoft 365 E5 Licensed Users,PCS - Ajman Municipality,PCS_Jumaalmajid,Farah,PCSAIPOLD,DC-SOC,SOC - Scope Investment,PCS-MSS-AIR-ARABIA,PCS-MSS-DCAA,PCS-MSS-MIRAL,Internal Team,Miral SOC Group,Dynamics 365 Support,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,CSNxxT-Employees,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"8353ba00-5fa3-ec11-983f-000d3a65be92",
+    "managerEmail":"Bharat.l@paramountassure.com",
+    "azureAdObjectId":"ef1c2a87-16f1-4b8a-80ea-085461674495"
+  },
+  {
+    "userId":"eecb8f80-9cb9-ec11-983f-000d3a65c37c",
+    "userName":"Ibrahim Bhat",
+    "email":"Ibrahim.b@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,PCS MSS Team,Microsoft 365 E5 Licensed Users,PCS - Ajman Municipality,Team MSS,Office 365 Security,Farah,PCSAIPOLD,DC-SOC,Teams_Group_FARAH EXPERIENCES,PCS-MSS-DCAA,PCS-MSS-MIRAL,PCS-LAB-USERS,Miral SOC Group,Dynamics 365 Support,KIB_GROUP,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,Alpheya_Sentinel_Soc,Alpheya_Sentinel_Siem_Admins,MSS-EWEC-Admin,MSS-EWEC-SOC,CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"8353ba00-5fa3-ec11-983f-000d3a65be92",
+    "managerEmail":"Bharat.l@paramountassure.com",
+    "azureAdObjectId":"56a78acc-83ae-46fa-9401-00c84e5cc4a0"
+  },
+  {
+    "userId":"16cc8f80-9cb9-ec11-983f-000d3a65c37c",
+    "userName":"Mohit Kumar Saini",
+    "email":"Mohit.k@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,Air Arabia NOC,All Users,MSS SOC Team,PCS - Ajman Municipality,CybersecurityNxxT Team,Office 365 Security,The Executive Council,PCSAIPOLD,DC-SOC,Scope Investment,SOC - Scope Investment,PCS-MSS-AIR-ARABIA,Microsoft 365 Business Premium Licensed Users,Gulf Islamic Investment (GII),Internal Team,Miral SOC Group,Dynamics 365 Support,DHA Offshore SOC Team,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,CSNxxT-Employees,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"831a62ad-3298-4938-b04a-b5b798b786d1"
+  },
+  {
+    "userId":"60321937-45b6-ec11-983f-000d3a65fbb2",
+    "userName":"Vaishagh Vijayan",
+    "email":"Vaishagh.v@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Microsoft 365 E5 Licensed Users,Team MSS,CybersecurityNxxT Team,Office 365 Security,PCS-MSS-MIRAL,PCS-MSS-ALWASL,Dynamics 365 Support,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"12b988f4-1607-ed11-82e5-0022489a173e",
+    "managerEmail":"Pratik.a@paramountassure.com",
+    "azureAdObjectId":"cac11189-5383-47b8-9685-c3de26c2349e"
+  },
+  {
+    "userId":"270c2437-1891-ef11-8a6a-000d3a6685a9",
+    "userName":"Neeti R",
+    "email":"neeti.r@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Corporate Governing Council,Paramount Sales Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Management",
+    "businessUnitId":null,
+    "managerId":"608b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Ashok.c@paramountassure.com",
+    "azureAdObjectId":"d2ebd8ef-9a83-4233-a932-ee80a459b08f"
+  },
+  {
+    "userId":"e37f7f00-e891-ef11-8a6a-000d3a6685a9",
+    "userName":"Srimoy Roy",
+    "email":"srimoy.r@paramountassure.com",
+    "groupMemberships":"PCS,All Users,Microsoft 365 E5 Licensed Users,PCS Employees - Bahrain,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"357a97ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Manjunath.a@paramountassure.com",
+    "azureAdObjectId":"76155710-e59b-4845-8258-31590b8aa84c"
+  },
+  {
+    "userId":"e123b6b4-0e8a-ef11-ac21-000d3a6685a9",
+    "userName":"Govind Jagat Singh",
+    "email":"govind.s@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,DATA SECURITY TEAM,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Data Security,SG_Data Security_Users",
+    "businessUnitId":null,
+    "managerId":"93b67866-8a19-ee11-8f6d-000d3adc8967",
+    "managerEmail":"arputharaj.m@paramountassure.com",
+    "azureAdObjectId":"f350574e-aa53-4f04-8e72-2d1828c80892"
+  },
+  {
+    "userId":"16e6e0bc-04cc-ef11-b8e9-000d3a6685a9",
+    "userName":"Reyam Alhassani",
+    "email":"reyam.a@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Network Security Group,Paramount,All Users,Microsoft 365 E5 Licensed Users,PCS-IT-ADMIN,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"93b67866-8a19-ee11-8f6d-000d3adc8967",
+    "managerEmail":"arputharaj.m@paramountassure.com",
+    "azureAdObjectId":"43cc772b-94e4-4142-b14c-a718dd750249"
+  },
+  {
+    "userId":"9892960c-3369-ef11-bfe2-000d3a668cd5",
+    "userName":"Juned Rana",
+    "email":"juned.r@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,Excellence Driving Centre,PCS_Jumaalmajid,The Executive Council,Scope Investment,SOC - Scope Investment,PCS-MSS-ALWASL,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,CSNxxT-Employees,PCS-BRM,PCS-ELASTIC-LAB-USERS,SOC Banque Misr,PCS MATRIX,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"249ff76c-c4eb-4fb3-91a4-aa0fd0e8a268"
+  },
+  {
+    "userId":"b8a67aa0-9269-ef11-bfe2-000d3a668cd5",
+    "userName":"Nur Diyabi",
+    "email":"nur.d@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,Microsoft Core Team,All Users,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"55878116-03eb-ec11-bb3d-0022489cd7be",
+    "managerEmail":"Sugumar.s@paramountassure.com",
+    "azureAdObjectId":"872aa696-5185-4872-9003-eb4d0787c261"
+  },
+  {
+    "userId":"a5e89ccb-fa69-ef11-bfe2-000d3a668cd5",
+    "userName":"Shaik Altaf",
+    "email":"shaik.altaf@paramountassure.com",
+    "groupMemberships":"Paramount,All Users,Sentinel Cyber Defence Team,CSNxxT-Employees,altaf,Edge week and month report,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"e88ae29c-a7a8-ef11-b8e9-000d3a6685a9",
+    "managerEmail":"arshiya.t@paramountassure.com",
+    "azureAdObjectId":"efb40729-51fa-4770-96e1-12cb63f55fa0"
+  },
+  {
+    "userId":"e16762e6-296c-ef11-bfe2-000d3a668cd5",
+    "userName":"MSO Support",
+    "email":"msosupport@paramountassure.com",
+    "groupMemberships":"All Users,MSS-DCAA,MSS-ALFANAR,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),MSS-ABG,SCS-Employee",
+    "businessUnitId":null,
+    "managerId":"4fe10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"amit.sharma@paramountassure.com",
+    "azureAdObjectId":"63c81bce-6d95-449f-b366-f4c36cba8712"
+  },
+  {
+    "userId":"21e8d8ab-0373-ee11-8179-000d3a669ba8",
+    "userName":"Mustafa Abdul Hussain",
+    "email":"mustafa.h@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,PCS - Ajman Municipality,PCS_Jumaalmajid,DC-SOC,PCS-MSS-DCAA,PCS-MSS-MIRAL,Miral SOC Group,DHA Offshore SOC Team,DHA Sentinel Offshore,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"8353ba00-5fa3-ec11-983f-000d3a65be92",
+    "managerEmail":"Bharat.l@paramountassure.com",
+    "azureAdObjectId":"6a29c514-afdf-4cb4-b21b-408e2791b5cc"
+  },
+  {
+    "userId":"0c96ad3b-7983-ee11-8179-000d3a669ba8",
+    "userName":"Muhanned Alebri",
+    "email":"Muhanned.a@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,PCS - Ajman Municipality,PCS_Jumaalmajid,DC-SOC,PCS-MSS-DCAA,PCS-MSS-MIRAL,Miral SOC Group,SOC Tamkeen,SOC MBRHE,PCS-Dubai Culture,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"8353ba00-5fa3-ec11-983f-000d3a65be92",
+    "managerEmail":"Bharat.l@paramountassure.com",
+    "azureAdObjectId":"401b998a-bb2f-4dd4-887e-c0045a3964bf"
+  },
+  {
+    "userId":"6696ff6f-b4cc-ee11-9079-000d3a669ba8",
+    "userName":"Shaik Mohammed Afridi",
+    "email":"shaik.m@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,PCS-MSS-DCAA,DHA Offshore SOC Team,DHA Sentinel Offshore,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"12b988f4-1607-ed11-82e5-0022489a173e",
+    "managerEmail":"Pratik.a@paramountassure.com",
+    "azureAdObjectId":"3ac384df-adbd-464b-81e6-abcdbd1cebbc"
+  },
+  {
+    "userId":"671a0ad0-f1ae-ee11-a569-000d3a669ba8",
+    "userName":"Mohammed Quadir",
+    "email":"mohammed.q@paramountassure.com",
+    "groupMemberships":"Paramount,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,PCS - Ajman Municipality,Team MSS,Farah,DC-SOC,PCS-MSS-DCAA,PCS-MSS-MIRAL,Miral SOC Group,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"ceb4c75b-a009-43c6-8162-c018cddfc6e5"
+  },
+  {
+    "userId":"7f610e67-fa3f-ee11-bdf3-000d3a669ba8",
+    "userName":"Sijen Dangol",
+    "email":"mso.support2@paramountassure.com",
+    "groupMemberships":"Paramount,All Users,PCS-MSS-DCAA,PCS-LAB-USERS,MSS-DCAA,MSS-ALFANAR,Securus 360,MSS-ABG,Microsoft 365 Business Standard Licensed Users,SCS-Employee",
+    "businessUnitId":null,
+    "managerId":"4fe10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"amit.sharma@paramountassure.com",
+    "azureAdObjectId":"9405e3c4-34fa-4514-aa16-161cb1e01532"
+  },
+  {
+    "userId":"5ebd346c-e935-ee11-bdf4-000d3a669ba8",
+    "userName":"Sagar Srinivas Hebsur",
+    "email":"sagar.h@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,PCS - Ajman Municipality,PCS_Jumaalmajid,DC-SOC,Teams_Group_FARAH EXPERIENCES,PCS-MSS-DCAA,PCS-MSS-MIRAL,Miral SOC Group,SOC Tamkeen,SOC MBRHE,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,SOC Banque Misr,Alpheya_Sentinel_Soc,Alpheya_Sentinel_Siem_Admins,MSS-EWEC-Admin,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"8353ba00-5fa3-ec11-983f-000d3a65be92",
+    "managerEmail":"Bharat.l@paramountassure.com",
+    "azureAdObjectId":"bfae5aef-001f-463d-8ba7-24ca417122aa"
+  },
+  {
+    "userId":"ce42d658-dd9f-ee11-be37-000d3a669ba8",
+    "userName":"Muhammed Musthafa KV",
+    "email":"muhammed.m@paramountassure.com",
+    "groupMemberships":"Paramount,Team Bahrain,PCS,All Users,PCS Employees - Bahrain,Paramount Sales Team,SALES TEAM - BAHRAIN,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"357a97ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Manjunath.a@paramountassure.com",
+    "azureAdObjectId":"02faecfd-1783-4043-8dd9-a7ffb9f31a78"
+  },
+  {
+    "userId":"a64e54f8-84a4-ee11-be37-000d3a669ba8",
+    "userName":"Rishit Varma",
+    "email":"rishit.v@paramountassure.com",
+    "groupMemberships":"All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,Excellence Driving Centre,PCS_Jumaalmajid,MSS Security Advisory,The Executive Council,Scope Investment,SOC - Scope Investment,PCS-LAB-USERS,Gulf Islamic Investment (GII),Internal Team,CSNxxT-Employees,PCS-BRM,PCS-ELASTIC-LAB-USERS,PCS MATRIX,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"39a7e1a9-6575-4f38-be71-e743fd54ef91"
+  },
+  {
+    "userId":"c017fbfe-84a4-ee11-be37-000d3a669ba8",
+    "userName":"Ramakrishna V",
+    "email":"ramakrishna.v@paramountassure.com",
+    "groupMemberships":"All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,Excellence Driving Centre,PCS_Jumaalmajid,MSS Security Advisory,The Executive Council,Scope Investment,SOC - Scope Investment,PCS-MSS-ALWASL,PCS-LAB-USERS,Gulf Islamic Investment (GII),Internal Team,CSNxxT-Employees,PCS-BRM,PCS-ELASTIC-LAB-USERS,PCS MATRIX,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"b547f4bc-a21b-428d-b1ea-4cabca29522b"
+  },
+  {
+    "userId":"c702382f-8150-ee11-be6e-000d3a669ba8",
+    "userName":"Muhammed Shahad",
+    "email":"Muhammed.shahad@paramountassure.com",
+    "groupMemberships":"IAM - Delivery,Paramount,PAM Team,All Users,PCS-LAB-USERS,CSNxxT-Employees,IAM Delivery Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_IAM,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"638b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"qusai@paramountassure.com",
+    "azureAdObjectId":"1fcdc05f-bd5a-4e52-b678-35d61d3d9f15"
+  },
+  {
+    "userId":"9d4c0f67-9a50-ee11-be6e-000d3a669ba8",
+    "userName":"Nihal Rajeev",
+    "email":"Nihal.rajeev@paramountassure.com",
+    "groupMemberships":"Paramount,All Users,Cloud Services Team,MSS-ALFANAR,CSNxxT-Employees,PCS MSO XDR Monitoring Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),PCS XDR Monitoring,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"4e2e1849-1461-ee11-8df0-000d3a669ba8",
+    "managerEmail":"Akash.k@paramountassure.com",
+    "azureAdObjectId":"05bd23ee-2229-4eff-8de9-b0810c16a1f1"
+  },
+  {
+    "userId":"bba1decd-7451-ee11-be6e-000d3a669ba8",
+    "userName":"Sharath Chandra Gaddameedi",
+    "email":"Sharath.g@paramountassure.com",
+    "groupMemberships":"Network Security Group,Paramount,All Users,PCS-IT-ADMIN,CSNxxT-Employees,DATA SECURITY TEAM,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"d018bd07-0d07-ec11-94ef-0022489c0f78",
+    "managerEmail":"Rajeev.p@paramountassure.com",
+    "azureAdObjectId":"88270e27-0443-4c30-a3e8-90d8ff5adeda"
+  },
+  {
+    "userId":"b2c62ca0-244a-ee11-be6f-000d3a669ba8",
+    "userName":"Haseeb Nochhikunnumal",
+    "email":"haseeb.n@paramountassure.com",
+    "groupMemberships":"PCS Employees - Qatar,Paramount,PCS Employees - Saudi,All Users,PCS Qatar - Delivery,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"19e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Unaise.k@paramountassure.com",
+    "azureAdObjectId":"a9c69b84-fe75-496a-b3be-7b04fddbfdcd"
+  },
+  {
+    "userId":"2fceae02-c04b-ee11-be6f-000d3a669ba8",
+    "userName":"Rahul Saxena",
+    "email":"rahul.saxena@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,PCS,All Users,Teams_Group_KYNDRYL,sales group,customer facing employees,Paramount Sales Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_IAM,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"6189604c-3e58-ee11-be6f-000d3adc8967",
+    "managerEmail":"rahul.b@paramountassure.com",
+    "azureAdObjectId":"1c90f669-bebf-413f-b767-a03b46597c1d"
+  },
+  {
+    "userId":"834f4305-8e57-ee11-be6f-000d3a669ba8",
+    "userName":"Mukund Setlur",
+    "email":"mukund.s@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,HelpdeskAgents,Data Privacy,All Users,Ahlan Cyber Knowledge Base,GDP- Marketing blitzkrieg,COO conversations,CSNxxT-Employees,Paramount Awards & Certification,PCS Business Reviews,sales group,customer facing employees,Paramount Sales Team,Submission of Pending TNA Forms,Ahlanees,ahalnees,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Marketing,SG_Management_Users",
+    "businessUnitId":null,
+    "managerId":"608b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Ashok.c@paramountassure.com",
+    "azureAdObjectId":"dd2cd512-a599-4dad-a0d3-290f355d9019"
+  },
+  {
+    "userId":"636a7c0a-b857-ee11-be6f-000d3a669ba8",
+    "userName":"Flora Christabel",
+    "email":"flora.c@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,Microsoft Core Team,All Users,Cloud Services Team,Intune App Testing,Data Protection Cloud Services,CSNxxT-Employees,Internship,Department_Cloud Services,M365 Copilot,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"fd3b92b3-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Rajesh.k@paramountassure.com",
+    "azureAdObjectId":"aad8d8b0-0fcf-4c81-8435-43cfdc76473e"
+  },
+  {
+    "userId":"51d7de3c-3c35-ec11-8c64-000d3ab096f9",
+    "userName":"Najfal Nezar",
+    "email":"Najfal.n@paramountassure.com",
+    "groupMemberships":"PCS Employees - Qatar,Paramount,Team Qatar,All Users,Microsoft 365 E5 Licensed Users,PCS Qatar - Delivery,Office 365 Security,PCSAIPOLD,Dynamics 365 Support,PCS_Qatar_SOC,KFCA IT IOT Assessment,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"19e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Unaise.k@paramountassure.com",
+    "azureAdObjectId":"dcec7d46-b955-4b6c-beef-825dddb046c1"
+  },
+  {
+    "userId":"f937ec5b-39da-eb11-bacb-000d3ab17fbc",
+    "userName":"Premchand Kurup",
+    "email":"premchandk@paramountassure.com",
+    "groupMemberships":"PCS-Sales,PCS Employees - UAE,PCS -LDP,Paramount,PCS AIP Users,4.x- Schneider-OT,CyberNxt - Dashboard,PCS_UAE-Internal,Cloud Sec Documents,CyberNxt - Talent Cloud,PCS UAT,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Intune MAM light Policy,Dynamics 365 Sales ,Corporate Governing Council,PCS Business Reviews,Paramount global,Department_Management",
+    "businessUnitId":null,
+    "managerId":"f937ec5b-39da-eb11-bacb-000d3ab17fbc",
+    "managerEmail":"premchandk@paramountassure.com",
+    "azureAdObjectId":"2c75fd67-a072-477d-83df-9d0841431d4b"
+  },
+  {
+    "userId":"e5cee0d8-ab09-ec11-b6e6-000d3ab1f3c0",
+    "userName":"Devika Sunil Nair",
+    "email":"Devika.s@paramountassure.com",
+    "groupMemberships":"IDAM Team,PCS,PCS Technical,IAM - Delivery,PCS Employees - Qatar,Paramount,PAM Team,Team Qatar,CISSP Training 2021,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Intune MAM Policy Exclusion,PCS-LAB-USERS,Dynamics 365 Sales ,PCS-QAPCO-USERS,Qatar -Presales,IAM Delivery Team,Department_IAM,Dukhan Bank IAM Assessment,SG_IAM_Users,Dukhan Bank IAM assessment project",
+    "businessUnitId":null,
+    "managerId":"638b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"qusai@paramountassure.com",
+    "azureAdObjectId":"358ac72b-c9b9-4e00-bd10-baa98e4a5b2a"
+  },
+  {
+    "userId":"3937400e-bc0b-ec11-b6e6-000d3ab1f3c0",
+    "userName":"Lubna Kawal",
+    "email":"Lubna.k@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Network Security Group,Paramount,Infra Security BU,All Users,Microsoft 365 E5 Licensed Users,MSS Security Advisory,Office 365 Security,PCS-IT-ADMIN,Dynamics 365 Support,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"d018bd07-0d07-ec11-94ef-0022489c0f78",
+    "managerEmail":"Rajeev.p@paramountassure.com",
+    "azureAdObjectId":"e5f47082-e16b-4429-9d36-09d4b1354a24"
+  },
+  {
+    "userId":"fa4e5da9-9c42-ef11-a316-000d3ab2e4a7",
+    "userName":"Ravindranadh Kandala",
+    "email":"ravindranadh.k@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Finance,Invoices | Ahlan Cyber,SG_Finance_Users",
+    "businessUnitId":null,
+    "managerId":"4ce10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"krishnakumar.k@paramountassure.com",
+    "azureAdObjectId":"caa1dcde-0c45-466c-a604-8a5091c3f3f3"
+  },
+  {
+    "userId":"9b08e207-4643-ef11-a316-000d3ab2e4a7",
+    "userName":"Kathyayini #",
+    "email":"kathyayini@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,PCS - Ajman Municipality,Farah,DC-SOC,PCS-MSS-DCAA,PCS-MSS-MIRAL,Miral SOC Group,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"905f7514-8838-4b46-80ed-cc10a32827ea"
+  },
+  {
+    "userId":"c2acca2a-a0d7-ee11-904d-000d3ab41c07",
+    "userName":"Abila Rafeequ",
+    "email":"abila@ahlancyber.com",
+    "groupMemberships":"PCS Employees - Saudi,PCS,All Users,Ahlan Cyber -Presales,Ahlan Cyber Knowledge Base,Ahlan Cyber - OPAS,Ahlan Sales,Paramount Sales Team,ahalnees,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b77997ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Namith@ahlancyber.com",
+    "azureAdObjectId":"476ebc1f-f493-40c1-aeb3-ba58766c987b"
+  },
+  {
+    "userId":"e1e8d293-7fc9-ee11-9079-000d3ab41c07",
+    "userName":"Mohamed Azil",
+    "email":"azil@ahlancyber.com",
+    "groupMemberships":"Paramount,PCS Employees - Saudi,PCS,All Users,Ahlan Cyber -Presales,Ahlan Cyber Knowledge Base,Ahlan Sales,Paramount Sales Team,ahalnees,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b77997ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Namith@ahlancyber.com",
+    "azureAdObjectId":"c6f9e339-a159-48f0-b626-a1ceae430ade"
+  },
+  {
+    "userId":"7bb23dfe-94cc-ee11-9079-000d3ab41c07",
+    "userName":"Priyanka Venkateswar",
+    "email":"priyanka.v@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,PCS,All Users,Support_CVOwners_3402C73A-EB24-4FDC-A5AE-2DCA9E99CBE7,Ahlan Cyber Knowledge Base,PMO,Project Management Office - Consulting,ISO 27001:2022 LA Training,FP&A,Paramount Awards & Certification,Paramount CSR,MRM Submission 2024,Business Excellence,PCS Business Reviews,sales group,customer facing employees,Paramount Sales Team,Qatar SOC 2 Audit,Paramount Delivery Team,Paramount Audit,Tamkeen-Data Classification Project,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Global PMO CoE,Flyadeal - Data Classification_Privacy_DLP Phase 1,Resource Management,Department_Finance,Dukhan Bank IAM Assessment,SG_Finance_Users,Staffing",
+    "businessUnitId":null,
+    "managerId":"608b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Ashok.c@paramountassure.com",
+    "azureAdObjectId":"55ea0dbf-6604-4ccc-b573-f91630b70db7"
+  },
+  {
+    "userId":"4f519886-75cf-ec11-a7b5-000d3ab45df7",
+    "userName":"Hala Al-Sadi",
+    "email":"Hala.alsadi@paramountassure.com",
+    "groupMemberships":"AdminAgents,PCS Employees - UAE,Paramount,Microsoft Core Team,PCS,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Microsoft Fasttrack-RFA,Ahlan Cyber Knowledge Base,Ahlan Cyber - OPAS,Intune Compliance windows 10,RLS-Project Plan,RLS-Project-Group,Security Co-Pilot,PCS Business Reviews,sales group,customer facing employees,Paramount Sales Team,PartnerCenter_MPNAdmin,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"608b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Ashok.c@paramountassure.com",
+    "azureAdObjectId":"37255d46-01ab-47bd-b572-d8070f076c8e"
+  },
+  {
+    "userId":"ac79caa0-7935-f011-8c4d-000d3ab46049",
+    "userName":"Swathi S",
+    "email":"swathi.s@paramountassure.com",
+    "groupMemberships":"Microsoft Core Team,All Users,Cloud Services Team,CSNxxT-Employees,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"55878116-03eb-ec11-bb3d-0022489cd7be",
+    "managerEmail":"Sugumar.s@paramountassure.com",
+    "azureAdObjectId":"c35c5b8c-c6d6-49f9-8b79-bbfb697d2382"
+  },
+  {
+    "userId":"d56610e3-2148-ef11-bfe2-000d3ab4cfeb",
+    "userName":"Suraj Lal",
+    "email":"suraj.l@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Paramount Sales Team,Dubai Metro Blue Line,OT-D-A-V-S,SCT Project Delivery,Presales - OT Security,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Critical Infra Security- D-A-V-S,Department_OT Security,SG_OT Security_Users",
+    "businessUnitId":null,
+    "managerId":"faf051c4-9a9b-ed11-aad1-000d3adc8967",
+    "managerEmail":"Divya.raj@paramountassure.com",
+    "azureAdObjectId":"8eaac98c-dab5-43fa-97b5-8931ffaa4646"
+  },
+  {
+    "userId":"9093ca40-a34d-ef11-bfe2-000d3ab4cfeb",
+    "userName":"Sumitha Kader",
+    "email":"sumitha.k@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,IAM - Delivery,All Users,IAM Delivery Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_IAM,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"638b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"qusai@paramountassure.com",
+    "azureAdObjectId":"b57b029f-ea18-44a1-aad4-df795c4bf226"
+  },
+  {
+    "userId":"bb6725e4-055e-ef11-bfe3-000d3ab4cfeb",
+    "userName":"Sidra Kaleem Ahmed",
+    "email":"sidra@ahlancyber.com",
+    "groupMemberships":"Paramount,PCS Employees - Saudi,HelpdeskAgents,PCS,All Users,Microsoft 365 E5 Licensed Users,Ahlan Cyber -Presales,Ahlan Cyber - OPAS,Paramount Sales Team,ahalnees,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b77997ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Namith@ahlancyber.com",
+    "azureAdObjectId":"7e9f6fee-9cbe-463f-870c-1fa30809b4f2"
+  },
+  {
+    "userId":"b77997ad-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Namith Najeeb",
+    "email":"Namith@ahlancyber.com",
+    "groupMemberships":"PCS Employees - UAE,PCS Employees - Qatar,Paramount,PCS Employees - Saudi,PCS UAT,PCS,Qatar Finance & Admin,All Users,Qatar CSR,Office 365 Security,Ahlan Cyber -Presales,Ahlan Cyber Knowledge Base,Ahlan Cyber - OPAS,Dynamics 365 Sales ,Ahlan Sales,PCS Business Reviews,sales group,customer facing employees,Paramount Sales Team,ahalnees,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,Invoices | Ahlan Cyber,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"608b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Ashok.c@paramountassure.com",
+    "azureAdObjectId":"69589b10-0fb2-4c52-b145-a8b43e76a14d"
+  },
+  {
+    "userId":"e87997ad-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Taronish Cowas Bajan",
+    "email":"Taronish.cb@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Sales-UAE,Paramount,Microsoft Core Team,HelpdeskAgents,PCS UAT,CISSP Training 2021,PCS,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Dynamics 365 Sales ,sales group,customer facing employees,Paramount Sales Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"7fb153c8-ab7d-ec11-8d21-0022489bef85",
+    "managerEmail":"Vijay.g@paramountassure.com",
+    "azureAdObjectId":"2b153137-706e-4b10-89a9-ae022f3573ae"
+  },
+  {
+    "userId":"0a7a97ad-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Paramount Technical Support",
+    "email":"helpdesk@paramountassure.com",
+    "groupMemberships":"PCS-TechServices,Content Management Group,All Users,Support_CVOwners_3402C73A-EB24-4FDC-A5AE-2DCA9E99CBE7,PCSAIPOLD,Dynamics 365 Support,DATA SECURITY TEAM",
+    "businessUnitId":null,
+    "managerId":null,
+    "managerEmail":null,
+    "azureAdObjectId":"f930eecf-94a2-492d-a317-ab8c86b0e56c"
+  },
+  {
+    "userId":"357a97ad-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Manjunatha AM",
+    "email":"Manjunath.a@paramountassure.com",
+    "groupMemberships":"PCS,Paramount,Team Bahrain,PCS UAT,PCS,All Users,Office 365 Security,PCS Employees - Bahrain,PCS Business Reviews,sales group,customer facing employees,Paramount Sales Team,SALES TEAM - BAHRAIN,Bahrain Support,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"608b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Ashok.c@paramountassure.com",
+    "azureAdObjectId":"80e33102-c75b-4785-9c26-fb7b8983f94b"
+  },
+  {
+    "userId":"427a97ad-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Meghna Muralidharan",
+    "email":"Meghna.n@paramountassure.com",
+    "groupMemberships":"PCS,PCS Employees - UAE,PCS Technical,Paramount,PCS AIP Users,SOC - PCS,PCS_UAE-Internal,AKI_SOC,All Users,MSS SOC Team,PCS MSS Team,Microsoft 365 E5 Licensed Users,PCS - Ajman Municipality,Team MSS,PCS_Jumaalmajid,Office 365 Security,PCSAIPOLD,DC-SOC,PCS-MSS-DCAA,PCS-MSS-MIRAL,PCS-LAB-USERS,Miral SOC Group,Dynamics 365 Support,DHA Offshore SOC Team,DHA Sentinel Offshore,PCS-Dubai Culture,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"12b988f4-1607-ed11-82e5-0022489a173e",
+    "managerEmail":"Pratik.a@paramountassure.com",
+    "azureAdObjectId":"183830e5-7716-4f65-820e-79f9be388c9f"
+  },
+  {
+    "userId":"213c92b3-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Aasim Mohamed Haris Padiyath",
+    "email":"Aasim.mh@paramountassure.com",
+    "groupMemberships":"PCS Employees - Qatar,Team Qatar,All Users,Microsoft 365 E5 Licensed Users,PCS Qatar - Delivery,Office 365 Security,PCSAIPOLD,Learning Plan,Group_core_security,Dynamics 365 Sales ,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"19e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Unaise.k@paramountassure.com",
+    "azureAdObjectId":"fc9cbf79-2c0b-4e24-97cd-2e8a801f8244"
+  },
+  {
+    "userId":"4d3c92b3-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Deepesh Bharat Shah",
+    "email":"Deepesh.s@paramountassure.com",
+    "groupMemberships":"PCS,PCS Employees - UAE,PCS-Consulting Services,Paramount,PCS_UAE-Internal,Cloud Sec Documents,Mashreq Data Classification Project,Emaar Data classification\/AIP\/FP,PCS UAT,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Teams_Group_KYNDRYL,Teams_Group_FARAH EXPERIENCES,Salama Insurance - Consulting,Pre-Sales - Consulting,Dynamics 365 Sales ,PCS- GII- Infosec Team,Consulting-Presales,Paramount Sales Team,Teams_Group_Qatar_proposals,Tamkeen-Data Classification Project,DAG Group - Security Assessment,6clicks-role-Administrator,Flyadeal - Data Classification_Privacy_DLP Phase 1,Department_Consulting Services,SG_Consulting Services_Users",
+    "businessUnitId":null,
+    "managerId":"09888ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Ramesh.v@paramountassure.com",
+    "azureAdObjectId":"cbe56aa6-44ea-4692-bae6-98a24819ef79"
+  },
+  {
+    "userId":"953c92b3-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Mohammed Muzammil Kaleemulla",
+    "email":"Muzammil.k@paramountassure.com",
+    "groupMemberships":"IDAM Team,PCS,PCS Employees - UAE,PCS Technical,IAM - Delivery,Paramount,PCS_UAE-Internal,Identity Workshop,Daman Project,CISSP Training 2021,All Users,Microsoft 365 E5 Licensed Users,SailPoint Training,Office 365 Security,PCS-LAB-USERS,Dynamics 365 Support,IAM Delivery Team,Department_IAM,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"638b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"qusai@paramountassure.com",
+    "azureAdObjectId":"1f8597b5-95c1-4f4c-88f7-13a40596941f"
+  },
+  {
+    "userId":"ac3c92b3-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Shipra Gupta",
+    "email":"shipra.G@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,PCS Technical,Content Management Group,Paramount,Microsoft Core Team,PCS_UAE-Internal,All Users,Support_CVOwners_3402C73A-EB24-4FDC-A5AE-2DCA9E99CBE7,Cloud Services Team,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Dynamics 365 Support,CSNxxT-Employees,sales group,customer facing employees,Submission of Pending TNA Forms,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"6de10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Shiju.c@paramountassure.com",
+    "azureAdObjectId":"61f8a4aa-5fab-46c9-964e-fcce3914ced1"
+  },
+  {
+    "userId":"003d92b3-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Razal Mohammed",
+    "email":"Razal.m@paramountassure.com",
+    "groupMemberships":"PCS,PCS Employees - UAE,Paramount,Team Kuwait,PCS Outsourced Team,PCS AIP Users,Team Qatar,PCS_UAE-Internal,CyberNxt - Talent Cloud,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,HR-ConfidentialLabel,Dynamics 365 Sales ,Talent Acquisition,Paramount Sales Team,Department_Staffing Solutions,SG_Staffing Solutions_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"b721304b-6846-4396-9bbe-32be36d4fa8e"
+  },
+  {
+    "userId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Suhas Varambally",
+    "email":"suhas@paramountassure.com",
+    "groupMemberships":"PCS,PCS-TechServices,PCS - Outsourced Team,PCS Employees - UAE,PCS Technical,Sales-UAE,PCSUAEBiz,Paramount,IDO Meeting RAK,PCS Outsourced Team,PCS AIP Users,PCS_UAE-Internal,Cloud Security,CISCO FIFA RFP,Mashreq Data Classification Project,PCS Qatar - Presales,PCS UAT,PCS,Intune Enroll Excluded Users,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Qatar OPAS,Teams_Group_KYNDRYL,Teams_Group_FARAH EXPERIENCES,Intune MAM Policy Exclusion,Dynamics 365 Sales ,Billing Details,Project Status,PCS Business Reviews,sales group,customer facing employees,Paramount Sales Team,Dubai Metro Blue Line,Presales_TechMSS,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"4ce10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"krishnakumar.k@paramountassure.com",
+    "azureAdObjectId":"30b71096-97c9-49ba-9e66-ca5998fbb7ae"
+  },
+  {
+    "userId":"09888ab9-76b4-eb11-8236-000d3ab5a61f",
+    "userName":"Ramesh Vempali",
+    "email":"Ramesh.v@paramountassure.com",
+    "groupMemberships":"PCS,PCS Employees - UAE,PCS -LDP,Paramount,Paramout-KSA,PCS AIP Users,PCS- KSA Freelancers,PCS Employees - Saudi,PCS_UAE-Internal,PCS UAT,PCS,All Users,Microsoft 365 E5 Licensed Users,KSA Invoicing,Office 365 Security,Ahlan Cyber Knowledge Base,Ahlan Cyber - OPAS,Dynamics 365 Sales ,Consulting-Presales,PCS Business Reviews,sales group,customer facing employees,Paramount Sales Team,KAFD Project,Sharing Weekly Internal PPT,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Weekly Summary - Compliance,Flyadeal - Data Classification_Privacy_DLP Phase 1,Department_Consulting Services,SG_Consulting Services_Users",
+    "businessUnitId":null,
+    "managerId":"f937ec5b-39da-eb11-bacb-000d3ab17fbc",
+    "managerEmail":"premchandk@paramountassure.com",
+    "azureAdObjectId":"1a34694a-a428-4ae1-8974-2484669cf263"
+  },
+  {
+    "userId":"a2542123-bbee-ef11-be1f-000d3ab5c49d",
+    "userName":"Sunil Kanti",
+    "email":"Sunil.k@paramountassure.com",
+    "groupMemberships":"Network Security Group,Paramount,All Users,Microsoft 365 E5 Licensed Users,PCS-IT-ADMIN,CSNxxT-Employees",
+    "businessUnitId":null,
+    "managerId":"d018bd07-0d07-ec11-94ef-0022489c0f78",
+    "managerEmail":"Rajeev.p@paramountassure.com",
+    "azureAdObjectId":"1f2b9261-b13b-4cee-be32-8721d0a0a8ac"
+  },
+  {
+    "userId":"4ce10f9a-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Krishnakumar K",
+    "email":"krishnakumar.k@paramountassure.com",
+    "groupMemberships":"PCS,AdminAgents,PCS Employees - UAE,Paramount,CyberNxt - Dashboard,All Users,Power BI Administrator,Corporate Governing Council,PCS Business Reviews,sales group,customer facing employees,Qatar SOC 2 Audit,Paramount global,PartnerCenter_MPNAdmin,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Finance,SG_Finance_Users",
+    "businessUnitId":null,
+    "managerId":"4ce10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"krishnakumar.k@paramountassure.com",
+    "azureAdObjectId":"57c3fb5c-b597-44f9-8aff-fa903bd8edd4"
+  },
+  {
+    "userId":"4fe10f9a-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Amit Sharma",
+    "email":"amit.sharma@paramountassure.com",
+    "groupMemberships":"AdminAgents,PCS Employees - UAE,PCS -LDP,Paramount,PCS_UAE-Internal,PCS UAT,CISSP Training 2021,PCS,All Users,Support_CVOwners_3402C73A-EB24-4FDC-A5AE-2DCA9E99CBE7,Microsoft 365 E5 Licensed Users,MSS Security Advisory,Office 365 Security,PCSAIPOLD,Teams_Group_KYNDRYL,PCS-IT-ADMIN,Dynamics 365 Sales ,Teams_Group_MSO_EDGE,MSS-DCAA,EDGE Service Delivery,MSS-ALFANAR,sales group,customer facing employees,Dubai Metro Blue Line,Presales_TechMSS,Presales_TechMSS,Securus 360,Coresecurity\/Tech Projects,Department_Infrastructure Security,MSS-ABG,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"f342a152-c8aa-461e-8564-68d07d4c2604"
+  },
+  {
+    "userId":"6de10f9a-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Shiju Chandroth",
+    "email":"Shiju.c@paramountassure.com",
+    "groupMemberships":"PCS,AdminAgents,PCS Employees - UAE,PCS Technical,Paramount,Microsoft Core Team,Azure Information Protection Administrator,Microsoft Projects,Global Administrator,PCS_UAE-Internal,Cloud Security,Cloud Sec Documents,BUPA Microsoft Security Project,Mashreq Data Classification Project,Daman Project,SOC Notification,PCS-Sentinel,Emaar Data classification\/AIP\/FP,NBF- AIP Project,Cybersecurity NxxT Team,PCS UAT,Pcs DLP Policy Group,CISSP Training 2021,PCS,Paramount Intune Enrolled Users Group,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,PCSAIPOLD,Intune MAM & Defender,Microsoft Fasttrack-RFA,Teams_Group_KYNDRYL,Silver-ParamountMXDR360,Teams_Group_FARAH EXPERIENCES,Paramount XDR360 team,Fifa game test,FIDO,Intune MAM light Policy,Intune Compliance windows 10,Dynamics 365 Sales ,RLS-Project Plan,RLS-Project-Group,Communication compliance,KSA Region-Internal,Security Co-Pilot,sales group,customer facing employees,MyITBuddy,PartnerCenter_MPNAdmin,Flyadeal - Data Classification_Privacy_DLP Phase 1,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"608b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Ashok.c@paramountassure.com",
+    "azureAdObjectId":"0418de2e-abb3-4804-9594-970b3da85fff"
+  },
+  {
+    "userId":"608b16a0-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Ashok Chandrasekharan",
+    "email":"Ashok.c@paramountassure.com",
+    "groupMemberships":"PCS,AdminAgents,PCS Employees - UAE,Paramount,Microsoft Core Team,PCS AIP Users,Microsoft Projects,PCS_UAE-Internal,Cloud Security,Mashreq Data Classification Project,Daman Project,PCS UAT,Pcs DLP Policy Group,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,Teams_Group_KYNDRYL,Teams_Group_FARAH EXPERIENCES,FIDO,Ahlan Cyber Knowledge Base,Ahlan Cyber - OPAS,Dynamics 365 Sales ,COO conversations,Security Co-Pilot,Corporate Governing Council,PCS Business Reviews,Paramount Sales Team,Qatar SOC 2 Audit,Paramount global,Department_Management",
+    "businessUnitId":null,
+    "managerId":"f937ec5b-39da-eb11-bacb-000d3ab17fbc",
+    "managerEmail":"premchandk@paramountassure.com",
+    "azureAdObjectId":"462e6c8c-362b-4f1e-b864-d218e7450a77"
+  },
+  {
+    "userId":"638b16a0-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Qusai Barwaniwala",
+    "email":"qusai@paramountassure.com",
+    "groupMemberships":"IDAM Team,PCS,PCS Employees - UAE,PCS Technical,IAM - Delivery,PCSUAEBiz,Paramount,Microsoft Core Team,PAM Team,Daily Tasks,PCS_UAE-Internal,Cloud Security,Cloud Sec Documents,Identity Workshop,Daman Project,PCS UAT,CISSP Training 2021,PCS,All Users,Microsoft 365 E5 Licensed Users,IAM Projects,Office 365 Security,PCSAIPOLD,Teams_Group_KYNDRYL,FIDO,Ahlan Cyber -Presales,Ahlan Cyber Knowledge Base,PCS-LAB-USERS,Dynamics 365 Sales ,Teams_Group_MSO_EDGE,Project Status,IAM - Presales,IAM Projects - Test,sales group,customer facing employees,Paramount Sales Team,Dubai Metro Blue Line,DAG Group - Security Assessment,Department_IAM,Dukhan Bank IAM Assessment,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"c0a685a7-527f-4b63-9b42-c72f59ff9f8a"
+  },
+  {
+    "userId":"f98b16a0-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Manisha Tanwar",
+    "email":"Manisha.t@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,PCS-Consulting Services,PCS -LDP,Paramount,PCS AIP Users,PCS-GRC-LAB-USERS,PCS_UAE-Internal,KIB_GRC,All Users,Microsoft 365 E5 Licensed Users,Woqod - Qatar Fuel,DEWA BCM,Office 365 Security,sales group,customer facing employees,Department_GRC,SG_GRC_Users",
+    "businessUnitId":null,
+    "managerId":"608b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Ashok.c@paramountassure.com",
+    "azureAdObjectId":"9dcbea24-df7f-42cc-b832-4eee60f20d40"
+  },
+  {
+    "userId":"73e70ea6-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Greeshma Rajan",
+    "email":"Greeshma.r@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,PCS-Consulting Services,Paramount,PCS AIP Users,PCS-GRC-LAB-USERS,Mashreq Archer Implementation,CyberNxt - Dashboard,PCS_UAE-Internal,CyberNxt - Talent Cloud,KIB_GRC,All Users,Microsoft 365 E5 Licensed Users,DEWA BCM,Office 365 Security,PCSAIPOLD,Paramount CSR,PCS-NBK Project Team,6clicks-role-Administrator,Department_GRC,SG_GRC_Users",
+    "businessUnitId":null,
+    "managerId":"f98b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Manisha.t@paramountassure.com",
+    "azureAdObjectId":"bb0f04d2-d842-40e8-8f6c-54277766d0a4"
+  },
+  {
+    "userId":"87e70ea6-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Ismail Mohammad",
+    "email":"ismail.m@paramountassure.com",
+    "groupMemberships":"PCS,Paramount,PCS- Kuwait Support,Team Kuwait,PCS Employees - Kuwait,All Users,Microsoft 365 E5 Licensed Users,Team Kuwait Projects,PCSAIPOLD,BFSI and O&G,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"241ead33-e9bd-eb11-bacc-000d3ade3673",
+    "managerEmail":"Yasser.t@pcskuwait.com",
+    "azureAdObjectId":"d92739d6-194d-4eb2-90b1-5c6e3ed4f053"
+  },
+  {
+    "userId":"b6e70ea6-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Nagendra Kesani",
+    "email":"Nagendra.k@paramountassure.com",
+    "groupMemberships":"PCS,PCS-TechServices,PCS Employees - UAE,PCS Technical,Paramount,PCS AIP Users,PCS_UAE-Internal,CISSP Training 2021,All Users,PCSAIPOLD,Microsoft 365 Business Premium Licensed Users,Dynamics 365 Support,Department_Staffing Solutions,SG_Staffing Solutions_Users",
+    "businessUnitId":null,
+    "managerId":"1b081676-e5be-eb11-bacc-000d3ade3348",
+    "managerEmail":"Ashish.p@paramountassure.com",
+    "azureAdObjectId":"445becac-86b8-4971-8fd7-9a77bafbafd7"
+  },
+  {
+    "userId":"19e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Unaise Eranju Kunnumel",
+    "email":"Unaise.k@paramountassure.com",
+    "groupMemberships":"PCS,PCS Employees - UAE,PCS Employees - Qatar,Paramount,PCS AIP Users,PCS Qatar - Presales,All Users,Microsoft 365 E5 Licensed Users,PCS Qatar - Delivery,Office 365 Security,PCSAIPOLD,Group_core_security,PCS_Qatar_SOC,Teams_Group_Qatar_proposals,Qatar SOC 2 Audit,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Flyadeal - Data Classification_Privacy_DLP Phase 1,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"54d0ec47-1891-498f-a621-042e7a222bff"
+  },
+  {
+    "userId":"3ce80ea6-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Kutbuddin Nogama",
+    "email":"Kutbuddin.n@paramountassure.com",
+    "groupMemberships":"PCS,Paramount,PCS- Kuwait Support,Team Kuwait,PCS Employees - Kuwait,All Users,Microsoft 365 E5 Licensed Users,Team Kuwait Projects,Office 365 Security,PCSAIPOLD,KIB_GROUP,PCS-NBK Project Team,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"241ead33-e9bd-eb11-bacc-000d3ade3673",
+    "managerEmail":"Yasser.t@pcskuwait.com",
+    "azureAdObjectId":"73dd5425-92a6-43c5-9483-47a424e8505b"
+  },
+  {
+    "userId":"56e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Muhammad Omair Fahimuddin",
+    "email":"Omair.m@paramountassure.com",
+    "groupMemberships":"PCS,PCS Employees - UAE,Sales-UAE,PCSUAEBiz,Paramount,PCS AIP Users,PCS_UAE-Internal,CISCO FIFA RFP,PCS UAT,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Dynamics 365 Sales ,sales group,customer facing employees,Paramount Sales Team,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"7b85c397-1fec-4e18-ac45-f5dbf5dd7d7f"
+  },
+  {
+    "userId":"a0e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "userName":"Mohammad Arif Ansari",
+    "email":"Arif.a@paramountassure.com",
+    "groupMemberships":"PCS,PCS Employees - UAE,PCS Technical,Content Management Group,Paramount,PCS_UAE-Internal,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,PCS-LAB-USERS,Dynamics 365 Support,sales group,customer facing employees,DATA SECURITY TEAM,Department_Data Security,SG_Data Security_Users",
+    "businessUnitId":null,
+    "managerId":"93b67866-8a19-ee11-8f6d-000d3adc8967",
+    "managerEmail":"arputharaj.m@paramountassure.com",
+    "azureAdObjectId":"f956b637-d19e-48a5-bde4-01ab0f111c5b"
+  },
+  {
+    "userId":"ed0e973b-e132-ef11-8409-000d3ab64ef2",
+    "userName":"Sujan Upreti",
+    "email":"sujan.u@paramountassure.com",
+    "groupMemberships":"All Users,PCS-MSS-DCAA,MSS-DCAA,MSS-ALFANAR,MSS-JAMG,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Securus 360,PCS Alfanar Manual Tracker Data,CA002 Policy exclusion -  non admins,MSS-ABG,Microsoft 365 Business Standard Licensed Users,SCS-Employee",
+    "businessUnitId":null,
+    "managerId":"4fe10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"amit.sharma@paramountassure.com",
+    "azureAdObjectId":"c1dac210-cb2b-4a68-8b6d-a78d0eab8001"
+  },
+  {
+    "userId":"65db158f-e639-ef11-8409-000d3ab64ef2",
+    "userName":"Vivek Kumar Yadav",
+    "email":"vivek.y@paramountassure.com",
+    "groupMemberships":"All Users,PCS-MSS-DCAA,MSS-DCAA,MSS-ALFANAR,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Securus 360,MSS-ABG,SCS-Employee",
+    "businessUnitId":null,
+    "managerId":"ed0e973b-e132-ef11-8409-000d3ab64ef2",
+    "managerEmail":"sujan.u@paramountassure.com",
+    "azureAdObjectId":"fc6fd2a8-593f-48a1-b2df-81d689137150"
+  },
+  {
+    "userId":"07a1bcdb-7c25-ef11-840a-000d3ab64ef2",
+    "userName":"Shaik Towsif Ahamed",
+    "email":"shaik.a@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,All Users,MSS SOC Team,DHA Offshore SOC Team,DHA Sentinel Offshore,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"12b988f4-1607-ed11-82e5-0022489a173e",
+    "managerEmail":"Pratik.a@paramountassure.com",
+    "azureAdObjectId":"44094c13-c3d9-44f0-b913-283675c6f1e7"
+  },
+  {
+    "userId":"31389a7f-9e27-ef11-840a-000d3ab64ef2",
+    "userName":"Ajith Benny",
+    "email":"ajith.b@paramountassure.com",
+    "groupMemberships":"Paramount,All Users,Cloud Services Team,MSS-ALFANAR,CSNxxT-Employees,PCS MSO XDR Monitoring Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),PCS XDR Monitoring,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"4e2e1849-1461-ee11-8df0-000d3a669ba8",
+    "managerEmail":"Akash.k@paramountassure.com",
+    "azureAdObjectId":"52614237-42ce-44ca-a731-4567d6dcace2"
+  },
+  {
+    "userId":"8b20d76d-0a9c-ef11-8a6a-000d3ab6556d",
+    "userName":"Deepak Kumar Singh",
+    "email":"Deepak.ks@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,MSS-ALFANAR,CSNxxT-Employees,PCS MSO XDR Monitoring Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),PCS XDR Monitoring,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"4e2e1849-1461-ee11-8df0-000d3a669ba8",
+    "managerEmail":"Akash.k@paramountassure.com",
+    "azureAdObjectId":"005a3324-6c26-484a-be06-07d829df9a76"
+  },
+  {
+    "userId":"798efc1c-7f84-ef11-ac21-000d3ab6556d",
+    "userName":"Siva Manoharan",
+    "email":"siva.m@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,PCS,All Users,Office 365 Security,Ahlan Cyber Knowledge Base,PMO,CSNxxT-Employees,Business Excellence,Paramount Sales Team,Paramount Delivery Team,Weekly Sales Report,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Target,Finance Team,Global PMO CoE,Department_Finance,SG_Finance_Users",
+    "businessUnitId":null,
+    "managerId":"7bb23dfe-94cc-ee11-9079-000d3ab41c07",
+    "managerEmail":"priyanka.v@paramountassure.com",
+    "azureAdObjectId":"04e8b85d-445d-4184-9829-2a33b5a5dec5"
+  },
+  {
+    "userId":"6dd6a052-ffa7-ef11-b8e9-000d3ab6556d",
+    "userName":"Sridhar Adhikari",
+    "email":"sridhar.a@paramountassure.com",
+    "groupMemberships":"Network Security Group,All Users,PCS-MSS-DCAA,MSS-DCAA,MSS-ALFANAR,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Securus 360,MSS-ABG,SCS-Employee",
+    "businessUnitId":null,
+    "managerId":"ed0e973b-e132-ef11-8409-000d3ab64ef2",
+    "managerEmail":"sujan.u@paramountassure.com",
+    "azureAdObjectId":"bfa5d2b9-f1ec-454e-82e1-9dad0275f657"
+  },
+  {
+    "userId":"63290a54-52ad-ef11-b8e9-000d3ab6556d",
+    "userName":"Angelina Raju",
+    "email":"angelina.r@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,PCS - Ajman Municipality,DC-SOC,Miral SOC Group,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"96b02617-0dcb-4cc2-a8ec-3aad9bead04a"
+  },
+  {
+    "userId":"5d17326e-0ac2-ef11-b8e9-000d3ab6556d",
+    "userName":"Deepak Kumar",
+    "email":"deepak.k@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"5d03f935-5802-4642-bbe3-60ef1989dfa4"
+  },
+  {
+    "userId":"b85077ed-2ae0-ec11-bb3c-000d3ab855ae",
+    "userName":"Fathima Shana Noory",
+    "email":"Fathima.sn@paramountassure.com",
+    "groupMemberships":"PCS Employees - Qatar,Paramount,All Users,Microsoft 365 E5 Licensed Users,PCS Qatar - Delivery,Office 365 Security,PCSAIPOLD,Dynamics 365 Support,Department_Staffing Solutions,SG_Staffing Solutions_Users",
+    "businessUnitId":null,
+    "managerId":"19e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Unaise.k@paramountassure.com",
+    "azureAdObjectId":"9d500883-7740-4a6f-ae6b-8db4bd3dd450"
+  },
+  {
+    "userId":"ad6e940b-7f23-ed11-b83d-000d3ab8ce15",
+    "userName":"Sales | Paramount",
+    "email":"Connect@paramountassure.com",
+    "groupMemberships":"PCS Employees - Qatar,Paramount,PCS Qatar - Presales,PCS,Qatar Sales,All Users,Office 365 Security,PCSAIPOLD,Dynamics 365 Sales ,sales group,customer facing employees,Paramount Sales Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Microsoft 365 Business Standard Licensed Users",
+    "businessUnitId":null,
+    "managerId":null,
+    "managerEmail":null,
+    "azureAdObjectId":"17bcaa25-7d6a-425c-975d-3044cadf25de"
+  },
+  {
+    "userId":"f949c9c3-2112-ed11-b83d-000d3ab99a64",
+    "userName":"Srikant Tyagi",
+    "email":"Srikant.t@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,PCS-LAB-USERS,Dynamics 365 Support,CSNxxT-Employees,DATA SECURITY TEAM,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Data Security,SG_Data Security_Users",
+    "businessUnitId":null,
+    "managerId":"93b67866-8a19-ee11-8f6d-000d3adc8967",
+    "managerEmail":"arputharaj.m@paramountassure.com",
+    "azureAdObjectId":"d373c19a-2bb2-4488-94a2-db96409ca507"
+  },
+  {
+    "userId":"75053526-abdd-eb11-bacb-000d3aba4ed5",
+    "userName":"Divya Sumangala",
+    "email":"Divya.s@paramountassure.com",
+    "groupMemberships":"IDAM Team,PCS,PCS Technical,IAM - Delivery,PCS Employees - Qatar,Paramount,PAM Team,Team Qatar,CISSP Training 2021,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Intune MAM Policy Exclusion,PCS-LAB-USERS,PCS-QAPCO-USERS,IAM Delivery Team,Department_IAM,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"638b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"qusai@paramountassure.com",
+    "azureAdObjectId":"e015e353-dda8-419f-bf83-ce67be175e6d"
+  },
+  {
+    "userId":"1a695fbd-b4df-eb11-bacb-000d3aba4ed5",
+    "userName":"CRM -Admin",
+    "email":"crm.admin@paramountassure.com",
+    "groupMemberships":"PCS UAT,PCS,All Users,PCSAIPOLD,Ahlan Cyber Knowledge Base,Dynamics 365 Support,Paramount Delivery Team,Weekly Sales Report,Order Booking,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Target,Microsoft 365 Business Standard Licensed Users,Appreciations Tracker,Sales Assistant",
+    "businessUnitId":null,
+    "managerId":null,
+    "managerEmail":null,
+    "azureAdObjectId":"3a8a6e9c-63f1-42c2-88b1-cef3cdb7b92d"
+  },
+  {
+    "userId":"0f7386ee-9b28-ef11-840a-000d3ad96d4c",
+    "userName":"Nawraa Alshowaikh",
+    "email":"nawraa.a@paramountassure.com",
+    "groupMemberships":"Paramount,Team Bahrain,All Users,PCS Employees - Bahrain,SALES TEAM - BAHRAIN,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"357a97ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Manjunath.a@paramountassure.com",
+    "azureAdObjectId":"42fe46b4-baaa-4ea2-89d2-d1fd4497ebfd"
+  },
+  {
+    "userId":"3821d8f0-96e6-ec11-bb3c-000d3ad96fe8",
+    "userName":"Shahna Alappadiyil",
+    "email":"Shahna.a@paramountassure.com",
+    "groupMemberships":"IAM - Delivery,PCS Employees - Qatar,Paramount,Team Qatar,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,PCS-LAB-USERS,IAM Delivery Team,Department_IAM,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"638b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"qusai@paramountassure.com",
+    "azureAdObjectId":"2ed4592e-5be7-4805-8074-73d98f577c36"
+  },
+  {
+    "userId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "userName":"Jaya Prakash Immadi",
+    "email":"jayaprakash.I@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,Air Arabia NOC,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,Excellence Driving Centre,Team MSS,PCS_Jumaalmajid,MSS Security Advisory,Office 365 Security,The Executive Council,PCSAIPOLD,DC-SOC,Teams_Group_FARAH EXPERIENCES,Scope Investment,SOC - Scope Investment,PCS-MSS-AIR-ARABIA,PCS-MSS-ALWASL,Gulf Islamic Investment (GII),Dynamics 365 Support,KIB_GROUP,PCS- GII- Infosec Team,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,Teams_Group_MSS_projects,PCS-BRM,PCS-ELASTIC-LAB-USERS,PCS-ELSATIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"ff0065b3-b7b1-ec11-9840-000d3adc2ba7",
+    "managerEmail":"Dheeraj.t@paramountassure.com",
+    "azureAdObjectId":"f777b683-9def-4137-98a3-06e33f07fcc7"
+  },
+  {
+    "userId":"cbe7b452-731e-ef11-840a-000d3ad9703b",
+    "userName":"Paramount | SOC",
+    "email":"paramountsoc@paramountassure.com",
+    "groupMemberships":"All Users,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_MSS,Microsoft 365 Business Standard Licensed Users,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":null,
+    "managerEmail":null,
+    "azureAdObjectId":"d63e98b9-8b5d-4b8a-9ebf-fe642c2c5188"
+  },
+  {
+    "userId":"b23c506b-3d0c-ef11-9f89-000d3ad9703b",
+    "userName":"Asheesh Shukla",
+    "email":"asheesh.s@paramountassure.com",
+    "groupMemberships":"PCS Employees - Qatar,Paramount,PCS Qatar - Presales,PCS,All Users,Paramount Sales Team,Teams_Group_Qatar_proposals,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users,Dukhan Bank IAM assessment project",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"6dfb9d71-0f51-43b6-bedc-aaee6f02f489"
+  },
+  {
+    "userId":"19a3a1ac-6d27-ed11-9db1-000d3adaff3c",
+    "userName":"Shranjay Singh",
+    "email":"Shranjay.s@paramountassure.com",
+    "groupMemberships":"PCS NOC,All Users,MSS SOC Team,PCS MSS Team,Microsoft 365 E5 Licensed Users,PCS - Ajman Municipality,PCS_Jumaalmajid,Farah,PCSAIPOLD,DC-SOC,PCS-MSS-DCAA,PCS-MSS-MIRAL,PCS-LAB-USERS,Miral SOC Group,Dynamics 365 Support,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,CSNxxT-Employees,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"8353ba00-5fa3-ec11-983f-000d3a65be92",
+    "managerEmail":"Bharat.l@paramountassure.com",
+    "azureAdObjectId":"277f14c0-4325-4bcf-b311-599623c0ca37"
+  },
+  {
+    "userId":"4a7ecb53-43e0-ee11-904c-000d3adb178b",
+    "userName":"Ganeshmurthy Raikar",
+    "email":"ganeshmurthy.r@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,All Users,DHA Offshore SOC Team,DHA Sentinel Offshore,PCS-ELASTIC-LAB-USERS,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"12b988f4-1607-ed11-82e5-0022489a173e",
+    "managerEmail":"Pratik.a@paramountassure.com",
+    "azureAdObjectId":"e2890086-8ec1-47f5-8028-39e0b429f3c0"
+  },
+  {
+    "userId":"5df24e86-4fae-ec11-9840-000d3adc2ba7",
+    "userName":"Rahul Arun",
+    "email":"Rahul.a@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,Microsoft Core Team,HelpdeskAgents,Cybersecurity NxxT Team,PCS,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,sales group,customer facing employees,Paramount Sales Team,PartnerCenter_MPNAdmin,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"7fb153c8-ab7d-ec11-8d21-0022489bef85",
+    "managerEmail":"Vijay.g@paramountassure.com",
+    "azureAdObjectId":"040211e8-ced1-4e93-8620-615c0b566731"
+  },
+  {
+    "userId":"ff0065b3-b7b1-ec11-9840-000d3adc2ba7",
+    "userName":"Dheeraj Tolaney",
+    "email":"Dheeraj.t@paramountassure.com",
+    "groupMemberships":"PCS,PCS Employees - UAE,Paramount,Air Arabia NOC,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,Team MSS,MSS Security Advisory,Office 365 Security,The Executive Council,Teams_Group_KYNDRYL,Teams_Group_FARAH EXPERIENCES,SOC - Scope Investment,Dynamics 365 Sales ,Project Status,KIB_GROUP,Teams_Group_MSS_projects,sales group,customer facing employees,PCS MATRIX,Paramount Sales Team,Dubai Metro Blue Line,Presales_TechMSS,DAG Group - Security Assessment,CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"36dc8132-3501-40f4-96af-8492922253f8"
+  },
+  {
+    "userId":"1b991aeb-dd77-ee11-8179-000d3adc8967",
+    "userName":"Vaishal Mehta",
+    "email":"Vaishal.m@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Ahlan Cyber Knowledge Base,Dynamics 365 Sales ,Security Co-Pilot,Corporate Governing Council,PCS Business Reviews,sales group,customer facing employees,Paramount Sales Team,DAG Group - Security Assessment,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Management",
+    "businessUnitId":null,
+    "managerId":"f937ec5b-39da-eb11-bacb-000d3ab17fbc",
+    "managerEmail":"premchandk@paramountassure.com",
+    "azureAdObjectId":"02dc31a5-4663-4716-9cea-5c32706d3d25"
+  },
+  {
+    "userId":"ab003a21-937b-ed11-81ad-000d3adc8967",
+    "userName":"Vikneshkumar Palanisamy",
+    "email":"Viknesh.p@paramountassure.com",
+    "groupMemberships":"Air Arabia NOC,All Users,MSS SOC Team,PCS - Ajman Municipality,PCS_Jumaalmajid,Farah,DC-SOC,SOC - Scope Investment,PCS-MSS-AIR-ARABIA,PCS-MSS-DCAA,PCS-MSS-MIRAL,PCS-MSS-ALWASL,Internal Team,Miral SOC Group,Dynamics 365 Support,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,CSNxxT-Employees,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"8353ba00-5fa3-ec11-983f-000d3a65be92",
+    "managerEmail":"Bharat.l@paramountassure.com",
+    "azureAdObjectId":"3cac4936-d302-442e-be13-d025ceb75f3a"
+  },
+  {
+    "userId":"1cd7669f-858d-ed11-81ad-000d3adc8967",
+    "userName":"Sooraj Kovval",
+    "email":"sooraj.kovval@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,PCS-MSS-ALWASL,DHA Offshore SOC Team,DHA Sentinel Offshore,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"12b988f4-1607-ed11-82e5-0022489a173e",
+    "managerEmail":"Pratik.a@paramountassure.com",
+    "azureAdObjectId":"ccf6d52a-a45b-4d3a-810a-69bda63bec78"
+  },
+  {
+    "userId":"64b73dfe-b78d-ed11-81ad-000d3adc8967",
+    "userName":"Rohit Premchand",
+    "email":"Rohit.Premchand@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Microsoft 365 E5 Licensed Users,Ahlan Cyber Knowledge Base,FP&A,Paramount Awards & Certification,PCS Business Reviews,Paramount Sales Team,Paramount Delivery Team,Department_Finance,SG_Finance_Users",
+    "businessUnitId":null,
+    "managerId":"7bb23dfe-94cc-ee11-9079-000d3ab41c07",
+    "managerEmail":"priyanka.v@paramountassure.com",
+    "azureAdObjectId":"9b85df3d-48bb-41e7-98a5-849005b424ff"
+  },
+  {
+    "userId":"f4d61f41-86b7-ed11-83fe-000d3adc8967",
+    "userName":"Renju Kumar",
+    "email":"Renju.k@paramountassure.com",
+    "groupMemberships":"Paramount,HelpdeskAgents,PCS,All Users,PCSAIPOLD,CSNxxT-Employees,sales group,customer facing employees,Paramount Sales Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Sales,SG_Sales_Users",
+    "businessUnitId":null,
+    "managerId":"6c2d2195-c58c-ed11-81ad-000d3adc8967",
+    "managerEmail":"Pradeep@paramountassure.com",
+    "azureAdObjectId":"05e5fef5-536e-401c-b3b7-32d22a92d3a7"
+  },
+  {
+    "userId":"e20fa1ea-3cb4-ed11-83ff-000d3adc8967",
+    "userName":"Samras Ahamed Mohamed Junaideen",
+    "email":"Samras.a@paramountassure.com",
+    "groupMemberships":"PCS Employees - Qatar,Paramount,All Users,PCS Qatar - Delivery,Dynamics 365 Support,PCS_Qatar_SOC,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"19e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Unaise.k@paramountassure.com",
+    "azureAdObjectId":"57dfbd62-58c9-4f89-a8cc-8c2ce5383c29"
+  },
+  {
+    "userId":"23dd76ac-f3c2-ed11-83ff-000d3adc8967",
+    "userName":"Kotha Venkata Naga Akhil",
+    "email":"Venkata.k@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Air Arabia NOC,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,Excellence Driving Centre,PCS - Ajman Municipality,PCS_Jumaalmajid,MSS Security Advisory,The Executive Council,DC-SOC,Scope Investment,SOC - Scope Investment,PCS-MSS-DCAA,PCS-MSS-MIRAL,PCS-LAB-USERS,Gulf Islamic Investment (GII),Internal Team,Miral SOC Group,Dynamics 365 Support,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,CSNxxT-Employees,PCS-Dubai Culture,PCS-BRM,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,PCS MATRIX,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"8353ba00-5fa3-ec11-983f-000d3a65be92",
+    "managerEmail":"Bharat.l@paramountassure.com",
+    "azureAdObjectId":"236a938b-9c25-43ba-9a64-0549d5b3de1c"
+  },
+  {
+    "userId":"91ad6aa3-ffea-ed11-8849-000d3adc8967",
+    "userName":"Anbreen Azim",
+    "email":"Anbreen.a@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,PCS - Ajman Municipality,Team MSS,Farah,DC-SOC,PCS-MSS-DCAA,PCS-MSS-MIRAL,PCS-MSS-ALWASL,Microsoft 365 Business Premium Licensed Users,Miral SOC Group,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,PCS-BRM,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"1caaa937-8018-47c2-b201-0bc7138e1d8a"
+  },
+  {
+    "userId":"dba1d204-37f2-ed11-8849-000d3adc8967",
+    "userName":"Amr Ezzat Sayed Hassan",
+    "email":"Amr@ahlancyber.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,Microsoft Core Team,PCS Employees - Saudi,HelpdeskAgents,PCS,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,Ahlan Cyber Knowledge Base,KSA Region-Internal,Ahlan Sales,sales group,customer facing employees,Paramount Sales Team,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"4f519886-75cf-ec11-a7b5-000d3ab45df7",
+    "managerEmail":"Hala.alsadi@paramountassure.com",
+    "azureAdObjectId":"65e958c8-6dc1-42c7-83fd-682c105dcf67"
+  },
+  {
+    "userId":"93b67866-8a19-ee11-8f6d-000d3adc8967",
+    "userName":"Arputharaj Moideen",
+    "email":"arputharaj.m@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Support_CVOwners_3402C73A-EB24-4FDC-A5AE-2DCA9E99CBE7,Teams_Group_MSO_EDGE,Billing Details,Project Status,MSS-EDGE,EDGE Service Delivery,ISO Delivery,DATA SECURITY TEAM,MSS-JAMG,Coresecurity\/Tech Projects,Department_Renewals - Core Security,SG_Renewals- Core Security_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"00e5df59-0081-4e43-9ae0-7c9969f698dc"
+  },
+  {
+    "userId":"de8a282a-38c3-ee11-9079-000d3adc8967",
+    "userName":"Sherif Elshenawi",
+    "email":"sherif.e@paramountassure.com",
+    "groupMemberships":"PCS- Kuwait Support,PCS Employees - Kuwait,All Users,Microsoft 365 E5 Licensed Users,Team Kuwait Projects,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"241ead33-e9bd-eb11-bacc-000d3ade3673",
+    "managerEmail":"Yasser.t@pcskuwait.com",
+    "azureAdObjectId":"4f128540-407f-4017-b8cc-a6441209152c"
+  },
+  {
+    "userId":"279883d9-a9c5-ee11-9079-000d3adc8967",
+    "userName":"Hussain Merji",
+    "email":"Hussain@paramountassure.com",
+    "groupMemberships":"Paramount,PCS- Kuwait Support,PCS Employees - Kuwait,All Users,Team Kuwait Projects,Office 365 Security,PCS-NBK Project Team,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"241ead33-e9bd-eb11-bacc-000d3ade3673",
+    "managerEmail":"Yasser.t@pcskuwait.com",
+    "azureAdObjectId":"64ddd89d-188b-4d74-8afc-0629695ba553"
+  },
+  {
+    "userId":"f73b226f-69c9-ee11-9079-000d3adc8967",
+    "userName":"Neha Philip",
+    "email":"neha.p@paramountassure.com",
+    "groupMemberships":"Paramount,All Users,Cloud Services Team,MSS-ALFANAR,CSNxxT-Employees,PCS MSO XDR Monitoring Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),PCS XDR Monitoring,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"4e2e1849-1461-ee11-8df0-000d3a669ba8",
+    "managerEmail":"Akash.k@paramountassure.com",
+    "azureAdObjectId":"e3fc650d-860f-4e24-8161-9785eaf99d82"
+  },
+  {
+    "userId":"f9a17eab-9bc9-ee11-9079-000d3adc8967",
+    "userName":"Rohith Gurram",
+    "email":"rohith.g@paramountassure.com",
+    "groupMemberships":"All Users,MSS SOC Team,PCS - Ajman Municipality,PCS_Jumaalmajid,Farah,DC-SOC,PCS-MSS-DCAA,PCS-MSS-MIRAL,Miral SOC Group,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,CSNxxT-Employees,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"8353ba00-5fa3-ec11-983f-000d3a65be92",
+    "managerEmail":"Bharat.l@paramountassure.com",
+    "azureAdObjectId":"8c21304f-41d0-474f-bb19-d49eba150fb0"
+  },
+  {
+    "userId":"e65c3067-b4cc-ee11-9079-000d3adc8967",
+    "userName":"Sam Mathew",
+    "email":"sam.m@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,DHA Offshore SOC Team,DHA Sentinel Offshore,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"12b988f4-1607-ed11-82e5-0022489a173e",
+    "managerEmail":"Pratik.a@paramountassure.com",
+    "azureAdObjectId":"c3fa9858-e624-4886-96f7-01fccc3b5f51"
+  },
+  {
+    "userId":"72812fda-6d24-ee11-9cbc-000d3adc8967",
+    "userName":"Nuzhath Khan",
+    "email":"nuzhath.k@paramountassure.com",
+    "groupMemberships":"PCS Employees - Qatar,Paramount,PCS Qatar - Presales,PCS,Qatar Sales,All Users,sales group,customer facing employees,Paramount Sales Team,Teams_Group_Qatar_proposals,From GulfIT- QNB CLM Keyfacotr,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"cf03d7b2-2583-47c5-b3c1-3f54bac34324"
+  },
+  {
+    "userId":"f682883e-8db0-ee11-a569-000d3adc8967",
+    "userName":"Durga Anji",
+    "email":"durga.a@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,Microsoft Core Team,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,Microsoft Elite,MSS-ALFANAR,CSNxxT-Employees,PCS MSO XDR Monitoring Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),PCS XDR Monitoring,PCS Alfanar Manual Tracker Data,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"4e2e1849-1461-ee11-8df0-000d3a669ba8",
+    "managerEmail":"Akash.k@paramountassure.com",
+    "azureAdObjectId":"3c36d97e-3ab6-4843-906a-4046a5a6e056"
+  },
+  {
+    "userId":"51ea521b-63ac-ed11-aad0-000d3adc8967",
+    "userName":"Mohammad Hussain Shaik",
+    "email":"Mohammad.h@paramountassure.com",
+    "groupMemberships":"Paramount,Team Kuwait,PCS Employees - Kuwait,PCS,All Users,sales group,customer facing employees,Paramount Sales Team,Security Sales Department,BFSI and O&G,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"241ead33-e9bd-eb11-bacc-000d3ade3673",
+    "managerEmail":"Yasser.t@pcskuwait.com",
+    "azureAdObjectId":"dd4c4c53-0a57-4462-8ca6-2f596a25258e"
+  },
+  {
+    "userId":"faf051c4-9a9b-ed11-aad1-000d3adc8967",
+    "userName":"Divya Raj",
+    "email":"Divya.raj@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,PCS,All Users,Ahlan Cyber -Presales,Ahlan Cyber Knowledge Base,Ahlan Cyber - OPAS,Dynamics 365 Sales ,PCS Business Reviews,sales group,customer facing employees,Paramount Sales Team,Teams_Group_Qatar_proposals,Dubai Metro Blue Line,OT-D-A-V-S,SCT Project Delivery,Presales - OT Security,Critical Infra Security- D-A-V-S,Department_OT Security,SG_OT Security_Users",
+    "businessUnitId":null,
+    "managerId":"608b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Ashok.c@paramountassure.com",
+    "azureAdObjectId":"43ff30d6-c2c8-4a1c-92ac-3253c386df5d"
+  },
+  {
+    "userId":"96e89273-7d9c-ed11-aad1-000d3adc8967",
+    "userName":"Parth Piyush Dabgar",
+    "email":"Parth.p@paramountassure.com",
+    "groupMemberships":"Paramount,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,Office 365 Security,PCS-MSS-ALWASL,Sentinel Projects,Microsoft Elite,MSS-SOC-Sentinel-India,CSNxxT-Employees,Sentinel Documents,SentinelSME,Test Team - SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"6eaeb678-3c5c-ed11-9562-0022489a24b8",
+    "managerEmail":"Jayesh.d@paramountassure.com",
+    "azureAdObjectId":"dbde5154-4161-4234-b252-81e89e5512d1"
+  },
+  {
+    "userId":"48747db0-413b-ee11-bdf4-000d3adc8967",
+    "userName":"Sourabh Suri",
+    "email":"sourabh@ahlancyber.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,PCS,All Users,Ahlan Cyber -Presales,Ahlan Cyber Knowledge Base,Ahlan Sales,sales group,customer facing employees,Paramount Sales Team,ahalnees,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Flyadeal - Data Classification_Privacy_DLP Phase 1,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b77997ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Namith@ahlancyber.com",
+    "azureAdObjectId":"8cfcc408-57f2-4985-84af-5e4e722ed432"
+  },
+  {
+    "userId":"1130e93d-539a-ee11-be37-000d3adc8967",
+    "userName":"Pratik Shrestha",
+    "email":"mso.support3@paramountassure.com",
+    "groupMemberships":"Network Security Group,Paramount,All Users,PCS-IT-ADMIN,PCS-MSS-DCAA,PCS-LAB-USERS,MSS-DCAA,MSS-JAMG,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),MSS-ABG,SCS-Employee",
+    "businessUnitId":null,
+    "managerId":"4fe10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"amit.sharma@paramountassure.com",
+    "azureAdObjectId":"3fea2cb5-3aa4-4605-914c-c65359cbfa10"
+  },
+  {
+    "userId":"650ff003-afa4-ee11-be37-000d3adc8967",
+    "userName":"Vijay Gokeda",
+    "email":"Vijay.gokeda@paramountassure.com",
+    "groupMemberships":"Paramount,Microsoft Core Team,Cloud Sec Documents,SOC Notification,Security Operator,NBF- AIP Project,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,Intune App Testing,Office 365 Security,Intune Compliance windows 10,Data Protection Cloud Services,CSNxxT-Employees,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"fd3b92b3-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Rajesh.k@paramountassure.com",
+    "azureAdObjectId":"98a08685-1887-4994-a536-7b72fe7efae4"
+  },
+  {
+    "userId":"120ae738-3e52-ee11-be6e-000d3adc8967",
+    "userName":"Dilna Parveen P",
+    "email":"Dilna.p@paramountassure.com",
+    "groupMemberships":"IAM - Delivery,All Users,PCS-LAB-USERS,CSNxxT-Employees,IAM Delivery Team,Department_IAM,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"638b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"qusai@paramountassure.com",
+    "azureAdObjectId":"21c89e8c-746d-4de9-ac50-c0de034c6609"
+  },
+  {
+    "userId":"6189604c-3e58-ee11-be6f-000d3adc8967",
+    "userName":"Rahul Bhatia",
+    "email":"rahul.b@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,PCS,All Users,Ahlan Cyber Knowledge Base,Ahlan Cyber - OPAS,PCS Business Reviews,sales group,customer facing employees,Paramount Sales Team,Dubai Metro Blue Line,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_IAM,Dukhan Bank IAM Assessment,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"608b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Ashok.c@paramountassure.com",
+    "azureAdObjectId":"fbbb89f9-66a1-48e1-b07b-6617c5d8106e"
+  },
+  {
+    "userId":"1507681c-6c4b-ec11-8c62-000d3addb5d9",
+    "userName":"Prem Prasad",
+    "email":"Prem.p@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Sales-UAE,Paramount,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Teams_Group_FARAH EXPERIENCES,Dynamics 365 Sales ,sales group,customer facing employees,Paramount Sales Team,Dubai Metro Blue Line,DAG Group - Security Assessment,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"b858498a-065a-4a3b-9757-daacbb3b8a46"
+  },
+  {
+    "userId":"0dd127ed-304d-ec11-8c62-000d3addb5d9",
+    "userName":"Hazem Amin Mohamed",
+    "email":"Hazem.a@paramountassure.com",
+    "groupMemberships":"Paramount,Team Kuwait,PCS Employees - Kuwait,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Dynamics 365 Sales ,sales group,customer facing employees,Paramount Sales Team,Security Sales Department,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"241ead33-e9bd-eb11-bacc-000d3ade3673",
+    "managerEmail":"Yasser.t@pcskuwait.com",
+    "azureAdObjectId":"237f4d62-6379-4340-bb6f-0c5739192897"
+  },
+  {
+    "userId":"9355b12c-9747-ec11-8c62-000d3addd641",
+    "userName":"Deepthy Surendran Nambiar",
+    "email":"Deepthy.sn@paramountassure.com",
+    "groupMemberships":"PCS,PCS Employees - UAE,PCS Technical,Content Management Group,Paramount,PCS AIP Users,SOC - PCS,PCS_UAE-Internal,CISSP Training 2021,AKI_SOC,All Users,MSS SOC Team,PCS MSS Team,Microsoft 365 E5 Licensed Users,PCS - Ajman Municipality,Team MSS,PCS_Jumaalmajid,Office 365 Security,Farah,PCSAIPOLD,DC-SOC,PCS-MSS-DCAA,PCS-MSS-MIRAL,PCS-LAB-USERS,Miral SOC Group,Dynamics 365 Support,DHA Offshore SOC Team,DHA Sentinel Offshore,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"8353ba00-5fa3-ec11-983f-000d3a65be92",
+    "managerEmail":"Bharat.l@paramountassure.com",
+    "azureAdObjectId":"2e186776-244e-4c01-a4d4-97102c86ff32"
+  },
+  {
+    "userId":"2cd0086a-e5be-eb11-bacc-000d3ade3348",
+    "userName":"Nitin Rajotia",
+    "email":"Nitin.r@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,PCS -LDP,Paramount,PCS AIP Users,PCS-GRC-LAB-USERS,PCS_UAE-Internal,PCS UAT,PCS,Data Privacy,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,AUB Project Files,Ahlan Cyber Knowledge Base,Ahlan Cyber - OPAS,Dynamics 365 Sales ,GDP- Marketing blitzkrieg,PCS Business Reviews,sales group,customer facing employees,Paramount Sales Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_GRC,SG_GRC_Users",
+    "businessUnitId":null,
+    "managerId":"608b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Ashok.c@paramountassure.com",
+    "azureAdObjectId":"81365177-0a9c-4815-b04f-1ba6c71dfb11"
+  },
+  {
+    "userId":"e1071676-e5be-eb11-bacc-000d3ade3348",
+    "userName":"Jathin Das J B",
+    "email":"Jathin@ahlancyber.com",
+    "groupMemberships":"PCS Employees - Qatar,Paramount,Team Qatar,Cloud Sec Documents,PCS Qatar - Presales,PCS UAT,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,Ahlan Cyber -Presales,Ahlan Cyber Knowledge Base,Dynamics 365 Sales ,Ahlan Sales,sales group,customer facing employees,Paramount Sales Team,Teams_Group_Qatar_proposals,KFCA IT IOT Assessment,KFCA IT-IoT Assessment,Dubai Metro Blue Line,From GulfIT- QNB CLM Keyfacotr",
+    "businessUnitId":null,
+    "managerId":"b77997ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Namith@ahlancyber.com",
+    "azureAdObjectId":"e9843462-412e-4ef4-943d-b2a68c33f260"
+  },
+  {
+    "userId":"e5071676-e5be-eb11-bacc-000d3ade3348",
+    "userName":"Ashhad Alam",
+    "email":"Ashhad.a@paramountassure.com",
+    "groupMemberships":"PCS,PCS Employees - Qatar,Paramount,Team Qatar,PCS Qatar - Presales,PCS UAT,PCS,Qatar Sales,All Users,Office 365 Security,PCSAIPOLD,Ahlan Cyber -Presales,Ahlan Cyber Knowledge Base,Dynamics 365 Sales ,Ahlan Sales,sales group,customer facing employees,Paramount Sales Team,Teams_Group_Qatar_proposals,ahalnees,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b77997ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Namith@ahlancyber.com",
+    "azureAdObjectId":"86f3d306-d530-4b21-a56e-b06f962d187b"
+  },
+  {
+    "userId":"e7071676-e5be-eb11-bacc-000d3ade3348",
+    "userName":"Sandeepa Dutt",
+    "email":"Sandeepa.d@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,CSNxxT-Employees,Paramount Delivery Team,DATA SECURITY TEAM,Submission of Pending TNA Forms,Department_Data Security,SG_Data Security_Users",
+    "businessUnitId":null,
+    "managerId":"93b67866-8a19-ee11-8f6d-000d3adc8967",
+    "managerEmail":"arputharaj.m@paramountassure.com",
+    "azureAdObjectId":"cace23a1-275e-4ee6-97ad-ca731532524c"
+  },
+  {
+    "userId":"1b081676-e5be-eb11-bacc-000d3ade3348",
+    "userName":"Ashish Pradhan",
+    "email":"Ashish.p@paramountassure.com",
+    "groupMemberships":"PCS,PCS Employees - UAE,Sales-UAE,PCSUAEBiz,Paramount,PCS Outsourced Team,PCS_UAE-Internal,PCS UAT,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Dynamics 365 Sales ,sales group,customer facing employees,Paramount Sales Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Staffing Solutions,SG_Staffing Solutions_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"f5155590-6d3e-4496-ac6d-f397857cd82f"
+  },
+  {
+    "userId":"a5081676-e5be-eb11-bacc-000d3ade3348",
+    "userName":"Deepa Jayakumar",
+    "email":"Deepa@paramountassure.com",
+    "groupMemberships":"PCS,PCS Employees - UAE,PCS Technical,Sales-UAE,PCSUAEBiz,Paramount,PCS AIP Users,PCS_UAE-Internal,PCS UAT,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,sales group,customer facing employees,Paramount Sales Team,Department_Renewals - Core Security,SG_Renewals- Core Security_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"8538c0d9-d971-4a6d-a5e1-5d294123bf97"
+  },
+  {
+    "userId":"241ead33-e9bd-eb11-bacc-000d3ade3673",
+    "userName":"Yasser Tanany",
+    "email":"Yasser.t@pcskuwait.com",
+    "groupMemberships":"PCS,Paramount,Team Kuwait,PCS Employees - Kuwait,PCS UAT,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Partnership Kuwait,Dynamics 365 Sales ,PCS Business Reviews,sales group,customer facing employees,Paramount Sales Team,Security Sales Department,PCSKWT,BFSI and O&G,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"608b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Ashok.c@paramountassure.com",
+    "azureAdObjectId":"612f7a3c-e1eb-432a-aad0-42019d2ddc97"
+  },
+  {
+    "userId":"1f84d15e-3f27-ec11-b6e5-000d3ade5275",
+    "userName":"D365 Admin",
+    "email":"D365admin@paramountassure.com",
+    "groupMemberships":"All Users,PCSAIPOLD,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98)",
+    "businessUnitId":null,
+    "managerId":null,
+    "managerEmail":null,
+    "azureAdObjectId":"8649e5cd-9b18-4b9e-8b4e-a1d0d0ae326d"
+  },
+  {
+    "userId":"4608d9ac-db67-ec11-8f8f-000d3ade64e5",
+    "userName":"Rakesh Nai",
+    "email":"Rakesh.n@paramountassure.com",
+    "groupMemberships":"Paramount,PCS- Kuwait Support,Team Kuwait,PCS Employees - Kuwait,All Users,Microsoft 365 E5 Licensed Users,Team Kuwait Projects,Office 365 Security,PCSAIPOLD,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"241ead33-e9bd-eb11-bacc-000d3ade3673",
+    "managerEmail":"Yasser.t@pcskuwait.com",
+    "azureAdObjectId":"ea6ef0d5-2558-43e4-9bfe-a623e461bced"
+  },
+  {
+    "userId":"a60bd48b-ab1a-ec11-b6e6-000d3adf021a",
+    "userName":"Nadim Muhammed",
+    "email":"Nadim@ahlancyber.com",
+    "groupMemberships":"PCS Employees - Qatar,Paramount,PCS Employees - Saudi,Team Qatar,PCS Qatar - Presales,PCS,All Users,Microsoft 365 E5 Licensed Users,Evanssion Visit,Office 365 Security,PCSAIPOLD,Ahlan Cyber -Presales,Ahlan Cyber Knowledge Base,Dynamics 365 Sales ,Ahlan Sales,sales group,customer facing employees,Paramount Sales Team,Department_IAM,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"b77997ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Namith@ahlancyber.com",
+    "azureAdObjectId":"c92b889e-7357-4860-bd4b-8512ce064239"
+  },
+  {
+    "userId":"43a55d43-1311-ef11-9f89-000d3adf5229",
+    "userName":"Yuvashree Ravi",
+    "email":"Yuvashree.r@paramountassure.com",
+    "groupMemberships":"IAM - Delivery,Paramount,All Users,PCS-LAB-USERS,CSNxxT-Employees,IAM Delivery Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_IAM,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"e5cee0d8-ab09-ec11-b6e6-000d3ab1f3c0",
+    "managerEmail":"Devika.s@paramountassure.com",
+    "azureAdObjectId":"95facc43-531d-496a-91b3-b3a68338a9ff"
+  },
+  {
+    "userId":"4b7c2d51-e218-ef11-9f89-000d3adf5229",
+    "userName":"Shilpi Sangal",
+    "email":"shilpi.s@paramountassure.com",
+    "groupMemberships":"All Users,Microsoft 365 E5 Licensed Users,Paramount Sales Team,Teams_Group_Qatar_proposals,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Renewals - Core Security,SG_Renewals- Core Security_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"6d0345b0-38c0-4891-9b8c-be8bff8f136a"
+  },
+  {
+    "userId":"2aef13e2-9d82-ec11-8d21-000d3adf7dc6",
+    "userName":"Venkatakrishnan Sowrirajan",
+    "email":"Venkatakrishnan.s@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,Teams_Group_KYNDRYL,Dynamics 365 Sales ,sales group,customer facing employees,DATA SECURITY TEAM,Presales_TechMSS,Presales_TechMSS,DAG Group - Security Assessment,Coresecurity\/Tech Projects,Department_Data Security,SG_Data Security_Users",
+    "businessUnitId":null,
+    "managerId":"93b67866-8a19-ee11-8f6d-000d3adc8967",
+    "managerEmail":"arputharaj.m@paramountassure.com",
+    "azureAdObjectId":"670139c3-2c13-403b-886a-940374f49e55"
+  },
+  {
+    "userId":"e8431db3-b9a9-ec11-983f-000d3adf9a48",
+    "userName":"Peroskhan Khadhar",
+    "email":"Peroskhan.k@paramountassure.com",
+    "groupMemberships":"Paramount,PCS- Kuwait Support,Team Kuwait,PCS Employees - Kuwait,All Users,Microsoft 365 E5 Licensed Users,Team Kuwait Projects,Office 365 Security,PCSAIPOLD,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"241ead33-e9bd-eb11-bacc-000d3ade3673",
+    "managerEmail":"Yasser.t@pcskuwait.com",
+    "azureAdObjectId":"36bbb5f5-e9ab-49d8-a9dd-83496285d800"
+  },
+  {
+    "userId":"032ce717-76ab-ec11-983f-000d3adf9a48",
+    "userName":"Khalil Hussein",
+    "email":"Khalil.h@paramountassure.com",
+    "groupMemberships":"PCS Employees - Qatar,Paramount,Team Qatar,All Users,Microsoft 365 E5 Licensed Users,PCS Qatar - Delivery,Office 365 Security,PCSAIPOLD,Dynamics 365 Support,PCS_Qatar_SOC,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"19e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Unaise.k@paramountassure.com",
+    "azureAdObjectId":"851f236a-dc3f-4cf1-90ed-53819fc8b41e"
+  },
+  {
+    "userId":"12b988f4-1607-ed11-82e5-0022489a173e",
+    "userName":"Pratik Santhosh Agre",
+    "email":"Pratik.a@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,Team MSS,MSS Security Advisory,Office 365 Security,Farah,PCSAIPOLD,Teams_Group_FARAH EXPERIENCES,PCS-MSS-AIR-ARABIA,PCS-MSS-DCAA,PCS-MSS-MIRAL,PCS-MSS-ALWASL,Microsoft 365 Business Premium Licensed Users,Dynamics 365 Support,DHA Offshore SOC Team,DHA Sentinel Offshore,Teams_Group_MSS_projects,PCS-BRM,MOCA,MSS-EWEC-Admin,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"ff0065b3-b7b1-ec11-9840-000d3adc2ba7",
+    "managerEmail":"Dheeraj.t@paramountassure.com",
+    "azureAdObjectId":"6a8f9c80-2ebf-40f5-9d26-9036db205a49"
+  },
+  {
+    "userId":"c2796e33-6f06-ed11-82e5-0022489a1b39",
+    "userName":"Mobeen Khaja Shaikh",
+    "email":"Mobeen.s@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Microsoft 365 E5 Licensed Users,Team MSS,Office 365 Security,PCSAIPOLD,PCS-MSS-MIRAL,PCS-MSS-ALWASL,DHA Offshore SOC Team,DHA Sentinel Offshore,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"12b988f4-1607-ed11-82e5-0022489a173e",
+    "managerEmail":"Pratik.a@paramountassure.com",
+    "azureAdObjectId":"c316f5bf-434d-48c0-9fef-ba026d1a9ef4"
+  },
+  {
+    "userId":"080611d7-2b08-ed11-82e5-0022489a1b39",
+    "userName":"Shijo Thomas",
+    "email":"Shijo.t@paramountassure.com",
+    "groupMemberships":"PCS Employees - Qatar,Paramount,Team Qatar,All Users,Microsoft 365 E5 Licensed Users,PCS Qatar - Delivery,Office 365 Security,PCSAIPOLD,Group_core_security,Dynamics 365 Support,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"19e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Unaise.k@paramountassure.com",
+    "azureAdObjectId":"877b8f27-605f-499e-8d4c-63f420488da3"
+  },
+  {
+    "userId":"c8680b28-f477-ed11-81ab-0022489a24b8",
+    "userName":"Vinay Dasari",
+    "email":"Vinay.d@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,PCS_Jumaalmajid,Farah,DC-SOC,PCS-MSS-DCAA,PCS-MSS-MIRAL,PCS-LAB-USERS,Miral SOC Group,Dynamics 365 Support,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,PCS-Dubai Culture,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"8353ba00-5fa3-ec11-983f-000d3a65be92",
+    "managerEmail":"Bharat.l@paramountassure.com",
+    "azureAdObjectId":"c9a68d4d-342a-416c-b54c-ec2cdabc0c3f"
+  },
+  {
+    "userId":"271f80ab-f3c2-ed11-83ff-0022489a24b8",
+    "userName":"Jalaluddeen Ahammadkunhi Aranthodu",
+    "email":"Jalaluddeen.a@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,The Executive Council,Scope Investment,SOC - Scope Investment,PCS-LAB-USERS,Gulf Islamic Investment (GII),Internal Team,Dynamics 365 Support,DHA Offshore SOC Team,DHA Sentinel Offshore,CSNxxT-Employees,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"12b988f4-1607-ed11-82e5-0022489a173e",
+    "managerEmail":"Pratik.a@paramountassure.com",
+    "azureAdObjectId":"a04bb954-ce22-4ac6-8dda-170d68cd3dff"
+  },
+  {
+    "userId":"e0c03c8b-4cf5-ed11-8849-0022489a24b8",
+    "userName":"Suganya Rajasekaran",
+    "email":"Suganya.R@paramountassure.com",
+    "groupMemberships":"All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,The Executive Council,Scope Investment,SOC - Scope Investment,PCS-MSS-AIR-ARABIA,PCS-MSS-ALWASL,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,CSNxxT-Employees,PCS-BRM,PCS-MSS-BM,SOC Banque Misr,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"b36d70a1-f635-4f11-9be8-c9cb51b84298"
+  },
+  {
+    "userId":"e0ddabf2-2fbf-ee11-9079-0022489a24b8",
+    "userName":"Rabina Maharjan",
+    "email":"mso.support4@paramountassure.com",
+    "groupMemberships":"Paramount,All Users,PCS-MSS-DCAA,PCS-LAB-USERS,MSS-DCAA,MSS-ALFANAR,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Securus 360,MSS-ABG,Microsoft 365 Business Standard Licensed Users,SCS-Employee",
+    "businessUnitId":null,
+    "managerId":"4fe10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"amit.sharma@paramountassure.com",
+    "azureAdObjectId":"ce1ef25e-9f6a-4b20-8030-d30c630e5b1d"
+  },
+  {
+    "userId":"0171f512-8a62-ed11-9561-0022489a24b8",
+    "userName":"Imthihal Arimanichola",
+    "email":"Imthihal.a@paramountassure.com",
+    "groupMemberships":"PCS Employees - Qatar,Paramount,All Users,Microsoft 365 E5 Licensed Users,PCS Qatar - Delivery,Office 365 Security,PCSAIPOLD,Flyadeal - Data Classification_Privacy_DLP Phase 1,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"19e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Unaise.k@paramountassure.com",
+    "azureAdObjectId":"42d1b83b-00fd-45b3-95a7-ed9c051441b7"
+  },
+  {
+    "userId":"9938844e-bed3-ed11-a7c7-0022489a24b8",
+    "userName":"Jagat Singh Rawat",
+    "email":"Jagat.r@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,Microsoft Core Team,HelpdeskAgents,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,Microsoft Fasttrack-RFA,Intune Compliance windows 10,Al-Turki Holding LLC,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"6de10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Shiju.c@paramountassure.com",
+    "azureAdObjectId":"07eba47e-0412-4614-8b51-9fbed1756df7"
+  },
+  {
+    "userId":"4badae85-f6e4-ed11-a7c7-0022489a24b8",
+    "userName":"Kabilan Krishnasamy",
+    "email":"Kabilan.k@paramountassure.com",
+    "groupMemberships":"All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,Excellence Driving Centre,PCS - Ajman Municipality,PCS_Jumaalmajid,The Executive Council,DC-SOC,Scope Investment,SOC - Scope Investment,PCS-MSS-ALWASL,Gulf Islamic Investment (GII),Internal Team,Miral SOC Group,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,CSNxxT-Employees,PCS-Dubai Culture,PCS-BRM,PCS-ELASTIC-LAB-USERS,PCS-MSS-BM,SOC Banque Misr,PCS MATRIX,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"25e4481b-88cd-43c3-8875-93a1ab52df0a"
+  },
+  {
+    "userId":"4f692869-b2aa-ed11-aad0-0022489a24b8",
+    "userName":"Vahid Mohammad",
+    "email":"Vahid.m@paramountassure.com",
+    "groupMemberships":"Paramount,PCS Employees - Saudi,Team Qatar,All Users,Microsoft 365 E5 Licensed Users,Ahlan Cyber -Presales,OT - Reading resources,Paramount Sales Team,Teams_Group_Qatar_proposals,Dubai Metro Blue Line,OT-D-A-V-S,Presales - OT Security,Critical Infra Security- D-A-V-S,Department_OT Security,SG_OT Security_Users",
+    "businessUnitId":null,
+    "managerId":"faf051c4-9a9b-ed11-aad1-000d3adc8967",
+    "managerEmail":"Divya.raj@paramountassure.com",
+    "azureAdObjectId":"b749241c-6560-4480-a164-03fb42189d40"
+  },
+  {
+    "userId":"541276fd-84a4-ee11-be37-0022489a24b8",
+    "userName":"Neha KJ",
+    "email":"neha.kj@paramountassure.com",
+    "groupMemberships":"All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,Excellence Driving Centre,PCS - Ajman Municipality,PCS_Jumaalmajid,MSS Security Advisory,The Executive Council,DC-SOC,Scope Investment,SOC - Scope Investment,PCS-LAB-USERS,Gulf Islamic Investment (GII),Miral SOC Group,SOC Tamkeen,SOC MBRHE,CSNxxT-Employees,PCS-Dubai Culture,PCS-BRM,PCS-ELASTIC-LAB-USERS,LetsDefend SOC Alerts,SOC Banque Misr,PCS MATRIX,Alpheya_Sentinel_Soc,MSS-EWEC-SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"bc1af13e-0ffe-41a1-9e83-7166e35c3403"
+  },
+  {
+    "userId":"a476f490-3151-ee11-be6e-0022489a24b8",
+    "userName":"Akib Gorikhan",
+    "email":"akib.g@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Network Security Group,Paramount,All Users,PCS-IT-ADMIN,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"d018bd07-0d07-ec11-94ef-0022489c0f78",
+    "managerEmail":"Rajeev.p@paramountassure.com",
+    "azureAdObjectId":"2b68b50c-b7e1-4155-9966-4ddca2ec8afc"
+  },
+  {
+    "userId":"34d456c8-00aa-eb11-8236-0022489b4c66",
+    "userName":"Subramanian P #",
+    "email":"Subbu.p@paramountassure.com",
+    "groupMemberships":"Dynamics 365 Administrator,PCS UAT,PCS,All Users,Support_CVOwners_3402C73A-EB24-4FDC-A5AE-2DCA9E99CBE7,PCSAIPOLD,Dynamics 365 Sales ",
+    "businessUnitId":null,
+    "managerId":null,
+    "managerEmail":null,
+    "azureAdObjectId":"972af6ae-90d2-441e-8436-2860f812896f"
+  },
+  {
+    "userId":"77f7fdb9-8949-ed11-bba2-0022489ba382",
+    "userName":"Afsal Koya",
+    "email":"Afsal@ahlancyber.com",
+    "groupMemberships":"PCS Employees - UAE,PCS Employees - Qatar,Paramount,Team Qatar,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,Ahlan Cyber -Presales,Ahlan Cyber Knowledge Base,Ahlan Sales,sales group,customer facing employees,Paramount Sales Team,ahalnees,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b77997ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Namith@ahlancyber.com",
+    "azureAdObjectId":"fa67fb83-388e-4dca-b6d5-86b9a7e9efb6"
+  },
+  {
+    "userId":"acf332cb-2443-ed11-bba3-0022489ba382",
+    "userName":"Soumya Arun",
+    "email":"Soumya.a@paramountassure.com",
+    "groupMemberships":"IAM - Delivery,PCS Employees - Qatar,Paramount,Team Qatar,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,PCS-LAB-USERS,CSNxxT-Employees,PCS-QAPCO-USERS,IAM Delivery Team,FortiGate SSL VPN Access,Department_IAM,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"638b16a0-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"qusai@paramountassure.com",
+    "azureAdObjectId":"0e5074f9-539c-4294-af33-17d49be5882f"
+  },
+  {
+    "userId":"a2ce141f-b87e-ec11-8d21-0022489be1a8",
+    "userName":"Sharif Elregeiba",
+    "email":"Sharif.e@paramountassure.com",
+    "groupMemberships":"PCS,PCS Employees - UAE,Paramount,PCS Outsourced Team,PCS AIP Users,PCS_UAE-Internal,CISSP Training 2021,PCS,All Users,Office 365 Security,PCSAIPOLD,Dynamics 365 Sales ,sales group,customer facing employees,Paramount Sales Team,Dubai Metro Blue Line,DAG Group - Security Assessment,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Consulting Services,SG_Consulting Services_Users",
+    "businessUnitId":null,
+    "managerId":"09888ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Ramesh.v@paramountassure.com",
+    "azureAdObjectId":"15a2858c-a61d-4922-b73a-8aafff70a942"
+  },
+  {
+    "userId":"c4f22425-b87e-ec11-8d21-0022489be1a8",
+    "userName":"Gouthaman Puthen Veettil",
+    "email":"Gouthaman.p@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,PCS,Data Privacy,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,Teams_Group_KYNDRYL,Ahlan Cyber Knowledge Base,sales group,customer facing employees,Paramount Sales Team,Department_GRC,SG_GRC_Users",
+    "businessUnitId":null,
+    "managerId":"2cd0086a-e5be-eb11-bacc-000d3ade3348",
+    "managerEmail":"Nitin.r@paramountassure.com",
+    "azureAdObjectId":"d1a75cf4-af78-4dc4-a044-88ebe74a06fa"
+  },
+  {
+    "userId":"7fb153c8-ab7d-ec11-8d21-0022489bef85",
+    "userName":"Vijay George",
+    "email":"Vijay.g@paramountassure.com",
+    "groupMemberships":"AdminAgents,PCS Employees - UAE,Paramount,Microsoft Core Team,PCS,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Intune Compliance windows 10,Dynamics 365 Sales ,Teams_Group_MSS_projects,sales group,customer facing employees,Paramount Sales Team,PartnerCenter_MPNAdmin,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"4f519886-75cf-ec11-a7b5-000d3ab45df7",
+    "managerEmail":"Hala.alsadi@paramountassure.com",
+    "azureAdObjectId":"b1ce00f3-ac3e-46e6-814c-e0134f1f1d6d"
+  },
+  {
+    "userId":"d17cae68-4003-ec11-94ef-0022489c040a",
+    "userName":"John George Ambooken",
+    "email":"John.g@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,Microsoft Core Team,Intune Administrator,License Administrator,Paramount Intune Enrolled Users Group,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,Office 365 Security,DLP Test,Fifa game test,Dynamics 365 Support,Communication compliance,Data Protection Cloud Services,Managed Security Operations Team EDGE,DLP Flow test,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"fd3b92b3-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Rajesh.k@paramountassure.com",
+    "azureAdObjectId":"2178a9b4-8307-4ab1-83b9-93310a4c9728"
+  },
+  {
+    "userId":"d018bd07-0d07-ec11-94ef-0022489c0f78",
+    "userName":"Rajeev Pakideeri",
+    "email":"Rajeev.p@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,PCS Technical,Network Security Group,Paramount,PCS AIP Users,Network Security Champs!,PCS_UAE-Internal,Infra Security BU,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Teams_Group_KYNDRYL,PCS-IT-ADMIN,Group_core_security,Dynamics 365 Support,Teams_Group_MSO_EDGE,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"93b67866-8a19-ee11-8f6d-000d3adc8967",
+    "managerEmail":"arputharaj.m@paramountassure.com",
+    "azureAdObjectId":"25dacb82-5251-4c72-b169-969637d4b37f"
+  },
+  {
+    "userId":"4104786d-fa71-ec11-8943-0022489c0f97",
+    "userName":"Imran Pasha",
+    "email":"Imran.p@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,PCS MSS Team,Microsoft 365 E5 Licensed Users,Team MSS,Office 365 Security,PCSAIPOLD,PCS-MSS-MIRAL,PCS-MSS-ALWASL,Dynamics 365 Support,PCS-MSS-MBRHE,PCS-MSS-TAMKEEN,CSNxxT-Employees,PCS MATRIX,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"12b988f4-1607-ed11-82e5-0022489a173e",
+    "managerEmail":"Pratik.a@paramountassure.com",
+    "azureAdObjectId":"b03e8130-a5ab-41f3-b530-df1629e5cb5e"
+  },
+  {
+    "userId":"f7a523f5-a2c2-eb11-bacc-0022489c4a92",
+    "userName":"Amritha Kamalon",
+    "email":"Amritha.k@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,PCS AIP Users,PCS-GRC-LAB-USERS,PCS_UAE-Internal,PCS UAT,PCS,Data Privacy,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Ahlan Cyber Knowledge Base,Dynamics 365 Sales ,sales group,customer facing employees,Paramount Sales Team,Department_GRC,SG_GRC_Users",
+    "businessUnitId":null,
+    "managerId":"2cd0086a-e5be-eb11-bacc-000d3ade3348",
+    "managerEmail":"Nitin.r@paramountassure.com",
+    "azureAdObjectId":"81b83502-2d74-45da-a497-0c669d50ed6c"
+  },
+  {
+    "userId":"78502afb-a2c2-eb11-bacc-0022489c4a92",
+    "userName":"Deepak Kankarwal",
+    "email":"Deepak.sk@paramountassure.com",
+    "groupMemberships":"Paramount,PCS- Kuwait Support,Team Kuwait,PCS Employees - Kuwait,PCS UAT,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,Dynamics 365 Sales ,KIB_GROUP,sales group,customer facing employees,Paramount Sales Team,Teams_Group_Qatar_proposals,Testing,Security Sales Department,BFSI and O&G,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"241ead33-e9bd-eb11-bacc-000d3ade3673",
+    "managerEmail":"Yasser.t@pcskuwait.com",
+    "azureAdObjectId":"ce4c4c5d-dc2c-40d7-a9c1-078ec91f9667"
+  },
+  {
+    "userId":"a6502afb-a2c2-eb11-bacc-0022489c4a92",
+    "userName":"Priya Dsilva",
+    "email":"Priya.d@paramountassure.com",
+    "groupMemberships":"Paramount,PCS- Kuwait Support,PCS Employees - Kuwait,PCS UAT,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,Partnership Kuwait,Dynamics 365 Sales ,Paramount Sales Team,Testing,Security Sales Department,PCSKWT,BFSI and O&G,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"241ead33-e9bd-eb11-bacc-000d3ade3673",
+    "managerEmail":"Yasser.t@pcskuwait.com",
+    "azureAdObjectId":"67b31ea7-a96a-4ef1-82ca-774102f3fa1b"
+  },
+  {
+    "userId":"ba32f60c-a577-ec11-8d21-0022489ca392",
+    "userName":"Mohammad Khaled",
+    "email":"Mohammad.k@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Sales-UAE,Paramount,PCS,All Users,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Dynamics 365 Sales ,sales group,customer facing employees,Paramount Sales Team,Dubai Metro Blue Line,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Data Security,SG_Data Security_Users",
+    "businessUnitId":null,
+    "managerId":"4df96533-a0d7-ee11-904c-002248a18b93",
+    "managerEmail":"shwetank.j@paramountassure.com",
+    "azureAdObjectId":"d9c7ad73-0d33-40e8-a207-c6e4600c3ef0"
+  },
+  {
+    "userId":"55878116-03eb-ec11-bb3d-0022489cd7be",
+    "userName":"Sugumar Sivalingam",
+    "email":"Sugumar.s@paramountassure.com",
+    "groupMemberships":"AdminAgents,PCS Employees - UAE,Paramount,Microsoft Core Team,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,Office 365 Security,MS-Channel,PCSAIPOLD,FIDO,Project1 PLAN,RLS-Project Plan,IGA Project,Test RLS-Project plan,RLS-Project-Group,Security Co-Pilot,STC Project,NBO Project,sales group,customer facing employees,PartnerCenter_MPNAdmin,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"6de10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Shiju.c@paramountassure.com",
+    "azureAdObjectId":"0bcca894-f81a-43f3-892e-a5af3164d6f8"
+  },
+  {
+    "userId":"bfd05313-74ec-ec11-bb3d-0022489cd7be",
+    "userName":"Sumaira Mohammed Ashraf",
+    "email":"Sumaira.m@paramountassure.com",
+    "groupMemberships":"PCS Technical,PCS Employees - Qatar,Paramount,Microsoft Core Team,Team Qatar,HelpdeskAgents,Cloud Sec Documents,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,Office 365 Security,PCSAIPOLD,Project1 PLAN,RLS-Project Plan,RLS-Project-Group,PartnerCenter_MPNAdmin,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"55878116-03eb-ec11-bb3d-0022489cd7be",
+    "managerEmail":"Sugumar.s@paramountassure.com",
+    "azureAdObjectId":"cb92afa6-893c-46ac-8e26-e88140f0c773"
+  },
+  {
+    "userId":"3e10e1f7-864a-ef11-bfe2-0022489cdeb6",
+    "userName":"Akshay Sharma",
+    "email":"akshay.s@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Team Bahrain,All Users,Microsoft 365 E5 Licensed Users,PCS Employees - Bahrain,SALES TEAM - BAHRAIN,Bahrain Support,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"357a97ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Manjunath.a@paramountassure.com",
+    "azureAdObjectId":"7576ea68-6d4c-4d8b-8b9b-172506f65e3c"
+  },
+  {
+    "userId":"d92859ea-4b4e-ef11-bfe2-0022489cdeb6",
+    "userName":"Pcs Qatar SOC",
+    "email":"pcsqatarsoc@paramountassure.com",
+    "groupMemberships":"Paramount,All Users,PCS_Qatar_SOC,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98)",
+    "businessUnitId":null,
+    "managerId":null,
+    "managerEmail":null,
+    "azureAdObjectId":"a90e1fe0-1acf-484c-9db8-79d28024e4a4"
+  },
+  {
+    "userId":"f2d52b71-0df6-ec11-bb3d-0022489e2c0c",
+    "userName":"Nawaz Shareef",
+    "email":"Nawaz.s@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,Team MSS,Office 365 Security,PCSAIPOLD,PCS-MSS-MIRAL,PCS-MSS-ALWASL,Dynamics 365 Support,DHA Offshore SOC Team,DHA Sentinel Offshore,CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"12b988f4-1607-ed11-82e5-0022489a173e",
+    "managerEmail":"Pratik.a@paramountassure.com",
+    "azureAdObjectId":"ee7ab89d-7719-4787-bae3-623f27404cd8"
+  },
+  {
+    "userId":"0c199783-523b-ee11-bdf4-0022489ea33a",
+    "userName":"Grisha Thawani",
+    "email":"grisha.t@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,PCS,All Users,sales group,customer facing employees,Paramount Sales Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Data Security,SG_Data Security_Users",
+    "businessUnitId":null,
+    "managerId":"56e80ea6-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Omair.m@paramountassure.com",
+    "azureAdObjectId":"083c7a0a-6aa0-49e5-bc2c-e46a8d9dd111"
+  },
+  {
+    "userId":"4df96533-a0d7-ee11-904c-002248a18b93",
+    "userName":"Shwetank Jayaswal",
+    "email":"shwetank.j@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,PCS,All Users,Teams_Group_KYNDRYL,Paramount Sales Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"57ad98b1-49de-42d6-aa67-55a2e1ab4ec1"
+  },
+  {
+    "userId":"4771cf7d-0606-ef11-9f89-002248a41fb1",
+    "userName":"Mohammed Shibu",
+    "email":"Mohammed.s@paramountassure.com",
+    "groupMemberships":"Network Security Group,Paramount,All Users,PCS-IT-ADMIN,CSNxxT-Employees,DATA SECURITY TEAM,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"d018bd07-0d07-ec11-94ef-0022489c0f78",
+    "managerEmail":"Rajeev.p@paramountassure.com",
+    "azureAdObjectId":"c4728a54-94cd-4103-a2a8-1cd7f4699819"
+  },
+  {
+    "userId":"1b8accf4-f8ec-ef11-be1f-6045bddd1bad",
+    "userName":"Hareesh Poonthottathil",
+    "email":"Hareesh.p@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Microsoft Core Team,HelpdeskAgents,PCS,All Users,Microsoft 365 E5 Licensed Users,Paramount Sales Team,PartnerCenter_MPNAdmin,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"7fb153c8-ab7d-ec11-8d21-0022489bef85",
+    "managerEmail":"Vijay.g@paramountassure.com",
+    "azureAdObjectId":"3f812204-c019-4afc-a195-3c813e43686d"
+  },
+  {
+    "userId":"459f6627-d0ed-ef11-be1f-6045bddd1bad",
+    "userName":"Ganga Gowri Ponnuswamy",
+    "email":"Ganga.g@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,PCS,All Users,Microsoft 365 Business Premium Licensed Users,Paramount Sales Team,Dubai Metro Blue Line,Department_Consulting Services,SG_Consulting Services_Users",
+    "businessUnitId":null,
+    "managerId":"09888ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Ramesh.v@paramountassure.com",
+    "azureAdObjectId":"2749bfd4-6168-49ad-98a5-87783b0df4ff"
+  },
+  {
+    "userId":"5d30d823-f5ea-ef11-be20-6045bddd1bad",
+    "userName":"Amneh Moh\u2019d Ali Shehadeh",
+    "email":"Amneh.s@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,Microsoft Core Team,PCS,All Users,Microsoft 365 Business Premium Licensed Users,Paramount Sales Team,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"4f519886-75cf-ec11-a7b5-000d3ab45df7",
+    "managerEmail":"Hala.alsadi@paramountassure.com",
+    "azureAdObjectId":"eae9e88c-e9f1-4a2f-afde-d75c404f0c68"
+  },
+  {
+    "userId":"63e230e1-fd68-ef11-bfe2-6045bddeadfa",
+    "userName":"Alghareeb Omar",
+    "email":"alghareeb@ahlancyber.com",
+    "groupMemberships":"Paramount,PCS Employees - Saudi,Data Privacy,All Users,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Data Privacy,SG_Data Privacy_Users",
+    "businessUnitId":null,
+    "managerId":"803d3992-df88-ec11-93b0-0022489de8e4",
+    "managerEmail":"Smruti.p@paramountassure.com",
+    "azureAdObjectId":"8d7de8a8-bdc4-4bc8-8fac-c335481ec4b7"
+  },
+  {
+    "userId":"1e7dac82-32da-ef11-a72f-6045bddf00e4",
+    "userName":"Kavin S",
+    "email":"Kavin.S@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,Microsoft Core Team,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,Global Reader,CSNxxT-Employees,Internship 2024,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),PCS XDR Monitoring,Department_Administration,Vivalearn - Integration testing,SG_Administration_Users,PCS Admin",
+    "businessUnitId":null,
+    "managerId":"6de10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"Shiju.c@paramountassure.com",
+    "azureAdObjectId":"a7387f54-4dc8-416f-b2be-6cb77c249931"
+  },
+  {
+    "userId":"5061a163-c6df-ef11-a72f-6045bddf00e4",
+    "userName":"Jaden Ade",
+    "email":"Jaden.A@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,Data Privacy,All Users,Paramount Sales Team,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Data Privacy,SG_Data Privacy_Users",
+    "businessUnitId":null,
+    "managerId":"2cd0086a-e5be-eb11-bacc-000d3ade3348",
+    "managerEmail":"Nitin.r@paramountassure.com",
+    "azureAdObjectId":"34fbd7f6-e5dd-44d5-9567-42a75f3ae504"
+  },
+  {
+    "userId":"9ae66716-1f3a-f011-b4cb-6045bde0c87a",
+    "userName":"Sohan Jagat Singh",
+    "email":"Sohan.s@paramountassure.com",
+    "groupMemberships":"Paramount,All Users,Microsoft 365 E5 Licensed Users,Department_Data Security,SG_Data Security_Users",
+    "businessUnitId":null,
+    "managerId":"93b67866-8a19-ee11-8f6d-000d3adc8967",
+    "managerEmail":"arputharaj.m@paramountassure.com",
+    "azureAdObjectId":"43a59832-e855-4adb-be7a-b7912cb49a15"
+  },
+  {
+    "userId":"92c3a3d8-c6da-ee11-904b-6045bde0cdf4",
+    "userName":"Shinu Mathew",
+    "email":"shinu.m@paramountassure.com",
+    "groupMemberships":"Microsoft Core Team,PCS Employees - Kuwait,HelpdeskAgents,PCS,All Users,Cloud Services Team,Paramount Sales Team,Security Sales Department,BFSI and O&G,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"4f519886-75cf-ec11-a7b5-000d3ab45df7",
+    "managerEmail":"Hala.alsadi@paramountassure.com",
+    "azureAdObjectId":"4952a6f9-19af-41a1-a8f4-b73850f0b020"
+  },
+  {
+    "userId":"0f3132d0-09f0-ee11-904b-6045bde0cdf4",
+    "userName":"Dileepkumar Kuruba",
+    "email":"Dileepkumar.k@paramountassure.com",
+    "groupMemberships":"Paramount,All Users,Cloud Services Team,Microsoft 365 Business Premium Licensed Users,MSS-ALFANAR,altaf,PCS MSO XDR Monitoring Team,PCS XDR Monitoring,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"4e2e1849-1461-ee11-8df0-000d3a669ba8",
+    "managerEmail":"Akash.k@paramountassure.com",
+    "azureAdObjectId":"d716f427-0faf-4441-9cfa-96b8931e3bca"
+  },
+  {
+    "userId":"552898d6-09f0-ee11-904b-6045bde0cdf4",
+    "userName":"Shantanu Ranjit Kalekar",
+    "email":"Shantanu.k@paramountassure.com",
+    "groupMemberships":"Paramount,All Users,Cloud Services Team,Microsoft 365 E5 Licensed Users,MSS-ALFANAR,CSNxxT-Employees,PCS MSO XDR Monitoring Team,PCS XDR Monitoring,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"4e2e1849-1461-ee11-8df0-000d3a669ba8",
+    "managerEmail":"Akash.k@paramountassure.com",
+    "azureAdObjectId":"22f074a3-f331-4ba5-a5c3-aa0e8af9b61e"
+  },
+  {
+    "userId":"5f00caf5-182f-ef11-840a-7c1e52349270",
+    "userName":"Sarath AN",
+    "email":"sarath.an@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,All Users,MSS SOC Team,Microsoft 365 E5 Licensed Users,Excellence Driving Centre,PCS_Jumaalmajid,The Executive Council,Scope Investment,SOC - Scope Investment,PCS-MSS-ALWASL,Internal Team,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,CSNxxT-Employees,PCS-BRM,PCS-ELASTIC-LAB-USERS,SOC Banque Misr,PCS MATRIX,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"f5171746-0248-4d03-8228-86376434a4e2"
+  },
+  {
+    "userId":"261b4e8f-a60f-f011-9989-7c1e5234c8df",
+    "userName":"Anish Bhandari",
+    "email":"Anish.b@paramountassure.com",
+    "groupMemberships":"Network Security Group,All Users,PCS-IT-ADMIN,PCS-MSS-DCAA,MSS-DCAA,MSS-JAMG,MSS-ABG,SCS-Employee",
+    "businessUnitId":null,
+    "managerId":"4fe10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"amit.sharma@paramountassure.com",
+    "azureAdObjectId":"46aee3ae-b46f-4737-a826-87ff31e6c3ff"
+  },
+  {
+    "userId":"398dac59-3032-f011-8c4d-7c1e52362954",
+    "userName":"Nour Eddin Babi",
+    "email":"Nour.e@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Microsoft 365 E5 Licensed Users,Department_IAM,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"6189604c-3e58-ee11-be6f-000d3adc8967",
+    "managerEmail":"rahul.b@paramountassure.com",
+    "azureAdObjectId":"582cba2f-cca4-4682-9426-a90af57f6420"
+  },
+  {
+    "userId":"b0347c91-7935-f011-8c4d-7c1e52362954",
+    "userName":"Mohamed Yaser Farook M",
+    "email":"Yaser.f@paramountassure.com",
+    "groupMemberships":"All Users,Microsoft 365 E5 Licensed Users,CSNxxT-Employees,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"55878116-03eb-ec11-bb3d-0022489cd7be",
+    "managerEmail":"Sugumar.s@paramountassure.com",
+    "azureAdObjectId":"5a2146da-9585-449c-a023-332c966db3c0"
+  },
+  {
+    "userId":"5041cfd3-2515-f011-998a-7c1e52362954",
+    "userName":"Zameer Baig Mirza",
+    "email":"Zameer@ahlancyber.com",
+    "groupMemberships":"Paramount,PCS Employees - Saudi,All Users,Ahlan Cyber -Presales,Paramount Sales Team,Department_IAM,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"b77997ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Namith@ahlancyber.com",
+    "azureAdObjectId":"db40f433-fef5-42c3-a2fa-a6729ef6abe7"
+  },
+  {
+    "userId":"e99de6d9-2515-f011-998a-7c1e52362954",
+    "userName":"Harinand Baburaj Sindhu",
+    "email":"Harinand@ahlancyber.com",
+    "groupMemberships":"Paramount,PCS Employees - Saudi,All Users,Ahlan Cyber -Presales,Paramount Sales Team",
+    "businessUnitId":null,
+    "managerId":"357a97ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Manjunath.a@paramountassure.com",
+    "azureAdObjectId":"c654e45a-45bd-498a-8dc1-10c0f6785736"
+  },
+  {
+    "userId":"179ee6d9-2515-f011-998a-7c1e52362954",
+    "userName":"Akram Adel Mohamed Tawfik Elsayed",
+    "email":"Akram@ahlancyber.com",
+    "groupMemberships":"Paramount,PCS Employees - Saudi,All Users,Paramount Sales Team,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b77997ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Namith@ahlancyber.com",
+    "azureAdObjectId":"723fef2a-d465-4ff1-b2e9-2cd70e89a883"
+  },
+  {
+    "userId":"bdf54c33-dd15-f011-998a-7c1e52362954",
+    "userName":"Nidal Nasouh Awad Abushaqreh",
+    "email":"Nidal.n@paramountassure.com",
+    "groupMemberships":"PCS,All Users,Paramount Sales Team,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"103a436c-9450-44ae-9d96-4ad840c2d58b"
+  },
+  {
+    "userId":"6f136b3f-dd15-f011-998a-7c1e52362954",
+    "userName":"Jagadishkumar Pantheti Venkatadri Raju",
+    "email":"Jagadishkumar.p@paramountassure.com",
+    "groupMemberships":"Paramount,PCS,All Users,Paramount Sales Team,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b7878ab9-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"suhas@paramountassure.com",
+    "azureAdObjectId":"1c895f73-b75c-4d4d-aec2-265ad6617765"
+  },
+  {
+    "userId":"6af1f6a1-47fe-ef11-bae3-7c1e52362954",
+    "userName":"Alana Faiz A Aldawod",
+    "email":"Alana@ahlancyber.com",
+    "groupMemberships":"Paramount,PCS Employees - Saudi,All Users,Paramount Sales Team,Department_Infrastructure Security,SG_Infrastructure Security_Users",
+    "businessUnitId":null,
+    "managerId":"b77997ad-76b4-eb11-8236-000d3ab5a61f",
+    "managerEmail":"Namith@ahlancyber.com",
+    "azureAdObjectId":"ecf956c5-083e-4d52-86cd-a1876c58bead"
+  },
+  {
+    "userId":"235b6596-35ff-ef11-bae3-7c1e52362954",
+    "userName":"Dawood Lhan",
+    "email":"Dawood.k@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,Paramount,All Users,Department_Data Security,SG_Data Security_Users",
+    "businessUnitId":null,
+    "managerId":"93b67866-8a19-ee11-8f6d-000d3adc8967",
+    "managerEmail":"arputharaj.m@paramountassure.com",
+    "azureAdObjectId":"38638d06-9c44-418f-8be6-2247be5924ec"
+  },
+  {
+    "userId":"ae60cc5d-0f0a-f011-bae3-7c1e52362954",
+    "userName":"Farzeen Wasim",
+    "email":"Farzeen@ahlancyber.com",
+    "groupMemberships":"All Users,Microsoft 365 Business Premium Licensed Users,CSNxxT-Employees,Paramount Sales Team,Department_IAM,SG_IAM_Users",
+    "businessUnitId":null,
+    "managerId":"a60bd48b-ab1a-ec11-b6e6-000d3adf021a",
+    "managerEmail":"Nadim@ahlancyber.com",
+    "azureAdObjectId":"987d39e4-ba98-48db-b25b-8ec0328c6b3b"
+  },
+  {
+    "userId":"cdb36fef-0ef5-ef11-be1f-7c1e52362954",
+    "userName":"Khasiba Sultan Obaid M A",
+    "email":"Khasiba.S@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,All Users,Microsoft 365 E5 Licensed Users,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Department_Marketing,SG_Management_Users",
+    "businessUnitId":null,
+    "managerId":"834f4305-8e57-ee11-be6f-000d3a669ba8",
+    "managerEmail":"mukund.s@paramountassure.com",
+    "azureAdObjectId":"68c8abf0-36f0-4372-b2c3-bb54b5e6c1f4"
+  },
+  {
+    "userId":"0e0ff777-a4f5-ef11-be1f-7c1e52362954",
+    "userName":"Pritish Rani Karn",
+    "email":"Pritish.r@paramountassure.com",
+    "groupMemberships":"All Users,PCS-MSS-DCAA,MSS-DCAA,MSS-ALFANAR,MSS-ABG,SCS-Employee",
+    "businessUnitId":null,
+    "managerId":"4fe10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"amit.sharma@paramountassure.com",
+    "azureAdObjectId":"a657e3e2-3fa1-4f19-b9eb-62683a767729"
+  },
+  {
+    "userId":"94e8c013-24ed-ef11-be1f-7c1e523678c6",
+    "userName":"Nithishraju #",
+    "email":"nithish.r@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,All Users,MSS SOC Team,Excellence Driving Centre,The Executive Council,PCS-MSS-ALWASL,Internal Team,SOC Tamkeen,SOC MBRHE,PCS-MSS-MBRHE,CSNxxT-Employees,PCS-BRM,PCS-ELASTIC-LAB-USERS,SOC Banque Misr,PCS MATRIX,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),CA002 Policy exclusion -  non admins,Department_MSS,SG_MSS_Users",
+    "businessUnitId":null,
+    "managerId":"af3db600-dee7-ec11-bb3c-000d3ad96fe8",
+    "managerEmail":"jayaprakash.I@paramountassure.com",
+    "azureAdObjectId":"d1df6d9c-9e84-4709-b859-4c5da3a5b3ee"
+  },
+  {
+    "userId":"6ed9ffb0-dcf5-ef11-be1f-7c1e523678c6",
+    "userName":"Aravind J",
+    "email":"Aravind.j@paramountassure.com",
+    "groupMemberships":"PCS Employees - UAE,PCS,All Users,Ahlan Cyber -Presales,Dubai Metro Blue Line,OT-D-A-V-S,Presales - OT Security,Conditional Access: Risky sign-in multifactor authentication (a4ea6c0f-b8fb-4d29-91f1-9f8cf0601e98),Critical Infra Security- D-A-V-S,Department_OT Security,SG_OT Security_Users",
+    "businessUnitId":null,
+    "managerId":"faf051c4-9a9b-ed11-aad1-000d3adc8967",
+    "managerEmail":"Divya.raj@paramountassure.com",
+    "azureAdObjectId":"e4c602ea-c238-4ca4-aef2-c85723f33fa1"
+  },
+  {
+    "userId":"cfde3263-84e7-ef11-be20-7c1e523678c6",
+    "userName":"Shaikh Md Mubashshir",
+    "email":"ShaikhMd.m@paramountassure.com",
+    "groupMemberships":"Paramount,All Users,CSNxxT-Employees,Department_Data Security,SG_Data Security_Users",
+    "businessUnitId":null,
+    "managerId":"1825a69d-51ff-ef11-bae2-0022489fe412",
+    "managerEmail":"Deepak.v@paramountassure.com",
+    "azureAdObjectId":"914db31b-1b41-43c3-92fe-079cb47d641f"
+  },
+  {
+    "userId":"77d6c7ed-db20-f011-9989-7c1e52881ff7",
+    "userName":"Ashish Ganapati Hegde",
+    "email":"Ashish.g1@paramountassure.com",
+    "groupMemberships":"Paramount,Microsoft Core Team,All Users,CSNxxT-Employees,Paramount Sales Team,Department_Cloud Services,SG_Cloud Services_Users",
+    "businessUnitId":null,
+    "managerId":"270c2437-1891-ef11-8a6a-000d3a6685a9",
+    "managerEmail":"neeti.r@paramountassure.com",
+    "azureAdObjectId":"1ce1ccae-ba59-4d54-8450-26e55721c213"
+  },
+  {
+    "userId":"948ae67b-4732-f011-8c4d-7c1e52fbbdd0",
+    "userName":"Lhakpa Tsheri Sherpa",
+    "email":"Lhakpa.s@paramountassure.com",
+    "groupMemberships":"All Users,MSS-ALFANAR,Securus 360,MSS-ABG,SCS-Employee",
+    "businessUnitId":null,
+    "managerId":"4fe10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"amit.sharma@paramountassure.com",
+    "azureAdObjectId":"5b13bd8c-aeb8-4a36-80a6-effca05ae94a"
+  },
+  {
+    "userId":"2081ef81-4732-f011-8c4d-7c1e52fbbdd0",
+    "userName":"Sakshyam Sapkota",
+    "email":"Sakshyam.s@paramountassure.com",
+    "groupMemberships":"All Users,MSS-ALFANAR,Securus 360,MSS-ABG,SCS-Employee",
+    "businessUnitId":null,
+    "managerId":"4fe10f9a-76b4-eb11-8236-000d3ab6406f",
+    "managerEmail":"amit.sharma@paramountassure.com",
+    "azureAdObjectId":"8d5429c6-df27-449e-baca-523753e23005"
+  }
+]

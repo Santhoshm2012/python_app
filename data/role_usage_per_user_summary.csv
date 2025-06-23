@@ -1,0 +1,440 @@
+userId,userName,userEmail,assigned_roles,used_roles,unused_roles,assigned_count,used_count,unused_count
+003d92b3-76b4-eb11-8236-000d3ab5a61f,Razal Mohammed,,Basic User; Sales Enterprise app access,,Sales Enterprise app access,2,0,1
+01f87407-2a28-ee11-9966-0022489ba102,# D365WorkAssignment,,Sales Work Assignment API Access; Sales Work Assignment API Extended Access,,Sales Work Assignment API Access; Sales Work Assignment API Extended Access,2,0,2
+02b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-CAN,,Data Sync Framework Role; Service Reader,,Data Sync Framework Role,2,0,1
+03e8a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorUAE,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+04abe273-7eba-eb11-8235-000d3adda42c,# Flow-RP,,Flow-RP Role,,Flow-RP Role,1,0,1
+060b30af-3bc6-eb11-8235-000d3ab68dd4,# Dynamics365SCV,,DataLakeWorkspaceAppAccess,,,1,0,0
+066e2276-08aa-eb11-8236-0022489b4c66,# PpdfCDSClient,,DataLakeWorkspaceAppAccess; Delegate; Power Platform Dataflows Service Role; Service Writer; System Administrator,,Power Platform Dataflows Service Role; System Administrator,5,0,2
+09888ab9-76b4-eb11-8236-000d3ab5a61f,Ramesh Vempali,,Basic User; Customer service app access; Dynamics 365 App for Outlook User; PCS Country Manager; Sales Enterprise app access,,Customer service app access; Dynamics 365 App for Outlook User; PCS Country Manager; Sales Enterprise app access,5,0,4
+0a7a97ad-76b4-eb11-8236-000d3ab5a61f,Paramount Technical Support,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Admin,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Admin,3,0,3
+0a8c16a0-76b4-eb11-8236-000d3ab6406f,Anirudh Tulsidas Shetty,,Basic User,,,1,0,0
+0c199783-523b-ee11-bdf4-0022489ea33a,Grisha Thawani,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+0c888ab9-76b4-eb11-8236-000d3ab5a61f,Arpit Dhanotiya,,Basic User,,,1,0,0
+0db4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-IND-UAE-ZAF,,Data Sync Framework Role; Service Reader,,Data Sync Framework Role,2,0,1
+0dd127ed-304d-ec11-8c62-000d3addb5d9,Hazem Amin Mohamed,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+0e3c92b3-76b4-eb11-8236-000d3ab5a61f,Sudakshina Singha Roy,,Basic User,,,1,0,0
+0f7386ee-9b28-ef11-840a-000d3ad96d4c,Nawraa Alshowaikh,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+126654e0-28a4-ed11-aad1-0022489b4de1,# PowerAppsCustomerManagementPlaneBackend,,PowerAppsRPRole,,,1,0,0
+12c77f51-1434-f011-8c4e-000d3a69161a,# D365 Sales AcctRsrch,,Sales Lead Research App User Role; Sales system access extension,,Sales Lead Research App User Role; Sales system access extension,2,0,2
+12e3b979-4a36-f011-8c4d-7c1e52362954,# Access review demo,,System Administrator; System Customizer,,System Administrator,2,0,1
+12f47dad-15aa-eb11-8236-0022489b4c66,# AIBuilderProd,,AIB Roles,,,1,0,0
+1492dbd6-9c58-ed11-9562-0022489b4de1,# Flow-CDSNativeConnectorSouthAfrica,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+14bc2270-953b-ed11-9db1-0022489ba102,# PowerCards-S2S-IL-Prod,,Cards Role,,Cards Role,1,0,1
+14ccc10d-36ed-ee11-a203-0022489ba102,# PowerVirtualAgentsProdS2S,,VA Analytics Role,,VA Analytics Role,1,0,1
+14e8a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorGermany,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+1507681c-6c4b-ec11-8c62-000d3addb5d9,Prem Prasad,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+179ee6d9-2515-f011-998a-7c1e52362954,Akram Adel Mohamed Tawfik Elsayed,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+183d92b3-76b4-eb11-8236-000d3ab5a61f,Husain Maad,,Basic User; Dynamics 365 App for Outlook User; PCS Sales User,,Dynamics 365 App for Outlook User; PCS Sales User,3,0,2
+18b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-CHE,,Data Sync Framework Role; Service Reader,,Data Sync Framework Role,2,0,1
+19e80ea6-76b4-eb11-8236-000d3ab6406f,Unaise Eranju Kunnumel,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+1a695fbd-b4df-eb11-bacb-000d3aba4ed5,CRM -Admin,,Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User; System Administrator,PCS Sales User; System Administrator,Customer service app access; Dynamics 365 App for Outlook User,4,2,2
+1b081676-e5be-eb11-bacc-000d3ade3348,Ashish Pradhan,,Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,,Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,3,0,3
+1b8accf4-f8ec-ef11-be1f-6045bddd1bad,Hareesh Poonthottathil,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+1b991aeb-dd77-ee11-8179-000d3adc8967,Vaishal Mehta,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+1e7dac82-32da-ef11-a72f-6045bddf00e4,Kavin S,,Customer service app access; Sales Enterprise app access,,Customer service app access; Sales Enterprise app access,2,0,2
+1f84d15e-3f27-ec11-b6e5-000d3ade5275,D365 Admin,,Environment Maker,,,1,0,0
+217a97ad-76b4-eb11-8236-000d3ab5a61f,Zaid Nihad M Awwad,,Basic User; Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User,,Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User,4,0,3
+21dcaf28-4cab-ec11-983f-000d3adf9c9b,Apurva Gupta,,Customer service app access; Sales Enterprise app access; System Administrator,,Customer service app access; Sales Enterprise app access; System Administrator,3,0,3
+21e8a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorSwitzerland,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+22b08f4b-2e9d-ec11-b400-0022489cbe08,Adil Mohamed Musliam VT,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+241ead33-e9bd-eb11-bacc-000d3ade3673,Yasser Tanany,,Basic User; Dynamics 365 App for Outlook User; PCS Country Manager; Sales Enterprise app access,,Dynamics 365 App for Outlook User; PCS Country Manager; Sales Enterprise app access,4,0,3
+24b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-NOR,,Data Sync Framework Role; Service Reader,,Data Sync Framework Role,2,0,1
+24e21576-f71d-ef11-840b-0022489b4696,# PowerAutomate-AiFlowsAppUser-Worker,,Power Automate AI Flows Application User,,,1,0,0
+276654e0-28a4-ed11-aad1-0022489b4de1,# PowerAppsDataPlaneBackend,,PowerAppsRPRole,,,1,0,0
+27b5c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-CHE,,Data Sync Service Role; Service Reader,,Data Sync Service Role,2,0,1
+293d92b3-76b4-eb11-8236-000d3ab5a61f,Ashish Joshi,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+2ad0086a-e5be-eb11-bacc-000d3ade3348,Priyank Johari,,Basic User; Dynamics 365 App for Outlook User; PCS Marketing User,,Dynamics 365 App for Outlook User; PCS Marketing User,3,0,2
+2aef13e2-9d82-ec11-8d21-000d3adf7dc6,Venkatakrishnan Sowrirajan,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+2b3d92b3-76b4-eb11-8236-000d3ab5a61f,Abhishek Pandey,,Basic User,,,1,0,0
+2b53c846-27ec-ee11-a203-6045bde0cdf4,# Dynamics 365 Web API,,System Administrator,,System Administrator,1,0,1
+2b596895-2555-ef11-bfe3-0022489b4696,# PowerPages Data Runtime PROD,,Portal Application User; Service Deleter; Service Writer,,,3,0,0
+2c19b3b6-14aa-eb11-8236-0022489b4c66,# BizQA,,BizQAApp; Service Reader,,,2,0,0
+2c50733f-13aa-eb11-8236-0022489b4c66,# Dynamics365Athena2,,Bulk Archival Role; Data Sync Framework Role; DataLakeWorkspaceAppAccess; DataProcessingConfigTableAppAccess; EAC Reader App Access; Service Reader,,Bulk Archival Role; Data Sync Framework Role,6,0,2
+2c7a97ad-76b4-eb11-8236-000d3ab5a61f,Gayathri Pothiraj,,Basic User,,,1,0,0
+2cd0086a-e5be-eb11-bacc-000d3ade3348,Nitin Rajotia,,Dynamics 365 App for Outlook User; PCS BU Manager; Sales Enterprise app access,,Dynamics 365 App for Outlook User; PCS BU Manager; Sales Enterprise app access,3,0,3
+2d3d92b3-76b4-eb11-8236-000d3ab5a61f,Sohel Farukh Shaikh,,Basic User,,,1,0,0
+2da7e436-583b-ec11-b6e5-000d3ab5c24a,# Dynamics 365 record assignment,,Sync Skills,,,1,0,0
+2fceae02-c04b-ee11-be6f-000d3a669ba8,Rahul Saxena,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+315f5e35-88d8-ec11-a7b5-0022489c2ada,# PowerAutomate-MachineProvisioning,,Desktop Flows Machine Application User; Environment Maker,,,2,0,0
+33b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-KOR,,Data Sync Framework Role; Service Reader,,Data Sync Framework Role,2,0,1
+34d456c8-00aa-eb11-8236-0022489b4c66,Subramanian P #,,Basic User; Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User; Paramount MSS Analyst; Paramount MSS Engineer; Paramount Support Admin; Sales Enterprise app access; System Administrator,,Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User; Paramount MSS Analyst; Paramount MSS Engineer; Paramount Support Admin; Sales Enterprise app access; System Administrator,9,0,8
+350b30af-3bc6-eb11-8235-000d3ab68dd4,# SharePointOnline,,Environment Maker,,,1,0,0
+357a97ad-76b4-eb11-8236-000d3ab5a61f,Manjunatha AM,,Basic User; Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,,Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,5,0,4
+3650733f-13aa-eb11-8236-0022489b4c66,# PowerQueryOnline,,DataLakeWorkspaceAppAccess,,,1,0,0
+36e80ea6-76b4-eb11-8236-000d3ab6406f,Munfed Rana,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Admin,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Admin,3,0,3
+376654e0-28a4-ed11-aad1-0022489b4de1,# Quartzite,,RPE Role; Service Reader,,RPE Role,2,0,1
+3860b0d3-ab09-ec11-b6e6-000d3ab2577d,Jerry Savio Patrick,,Customer service app access; Dynamics 365 App for Outlook User; PCS Country Manager; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; PCS Country Manager; Paramount Support Associate,4,0,4
+38d2a47e-f125-f011-8c4e-000d3a69161a,# ApolloProdFirstParty,,Service Writer,,,1,0,0
+3937400e-bc0b-ec11-b6e6-000d3ab1f3c0,Lubna Kawal,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+393c92b3-76b4-eb11-8236-000d3ab5a61f,Anup Nair,,Basic User,,,1,0,0
+398dac59-3032-f011-8c4d-7c1e52362954,Nour Eddin Babi,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+3ce80ea6-76b4-eb11-8236-000d3ab6406f,Kutbuddin Nogama,,Basic User,,,1,0,0
+3e10e1f7-864a-ef11-bfe2-0022489cdeb6,Akshay Sharma,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+3fdac4f6-3d54-ef11-bfe3-0022489b4de1,# ConnectorManagementServiceBackend,,PowerAppsRPRole,,,1,0,0
+3fe7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorUS,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+4050733f-13aa-eb11-8236-0022489b4c66,# EnterpriseSales,,DataProcessingConfigTableAppAccess,,,1,0,0
+408b16a0-76b4-eb11-8236-000d3ab6406f,Suryakiran Manoharan,,Basic User,,,1,0,0
+4104786d-fa71-ec11-8943-0022489c0f97,Imran Pasha,,Customer service app access; Dynamics 365 App for Outlook User; Paramount MSS Shift Lead,,Customer service app access; Dynamics 365 App for Outlook User; Paramount MSS Shift Lead,3,0,3
+41435676-ec67-ec11-8f8f-000d3ade64e5,Pavan Kumar Chennupati,,System Administrator,,System Administrator,1,0,1
+41b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-NAM,,Data Sync Service Role; Service Reader,,Data Sync Service Role,2,0,1
+427a97ad-76b4-eb11-8236-000d3ab5a61f,Meghna Muralidharan,,Customer service app access; Dynamics 365 App for Outlook User; Paramount MSS Engineer; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount MSS Engineer; Paramount Support Associate,4,0,4
+43f09376-f5a3-ed11-aad1-0022489ba102,# D365 Personalization,,Cxp Personalization Services User,,,1,0,0
+459f6627-d0ed-ef11-be1f-6045bddd1bad,Ganga Gowri Ponnuswamy,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+464f568b-197d-ef11-ac21-0022489b4696,# Power Policy Prod,,Power Policy App User Role,,Power Policy App User Role,1,0,1
+473d92b3-76b4-eb11-8236-000d3ab5a61f,Imran Malick Ghouse,,Basic User,,,1,0,0
+47f47567-36c4-eb11-bacc-0022489c4a92,Zena #,,Basic User,,,1,0,0
+48747db0-413b-ee11-bdf4-000d3adc8967,Sourabh Suri,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+4a50733f-13aa-eb11-8236-0022489b4c66,# DataLakeStorage,,DataLakeWorkspaceAppAccess; DataProcessingConfigTableAppAccess,,,2,0,0
+4c8b16a0-76b4-eb11-8236-000d3ab6406f,Adith Haridas,,Basic User,,,1,0,0
+4ce10f9a-76b4-eb11-8236-000d3ab6406f,Krishnakumar K,,Basic User; System Administrator,,System Administrator,2,0,1
+4d3c92b3-76b4-eb11-8236-000d3ab5a61f,Deepesh Bharat Shah,,Dynamics 365 App for Outlook User; PCS BU Manager; Sales Enterprise app access,,Dynamics 365 App for Outlook User; PCS BU Manager; Sales Enterprise app access,3,0,3
+4df96533-a0d7-ee11-904c-002248a18b93,Shwetank Jayaswal,,Dynamics 365 App for Outlook User; PCS Country Manager; Sales Enterprise app access; System Administrator,,Dynamics 365 App for Outlook User; PCS Country Manager; Sales Enterprise app access; System Administrator,4,0,4
+4e43795f-86cf-ee11-907a-0022489ba102,# D365 SequenceStats,,Sales Sequence Stats Reporting Service User; Sales Sequence Stats Service User; Service Reader,,Sales Sequence Stats Reporting Service User; Sales Sequence Stats Service User,3,0,2
+4eb4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-EMEA-FRA-GBR-GER,,Data Sync Service Role; Service Reader,,Data Sync Service Role,2,0,1
+4f3d92b3-76b4-eb11-8236-000d3ab5a61f,Gaurav Gopal Sharma,,Basic User,,,1,0,0
+4f519886-75cf-ec11-a7b5-000d3ab45df7,Hala Al-Sadi,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,Amit Sharma,,Customer service app access; Dynamics 365 App for Outlook User; PCS Presales User; Paramount MSS Engineer; Paramount Support BU Manager; Sales Enterprise app access; System Administrator,,Customer service app access; Dynamics 365 App for Outlook User; PCS Presales User; Paramount MSS Engineer; Paramount Support BU Manager; Sales Enterprise app access; System Administrator,7,0,7
+5041cfd3-2515-f011-998a-7c1e52362954,Zameer Baig Mirza,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+5061a163-c6df-ef11-a72f-6045bddf00e4,Jaden Ade,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+50e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorEurope,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+51ea521b-63ac-ed11-aad0-000d3adc8967,Mohammad Hussain Shaik,,Customer service app access; PCS Business Development Manager; Sales Enterprise app access; System Administrator,,Customer service app access; PCS Business Development Manager; Sales Enterprise app access; System Administrator,4,0,4
+52e10f9a-76b4-eb11-8236-000d3ab6406f,PCS DIC Finance,,Basic User; System Administrator,,System Administrator,2,0,1
+52f65564-4cbb-ef11-b8e8-7c1e5276d8f4,# Power Policy Service CM PROD,,Power Policy App User Role,,Power Policy App User Role,1,0,1
+531a0680-3e24-ef11-840b-0022489b4de1,# D365WorkAssignment2,,Sales Work Assignment API Access; Sales Work Assignment API Extended Access,,Sales Work Assignment API Access; Sales Work Assignment API Extended Access,2,0,2
+532dc07f-2374-ed11-81ab-0022489ba102,# MicrosoftCustomerEngagementPortalInfra,,Data Sync Framework Role; Portal Application User; Service Deleter; Service Reader; Service Writer,,Data Sync Framework Role,5,0,1
+5343b157-1434-f011-8c4e-000d3a69161a,# D365 Sales OutrchAgt,,Sales Lead Research App User Role; Sales system access extension,,Sales Lead Research App User Role; Sales system access extension,2,0,2
+5450733f-13aa-eb11-8236-0022489b4c66,# AriaMdlExporter,,DataLakeWorkspaceAppAccess,,,1,0,0
+55878116-03eb-ec11-bb3d-0022489cd7be,Sugumar Sivalingam,,Sales Enterprise app access; System Administrator,,Sales Enterprise app access; System Administrator,2,0,2
+558b16a0-76b4-eb11-8236-000d3ab6406f,Kotaiba Al Haj Mohamad Ali,,Basic User,,,1,0,0
+55b271d9-a4fb-ef11-bae4-000d3ab483e3,# DataverseReportService,,Report Service Role; Service Reader,,Report Service Role,2,0,1
+55f52686-3e24-ef11-840b-0022489b4de1,# D365WorkAssignment3,,Sales Work Assignment API Access; Sales Work Assignment API Extended Access,,Sales Work Assignment API Access; Sales Work Assignment API Extended Access,2,0,2
+5638d5cf-ac35-ef11-840a-0022489ba102,# CDSUserManagementApi,,System Administrator,,System Administrator,1,0,1
+56e80ea6-76b4-eb11-8236-000d3ab6406f,Muhammad Omair Fahimuddin,,Basic User; Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,,Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,5,0,4
+577997ad-76b4-eb11-8236-000d3ab5a61f,Shibil Abdul Razak Muhammed,,Basic User,,,1,0,0
+57b5c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-NOR,,Data Sync Service Role; Service Reader,,Data Sync Service Role,2,0,1
+59e80ea6-76b4-eb11-8236-000d3ab6406f,Mohd Tahir,,Basic User,,,1,0,0
+5a11eb6b-30aa-eb11-8236-0022489b4c66,Support User,,Support User,,Support User,1,0,1
+5ab4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-APJ,,Data Sync Service Role; Service Reader,,Data Sync Service Role,2,0,1
+5abb2fd2-f4a3-ed11-aad1-0022489ba102,# D365 Sms Channel,,Shared Sms Channels Role,,Shared Sms Channels Role,1,0,1
+5d30d823-f5ea-ef11-be20-6045bddd1bad,Amneh Moh’d Ali Shehadeh,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+5df24e86-4fae-ec11-9840-000d3adc2ba7,Rahul Arun,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+5e0504f9-8ac6-ed11-b597-0022489b4de1,# KISPAdminProd,,IntegratedSearchApp,,,1,0,0
+5e50733f-13aa-eb11-8236-0022489b4c66,# ProductInsights,,DataLakeWorkspaceAppAccess,,,1,0,0
+5f501362-0a5e-ed11-9561-0022489ba102,# CDSAcisInfraAppGlobal,,SupportUserCustomAPI Role,,SupportUserCustomAPI Role,1,0,1
+5fa3a3a7-54d3-ef11-a72e-000d3ab500c7,Harshit Gupta,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+60502afb-a2c2-eb11-bacc-0022489c4a92,Gautham Srinivasa T,,Basic User; PCS Renewal Sales,,PCS Renewal Sales,2,0,1
+608b16a0-76b4-eb11-8236-000d3ab6406f,Ashok Chandrasekharan,,Dynamics 365 App for Outlook User; PCS Country Manager; PCS Management User; Sales Enterprise app access,,Dynamics 365 App for Outlook User; PCS Country Manager; PCS Management User; Sales Enterprise app access,4,0,4
+623c92b3-76b4-eb11-8236-000d3ab5a61f,Touhid Shaikh,,Basic User,,,1,0,0
+626fe506-9bf2-eb11-94ef-000d3aba6d30,Adel Radwan A E,,Basic User; Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User,,Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User,4,0,3
+627997ad-76b4-eb11-8236-000d3ab5a61f,Pragati Ramane,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+6311eb6b-30aa-eb11-8236-0022489b4c66,Delegated Admin,,System Administrator,,System Administrator,1,0,1
+638b16a0-76b4-eb11-8236-000d3ab6406f,Qusai Barwaniwala,,Customer service app access; Dynamics 365 App for Outlook User; PCS BU Manager; Paramount Support BU Manager; Sales Enterprise app access,,Customer service app access; Dynamics 365 App for Outlook User; PCS BU Manager; Paramount Support BU Manager; Sales Enterprise app access,5,0,5
+63e230e1-fd68-ef11-bfe2-6045bddeadfa,Alghareeb Omar,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+63e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorAsia,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+64a962c2-ab09-ec11-b6e6-000d3ab1f3c0,Kishan Kumar,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+6654db69-f71d-ef11-840b-0022489b4696,# PowerAutomate-AiFlowsAppUser-Web,,Power Automate AI Flows Application User,,,1,0,0
+6700e6eb-352b-ec11-b6e5-000d3ab7fee9,Siddhartha Sarkar,,Environment Maker,,,1,0,0
+6850733f-13aa-eb11-8236-0022489b4c66,# JobsServiceProd,,System Administrator,,System Administrator,1,0,1
+68b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-SAM,,Data Sync Service Role; Service Reader,,Data Sync Service Role,2,0,1
+69b5c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-KOR,,Data Sync Service Role; Service Reader,,Data Sync Service Role,2,0,1
+6b502afb-a2c2-eb11-bacc-0022489c4a92,Tarun Kumar,,Dynamics 365 App for Outlook User; PCS Presales User; Sales Enterprise app access,,Dynamics 365 App for Outlook User; PCS Presales User; Sales Enterprise app access,3,0,3
+6c2d2195-c58c-ed11-81ad-000d3adc8967,Pradeep Perinchery,,Dynamics 365 App for Outlook User; PCS BU Manager,,Dynamics 365 App for Outlook User; PCS BU Manager,2,0,2
+6d8bc30e-16d6-eb11-bacb-000d3ab15843,# RelevanceSearch,,Data Sync Framework Role; Service Reader; System Administrator,,Data Sync Framework Role; System Administrator,3,0,2
+6de10f9a-76b4-eb11-8236-000d3ab6406f,Shiju Chandroth,,PCS BU Manager; Sales Enterprise app access; System Administrator,,PCS BU Manager; Sales Enterprise app access; System Administrator,3,0,3
+6de80ea6-76b4-eb11-8236-000d3ab6406f,Govardhanan Devendran,,Basic User,,,1,0,0
+6e556fe8-3d54-ef11-bfe3-0022489b4de1,# CloudFlowRunHistory,,Flow-RP Role,,Flow-RP Role,1,0,1
+6e7997ad-76b4-eb11-8236-000d3ab5a61f,Suhas Udipi Shastri,,Basic User,,,1,0,0
+6e8b16a0-76b4-eb11-8236-000d3ab6406f,Kiran Nair,,Basic User,,,1,0,0
+6eaeb678-3c5c-ed11-9562-0022489a24b8,Jayesh Vasu Devadiga,,System Administrator,,System Administrator,1,0,1
+6ee7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorAustralia,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+6f136b3f-dd15-f011-998a-7c1e52362954,Jagadishkumar Pantheti Venkatadri Raju,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+6f8c1c7c-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorPreview,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+70e80ea6-76b4-eb11-8236-000d3ab6406f,Rizwan Sherif,,Basic User; System Administrator,,System Administrator,2,0,1
+7250733f-13aa-eb11-8236-0022489b4c66,# CDSFileStorage,,FileStoreService App Access,,,1,0,0
+72812fda-6d24-ee11-9cbc-000d3adc8967,Nuzhath Khan,,System Administrator,,System Administrator,1,0,1
+733c92b3-76b4-eb11-8236-000d3ab5a61f,Keerthidharan Rajendran,,Basic User,,,1,0,0
+73e70ea6-76b4-eb11-8236-000d3ab6406f,Greeshma Rajan,,Basic User,,,1,0,0
+75053526-abdd-eb11-bacb-000d3aba4ed5,Divya Sumangala,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+763c92b3-76b4-eb11-8236-000d3ab5a61f,Naveen Kumar,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+7711d021-9240-ec11-8c62-0022489cba62,Sooraj S Sukumaran,,System Administrator,,System Administrator,1,0,1
+773868ba-6d53-ef11-bfe3-0022489b4696,# Contact Center Management App - Public,,Omnichannel administrator,,Omnichannel administrator,1,0,1
+77d6c7ed-db20-f011-9989-7c1e52881ff7,Ashish Ganapati Hegde,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+77f7fdb9-8949-ed11-bba2-0022489ba382,Afsal Koya,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+78502afb-a2c2-eb11-bacc-0022489c4a92,Deepak Kankarwal,,Basic User; Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,,Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,4,0,3
+797997ad-76b4-eb11-8236-000d3ab5a61f,Premkumar Samuel Chander Devanand,,Basic User,,,1,0,0
+798efc1c-7f84-ef11-ac21-000d3ab6556d,Siva Manoharan,,PCS Management User; Sales Enterprise app access; System Administrator; System Customizer,,PCS Management User; Sales Enterprise app access; System Administrator,4,0,3
+7af09376-f5a3-ed11-aad1-0022489ba102,# D365 Dataverse Data,,Cxp Dataverse Datasource Services User; Service Reader,,,2,0,0
+7bb23dfe-94cc-ee11-9079-000d3ab41c07,Priyanka Venkateswar,,Dynamics 365 App for Outlook User; PCS Management User; Sales Enterprise app access; System Administrator,,Dynamics 365 App for Outlook User; PCS Management User; Sales Enterprise app access; System Administrator,4,0,4
+7bd1db90-7fc0-ee11-907a-0022489b4696,# Contact Center,,Service Reader; Service Writer,,,2,0,0
+7c50733f-13aa-eb11-8236-0022489b4c66,# CCADataAnalyticsML,,System Administrator,,System Administrator,1,0,1
+7ce7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorIndia,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+7d560420-16aa-eb11-8236-0022489b4c66,Power Apps Checker Application,,Export Customizations (Solution Checker); Service Writer; Solution Checker,,,3,0,0
+7db153c8-ab7d-ec11-8d21-0022489bef85,Mayuri Kalita,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+7fb153c8-ab7d-ec11-8d21-0022489bef85,Vijay George,,Sales Enterprise app access; System Administrator,,Sales Enterprise app access; System Administrator,2,0,2
+81080b83-9db5-ec11-983f-000d3a65fdcd,Tushar Chanana,,Customer service app access; Dynamics 365 App for Outlook User; Paramount MSS Shift Lead,,Customer service app access; Dynamics 365 App for Outlook User; Paramount MSS Shift Lead,3,0,3
+82deb0f9-490e-ef11-9f8a-0022489b4d69,# PowerPlatformDataAnalytics,,DataLakeFolderEntityContributor; Power Platform Data Analytics Role,,Power Platform Data Analytics Role,2,0,1
+834f4305-8e57-ee11-be6f-000d3a669ba8,Mukund Setlur,,PCS Marketing User,,PCS Marketing User,1,0,1
+8353ba00-5fa3-ec11-983f-000d3a65be92,Bharat Devashi Luva,,Customer service app access; Dynamics 365 App for Outlook User; Paramount MSS Shift Lead; Sales Enterprise app access,,Customer service app access; Dynamics 365 App for Outlook User; Paramount MSS Shift Lead; Sales Enterprise app access,4,0,4
+83eee59a-b4f2-ed11-8849-0022489b4de1,# DynamicsInstaller,,System Administrator,,System Administrator,1,0,1
+84b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-JPN,,Data Sync Service Role; Service Reader,,Data Sync Service Role,2,0,1
+857997ad-76b4-eb11-8236-000d3ab5a61f,Manikandan Natarajan,,Basic User,,,1,0,0
+858b16a0-76b4-eb11-8236-000d3ab6406f,ASWIN SASIDHARAN,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+85e80ea6-76b4-eb11-8236-000d3ab6406f,Shubham Jain,,Basic User,,,1,0,0
+86348f11-f775-ef11-a670-0022489b4de1,Microsoft Microsoft Flow CDS Integration Service,,Approvals Administrator; Approvals User; Basic User; Environment Maker,,Approvals Administrator; Approvals User,4,0,2
+87e70ea6-76b4-eb11-8236-000d3ab6406f,Ismail Mohammad,,Basic User,,,1,0,0
+87e80ea6-76b4-eb11-8236-000d3ab6406f,Mohammad Nooman Paul,,Basic User,,,1,0,0
+8a4e80c9-a6db-eb11-bacb-000d3aba42cf,# AIBuilder_StructuredML_Prod_CDS,,AIB Roles; AIB SML Roles; DataLakeWorkspaceAppAccess; Service Reader; Service Writer,,,5,0,0
+8b5606a1-3fba-ee11-a569-0022489b4de1,# UnifiedRoutingForRecord_App,,Omnichannel supervisor; Service Deleter; Service Reader; Service Writer,,,4,0,0
+8c7997ad-76b4-eb11-8236-000d3ab5a61f,Saddiq Ameen,,Basic User,,,1,0,0
+8ce10f9a-76b4-eb11-8236-000d3ab6406f,DIC ADMIN,,Basic User; System Administrator,,System Administrator,2,0,1
+8e775be8-1c58-ef11-bfe3-0022489b4d69,# Sales Conversation Intelligence,,Sales system access; Sales system access extension,,Sales system access; Sales system access extension,2,0,2
+901d25a7-76b4-eb11-8236-000d3ab5a61f,Ajay Kumar Gaddamidi,,Basic User,,,1,0,0
+9050733f-13aa-eb11-8236-0022489b4c66,# CDSUserManagement,,System Administrator,System Administrator,,1,1,0
+90bf2edc-ac35-ef11-840a-0022489ba102,# SSSAdminProd,,System Administrator,,System Administrator,1,0,1
+917997ad-76b4-eb11-8236-000d3ab5a61f,Sarath Mandalay,,Basic User; Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User,,Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User,4,0,3
+92b516af-7f0f-ed11-b83c-000d3ab9e773,# AppDeploymentOrchestration,,App Deployment Orchestration Role; Service Deleter; Service Reader; Service Writer,,App Deployment Orchestration Role,4,0,1
+9355b12c-9747-ec11-8c62-000d3addd641,Deepthy Surendran Nambiar,,Customer service app access; Dynamics 365 App for Outlook User; Paramount MSS Analyst,,Customer service app access; Dynamics 365 App for Outlook User; Paramount MSS Analyst,3,0,3
+93b67866-8a19-ee11-8f6d-000d3adc8967,Arputharaj Moideen,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+94013bec-6bb7-ec11-9840-000d3a65f2bf,# PowerAutomate-DesktopFlowRuntime,,Desktop Flows Runtime Application User,,,1,0,0
+953c92b3-76b4-eb11-8236-000d3ab5a61f,Mohammed Muzammil Kaleemulla,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+9680aa88-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorKorea,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+97e80ea6-76b4-eb11-8236-000d3ab6406f,Chandra Shekar Kakarla S,,Basic User,,,1,0,0
+98029ad4-4c21-f011-998b-000d3a69167e,# CAPI_Prod,,AIB Roles,,,1,0,0
+9811da84-2aaa-eb11-8236-0022489b4c66,# Dynamics 365 Sales,,DataProcessingConfigTableAppAccess; EAC App Access; Sales Lead Research App User Role; Sales Who Knows Whom Search Admin; Sales system access; Sales system access extension,,Sales Lead Research App User Role; Sales Who Knows Whom Search Admin; Sales system access; Sales system access extension,6,0,4
+99e70ea6-76b4-eb11-8236-000d3ab6406f,Human Resources Support,,Basic User,,,1,0,0
+99e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorJapan,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+9a50733f-13aa-eb11-8236-0022489b4c66,# CDSGlobalDiscovery,,Global Discovery Service Role,,Global Discovery Service Role,1,0,1
+9ab79e09-6bc7-ed11-b597-0022489ba102,# MicrosoftDynamicsNRDService,,Non-Relational Data App Access; Service Reader,,,2,0,0
+9be70ea6-76b4-eb11-8236-000d3ab6406f,Mayank Thakar,,Basic User,,,1,0,0
+9cd8515e-90ac-ec11-9841-000d3adcf107,# GlobalActiveMetricsMonitoringAlerting,,Global Active Metrics Monitoring Alerting Custom Role,,Global Active Metrics Monitoring Alerting Custom Role,1,0,1
+9d745fd7-f3f6-eb11-94ee-0022489c96ee,# DataServices,,DataLakeWorkspaceAppAccess; DataProcessingConfigTableAppAccess,,,2,0,0
+9d8b16a0-76b4-eb11-8236-000d3ab6406f,Abdullah Ashraf,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7,# InsightsAppsPlatform,,Async ingestion; DataLakeWorkspaceAppAccess; Flow-RP Role; Insights Apps Platform Role; Service Deleter; Service Writer,,Flow-RP Role; Insights Apps Platform Role,6,0,2
+9f9e7032-84e8-ed11-a7c6-0022489b4de1,# D365 Experimentation,,Cxp Experimentation Services User; DataLakeWorkspaceAppAccess,,,2,0,0
+a0e80ea6-76b4-eb11-8236-000d3ab6406f,Mohammad Arif Ansari,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+a18b16a0-76b4-eb11-8236-000d3ab6406f,Priyanka Madhan,,Basic User,,,1,0,0
+a239aad0-0aaa-eb11-8236-0022489b4c66,# PowerAutomate-MachineManagementRelay,,Desktop Flows Machine Application User,,,1,0,0
+a280aa88-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorNorway,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+a2ce141f-b87e-ec11-8d21-0022489be1a8,Sharif Elregeiba,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+a3c67f51-1434-f011-8c4e-000d3a69161a,# D365 Sales LeadQual,,DataProcessingConfigTableAppAccess; Sales Lead Research App User Role; Sales system access extension; Service Reader,,Sales Lead Research App User Role; Sales system access extension,4,0,2
+a5081676-e5be-eb11-bacc-000d3ade3348,Deepa Jayakumar,,Basic User; Dynamics 365 App for Outlook User; PCS Renewal Sales; Sales Enterprise app access,,Dynamics 365 App for Outlook User; PCS Renewal Sales; Sales Enterprise app access,4,0,3
+a60bd48b-ab1a-ec11-b6e6-000d3adf021a,Nadim Muhammed,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+a6502afb-a2c2-eb11-bacc-0022489c4a92,Priya Dsilva,,Basic User; Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,,Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,5,0,4
+a6878ab9-76b4-eb11-8236-000d3ab5a61f,Deepak Karun,,Customer service app access; Dynamics 365 App for Outlook User; PCS Presales User; Paramount Support BU Manager,,Customer service app access; Dynamics 365 App for Outlook User; PCS Presales User; Paramount Support BU Manager,4,0,4
+a9b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-OCE,,Data Sync Service Role; Service Reader,,Data Sync Service Role,2,0,1
+aaf634cd-69b8-ed11-9886-0022489b4de1,# CCaaSCRMClient,,System Administrator,,System Administrator,1,0,1
+ab081676-e5be-eb11-bacc-000d3ade3348,Sojy Vengal Oommen,,Basic User; Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User,,Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User,4,0,3
+ab68d148-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-NAM,,Data Sync Framework Role; Service Reader,,Data Sync Framework Role,2,0,1
+ac03a378-f125-f011-8c4e-000d3a69161a,# Flow-CDSNativeConnectorItaly,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+ac3c92b3-76b4-eb11-8236-000d3ab5a61f,Shipra Gupta,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Admin,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Admin,3,0,3
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,Peter Fernandez,,Customer service app access; Dynamics 365 App for Outlook User; PCS Country Manager; PCS Sales User; Sales Enterprise app access; System Administrator; System Customizer,,Customer service app access; Dynamics 365 App for Outlook User; PCS Country Manager; PCS Sales User; Sales Enterprise app access; System Administrator,7,0,6
+ac79caa0-7935-f011-8c4d-000d3ab46049,Swathi S,,Sales Enterprise app access; System Administrator; System Customizer,,Sales Enterprise app access; System Administrator,3,0,2
+ad6e940b-7f23-ed11-b83d-000d3ab8ce15,Sales | Paramount,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+ae1761c6-47f7-ed11-8849-0022489ba102,# CatalogServiceEur,,Service Reader; Service Writer; System Administrator,,System Administrator,3,0,1
+ae50733f-13aa-eb11-8236-0022489b4c66,# BAP,,BusinessApplicationPlatformRole,,,1,0,0
+ae60cc5d-0f0a-f011-bae3-7c1e52362954,Farzeen Wasim,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+b0347c91-7935-f011-8c4d-7c1e52362954,Mohamed Yaser Farook M,,Customer service app access; Sales Enterprise app access; System Administrator; System Customizer,System Administrator,Customer service app access; Sales Enterprise app access,4,1,2
+b12f8297-7fc0-ee11-907a-0022489b4696,# Contact Center Secondary,,Omnichannel administrator; Omnichannel agent; Omnichannel supervisor; Service Deleter; Service Reader; Service Writer,,Omnichannel administrator,6,0,1
+b23c506b-3d0c-ef11-9f89-000d3ad9703b,Asheesh Shukla,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+b3d4c4dc-68d3-ee11-907a-0022489ba240,# Flow-CDSNativeConnectorSweden,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+b3e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorCanada,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+b548db8e-1dbc-ee11-9078-000d3ab41c07,Athira Janardhanan,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+b6e70ea6-76b4-eb11-8236-000d3ab6406f,Nagendra Kesani,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+b77997ad-76b4-eb11-8236-000d3ab5a61f,Namith Najeeb,,Basic User; Customer service app access; Dynamics 365 App for Outlook User; PCS Country Manager; PCS Presales User; Sales Enterprise app access; System Administrator,,Customer service app access; Dynamics 365 App for Outlook User; PCS Country Manager; PCS Presales User; Sales Enterprise app access; System Administrator,7,0,6
+b7878ab9-76b4-eb11-8236-000d3ab5a61f,Suhas Varambally,,Basic User; Dynamics 365 App for Outlook User; PCS Country Manager; Sales Enterprise app access,,Dynamics 365 App for Outlook User; PCS Country Manager; Sales Enterprise app access,4,0,3
+b7da05ff-8ac6-ed11-b597-0022489b4de1,# KISPIngProd,,IntegratedSearchApp,,,1,0,0
+b850733f-13aa-eb11-8236-0022489b4c66,# Omnichannel,,System Administrator,,System Administrator,1,0,1
+b8a67aa0-9269-ef11-bfe2-000d3a668cd5,Nur Diyabi,,Customer service app access; Sales Enterprise app access; System Administrator; System Customizer,,Customer service app access; Sales Enterprise app access; System Administrator,4,0,3
+b8da777f-3a60-ec11-8f8f-000d3adcc269,# CCAAnalytics,,CCA Analytics App; DataLakeWorkspaceAppAccess; DataProcessingConfigTableAppAccess; Power BI Embedded App Access; Service Reader; Service Writer,,,6,0,0
+ba32f60c-a577-ec11-8d21-0022489ca392,Mohammad Khaled,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+ba878ab9-76b4-eb11-8236-000d3ab5a61f,Shaique Akhtar,,Basic User,,,1,0,0
+bab4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-CAN,,Data Sync Service Role; Service Reader,,Data Sync Service Role,2,0,1
+bb6725e4-055e-ef11-bfe3-000d3ab4cfeb,Sidra Kaleem Ahmed,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+bce80ea6-76b4-eb11-8236-000d3ab6406f,Haroon Abdul Aleem Wardak,,Basic User,,,1,0,0
+bdf54c33-dd15-f011-998a-7c1e52362954,Nidal Nasouh Awad Abushaqreh,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+be2f8297-7fc0-ee11-907a-0022489b4696,# Contact Center Diagnostics,,Service Reader; Service Writer,,,2,0,0
+be359f9b-2daa-eb11-8236-0022489b4c66,Microsoft Forms Pro,,Survey Services Administrator(Deprecated); System Administrator,,Survey Services Administrator(Deprecated); System Administrator,2,0,2
+be8b16a0-76b4-eb11-8236-000d3ab6406f,Walid Almallahi,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+bfd05313-74ec-ec11-bb3d-0022489cd7be,Sumaira Mohammed Ashraf,,Sales Enterprise app access; System Administrator; System Customizer,,Sales Enterprise app access; System Administrator,3,0,2
+c0e80ea6-76b4-eb11-8236-000d3ab6406f,Manoj Manohar Ghorpade,,Basic User,,,1,0,0
+c26691c2-1d1f-ee11-9966-000d3adc8967,Shefeeh Malakuzhiyil,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+c2710d15-fe30-ee11-bdf4-000d3adc8967,Ankur Mehta,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+c2acca2a-a0d7-ee11-904d-000d3ab41c07,Abila Rafeequ,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+c2b851f4-15aa-eb11-8236-0022489b4c66,# PowerAutomate-ProcessMining,,DataLakeWorkspaceAppAccess; Environment Maker; Power BI Embedded App Access; Process Mining Application,,,4,0,0
+c2da05ff-8ac6-ed11-b597-0022489b4de1,# KISPSyncProd,,IntegratedSearchApp,,,1,0,0
+c2de3a54-2baa-eb11-8236-0022489b4c66,# SIAutoCapture,,SalesInsights AutoCapture Admin,,SalesInsights AutoCapture Admin,1,0,1
+c2e3883f-86b7-ed11-83ff-0022489a24b8,Sachin Chougule,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+c4071676-e5be-eb11-bacc-000d3ade3348,Abdullah Dalle,,Basic User; Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User,,Customer service app access; Dynamics 365 App for Outlook User; PCS Sales User,4,0,3
+c4a97839-13aa-eb11-8236-0022489b4c66,# D365OfficeDataSvc,,DataLakeWorkspaceAppAccess,,,1,0,0
+c4f22425-b87e-ec11-8d21-0022489be1a8,Gouthaman Puthen Veettil,,Sales Enterprise app access; System Administrator,,Sales Enterprise app access; System Administrator,2,0,2
+c78b16a0-76b4-eb11-8236-000d3ab6406f,Mushahid Alam,,Customer service app access; Dynamics 365 App for Outlook User; PCS BU Manager; Sales Enterprise app access,,Customer service app access; Dynamics 365 App for Outlook User; PCS BU Manager; Sales Enterprise app access,4,0,4
+c8e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorUK,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+cb2f8297-7fc0-ee11-907a-0022489b4696,# URAssignment,,Omnichannel Assignment API access; Service Deleter; Service Reader; Service Writer,,,4,0,0
+cc18bd07-0d07-ec11-94ef-0022489c0f78,Adeel Shahzad Sabir Hussain,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+cc6eeb08-2aaa-eb11-8236-0022489b4c66,# Dynamics 365 Sales Forecasting,,Forecast AppUser,,Forecast AppUser,1,0,1
+cdb36fef-0ef5-ef11-be1f-7c1e52362954,Khasiba Sultan Obaid M A,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+ce42d658-dd9f-ee11-be37-000d3a669ba8,Muhammed Musthafa KV,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+cea97839-13aa-eb11-8236-0022489b4c66,# Dynamics365Athena,,Bulk Archival Role; DataLakeWorkspaceAppAccess; EAC Reader App Access,,Bulk Archival Role,3,0,1
+cecee0d8-ab09-ec11-b6e6-000d3ab1f3c0,Parshwa Amitkumar Shah,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+d018bd07-0d07-ec11-94ef-0022489c0f78,Rajeev Pakideeri,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+d0d8ac80-177d-ef11-ac21-0022489ba102,# AIBuilder_StructuredML_Gcc_CDS_Legacy,,AIB Roles; AIB SML Roles; DataLakeWorkspaceAppAccess; Service Reader; Service Writer,,,5,0,0
+d18b16a0-76b4-eb11-8236-000d3ab6406f,Ganesh Ram,,Basic User,,,1,0,0
+d4e70ea6-76b4-eb11-8236-000d3ab6406f,Muthukumaran Periyaswamy,,Basic User; System Administrator,,System Administrator,2,0,1
+d4e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorBrazil,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+d51833bb-d023-ec11-b6e5-000d3adb194e,# TPSProxyService,,BusinessApplicationPlatformRole,,,1,0,0
+d56610e3-2148-ef11-bfe2-000d3ab4cfeb,Suraj Lal,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+d64c239c-9b6c-ef11-a670-0022489b4696,# Dynamics 365 Copilot for Sales,,Copilot for Sales Integration User,,Copilot for Sales Integration User,1,0,1
+d67997ad-76b4-eb11-8236-000d3ab5a61f,Saidharanee Chinna Swamy,,Basic User; Customer service app access; Dynamics 365 App for Outlook User,,Customer service app access; Dynamics 365 App for Outlook User,3,0,2
+dba1d204-37f2-ed11-8849-000d3adc8967,Amr Ezzat Sayed Hassan,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+df8b16a0-76b4-eb11-8236-000d3ab6406f,Abhishek Padhi,,Basic User,,,1,0,0
+dfc9fddf-a4fb-ef11-bae4-000d3ab483e3,# Contextual AI S2S Prod Application,,ContextualAIS2SRole; SuggestedActionS2SRole,,,2,0,0
+e09b27dd-6d24-ee11-9cbc-000d3a669ba8,Krupali Ahir,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+e1071676-e5be-eb11-bacc-000d3ade3348,Jathin Das J B,,Basic User; Customer service app access; Dynamics 365 App for Outlook User; PCS Presales User; Sales Enterprise app access,,Customer service app access; Dynamics 365 App for Outlook User; PCS Presales User; Sales Enterprise app access,5,0,4
+e1e8d293-7fc9-ee11-9079-000d3ab41c07,Mohamed Azil,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+e20963f7-7df3-eb11-94ef-000d3aba6d30,Kalyan Kaskar,,Basic User,,,1,0,0
+e218bd07-0d07-ec11-94ef-0022489c0f78,Rajshekhar Deshmukh,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+e37f7f00-e891-ef11-8a6a-000d3a6685a9,Srimoy Roy,,Customer service app access,,Customer service app access,1,0,1
+e38b16a0-76b4-eb11-8236-000d3ab6406f,Rania Hammoud,,Basic User,,,1,0,0
+e3e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorFrance,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+e5071676-e5be-eb11-bacc-000d3ade3348,Ashhad Alam,,Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access; System Administrator,,Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access; System Administrator,4,0,4
+e58458c7-0baa-eb11-8236-0022489b4c66,# Microsoft Copilot Studio,,CCI admin; Environment Maker; System Customizer,,CCI admin,3,0,1
+e5cee0d8-ab09-ec11-b6e6-000d3ab1f3c0,Devika Sunil Nair,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate; Sales Enterprise app access,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate; Sales Enterprise app access,4,0,4
+e5eff26e-b4ca-ee11-907a-0022489ba0c8,# PowerAutomate-DesktopFlowAI,,Desktop Flows AI Application User,,,1,0,0
+e7071676-e5be-eb11-bacc-000d3ade3348,Sandeepa Dutt,,Basic User; Customer service app access; Dynamics 365 App for Outlook User; PCS Renewal Sales; Sales Enterprise app access,,Customer service app access; Dynamics 365 App for Outlook User; PCS Renewal Sales; Sales Enterprise app access,5,0,4
+e7752e5e-bbdc-ee11-904d-0022489ba240,# D365EEApp,,Email engagement app user role; Sales system access extension,,Email engagement app user role; Sales system access extension,2,0,2
+e87997ad-76b4-eb11-8236-000d3ab5a61f,Taronish Cowas Bajan,,Basic User; Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,,Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,4,0,3
+e968d148-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-EMEA-FRA-GBR-GER,,Data Sync Framework Role; Service Reader,,Data Sync Framework Role,2,0,1
+e99de6d9-2515-f011-998a-7c1e52362954,Harinand Baburaj Sindhu,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+eb1833bb-d023-ec11-b6e5-000d3adb194e,# Flow-CDSNativeConnector,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+eb878ab9-76b4-eb11-8236-000d3ab5a61f,Faique Akhtar,,Customer service app access; Dynamics 365 App for Outlook User; PCS Presales User; Paramount Support BU Manager,,Customer service app access; Dynamics 365 App for Outlook User; PCS Presales User; Paramount Support BU Manager,4,0,4
+ebb3c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-JPN,,Data Sync Framework Role; Service Reader,,Data Sync Framework Role,2,0,1
+edba1d70-e5be-eb11-bacc-000d3ade3348,Swathi Ashok,,Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,,Dynamics 365 App for Outlook User; PCS Sales User; Sales Enterprise app access,3,0,3
+ee82b819-4229-ec11-b6e5-000d3ada45f6,# Deflection,,Deflection Service Role; Service Reader,,Deflection Service Role,2,0,1
+ef419352-2555-ef11-bfe3-0022489b4696,# Portal RP Service,,Data Sync Framework Role; Portal RP Service Role; Service Deleter; Service Reader; Service Writer,,Data Sync Framework Role; Portal RP Service Role,5,0,2
+f0b04d8d-a7e8-ee11-904d-0022489b4de1,# ProjectForTheWebBackgroundServices,,Project Background Services App Role,,Project Background Services App Role,1,0,1
+f20bbf77-ac76-ee11-8179-0022489b4696,# PowerPlatformAuthorization,,Global Discovery Service Role,,Global Discovery Service Role,1,0,1
+f23b92b3-76b4-eb11-8236-000d3ab5a61f,Adhithyan Sudhaghar,,Basic User; Dynamics 365 App for Outlook User; PCS Presales User,,Dynamics 365 App for Outlook User; PCS Presales User,3,0,2
+f35cb77d-ac76-ee11-8179-0022489b4696,# PowerPlatformEnvironmentManagement,,System Administrator,,System Administrator,1,0,1
+f3994dcc-62a4-ef11-8a6b-0022489b4de1,# Dataverse Information Protection,,Purview Label Role; Service Reader,,Purview Label Role,2,0,1
+f3b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-IND-UAE-ZAF,,Data Sync Service Role; Service Reader,,Data Sync Service Role,2,0,1
+f468d148-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-APJ,,Data Sync Framework Role; Service Reader,,Data Sync Framework Role,2,0,1
+f47997ad-76b4-eb11-8236-000d3ab5a61f,Ismail Ahmed,,Basic User,,,1,0,0
+f4d61f41-86b7-ed11-83fe-000d3adc8967,Renju Kumar,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+f7a523f5-a2c2-eb11-bacc-0022489c4a92,Amritha Kamalon,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+f7b3c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-OCE,,Data Sync Framework Role; Service Reader,,Data Sync Framework Role,2,0,1
+f7e70ea6-76b4-eb11-8236-000d3ab6406f,Salma Begum,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,,Customer service app access; Dynamics 365 App for Outlook User; Paramount Support Associate,3,0,3
+f837ec5b-39da-eb11-bacb-000d3ab17fbc,Ramaswamy Ganapathy Subramanian,,Basic User; Dynamics 365 App for Outlook User; PCS Management User,,Dynamics 365 App for Outlook User; PCS Management User,3,0,2
+f937ec5b-39da-eb11-bacb-000d3ab17fbc,Premchand Kurup,,Basic User; Dynamics 365 App for Outlook User; PCS Management User; Sales Enterprise app access,,Dynamics 365 App for Outlook User; PCS Management User; Sales Enterprise app access,4,0,3
+f98b16a0-76b4-eb11-8236-000d3ab6406f,Manisha Tanwar,,Basic User; Sales Enterprise app access,,Sales Enterprise app access,2,0,1
+fa640371-cc99-ed11-aad1-0022489b4696,# Flow-CDSNativeConnectorSingapore,,Flow-CDS Native Connector Role,,Flow-CDS Native Connector Role,1,0,1
+faf051c4-9a9b-ed11-aad1-000d3adc8967,Divya Raj,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+fb64c680-0162-ed11-9561-0022489ba102,# PowerBIApplicationUser,,Sync Permissions,,,1,0,0
+fd3b92b3-76b4-eb11-8236-000d3ab5a61f,Rajesh Kethineni,,Basic User; System Administrator,,System Administrator,2,0,1
+ff0065b3-b7b1-ec11-9840-000d3adc2ba7,Dheeraj Tolaney,,Sales Enterprise app access,,Sales Enterprise app access,1,0,1
+ff68d148-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-SAM,,Data Sync Framework Role; Service Reader,,Data Sync Framework Role,2,0,1
+ffecdb91-1bbe-eb11-bacc-000d3ade3348,Mathivathani Devaraj,,Basic User,,,1,0,0
+f3b37b45-0346-f011-8779-7ced8d2bccfe,Ibrahim Qureshi,,,,,0,0,0
+032ce717-76ab-ec11-983f-000d3adf9a48,Khalil Hussein,,,,,0,0,0
+1130e93d-539a-ee11-be37-000d3adc8967,Pratik Shrestha,,,,,0,0,0
+4d28cf51-83b9-ec11-983f-000d3a65c37c,Prem Anand Rajendran,,,,,0,0,0
+9892960c-3369-ef11-bfe2-000d3a668cd5,Juned Rana,,,,,0,0,0
+650ff003-afa4-ee11-be37-000d3adc8967,Vijay Gokeda,,,,,0,0,0
+8b20d76d-0a9c-ef11-8a6a-000d3ab6556d,Deepak Kumar Singh,,,,,0,0,0
+e123b6b4-0e8a-ef11-ac21-000d3a6685a9,Govind Jagat Singh,,,,,0,0,0
+9ae66716-1f3a-f011-b4cb-6045bde0c87a,Sohan Jagat Singh,,,,,0,0,0
+5bcb8f80-9cb9-ec11-983f-000d3a65c37c,Sindhuja Velmurugan,,,,,0,0,0
+4a7ecb53-43e0-ee11-904c-000d3adb178b,Ganeshmurthy Raikar,,,,,0,0,0
+c8680b28-f477-ed11-81ab-0022489a24b8,Vinay Dasari,,,,,0,0,0
+2081ef81-4732-f011-8c4d-7c1e52fbbdd0,Sakshyam Sapkota,,,,,0,0,0
+f73b226f-69c9-ee11-9079-000d3adc8967,Neha Philip,,,,,0,0,0
+5128cf51-83b9-ec11-983f-000d3a65c37c,Manooj Chamaparambil,,,,,0,0,0
+0c96ad3b-7983-ee11-8179-000d3a669ba8,Muhanned Alebri,,,,,0,0,0
+e0c03c8b-4cf5-ed11-8849-0022489a24b8,Suganya Rajasekaran,,,,,0,0,0
+af3db600-dee7-ec11-bb3c-000d3ad96fe8,Jaya Prakash Immadi,,,,,0,0,0
+b2c62ca0-244a-ee11-be6f-000d3a669ba8,Haseeb Nochhikunnumal,,,,,0,0,0
+5ebd346c-e935-ee11-bdf4-000d3a669ba8,Sagar Srinivas Hebsur,,,,,0,0,0
+b85077ed-2ae0-ec11-bb3c-000d3ab855ae,Fathima Shana Noory,,,,,0,0,0
+279883d9-a9c5-ee11-9079-000d3adc8967,Hussain Merji,,,,,0,0,0
+c2796e33-6f06-ed11-82e5-0022489a1b39,Mobeen Khaja Shaikh,,,,,0,0,0
+acf332cb-2443-ed11-bba3-0022489ba382,Soumya Arun,,,,,0,0,0
+636a7c0a-b857-ee11-be6f-000d3a669ba8,Flora Christabel,,,,,0,0,0
+eecb8f80-9cb9-ec11-983f-000d3a65c37c,Ibrahim Bhat,,,,,0,0,0
+f9a17eab-9bc9-ee11-9079-000d3adc8967,Rohith Gurram,,,,,0,0,0
+43a55d43-1311-ef11-9f89-000d3adf5229,Yuvashree Ravi,,,,,0,0,0
+948ae67b-4732-f011-8c4d-7c1e52fbbdd0,Lhakpa Tsheri Sherpa,,,,,0,0,0
+63290a54-52ad-ef11-b8e9-000d3ab6556d,Angelina Raju,,,,,0,0,0
+0e0ff777-a4f5-ef11-be1f-7c1e52362954,Pritish Rani Karn,,,,,0,0,0
+e65c3067-b4cc-ee11-9079-000d3adc8967,Sam Mathew,,,,,0,0,0
+0f8e48c4-f4c9-ec11-a7b5-000d3a653893,Rugma Satheesh,,,,,0,0,0
+213c92b3-76b4-eb11-8236-000d3ab5a61f,Aasim Mohamed Haris Padiyath,,,,,0,0,0
+552898d6-09f0-ee11-904b-6045bde0cdf4,Shantanu Ranjit Kalekar,,,,,0,0,0
+fa4e5da9-9c42-ef11-a316-000d3ab2e4a7,Ravindranadh Kandala,,,,,0,0,0
+a2542123-bbee-ef11-be1f-000d3ab5c49d,Sunil Kanti,,,,,0,0,0
+6189604c-3e58-ee11-be6f-000d3adc8967,Rahul Bhatia,,,,,0,0,0
+4771cf7d-0606-ef11-9f89-002248a41fb1,Mohammed Shibu,,,,,0,0,0
+0171f512-8a62-ed11-9561-0022489a24b8,Imthihal Arimanichola,,,,,0,0,0
+c702382f-8150-ee11-be6e-000d3a669ba8,Muhammed Shahad,,,,,0,0,0
+f2d52b71-0df6-ec11-bb3d-0022489e2c0c,Nawaz Shareef,,,,,0,0,0
+4badae85-f6e4-ed11-a7c7-0022489a24b8,Kabilan Krishnasamy,,,,,0,0,0
+cfde3263-84e7-ef11-be20-7c1e523678c6,Shaikh Md Mubashshir,,,,,0,0,0
+1cd7669f-858d-ed11-81ad-000d3adc8967,Sooraj Kovval,,,,,0,0,0
+6dd6a052-ffa7-ef11-b8e9-000d3ab6556d,Sridhar Adhikari,,,,,0,0,0
+16e6e0bc-04cc-ef11-b8e9-000d3a6685a9,Reyam Alhassani,,,,,0,0,0
+23dd76ac-f3c2-ed11-83ff-000d3adc8967,Kotha Venkata Naga Akhil,,,,,0,0,0
+65db158f-e639-ef11-8409-000d3ab64ef2,Vivek Kumar Yadav,,,,,0,0,0
+6ed9ffb0-dcf5-ef11-be1f-7c1e523678c6,Aravind J,,,,,0,0,0
+ed0e973b-e132-ef11-8409-000d3ab64ef2,Sujan Upreti,,,,,0,0,0
+4f28cf51-83b9-ec11-983f-000d3a65c37c,Karthikeyan Devikumar,,,,,0,0,0
+a64e54f8-84a4-ee11-be37-000d3a669ba8,Rishit Varma,,,,,0,0,0
+261b4e8f-a60f-f011-9989-7c1e5234c8df,Anish Bhandari,,,,,0,0,0
+9d4c0f67-9a50-ee11-be6e-000d3a669ba8,Nihal Rajeev,,,,,0,0,0
+418cf370-1c30-ed11-9db1-000d3a65164f,Varadharajan Shanmugam,,,,,0,0,0
+ab003a21-937b-ed11-81ad-000d3adc8967,Vikneshkumar Palanisamy,,,,,0,0,0
+080611d7-2b08-ed11-82e5-0022489a1b39,Shijo Thomas,,,,,0,0,0
+a5e89ccb-fa69-ef11-bfe2-000d3a668cd5,Shaik Altaf,,,,,0,0,0
+f949c9c3-2112-ed11-b83d-000d3ab99a64,Srikant Tyagi,,,,,0,0,0
+cbe7b452-731e-ef11-840a-000d3ad9703b,Paramount | SOC,,,,,0,0,0
+e20fa1ea-3cb4-ed11-83ff-000d3adc8967,Samras Ahamed Mohamed Junaideen,,,,,0,0,0
+9938844e-bed3-ed11-a7c7-0022489a24b8,Jagat Singh Rawat,,,,,0,0,0
+6af1f6a1-47fe-ef11-bae3-7c1e52362954,Alana Faiz A Aldawod,,,,,0,0,0
+671a0ad0-f1ae-ee11-a569-000d3a669ba8,Mohammed Quadir,,,,,0,0,0
+19a3a1ac-6d27-ed11-9db1-000d3adaff3c,Shranjay Singh,,,,,0,0,0
+16cc8f80-9cb9-ec11-983f-000d3a65c37c,Mohit Kumar Saini,,,,,0,0,0
+9093ca40-a34d-ef11-bfe2-000d3ab4cfeb,Sumitha Kader,,,,,0,0,0
+e16762e6-296c-ef11-bfe2-000d3a668cd5,MSO Support,,,,,0,0,0
+270c2437-1891-ef11-8a6a-000d3a6685a9,Neeti R,,,,,0,0,0
+235b6596-35ff-ef11-bae3-7c1e52362954,Dawood Lhan,,,,,0,0,0
+271f80ab-f3c2-ed11-83ff-0022489a24b8,Jalaluddeen Ahammadkunhi Aranthodu,,,,,0,0,0
+541276fd-84a4-ee11-be37-0022489a24b8,Neha KJ,,,,,0,0,0
+5f00caf5-182f-ef11-840a-7c1e52349270,Sarath AN,,,,,0,0,0
+91ad6aa3-ffea-ed11-8849-000d3adc8967,Anbreen Azim,,,,,0,0,0
+21e8d8ab-0373-ee11-8179-000d3a669ba8,Mustafa Abdul Hussain,,,,,0,0,0
+120ae738-3e52-ee11-be6e-000d3adc8967,Dilna Parveen P,,,,,0,0,0
+de8a282a-38c3-ee11-9079-000d3adc8967,Sherif Elshenawi,,,,,0,0,0
+affb7f26-991b-ef11-840a-000d3adf5229,Sakthi Agathiya,,,,,0,0,0
+60321937-45b6-ec11-983f-000d3a65fbb2,Vaishagh Vijayan,,,,,0,0,0
+6696ff6f-b4cc-ee11-9079-000d3a669ba8,Shaik Mohammed Afridi,,,,,0,0,0
+51d7de3c-3c35-ec11-8c64-000d3ab096f9,Najfal Nezar,,,,,0,0,0
+9b08e207-4643-ef11-a316-000d3ab2e4a7,Kathyayini #,,,,,0,0,0
+4f692869-b2aa-ed11-aad0-0022489a24b8,Vahid Mohammad,,,,,0,0,0
+64b73dfe-b78d-ed11-81ad-000d3adc8967,Rohit Premchand,,,,,0,0,0
+7f610e67-fa3f-ee11-bdf3-000d3a669ba8,Sijen Dangol,,,,,0,0,0
+e0ddabf2-2fbf-ee11-9079-0022489a24b8,Rabina Maharjan,,,,,0,0,0
+c017fbfe-84a4-ee11-be37-000d3a669ba8,Ramakrishna V,,,,,0,0,0
+f682883e-8db0-ee11-a569-000d3adc8967,Durga Anji,,,,,0,0,0
+0f3132d0-09f0-ee11-904b-6045bde0cdf4,Dileepkumar Kuruba,,,,,0,0,0
+07a1bcdb-7c25-ef11-840a-000d3ab64ef2,Shaik Towsif Ahamed,,,,,0,0,0
+31389a7f-9e27-ef11-840a-000d3ab64ef2,Ajith Benny,,,,,0,0,0
+92c3a3d8-c6da-ee11-904b-6045bde0cdf4,Shinu Mathew,,,,,0,0,0
+4608d9ac-db67-ec11-8f8f-000d3ade64e5,Rakesh Nai,,,,,0,0,0
+3b644a99-742f-ed11-9db1-000d3a651fbe,Nitin Tumbade,,,,,0,0,0
+12b988f4-1607-ed11-82e5-0022489a173e,Pratik Santhosh Agre,,,,,0,0,0
+bba1decd-7451-ee11-be6e-000d3a669ba8,Sharath Chandra Gaddameedi,,,,,0,0,0
+d92859ea-4b4e-ef11-bfe2-0022489cdeb6,Pcs Qatar SOC,,,,,0,0,0
+4b7c2d51-e218-ef11-9f89-000d3adf5229,Shilpi Sangal,,,,,0,0,0
+3821d8f0-96e6-ec11-bb3c-000d3ad96fe8,Shahna Alappadiyil,,,,,0,0,0
+94e8c013-24ed-ef11-be1f-7c1e523678c6,Nithishraju #,,,,,0,0,0
+96e89273-7d9c-ed11-aad1-000d3adc8967,Parth Piyush Dabgar,,,,,0,0,0
+e8431db3-b9a9-ec11-983f-000d3adf9a48,Peroskhan Khadhar,,,,,0,0,0
+a476f490-3151-ee11-be6e-0022489a24b8,Akib Gorikhan,,,,,0,0,0

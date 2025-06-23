@@ -1,0 +1,692 @@
+userId,userName,roleId,roleName,likely_used,mapped_entities
+8353ba00-5fa3-ec11-983f-000d3a65be92,Bharat Devashi Luva,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+8353ba00-5fa3-ec11-983f-000d3a65be92,Bharat Devashi Luva,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+8353ba00-5fa3-ec11-983f-000d3a65be92,Bharat Devashi Luva,5e81fd0c-fc50-462f-9c49-6c7029aabe02,Paramount MSS Shift Lead,No,paramount
+8353ba00-5fa3-ec11-983f-000d3a65be92,Bharat Devashi Luva,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+94013bec-6bb7-ec11-9840-000d3a65f2bf,# PowerAutomate-DesktopFlowRuntime,ee2c8e11-6d57-4c5d-9f84-659c0db132bb,Desktop Flows Runtime Application User,Unknown (no entity mapping),
+81080b83-9db5-ec11-983f-000d3a65fdcd,Tushar Chanana,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+81080b83-9db5-ec11-983f-000d3a65fdcd,Tushar Chanana,5e81fd0c-fc50-462f-9c49-6c7029aabe02,Paramount MSS Shift Lead,No,paramount
+81080b83-9db5-ec11-983f-000d3a65fdcd,Tushar Chanana,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+e37f7f00-e891-ef11-8a6a-000d3a6685a9,Srimoy Roy,3dac4d9e-568c-e611-80d4-00155d42a122,Customer service app access,No,"incident,case"
+b8a67aa0-9269-ef11-bfe2-000d3a668cd5,Nur Diyabi,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+b8a67aa0-9269-ef11-bfe2-000d3a668cd5,Nur Diyabi,3dac4d9e-568c-e611-80d4-00155d42a122,Customer service app access,No,"incident,case"
+b8a67aa0-9269-ef11-bfe2-000d3a668cd5,Nur Diyabi,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+b8a67aa0-9269-ef11-bfe2-000d3a668cd5,Nur Diyabi,97d156c8-00aa-eb11-8236-0022489b4c66,System Customizer,Unknown (no entity mapping),
+e09b27dd-6d24-ee11-9cbc-000d3a669ba8,Krupali Ahir,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+ce42d658-dd9f-ee11-be37-000d3a669ba8,Muhammed Musthafa KV,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+2fceae02-c04b-ee11-be6f-000d3a669ba8,Rahul Saxena,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+834f4305-8e57-ee11-be6f-000d3a669ba8,Mukund Setlur,833974ed-68e3-4b75-b286-6ec0910b00f8,PCS Marketing User,No,"marketing,campaign,pcs"
+ac03a378-f125-f011-8c4e-000d3a69161a,# Flow-CDSNativeConnectorItaly,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+38d2a47e-f125-f011-8c4e-000d3a69161a,# ApolloProdFirstParty,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+a3c67f51-1434-f011-8c4e-000d3a69161a,# D365 Sales LeadQual,ba60eb02-6cbe-437c-a196-1151a8bd07df,Sales Lead Research App User Role,No,"lead,opportunity,order,quote"
+a3c67f51-1434-f011-8c4e-000d3a69161a,# D365 Sales LeadQual,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+a3c67f51-1434-f011-8c4e-000d3a69161a,# D365 Sales LeadQual,f6f7455f-bcea-44dc-abbd-7fd51b1cc880,Sales system access extension,No,"lead,opportunity,order,quote"
+a3c67f51-1434-f011-8c4e-000d3a69161a,# D365 Sales LeadQual,896a28e5-678d-4fa8-ad59-c606d1aa98ce,DataProcessingConfigTableAppAccess,Unknown (no entity mapping),
+12c77f51-1434-f011-8c4e-000d3a69161a,# D365 Sales AcctRsrch,ba60eb02-6cbe-437c-a196-1151a8bd07df,Sales Lead Research App User Role,No,"lead,opportunity,order,quote"
+12c77f51-1434-f011-8c4e-000d3a69161a,# D365 Sales AcctRsrch,f6f7455f-bcea-44dc-abbd-7fd51b1cc880,Sales system access extension,No,"lead,opportunity,order,quote"
+5343b157-1434-f011-8c4e-000d3a69161a,# D365 Sales OutrchAgt,ba60eb02-6cbe-437c-a196-1151a8bd07df,Sales Lead Research App User Role,No,"lead,opportunity,order,quote"
+5343b157-1434-f011-8c4e-000d3a69161a,# D365 Sales OutrchAgt,f6f7455f-bcea-44dc-abbd-7fd51b1cc880,Sales system access extension,No,"lead,opportunity,order,quote"
+98029ad4-4c21-f011-998b-000d3a69167e,# CAPI_Prod,e57bff35-58b4-4725-aee2-40fb18f4c8bd,AIB Roles,Unknown (no entity mapping),
+6d8bc30e-16d6-eb11-bacb-000d3ab15843,# RelevanceSearch,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+6d8bc30e-16d6-eb11-bacb-000d3ab15843,# RelevanceSearch,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+6d8bc30e-16d6-eb11-bacb-000d3ab15843,# RelevanceSearch,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+f837ec5b-39da-eb11-bacb-000d3ab17fbc,Ramaswamy Ganapathy Subramanian,e4aaba74-49bd-eb11-bacc-000d3ade3348,PCS Management User,No,pcs
+f837ec5b-39da-eb11-bacb-000d3ab17fbc,Ramaswamy Ganapathy Subramanian,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+f837ec5b-39da-eb11-bacb-000d3ab17fbc,Ramaswamy Ganapathy Subramanian,2407db5e-edae-4e36-9be1-fd61d4d15809,Dynamics 365 App for Outlook User,No,"activity,email"
+f937ec5b-39da-eb11-bacb-000d3ab17fbc,Premchand Kurup,e4aaba74-49bd-eb11-bacc-000d3ade3348,PCS Management User,No,pcs
+f937ec5b-39da-eb11-bacb-000d3ab17fbc,Premchand Kurup,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+f937ec5b-39da-eb11-bacb-000d3ab17fbc,Premchand Kurup,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+f937ec5b-39da-eb11-bacb-000d3ab17fbc,Premchand Kurup,2407db5e-edae-4e36-9be1-fd61d4d15809,Dynamics 365 App for Outlook User,No,"activity,email"
+64a962c2-ab09-ec11-b6e6-000d3ab1f3c0,Kishan Kumar,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+64a962c2-ab09-ec11-b6e6-000d3ab1f3c0,Kishan Kumar,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+64a962c2-ab09-ec11-b6e6-000d3ab1f3c0,Kishan Kumar,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+cecee0d8-ab09-ec11-b6e6-000d3ab1f3c0,Parshwa Amitkumar Shah,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+cecee0d8-ab09-ec11-b6e6-000d3ab1f3c0,Parshwa Amitkumar Shah,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+cecee0d8-ab09-ec11-b6e6-000d3ab1f3c0,Parshwa Amitkumar Shah,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+e5cee0d8-ab09-ec11-b6e6-000d3ab1f3c0,Devika Sunil Nair,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Dynamics 365 App for Outlook User,No,"activity,email"
+e5cee0d8-ab09-ec11-b6e6-000d3ab1f3c0,Devika Sunil Nair,814606fd-e146-41ce-a050-aa5bb055f072,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+e5cee0d8-ab09-ec11-b6e6-000d3ab1f3c0,Devika Sunil Nair,f1051237-de7e-4d12-8562-c1becfe03c42,Customer service app access,No,"incident,case"
+e5cee0d8-ab09-ec11-b6e6-000d3ab1f3c0,Devika Sunil Nair,c15682e6-5481-45c6-b1b7-e28cda116159,Paramount Support Associate,No,"support,paramount,ticket"
+3937400e-bc0b-ec11-b6e6-000d3ab1f3c0,Lubna Kawal,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+3937400e-bc0b-ec11-b6e6-000d3ab1f3c0,Lubna Kawal,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+3937400e-bc0b-ec11-b6e6-000d3ab1f3c0,Lubna Kawal,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+3860b0d3-ab09-ec11-b6e6-000d3ab2577d,Jerry Savio Patrick,4e3fbb40-4630-4fe6-8ead-12b1be0c707d,Customer service app access,No,"incident,case"
+3860b0d3-ab09-ec11-b6e6-000d3ab2577d,Jerry Savio Patrick,ab07de09-78cc-431c-b5dc-1a745f7c388e,Paramount Support Associate,No,"support,paramount,ticket"
+3860b0d3-ab09-ec11-b6e6-000d3ab2577d,Jerry Savio Patrick,75f59018-685a-4cbd-b026-a22b3d609591,PCS Country Manager,No,pcs
+3860b0d3-ab09-ec11-b6e6-000d3ab2577d,Jerry Savio Patrick,57b647c3-8703-45e7-8c31-e2a475693ab0,Dynamics 365 App for Outlook User,No,"activity,email"
+c2acca2a-a0d7-ee11-904d-000d3ab41c07,Abila Rafeequ,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+b548db8e-1dbc-ee11-9078-000d3ab41c07,Athira Janardhanan,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+e1e8d293-7fc9-ee11-9079-000d3ab41c07,Mohamed Azil,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+7bb23dfe-94cc-ee11-9079-000d3ab41c07,Priyanka Venkateswar,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+7bb23dfe-94cc-ee11-9079-000d3ab41c07,Priyanka Venkateswar,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+7bb23dfe-94cc-ee11-9079-000d3ab41c07,Priyanka Venkateswar,fb5973e1-e623-4dfa-b5f8-78f7c8054e96,System Administrator,No,"user,systemuser"
+7bb23dfe-94cc-ee11-9079-000d3ab41c07,Priyanka Venkateswar,a42e2c08-5248-438b-845a-f005c0e26037,PCS Management User,No,pcs
+4f519886-75cf-ec11-a7b5-000d3ab45df7,Hala Al-Sadi,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+ac79caa0-7935-f011-8c4d-000d3ab46049,Swathi S,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+ac79caa0-7935-f011-8c4d-000d3ab46049,Swathi S,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+ac79caa0-7935-f011-8c4d-000d3ab46049,Swathi S,97d156c8-00aa-eb11-8236-0022489b4c66,System Customizer,Unknown (no entity mapping),
+55b271d9-a4fb-ef11-bae4-000d3ab483e3,# DataverseReportService,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+55b271d9-a4fb-ef11-bae4-000d3ab483e3,# DataverseReportService,c8f8c510-2421-4d63-965b-91a7e722d6a0,Report Service Role,Unknown (no entity mapping),
+dfc9fddf-a4fb-ef11-bae4-000d3ab483e3,# Contextual AI S2S Prod Application,a543aafd-bd67-463d-9ef6-721bb8e471b1,SuggestedActionS2SRole,Unknown (no entity mapping),
+dfc9fddf-a4fb-ef11-bae4-000d3ab483e3,# Contextual AI S2S Prod Application,4f9dbfce-f797-40d8-a8ac-902e441e371b,ContextualAIS2SRole,Unknown (no entity mapping),
+d56610e3-2148-ef11-bfe2-000d3ab4cfeb,Suraj Lal,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+bb6725e4-055e-ef11-bfe3-000d3ab4cfeb,Sidra Kaleem Ahmed,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+5fa3a3a7-54d3-ef11-a72e-000d3ab500c7,Harshit Gupta,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+901d25a7-76b4-eb11-8236-000d3ab5a61f,Ajay Kumar Gaddamidi,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+577997ad-76b4-eb11-8236-000d3ab5a61f,Shibil Abdul Razak Muhammed,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+627997ad-76b4-eb11-8236-000d3ab5a61f,Pragati Ramane,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+627997ad-76b4-eb11-8236-000d3ab5a61f,Pragati Ramane,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+627997ad-76b4-eb11-8236-000d3ab5a61f,Pragati Ramane,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+6e7997ad-76b4-eb11-8236-000d3ab5a61f,Suhas Udipi Shastri,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+797997ad-76b4-eb11-8236-000d3ab5a61f,Premkumar Samuel Chander Devanand,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+857997ad-76b4-eb11-8236-000d3ab5a61f,Manikandan Natarajan,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+8c7997ad-76b4-eb11-8236-000d3ab5a61f,Saddiq Ameen,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+917997ad-76b4-eb11-8236-000d3ab5a61f,Sarath Mandalay,eef96238-7bf1-4b60-8ae4-01db3ef05317,Basic User,Unknown (no entity mapping),
+917997ad-76b4-eb11-8236-000d3ab5a61f,Sarath Mandalay,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+917997ad-76b4-eb11-8236-000d3ab5a61f,Sarath Mandalay,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+917997ad-76b4-eb11-8236-000d3ab5a61f,Sarath Mandalay,8698c9c9-3f99-4e36-828a-c66c3c18c41b,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,Peter Fernandez,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,Peter Fernandez,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,Peter Fernandez,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,Peter Fernandez,fb5973e1-e623-4dfa-b5f8-78f7c8054e96,System Administrator,No,"user,systemuser"
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,Peter Fernandez,49fcfe3f-dd2c-4bcd-83b9-949dc7a6aff8,PCS Country Manager,No,pcs
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,Peter Fernandez,8698c9c9-3f99-4e36-828a-c66c3c18c41b,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+ac7997ad-76b4-eb11-8236-000d3ab5a61f,Peter Fernandez,b9e61fb3-ab34-4df6-bb56-fd9c04d39399,System Customizer,Unknown (no entity mapping),
+b77997ad-76b4-eb11-8236-000d3ab5a61f,Namith Najeeb,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Dynamics 365 App for Outlook User,No,"activity,email"
+b77997ad-76b4-eb11-8236-000d3ab5a61f,Namith Najeeb,01728372-7e2a-428f-bcc9-45b03498ec65,Basic User,Unknown (no entity mapping),
+b77997ad-76b4-eb11-8236-000d3ab5a61f,Namith Najeeb,de7c6374-1532-4491-8c28-74207bbfe7e3,PCS Presales User,No,"lead,pcs,quote,order,opportunity"
+b77997ad-76b4-eb11-8236-000d3ab5a61f,Namith Najeeb,c8928031-87d8-45c2-8e84-88d7349b5338,PCS Country Manager,No,pcs
+b77997ad-76b4-eb11-8236-000d3ab5a61f,Namith Najeeb,814606fd-e146-41ce-a050-aa5bb055f072,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+b77997ad-76b4-eb11-8236-000d3ab5a61f,Namith Najeeb,f1051237-de7e-4d12-8562-c1becfe03c42,Customer service app access,No,"incident,case"
+b77997ad-76b4-eb11-8236-000d3ab5a61f,Namith Najeeb,58630023-a0f2-43dd-b951-f5a420124d18,System Administrator,No,"user,systemuser"
+d67997ad-76b4-eb11-8236-000d3ab5a61f,Saidharanee Chinna Swamy,eef96238-7bf1-4b60-8ae4-01db3ef05317,Basic User,Unknown (no entity mapping),
+d67997ad-76b4-eb11-8236-000d3ab5a61f,Saidharanee Chinna Swamy,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+d67997ad-76b4-eb11-8236-000d3ab5a61f,Saidharanee Chinna Swamy,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+e87997ad-76b4-eb11-8236-000d3ab5a61f,Taronish Cowas Bajan,eef96238-7bf1-4b60-8ae4-01db3ef05317,Basic User,Unknown (no entity mapping),
+e87997ad-76b4-eb11-8236-000d3ab5a61f,Taronish Cowas Bajan,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+e87997ad-76b4-eb11-8236-000d3ab5a61f,Taronish Cowas Bajan,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+e87997ad-76b4-eb11-8236-000d3ab5a61f,Taronish Cowas Bajan,8698c9c9-3f99-4e36-828a-c66c3c18c41b,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+f47997ad-76b4-eb11-8236-000d3ab5a61f,Ismail Ahmed,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+0a7a97ad-76b4-eb11-8236-000d3ab5a61f,Paramount Technical Support,3dac4d9e-568c-e611-80d4-00155d42a122,Customer service app access,No,"incident,case"
+0a7a97ad-76b4-eb11-8236-000d3ab5a61f,Paramount Technical Support,c20bc7ba-6506-ec11-94ef-0022489c0f78,Paramount Support Admin,No,"paramount,ticket,systemuser,user,support"
+0a7a97ad-76b4-eb11-8236-000d3ab5a61f,Paramount Technical Support,2407db5e-edae-4e36-9be1-fd61d4d15809,Dynamics 365 App for Outlook User,No,"activity,email"
+217a97ad-76b4-eb11-8236-000d3ab5a61f,Zaid Nihad M Awwad,eef96238-7bf1-4b60-8ae4-01db3ef05317,Basic User,Unknown (no entity mapping),
+217a97ad-76b4-eb11-8236-000d3ab5a61f,Zaid Nihad M Awwad,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+217a97ad-76b4-eb11-8236-000d3ab5a61f,Zaid Nihad M Awwad,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+217a97ad-76b4-eb11-8236-000d3ab5a61f,Zaid Nihad M Awwad,8698c9c9-3f99-4e36-828a-c66c3c18c41b,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+2c7a97ad-76b4-eb11-8236-000d3ab5a61f,Gayathri Pothiraj,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+357a97ad-76b4-eb11-8236-000d3ab5a61f,Manjunatha AM,da2ec702-2d3b-4689-9ce2-31ccc731a3d9,Customer service app access,No,"incident,case"
+357a97ad-76b4-eb11-8236-000d3ab5a61f,Manjunatha AM,d3a2ceaa-b0ef-4e0e-b32d-47fa7e4a9124,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+357a97ad-76b4-eb11-8236-000d3ab5a61f,Manjunatha AM,0877d869-bbec-4712-8e87-84a8df506466,Dynamics 365 App for Outlook User,No,"activity,email"
+357a97ad-76b4-eb11-8236-000d3ab5a61f,Manjunatha AM,4a580c0a-3d1c-430e-b6c1-8ee890731a4b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+357a97ad-76b4-eb11-8236-000d3ab5a61f,Manjunatha AM,e95ed157-d14d-41bc-b782-dc2f6bf01709,Basic User,Unknown (no entity mapping),
+427a97ad-76b4-eb11-8236-000d3ab5a61f,Meghna Muralidharan,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+427a97ad-76b4-eb11-8236-000d3ab5a61f,Meghna Muralidharan,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+427a97ad-76b4-eb11-8236-000d3ab5a61f,Meghna Muralidharan,cc83918e-18ed-4608-8340-44bafe6d8e7b,Paramount MSS Engineer,No,paramount
+427a97ad-76b4-eb11-8236-000d3ab5a61f,Meghna Muralidharan,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+f23b92b3-76b4-eb11-8236-000d3ab5a61f,Adhithyan Sudhaghar,eef96238-7bf1-4b60-8ae4-01db3ef05317,Basic User,Unknown (no entity mapping),
+f23b92b3-76b4-eb11-8236-000d3ab5a61f,Adhithyan Sudhaghar,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+f23b92b3-76b4-eb11-8236-000d3ab5a61f,Adhithyan Sudhaghar,1b90c3d7-2175-4d47-a715-66451e11b51e,PCS Presales User,No,"lead,pcs,quote,order,opportunity"
+fd3b92b3-76b4-eb11-8236-000d3ab5a61f,Rajesh Kethineni,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+fd3b92b3-76b4-eb11-8236-000d3ab5a61f,Rajesh Kethineni,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+0e3c92b3-76b4-eb11-8236-000d3ab5a61f,Sudakshina Singha Roy,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+213c92b3-76b4-eb11-8236-000d3ab5a61f,Aasim Mohamed Haris Padiyath,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Dynamics 365 App for Outlook User,No,"activity,email"
+213c92b3-76b4-eb11-8236-000d3ab5a61f,Aasim Mohamed Haris Padiyath,814606fd-e146-41ce-a050-aa5bb055f072,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+213c92b3-76b4-eb11-8236-000d3ab5a61f,Aasim Mohamed Haris Padiyath,f1051237-de7e-4d12-8562-c1becfe03c42,Customer service app access,No,"incident,case"
+213c92b3-76b4-eb11-8236-000d3ab5a61f,Aasim Mohamed Haris Padiyath,c15682e6-5481-45c6-b1b7-e28cda116159,Paramount Support Associate,No,"support,paramount,ticket"
+393c92b3-76b4-eb11-8236-000d3ab5a61f,Anup Nair,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+4d3c92b3-76b4-eb11-8236-000d3ab5a61f,Deepesh Bharat Shah,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+4d3c92b3-76b4-eb11-8236-000d3ab5a61f,Deepesh Bharat Shah,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+4d3c92b3-76b4-eb11-8236-000d3ab5a61f,Deepesh Bharat Shah,301ef12e-04c7-46fb-8ffb-b136ab19788a,PCS BU Manager,No,pcs
+623c92b3-76b4-eb11-8236-000d3ab5a61f,Touhid Shaikh,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+733c92b3-76b4-eb11-8236-000d3ab5a61f,Keerthidharan Rajendran,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+763c92b3-76b4-eb11-8236-000d3ab5a61f,Naveen Kumar,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+763c92b3-76b4-eb11-8236-000d3ab5a61f,Naveen Kumar,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+763c92b3-76b4-eb11-8236-000d3ab5a61f,Naveen Kumar,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+953c92b3-76b4-eb11-8236-000d3ab5a61f,Mohammed Muzammil Kaleemulla,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+953c92b3-76b4-eb11-8236-000d3ab5a61f,Mohammed Muzammil Kaleemulla,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+953c92b3-76b4-eb11-8236-000d3ab5a61f,Mohammed Muzammil Kaleemulla,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+ac3c92b3-76b4-eb11-8236-000d3ab5a61f,Shipra Gupta,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+ac3c92b3-76b4-eb11-8236-000d3ab5a61f,Shipra Gupta,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+ac3c92b3-76b4-eb11-8236-000d3ab5a61f,Shipra Gupta,dd53e9b2-2120-41f2-82c7-905078b63c12,Paramount Support Admin,No,"paramount,ticket,systemuser,user,support"
+003d92b3-76b4-eb11-8236-000d3ab5a61f,Razal Mohammed,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+003d92b3-76b4-eb11-8236-000d3ab5a61f,Razal Mohammed,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+183d92b3-76b4-eb11-8236-000d3ab5a61f,Husain Maad,4ca55d0c-3396-44b2-a783-556374f100de,Basic User,Unknown (no entity mapping),
+183d92b3-76b4-eb11-8236-000d3ab5a61f,Husain Maad,6e25b396-f450-44b0-8f50-74aa965c050e,Dynamics 365 App for Outlook User,No,"activity,email"
+183d92b3-76b4-eb11-8236-000d3ab5a61f,Husain Maad,d1179082-801e-4c42-b312-cdc07db49308,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+293d92b3-76b4-eb11-8236-000d3ab5a61f,Ashish Joshi,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+293d92b3-76b4-eb11-8236-000d3ab5a61f,Ashish Joshi,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+293d92b3-76b4-eb11-8236-000d3ab5a61f,Ashish Joshi,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+2b3d92b3-76b4-eb11-8236-000d3ab5a61f,Abhishek Pandey,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+2d3d92b3-76b4-eb11-8236-000d3ab5a61f,Sohel Farukh Shaikh,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+473d92b3-76b4-eb11-8236-000d3ab5a61f,Imran Malick Ghouse,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+4f3d92b3-76b4-eb11-8236-000d3ab5a61f,Gaurav Gopal Sharma,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+a6878ab9-76b4-eb11-8236-000d3ab5a61f,Deepak Karun,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+a6878ab9-76b4-eb11-8236-000d3ab5a61f,Deepak Karun,8d6c47a8-4022-4e04-bdcc-1d3c7a248611,Paramount Support BU Manager,No,"support,paramount,ticket"
+a6878ab9-76b4-eb11-8236-000d3ab5a61f,Deepak Karun,1b90c3d7-2175-4d47-a715-66451e11b51e,PCS Presales User,No,"lead,pcs,quote,order,opportunity"
+a6878ab9-76b4-eb11-8236-000d3ab5a61f,Deepak Karun,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+b7878ab9-76b4-eb11-8236-000d3ab5a61f,Suhas Varambally,eef96238-7bf1-4b60-8ae4-01db3ef05317,Basic User,Unknown (no entity mapping),
+b7878ab9-76b4-eb11-8236-000d3ab5a61f,Suhas Varambally,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+b7878ab9-76b4-eb11-8236-000d3ab5a61f,Suhas Varambally,3350f4e4-1cc6-4402-91af-44e5b8535110,PCS Country Manager,No,pcs
+b7878ab9-76b4-eb11-8236-000d3ab5a61f,Suhas Varambally,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+ba878ab9-76b4-eb11-8236-000d3ab5a61f,Shaique Akhtar,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+eb878ab9-76b4-eb11-8236-000d3ab5a61f,Faique Akhtar,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+eb878ab9-76b4-eb11-8236-000d3ab5a61f,Faique Akhtar,8d6c47a8-4022-4e04-bdcc-1d3c7a248611,Paramount Support BU Manager,No,"support,paramount,ticket"
+eb878ab9-76b4-eb11-8236-000d3ab5a61f,Faique Akhtar,1b90c3d7-2175-4d47-a715-66451e11b51e,PCS Presales User,No,"lead,pcs,quote,order,opportunity"
+eb878ab9-76b4-eb11-8236-000d3ab5a61f,Faique Akhtar,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+09888ab9-76b4-eb11-8236-000d3ab5a61f,Ramesh Vempali,31e98577-700a-4d6b-9f81-007a0f2ab25c,Basic User,Unknown (no entity mapping),
+09888ab9-76b4-eb11-8236-000d3ab5a61f,Ramesh Vempali,b584d6bf-8d31-41f3-a4cd-5aa7f7dac6e1,Customer service app access,No,"incident,case"
+09888ab9-76b4-eb11-8236-000d3ab5a61f,Ramesh Vempali,00f28924-3fea-4297-be86-8a11757c0562,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+09888ab9-76b4-eb11-8236-000d3ab5a61f,Ramesh Vempali,a32a29cb-e882-4760-a547-f68b5cd44b78,Dynamics 365 App for Outlook User,No,"activity,email"
+09888ab9-76b4-eb11-8236-000d3ab5a61f,Ramesh Vempali,4f208498-72bf-4544-964c-fac9e53b8ed6,PCS Country Manager,No,pcs
+0c888ab9-76b4-eb11-8236-000d3ab5a61f,Arpit Dhanotiya,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+2da7e436-583b-ec11-b6e5-000d3ab5c24a,# Dynamics 365 record assignment,cab938ec-7717-eb11-a81b-000d3ac38fe6,Sync Skills,Unknown (no entity mapping),
+4ce10f9a-76b4-eb11-8236-000d3ab6406f,Krishnakumar K,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+4ce10f9a-76b4-eb11-8236-000d3ab6406f,Krishnakumar K,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,Amit Sharma,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,Amit Sharma,8d6c47a8-4022-4e04-bdcc-1d3c7a248611,Paramount Support BU Manager,No,"support,paramount,ticket"
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,Amit Sharma,cc83918e-18ed-4608-8340-44bafe6d8e7b,Paramount MSS Engineer,No,paramount
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,Amit Sharma,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,Amit Sharma,1b90c3d7-2175-4d47-a715-66451e11b51e,PCS Presales User,No,"lead,pcs,quote,order,opportunity"
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,Amit Sharma,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+4fe10f9a-76b4-eb11-8236-000d3ab6406f,Amit Sharma,fb5973e1-e623-4dfa-b5f8-78f7c8054e96,System Administrator,No,"user,systemuser"
+52e10f9a-76b4-eb11-8236-000d3ab6406f,PCS DIC Finance,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+52e10f9a-76b4-eb11-8236-000d3ab6406f,PCS DIC Finance,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+6de10f9a-76b4-eb11-8236-000d3ab6406f,Shiju Chandroth,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+6de10f9a-76b4-eb11-8236-000d3ab6406f,Shiju Chandroth,fb5973e1-e623-4dfa-b5f8-78f7c8054e96,System Administrator,No,"user,systemuser"
+6de10f9a-76b4-eb11-8236-000d3ab6406f,Shiju Chandroth,301ef12e-04c7-46fb-8ffb-b136ab19788a,PCS BU Manager,No,pcs
+8ce10f9a-76b4-eb11-8236-000d3ab6406f,DIC ADMIN,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+8ce10f9a-76b4-eb11-8236-000d3ab6406f,DIC ADMIN,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+408b16a0-76b4-eb11-8236-000d3ab6406f,Suryakiran Manoharan,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+4c8b16a0-76b4-eb11-8236-000d3ab6406f,Adith Haridas,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+558b16a0-76b4-eb11-8236-000d3ab6406f,Kotaiba Al Haj Mohamad Ali,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+608b16a0-76b4-eb11-8236-000d3ab6406f,Ashok Chandrasekharan,e4aaba74-49bd-eb11-bacc-000d3ade3348,PCS Management User,No,pcs
+608b16a0-76b4-eb11-8236-000d3ab6406f,Ashok Chandrasekharan,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+608b16a0-76b4-eb11-8236-000d3ab6406f,Ashok Chandrasekharan,7c380e8d-8e4c-42f3-a5aa-6959b83a4c65,PCS Country Manager,No,pcs
+608b16a0-76b4-eb11-8236-000d3ab6406f,Ashok Chandrasekharan,73cf9a21-c874-49e7-a3c7-881ece56ef30,PCS Country Manager,No,pcs
+608b16a0-76b4-eb11-8236-000d3ab6406f,Ashok Chandrasekharan,2407db5e-edae-4e36-9be1-fd61d4d15809,Dynamics 365 App for Outlook User,No,"activity,email"
+638b16a0-76b4-eb11-8236-000d3ab6406f,Qusai Barwaniwala,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+638b16a0-76b4-eb11-8236-000d3ab6406f,Qusai Barwaniwala,8d6c47a8-4022-4e04-bdcc-1d3c7a248611,Paramount Support BU Manager,No,"support,paramount,ticket"
+638b16a0-76b4-eb11-8236-000d3ab6406f,Qusai Barwaniwala,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+638b16a0-76b4-eb11-8236-000d3ab6406f,Qusai Barwaniwala,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+638b16a0-76b4-eb11-8236-000d3ab6406f,Qusai Barwaniwala,301ef12e-04c7-46fb-8ffb-b136ab19788a,PCS BU Manager,No,pcs
+6e8b16a0-76b4-eb11-8236-000d3ab6406f,Kiran Nair,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+858b16a0-76b4-eb11-8236-000d3ab6406f,ASWIN SASIDHARAN,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+858b16a0-76b4-eb11-8236-000d3ab6406f,ASWIN SASIDHARAN,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+858b16a0-76b4-eb11-8236-000d3ab6406f,ASWIN SASIDHARAN,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+9d8b16a0-76b4-eb11-8236-000d3ab6406f,Abdullah Ashraf,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+9d8b16a0-76b4-eb11-8236-000d3ab6406f,Abdullah Ashraf,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+9d8b16a0-76b4-eb11-8236-000d3ab6406f,Abdullah Ashraf,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+a18b16a0-76b4-eb11-8236-000d3ab6406f,Priyanka Madhan,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+be8b16a0-76b4-eb11-8236-000d3ab6406f,Walid Almallahi,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+be8b16a0-76b4-eb11-8236-000d3ab6406f,Walid Almallahi,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+be8b16a0-76b4-eb11-8236-000d3ab6406f,Walid Almallahi,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+c78b16a0-76b4-eb11-8236-000d3ab6406f,Mushahid Alam,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+c78b16a0-76b4-eb11-8236-000d3ab6406f,Mushahid Alam,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+c78b16a0-76b4-eb11-8236-000d3ab6406f,Mushahid Alam,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+c78b16a0-76b4-eb11-8236-000d3ab6406f,Mushahid Alam,301ef12e-04c7-46fb-8ffb-b136ab19788a,PCS BU Manager,No,pcs
+d18b16a0-76b4-eb11-8236-000d3ab6406f,Ganesh Ram,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+df8b16a0-76b4-eb11-8236-000d3ab6406f,Abhishek Padhi,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+e38b16a0-76b4-eb11-8236-000d3ab6406f,Rania Hammoud,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+f98b16a0-76b4-eb11-8236-000d3ab6406f,Manisha Tanwar,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+f98b16a0-76b4-eb11-8236-000d3ab6406f,Manisha Tanwar,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+0a8c16a0-76b4-eb11-8236-000d3ab6406f,Anirudh Tulsidas Shetty,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+73e70ea6-76b4-eb11-8236-000d3ab6406f,Greeshma Rajan,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+87e70ea6-76b4-eb11-8236-000d3ab6406f,Ismail Mohammad,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+99e70ea6-76b4-eb11-8236-000d3ab6406f,Human Resources Support,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+9be70ea6-76b4-eb11-8236-000d3ab6406f,Mayank Thakar,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+b6e70ea6-76b4-eb11-8236-000d3ab6406f,Nagendra Kesani,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+b6e70ea6-76b4-eb11-8236-000d3ab6406f,Nagendra Kesani,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+b6e70ea6-76b4-eb11-8236-000d3ab6406f,Nagendra Kesani,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+d4e70ea6-76b4-eb11-8236-000d3ab6406f,Muthukumaran Periyaswamy,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+d4e70ea6-76b4-eb11-8236-000d3ab6406f,Muthukumaran Periyaswamy,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+f7e70ea6-76b4-eb11-8236-000d3ab6406f,Salma Begum,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Dynamics 365 App for Outlook User,No,"activity,email"
+f7e70ea6-76b4-eb11-8236-000d3ab6406f,Salma Begum,f1051237-de7e-4d12-8562-c1becfe03c42,Customer service app access,No,"incident,case"
+f7e70ea6-76b4-eb11-8236-000d3ab6406f,Salma Begum,c15682e6-5481-45c6-b1b7-e28cda116159,Paramount Support Associate,No,"support,paramount,ticket"
+19e80ea6-76b4-eb11-8236-000d3ab6406f,Unaise Eranju Kunnumel,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+19e80ea6-76b4-eb11-8236-000d3ab6406f,Unaise Eranju Kunnumel,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+19e80ea6-76b4-eb11-8236-000d3ab6406f,Unaise Eranju Kunnumel,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+36e80ea6-76b4-eb11-8236-000d3ab6406f,Munfed Rana,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Dynamics 365 App for Outlook User,No,"activity,email"
+36e80ea6-76b4-eb11-8236-000d3ab6406f,Munfed Rana,c72e281a-449d-463d-94bc-7bedd85700c0,Paramount Support Admin,No,"paramount,ticket,systemuser,user,support"
+36e80ea6-76b4-eb11-8236-000d3ab6406f,Munfed Rana,f1051237-de7e-4d12-8562-c1becfe03c42,Customer service app access,No,"incident,case"
+3ce80ea6-76b4-eb11-8236-000d3ab6406f,Kutbuddin Nogama,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+56e80ea6-76b4-eb11-8236-000d3ab6406f,Muhammad Omair Fahimuddin,eef96238-7bf1-4b60-8ae4-01db3ef05317,Basic User,Unknown (no entity mapping),
+56e80ea6-76b4-eb11-8236-000d3ab6406f,Muhammad Omair Fahimuddin,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+56e80ea6-76b4-eb11-8236-000d3ab6406f,Muhammad Omair Fahimuddin,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+56e80ea6-76b4-eb11-8236-000d3ab6406f,Muhammad Omair Fahimuddin,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+56e80ea6-76b4-eb11-8236-000d3ab6406f,Muhammad Omair Fahimuddin,8698c9c9-3f99-4e36-828a-c66c3c18c41b,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+59e80ea6-76b4-eb11-8236-000d3ab6406f,Mohd Tahir,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+6de80ea6-76b4-eb11-8236-000d3ab6406f,Govardhanan Devendran,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+70e80ea6-76b4-eb11-8236-000d3ab6406f,Rizwan Sherif,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+70e80ea6-76b4-eb11-8236-000d3ab6406f,Rizwan Sherif,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+85e80ea6-76b4-eb11-8236-000d3ab6406f,Shubham Jain,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+87e80ea6-76b4-eb11-8236-000d3ab6406f,Mohammad Nooman Paul,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+97e80ea6-76b4-eb11-8236-000d3ab6406f,Chandra Shekar Kakarla S,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+a0e80ea6-76b4-eb11-8236-000d3ab6406f,Mohammad Arif Ansari,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+a0e80ea6-76b4-eb11-8236-000d3ab6406f,Mohammad Arif Ansari,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+a0e80ea6-76b4-eb11-8236-000d3ab6406f,Mohammad Arif Ansari,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+bce80ea6-76b4-eb11-8236-000d3ab6406f,Haroon Abdul Aleem Wardak,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+c0e80ea6-76b4-eb11-8236-000d3ab6406f,Manoj Manohar Ghorpade,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+798efc1c-7f84-ef11-ac21-000d3ab6556d,Siva Manoharan,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+798efc1c-7f84-ef11-ac21-000d3ab6556d,Siva Manoharan,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+798efc1c-7f84-ef11-ac21-000d3ab6556d,Siva Manoharan,97d156c8-00aa-eb11-8236-0022489b4c66,System Customizer,Unknown (no entity mapping),
+798efc1c-7f84-ef11-ac21-000d3ab6556d,Siva Manoharan,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+798efc1c-7f84-ef11-ac21-000d3ab6556d,Siva Manoharan,fb5973e1-e623-4dfa-b5f8-78f7c8054e96,System Administrator,No,"user,systemuser"
+798efc1c-7f84-ef11-ac21-000d3ab6556d,Siva Manoharan,a42e2c08-5248-438b-845a-f005c0e26037,PCS Management User,No,pcs
+060b30af-3bc6-eb11-8235-000d3ab68dd4,# Dynamics365SCV,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+350b30af-3bc6-eb11-8235-000d3ab68dd4,# SharePointOnline,d58407f2-48d5-e711-a82c-000d3a37c848,Environment Maker,Unknown (no entity mapping),
+6700e6eb-352b-ec11-b6e5-000d3ab7fee9,Siddhartha Sarkar,d58407f2-48d5-e711-a82c-000d3a37c848,Environment Maker,Unknown (no entity mapping),
+ad6e940b-7f23-ed11-b83d-000d3ab8ce15,Sales | Paramount,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7,# InsightsAppsPlatform,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7,# InsightsAppsPlatform,f75f4034-068a-463c-ba85-0ae80ad5aecd,Flow-RP Role,Unknown (no entity mapping),
+9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7,# InsightsAppsPlatform,b8299fc3-f7a2-4655-a2d9-48ca2dec0346,Insights Apps Platform Role,Unknown (no entity mapping),
+9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7,# InsightsAppsPlatform,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7,# InsightsAppsPlatform,ab8b8c58-1f50-4037-8b26-7523d6145cc3,Async ingestion,Unknown (no entity mapping),
+9f64f0c5-c8de-ec11-bb3d-000d3ab95dd7,# InsightsAppsPlatform,3b305bc7-5cf5-464b-985e-d6237f6496f1,Service Deleter,Unknown (no entity mapping),
+92b516af-7f0f-ed11-b83c-000d3ab9e773,# AppDeploymentOrchestration,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+92b516af-7f0f-ed11-b83c-000d3ab9e773,# AppDeploymentOrchestration,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+92b516af-7f0f-ed11-b83c-000d3ab9e773,# AppDeploymentOrchestration,1bb44f6d-15a5-48aa-a2f2-8d2cb0095d2d,App Deployment Orchestration Role,Unknown (no entity mapping),
+92b516af-7f0f-ed11-b83c-000d3ab9e773,# AppDeploymentOrchestration,3b305bc7-5cf5-464b-985e-d6237f6496f1,Service Deleter,Unknown (no entity mapping),
+8a4e80c9-a6db-eb11-bacb-000d3aba42cf,# AIBuilder_StructuredML_Prod_CDS,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+8a4e80c9-a6db-eb11-bacb-000d3aba42cf,# AIBuilder_StructuredML_Prod_CDS,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+8a4e80c9-a6db-eb11-bacb-000d3aba42cf,# AIBuilder_StructuredML_Prod_CDS,e57bff35-58b4-4725-aee2-40fb18f4c8bd,AIB Roles,Unknown (no entity mapping),
+8a4e80c9-a6db-eb11-bacb-000d3aba42cf,# AIBuilder_StructuredML_Prod_CDS,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+8a4e80c9-a6db-eb11-bacb-000d3aba42cf,# AIBuilder_StructuredML_Prod_CDS,3f199ebd-977e-43e5-abe5-fe865a1f2904,AIB SML Roles,Unknown (no entity mapping),
+75053526-abdd-eb11-bacb-000d3aba4ed5,Divya Sumangala,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Dynamics 365 App for Outlook User,No,"activity,email"
+75053526-abdd-eb11-bacb-000d3aba4ed5,Divya Sumangala,f1051237-de7e-4d12-8562-c1becfe03c42,Customer service app access,No,"incident,case"
+75053526-abdd-eb11-bacb-000d3aba4ed5,Divya Sumangala,c15682e6-5481-45c6-b1b7-e28cda116159,Paramount Support Associate,No,"support,paramount,ticket"
+1a695fbd-b4df-eb11-bacb-000d3aba4ed5,CRM -Admin,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+1a695fbd-b4df-eb11-bacb-000d3aba4ed5,CRM -Admin,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+1a695fbd-b4df-eb11-bacb-000d3aba4ed5,CRM -Admin,fb5973e1-e623-4dfa-b5f8-78f7c8054e96,System Administrator,No,"user,systemuser"
+1a695fbd-b4df-eb11-bacb-000d3aba4ed5,CRM -Admin,8698c9c9-3f99-4e36-828a-c66c3c18c41b,PCS Sales User,Yes,"lead,pcs,quote,order,opportunity"
+626fe506-9bf2-eb11-94ef-000d3aba6d30,Adel Radwan A E,31e98577-700a-4d6b-9f81-007a0f2ab25c,Basic User,Unknown (no entity mapping),
+626fe506-9bf2-eb11-94ef-000d3aba6d30,Adel Radwan A E,b584d6bf-8d31-41f3-a4cd-5aa7f7dac6e1,Customer service app access,No,"incident,case"
+626fe506-9bf2-eb11-94ef-000d3aba6d30,Adel Radwan A E,98b1beac-1504-4e3d-a9c5-eebcd0673ada,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+626fe506-9bf2-eb11-94ef-000d3aba6d30,Adel Radwan A E,a32a29cb-e882-4760-a547-f68b5cd44b78,Dynamics 365 App for Outlook User,No,"activity,email"
+e20963f7-7df3-eb11-94ef-000d3aba6d30,Kalyan Kaskar,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+0f7386ee-9b28-ef11-840a-000d3ad96d4c,Nawraa Alshowaikh,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+b23c506b-3d0c-ef11-9f89-000d3ad9703b,Asheesh Shukla,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+ee82b819-4229-ec11-b6e5-000d3ada45f6,# Deflection,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+ee82b819-4229-ec11-b6e5-000d3ada45f6,# Deflection,c95980b3-97dc-4762-a037-c15fe02dae8c,Deflection Service Role,Unknown (no entity mapping),
+d51833bb-d023-ec11-b6e5-000d3adb194e,# TPSProxyService,02123b67-66ae-4a69-8cdc-6473b94ad1a9,BusinessApplicationPlatformRole,Unknown (no entity mapping),
+eb1833bb-d023-ec11-b6e5-000d3adb194e,# Flow-CDSNativeConnector,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+5df24e86-4fae-ec11-9840-000d3adc2ba7,Rahul Arun,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+ff0065b3-b7b1-ec11-9840-000d3adc2ba7,Dheeraj Tolaney,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+1b991aeb-dd77-ee11-8179-000d3adc8967,Vaishal Mehta,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+6c2d2195-c58c-ed11-81ad-000d3adc8967,Pradeep Perinchery,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+6c2d2195-c58c-ed11-81ad-000d3adc8967,Pradeep Perinchery,301ef12e-04c7-46fb-8ffb-b136ab19788a,PCS BU Manager,No,pcs
+f4d61f41-86b7-ed11-83fe-000d3adc8967,Renju Kumar,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+dba1d204-37f2-ed11-8849-000d3adc8967,Amr Ezzat Sayed Hassan,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+93b67866-8a19-ee11-8f6d-000d3adc8967,Arputharaj Moideen,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+c26691c2-1d1f-ee11-9966-000d3adc8967,Shefeeh Malakuzhiyil,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+72812fda-6d24-ee11-9cbc-000d3adc8967,Nuzhath Khan,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+51ea521b-63ac-ed11-aad0-000d3adc8967,Mohammad Hussain Shaik,70a8cd50-bd80-ec11-8d21-000d3adf7ec1,PCS Business Development Manager,No,pcs
+51ea521b-63ac-ed11-aad0-000d3adc8967,Mohammad Hussain Shaik,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+51ea521b-63ac-ed11-aad0-000d3adc8967,Mohammad Hussain Shaik,3dac4d9e-568c-e611-80d4-00155d42a122,Customer service app access,No,"incident,case"
+51ea521b-63ac-ed11-aad0-000d3adc8967,Mohammad Hussain Shaik,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+faf051c4-9a9b-ed11-aad1-000d3adc8967,Divya Raj,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+c2710d15-fe30-ee11-bdf4-000d3adc8967,Ankur Mehta,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+48747db0-413b-ee11-bdf4-000d3adc8967,Sourabh Suri,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+b8da777f-3a60-ec11-8f8f-000d3adcc269,# CCAAnalytics,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+b8da777f-3a60-ec11-8f8f-000d3adcc269,# CCAAnalytics,09686f40-772a-42d8-98ca-199483b1b275,CCA Analytics App,Unknown (no entity mapping),
+b8da777f-3a60-ec11-8f8f-000d3adcc269,# CCAAnalytics,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+b8da777f-3a60-ec11-8f8f-000d3adcc269,# CCAAnalytics,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+b8da777f-3a60-ec11-8f8f-000d3adcc269,# CCAAnalytics,8278be3d-dd12-4187-aac6-69a0543ebd85,Power BI Embedded App Access,Unknown (no entity mapping),
+b8da777f-3a60-ec11-8f8f-000d3adcc269,# CCAAnalytics,896a28e5-678d-4fa8-ad59-c606d1aa98ce,DataProcessingConfigTableAppAccess,Unknown (no entity mapping),
+9cd8515e-90ac-ec11-9841-000d3adcf107,# GlobalActiveMetricsMonitoringAlerting,60b66ae1-fd75-44ca-b494-10169bb07998,Global Active Metrics Monitoring Alerting Custom Role,Unknown (no entity mapping),
+04abe273-7eba-eb11-8235-000d3adda42c,# Flow-RP,f75f4034-068a-463c-ba85-0ae80ad5aecd,Flow-RP Role,Unknown (no entity mapping),
+1507681c-6c4b-ec11-8c62-000d3addb5d9,Prem Prasad,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+0dd127ed-304d-ec11-8c62-000d3addb5d9,Hazem Amin Mohamed,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+9355b12c-9747-ec11-8c62-000d3addd641,Deepthy Surendran Nambiar,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+9355b12c-9747-ec11-8c62-000d3addd641,Deepthy Surendran Nambiar,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+9355b12c-9747-ec11-8c62-000d3addd641,Deepthy Surendran Nambiar,6716df0e-7efd-4f4b-9158-c45ef7f15bfc,Paramount MSS Analyst,No,paramount
+ffecdb91-1bbe-eb11-bacc-000d3ade3348,Mathivathani Devaraj,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+2ad0086a-e5be-eb11-bacc-000d3ade3348,Priyank Johari,eef96238-7bf1-4b60-8ae4-01db3ef05317,Basic User,Unknown (no entity mapping),
+2ad0086a-e5be-eb11-bacc-000d3ade3348,Priyank Johari,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+2ad0086a-e5be-eb11-bacc-000d3ade3348,Priyank Johari,833974ed-68e3-4b75-b286-6ec0910b00f8,PCS Marketing User,No,"marketing,campaign,pcs"
+2cd0086a-e5be-eb11-bacc-000d3ade3348,Nitin Rajotia,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+2cd0086a-e5be-eb11-bacc-000d3ade3348,Nitin Rajotia,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+2cd0086a-e5be-eb11-bacc-000d3ade3348,Nitin Rajotia,301ef12e-04c7-46fb-8ffb-b136ab19788a,PCS BU Manager,No,pcs
+edba1d70-e5be-eb11-bacc-000d3ade3348,Swathi Ashok,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+edba1d70-e5be-eb11-bacc-000d3ade3348,Swathi Ashok,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+edba1d70-e5be-eb11-bacc-000d3ade3348,Swathi Ashok,8698c9c9-3f99-4e36-828a-c66c3c18c41b,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+c4071676-e5be-eb11-bacc-000d3ade3348,Abdullah Dalle,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Dynamics 365 App for Outlook User,No,"activity,email"
+c4071676-e5be-eb11-bacc-000d3ade3348,Abdullah Dalle,01728372-7e2a-428f-bcc9-45b03498ec65,Basic User,Unknown (no entity mapping),
+c4071676-e5be-eb11-bacc-000d3ade3348,Abdullah Dalle,f1051237-de7e-4d12-8562-c1becfe03c42,Customer service app access,No,"incident,case"
+c4071676-e5be-eb11-bacc-000d3ade3348,Abdullah Dalle,2454bedc-2065-4e2d-91c7-df446702e181,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+e1071676-e5be-eb11-bacc-000d3ade3348,Jathin Das J B,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Dynamics 365 App for Outlook User,No,"activity,email"
+e1071676-e5be-eb11-bacc-000d3ade3348,Jathin Das J B,01728372-7e2a-428f-bcc9-45b03498ec65,Basic User,Unknown (no entity mapping),
+e1071676-e5be-eb11-bacc-000d3ade3348,Jathin Das J B,de7c6374-1532-4491-8c28-74207bbfe7e3,PCS Presales User,No,"lead,pcs,quote,order,opportunity"
+e1071676-e5be-eb11-bacc-000d3ade3348,Jathin Das J B,814606fd-e146-41ce-a050-aa5bb055f072,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+e1071676-e5be-eb11-bacc-000d3ade3348,Jathin Das J B,f1051237-de7e-4d12-8562-c1becfe03c42,Customer service app access,No,"incident,case"
+e5071676-e5be-eb11-bacc-000d3ade3348,Ashhad Alam,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Dynamics 365 App for Outlook User,No,"activity,email"
+e5071676-e5be-eb11-bacc-000d3ade3348,Ashhad Alam,814606fd-e146-41ce-a050-aa5bb055f072,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+e5071676-e5be-eb11-bacc-000d3ade3348,Ashhad Alam,2454bedc-2065-4e2d-91c7-df446702e181,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+e5071676-e5be-eb11-bacc-000d3ade3348,Ashhad Alam,58630023-a0f2-43dd-b951-f5a420124d18,System Administrator,No,"user,systemuser"
+e7071676-e5be-eb11-bacc-000d3ade3348,Sandeepa Dutt,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Dynamics 365 App for Outlook User,No,"activity,email"
+e7071676-e5be-eb11-bacc-000d3ade3348,Sandeepa Dutt,01728372-7e2a-428f-bcc9-45b03498ec65,Basic User,Unknown (no entity mapping),
+e7071676-e5be-eb11-bacc-000d3ade3348,Sandeepa Dutt,34886658-2ccc-4b2f-9301-5383c14b8a2a,PCS Renewal Sales,No,"lead,pcs,quote,order,opportunity"
+e7071676-e5be-eb11-bacc-000d3ade3348,Sandeepa Dutt,814606fd-e146-41ce-a050-aa5bb055f072,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+e7071676-e5be-eb11-bacc-000d3ade3348,Sandeepa Dutt,f1051237-de7e-4d12-8562-c1becfe03c42,Customer service app access,No,"incident,case"
+1b081676-e5be-eb11-bacc-000d3ade3348,Ashish Pradhan,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+1b081676-e5be-eb11-bacc-000d3ade3348,Ashish Pradhan,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+1b081676-e5be-eb11-bacc-000d3ade3348,Ashish Pradhan,8698c9c9-3f99-4e36-828a-c66c3c18c41b,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+a5081676-e5be-eb11-bacc-000d3ade3348,Deepa Jayakumar,eef96238-7bf1-4b60-8ae4-01db3ef05317,Basic User,Unknown (no entity mapping),
+a5081676-e5be-eb11-bacc-000d3ade3348,Deepa Jayakumar,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+a5081676-e5be-eb11-bacc-000d3ade3348,Deepa Jayakumar,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+a5081676-e5be-eb11-bacc-000d3ade3348,Deepa Jayakumar,3e8e07b6-a743-49de-9c07-b5ed7dcb8ea1,PCS Renewal Sales,No,"lead,pcs,quote,order,opportunity"
+ab081676-e5be-eb11-bacc-000d3ade3348,Sojy Vengal Oommen,4dbfe5f3-169e-4e4c-8acf-41cb107515ae,Dynamics 365 App for Outlook User,No,"activity,email"
+ab081676-e5be-eb11-bacc-000d3ade3348,Sojy Vengal Oommen,01728372-7e2a-428f-bcc9-45b03498ec65,Basic User,Unknown (no entity mapping),
+ab081676-e5be-eb11-bacc-000d3ade3348,Sojy Vengal Oommen,f1051237-de7e-4d12-8562-c1becfe03c42,Customer service app access,No,"incident,case"
+ab081676-e5be-eb11-bacc-000d3ade3348,Sojy Vengal Oommen,2454bedc-2065-4e2d-91c7-df446702e181,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+241ead33-e9bd-eb11-bacc-000d3ade3673,Yasser Tanany,b6d2af81-b9f3-49f5-be36-2c9a8e856e1e,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+241ead33-e9bd-eb11-bacc-000d3ade3673,Yasser Tanany,4ca55d0c-3396-44b2-a783-556374f100de,Basic User,Unknown (no entity mapping),
+241ead33-e9bd-eb11-bacc-000d3ade3673,Yasser Tanany,6e25b396-f450-44b0-8f50-74aa965c050e,Dynamics 365 App for Outlook User,No,"activity,email"
+241ead33-e9bd-eb11-bacc-000d3ade3673,Yasser Tanany,b224c529-9045-478d-b837-b79e8f1257dc,PCS Country Manager,No,pcs
+1f84d15e-3f27-ec11-b6e5-000d3ade5275,D365 Admin,d58407f2-48d5-e711-a82c-000d3a37c848,Environment Maker,Unknown (no entity mapping),
+41435676-ec67-ec11-8f8f-000d3ade64e5,Pavan Kumar Chennupati,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+a60bd48b-ab1a-ec11-b6e6-000d3adf021a,Nadim Muhammed,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+2aef13e2-9d82-ec11-8d21-000d3adf7dc6,Venkatakrishnan Sowrirajan,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+21dcaf28-4cab-ec11-983f-000d3adf9c9b,Apurva Gupta,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+21dcaf28-4cab-ec11-983f-000d3adf9c9b,Apurva Gupta,3dac4d9e-568c-e611-80d4-00155d42a122,Customer service app access,No,"incident,case"
+21dcaf28-4cab-ec11-983f-000d3adf9c9b,Apurva Gupta,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+c2e3883f-86b7-ed11-83ff-0022489a24b8,Sachin Chougule,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+6eaeb678-3c5c-ed11-9562-0022489a24b8,Jayesh Vasu Devadiga,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+f20bbf77-ac76-ee11-8179-0022489b4696,# PowerPlatformAuthorization,a855e539-7253-43d3-9ee5-43ea042b7823,Global Discovery Service Role,Unknown (no entity mapping),
+f35cb77d-ac76-ee11-8179-0022489b4696,# PowerPlatformEnvironmentManagement,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+6654db69-f71d-ef11-840b-0022489b4696,# PowerAutomate-AiFlowsAppUser-Web,84012ef2-00bd-412e-8654-b1e3a90feafc,Power Automate AI Flows Application User,Unknown (no entity mapping),
+24e21576-f71d-ef11-840b-0022489b4696,# PowerAutomate-AiFlowsAppUser-Worker,84012ef2-00bd-412e-8654-b1e3a90feafc,Power Automate AI Flows Application User,Unknown (no entity mapping),
+7bd1db90-7fc0-ee11-907a-0022489b4696,# Contact Center,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+7bd1db90-7fc0-ee11-907a-0022489b4696,# Contact Center,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+b12f8297-7fc0-ee11-907a-0022489b4696,# Contact Center Secondary,f7f90019-dc14-e911-816a-000d3a069ebd,Omnichannel administrator,No,"user,systemuser"
+b12f8297-7fc0-ee11-907a-0022489b4696,# Contact Center Secondary,c30bdbfe-7553-e811-8147-000d3aa39708,Omnichannel agent,Unknown (no entity mapping),
+b12f8297-7fc0-ee11-907a-0022489b4696,# Contact Center Secondary,e4435009-7653-e811-8147-000d3aa39708,Omnichannel supervisor,Unknown (no entity mapping),
+b12f8297-7fc0-ee11-907a-0022489b4696,# Contact Center Secondary,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+b12f8297-7fc0-ee11-907a-0022489b4696,# Contact Center Secondary,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+b12f8297-7fc0-ee11-907a-0022489b4696,# Contact Center Secondary,3b305bc7-5cf5-464b-985e-d6237f6496f1,Service Deleter,Unknown (no entity mapping),
+be2f8297-7fc0-ee11-907a-0022489b4696,# Contact Center Diagnostics,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+be2f8297-7fc0-ee11-907a-0022489b4696,# Contact Center Diagnostics,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+cb2f8297-7fc0-ee11-907a-0022489b4696,# URAssignment,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+cb2f8297-7fc0-ee11-907a-0022489b4696,# URAssignment,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+cb2f8297-7fc0-ee11-907a-0022489b4696,# URAssignment,dad4c8cd-aab9-ee11-a568-6045bd07894c,Omnichannel Assignment API access,Unknown (no entity mapping),
+cb2f8297-7fc0-ee11-907a-0022489b4696,# URAssignment,3b305bc7-5cf5-464b-985e-d6237f6496f1,Service Deleter,Unknown (no entity mapping),
+d64c239c-9b6c-ef11-a670-0022489b4696,# Dynamics 365 Copilot for Sales,15bcda22-775e-4f2c-bdf5-e7c1f39d3919,Copilot for Sales Integration User,No,"lead,opportunity,order,quote"
+fa640371-cc99-ed11-aad1-0022489b4696,# Flow-CDSNativeConnectorSingapore,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+464f568b-197d-ef11-ac21-0022489b4696,# Power Policy Prod,e9a54b07-f763-45a1-88e7-0b67bbe18cf2,Power Policy App User Role,Unknown (no entity mapping),
+773868ba-6d53-ef11-bfe3-0022489b4696,# Contact Center Management App - Public,f7f90019-dc14-e911-816a-000d3a069ebd,Omnichannel administrator,No,"user,systemuser"
+ef419352-2555-ef11-bfe3-0022489b4696,# Portal RP Service,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+ef419352-2555-ef11-bfe3-0022489b4696,# Portal RP Service,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+ef419352-2555-ef11-bfe3-0022489b4696,# Portal RP Service,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+ef419352-2555-ef11-bfe3-0022489b4696,# Portal RP Service,3b305bc7-5cf5-464b-985e-d6237f6496f1,Service Deleter,Unknown (no entity mapping),
+ef419352-2555-ef11-bfe3-0022489b4696,# Portal RP Service,cc181d27-3ce6-41e8-b0f4-d951496afcfd,Portal RP Service Role,Unknown (no entity mapping),
+2b596895-2555-ef11-bfe3-0022489b4696,# PowerPages Data Runtime PROD,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+2b596895-2555-ef11-bfe3-0022489b4696,# PowerPages Data Runtime PROD,a75a6d67-1730-4298-8fc7-af7e93064fa1,Portal Application User,Unknown (no entity mapping),
+2b596895-2555-ef11-bfe3-0022489b4696,# PowerPages Data Runtime PROD,3b305bc7-5cf5-464b-985e-d6237f6496f1,Service Deleter,Unknown (no entity mapping),
+34d456c8-00aa-eb11-8236-0022489b4c66,Subramanian P #,532f6506-3bbd-eb11-bacc-000d3ade3348,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+34d456c8-00aa-eb11-8236-0022489b4c66,Subramanian P #,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+34d456c8-00aa-eb11-8236-0022489b4c66,Subramanian P #,3dac4d9e-568c-e611-80d4-00155d42a122,Customer service app access,No,"incident,case"
+34d456c8-00aa-eb11-8236-0022489b4c66,Subramanian P #,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+34d456c8-00aa-eb11-8236-0022489b4c66,Subramanian P #,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+34d456c8-00aa-eb11-8236-0022489b4c66,Subramanian P #,c20bc7ba-6506-ec11-94ef-0022489c0f78,Paramount Support Admin,No,"paramount,ticket,systemuser,user,support"
+34d456c8-00aa-eb11-8236-0022489b4c66,Subramanian P #,e4f59ed6-8c9f-ec11-b400-0022489cbe08,Paramount MSS Analyst,No,paramount
+34d456c8-00aa-eb11-8236-0022489b4c66,Subramanian P #,01c5e532-8d9f-ec11-b400-0022489cbe08,Paramount MSS Engineer,No,paramount
+34d456c8-00aa-eb11-8236-0022489b4c66,Subramanian P #,2407db5e-edae-4e36-9be1-fd61d4d15809,Dynamics 365 App for Outlook User,No,"activity,email"
+066e2276-08aa-eb11-8236-0022489b4c66,# PpdfCDSClient,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+066e2276-08aa-eb11-8236-0022489b4c66,# PpdfCDSClient,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+066e2276-08aa-eb11-8236-0022489b4c66,# PpdfCDSClient,8cd056c8-00aa-eb11-8236-0022489b4c66,Delegate,Unknown (no entity mapping),
+066e2276-08aa-eb11-8236-0022489b4c66,# PpdfCDSClient,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+066e2276-08aa-eb11-8236-0022489b4c66,# PpdfCDSClient,f2550a3a-f9c6-4409-bf77-8d4ceadb27ab,Power Platform Dataflows Service Role,Unknown (no entity mapping),
+a239aad0-0aaa-eb11-8236-0022489b4c66,# PowerAutomate-MachineManagementRelay,9f572d55-6090-493b-904a-3956bdc55343,Desktop Flows Machine Application User,Unknown (no entity mapping),
+e58458c7-0baa-eb11-8236-0022489b4c66,# Microsoft Copilot Studio,d58407f2-48d5-e711-a82c-000d3a37c848,Environment Maker,Unknown (no entity mapping),
+e58458c7-0baa-eb11-8236-0022489b4c66,# Microsoft Copilot Studio,a1801436-efd6-e811-a96e-000d3a3ab886,CCI admin,No,"user,systemuser"
+e58458c7-0baa-eb11-8236-0022489b4c66,# Microsoft Copilot Studio,97d156c8-00aa-eb11-8236-0022489b4c66,System Customizer,Unknown (no entity mapping),
+c4a97839-13aa-eb11-8236-0022489b4c66,# D365OfficeDataSvc,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+cea97839-13aa-eb11-8236-0022489b4c66,# Dynamics365Athena,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+cea97839-13aa-eb11-8236-0022489b4c66,# Dynamics365Athena,8a2f35d9-e447-4285-974c-81382317ca21,Bulk Archival Role,Unknown (no entity mapping),
+cea97839-13aa-eb11-8236-0022489b4c66,# Dynamics365Athena,7be5a395-6b58-4f8c-908f-97dc8810fc50,EAC Reader App Access,Unknown (no entity mapping),
+2c50733f-13aa-eb11-8236-0022489b4c66,# Dynamics365Athena2,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+2c50733f-13aa-eb11-8236-0022489b4c66,# Dynamics365Athena2,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+2c50733f-13aa-eb11-8236-0022489b4c66,# Dynamics365Athena2,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+2c50733f-13aa-eb11-8236-0022489b4c66,# Dynamics365Athena2,8a2f35d9-e447-4285-974c-81382317ca21,Bulk Archival Role,Unknown (no entity mapping),
+2c50733f-13aa-eb11-8236-0022489b4c66,# Dynamics365Athena2,7be5a395-6b58-4f8c-908f-97dc8810fc50,EAC Reader App Access,Unknown (no entity mapping),
+2c50733f-13aa-eb11-8236-0022489b4c66,# Dynamics365Athena2,896a28e5-678d-4fa8-ad59-c606d1aa98ce,DataProcessingConfigTableAppAccess,Unknown (no entity mapping),
+3650733f-13aa-eb11-8236-0022489b4c66,# PowerQueryOnline,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+4050733f-13aa-eb11-8236-0022489b4c66,# EnterpriseSales,896a28e5-678d-4fa8-ad59-c606d1aa98ce,DataProcessingConfigTableAppAccess,Unknown (no entity mapping),
+4a50733f-13aa-eb11-8236-0022489b4c66,# DataLakeStorage,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+4a50733f-13aa-eb11-8236-0022489b4c66,# DataLakeStorage,896a28e5-678d-4fa8-ad59-c606d1aa98ce,DataProcessingConfigTableAppAccess,Unknown (no entity mapping),
+5450733f-13aa-eb11-8236-0022489b4c66,# AriaMdlExporter,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+5e50733f-13aa-eb11-8236-0022489b4c66,# ProductInsights,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+6850733f-13aa-eb11-8236-0022489b4c66,# JobsServiceProd,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+7250733f-13aa-eb11-8236-0022489b4c66,# CDSFileStorage,d110d819-9b72-430f-894a-94dc87e04519,FileStoreService App Access,Unknown (no entity mapping),
+7c50733f-13aa-eb11-8236-0022489b4c66,# CCADataAnalyticsML,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+9050733f-13aa-eb11-8236-0022489b4c66,# CDSUserManagement,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+9a50733f-13aa-eb11-8236-0022489b4c66,# CDSGlobalDiscovery,a855e539-7253-43d3-9ee5-43ea042b7823,Global Discovery Service Role,Unknown (no entity mapping),
+ae50733f-13aa-eb11-8236-0022489b4c66,# BAP,02123b67-66ae-4a69-8cdc-6473b94ad1a9,BusinessApplicationPlatformRole,Unknown (no entity mapping),
+b850733f-13aa-eb11-8236-0022489b4c66,# Omnichannel,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+2c19b3b6-14aa-eb11-8236-0022489b4c66,# BizQA,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+2c19b3b6-14aa-eb11-8236-0022489b4c66,# BizQA,88b87c37-1472-4798-ac48-d56509eb6e1d,BizQAApp,Unknown (no entity mapping),
+12f47dad-15aa-eb11-8236-0022489b4c66,# AIBuilderProd,e57bff35-58b4-4725-aee2-40fb18f4c8bd,AIB Roles,Unknown (no entity mapping),
+c2b851f4-15aa-eb11-8236-0022489b4c66,# PowerAutomate-ProcessMining,d58407f2-48d5-e711-a82c-000d3a37c848,Environment Maker,Unknown (no entity mapping),
+c2b851f4-15aa-eb11-8236-0022489b4c66,# PowerAutomate-ProcessMining,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+c2b851f4-15aa-eb11-8236-0022489b4c66,# PowerAutomate-ProcessMining,8278be3d-dd12-4187-aac6-69a0543ebd85,Power BI Embedded App Access,Unknown (no entity mapping),
+c2b851f4-15aa-eb11-8236-0022489b4c66,# PowerAutomate-ProcessMining,737c8c79-7411-4eef-8f7d-e2abe7e7faec,Process Mining Application,Unknown (no entity mapping),
+7d560420-16aa-eb11-8236-0022489b4c66,Power Apps Checker Application,4931681d-8163-e811-a965-000d3a11fe32,Export Customizations (Solution Checker),Unknown (no entity mapping),
+7d560420-16aa-eb11-8236-0022489b4c66,Power Apps Checker Application,e05075eb-9d74-e811-a95c-000d3a1c53e4,Solution Checker,Unknown (no entity mapping),
+7d560420-16aa-eb11-8236-0022489b4c66,Power Apps Checker Application,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+cc6eeb08-2aaa-eb11-8236-0022489b4c66,# Dynamics 365 Sales Forecasting,7bc42107-2fba-4a47-9d1d-51877a3be378,Forecast AppUser,No,forecast
+9811da84-2aaa-eb11-8236-0022489b4c66,# Dynamics 365 Sales,2c321cf0-f096-ea11-a81a-000d3a6ecd99,EAC App Access,Unknown (no entity mapping),
+9811da84-2aaa-eb11-8236-0022489b4c66,# Dynamics 365 Sales,ba60eb02-6cbe-437c-a196-1151a8bd07df,Sales Lead Research App User Role,No,"lead,opportunity,order,quote"
+9811da84-2aaa-eb11-8236-0022489b4c66,# Dynamics 365 Sales,f6f7455f-bcea-44dc-abbd-7fd51b1cc880,Sales system access extension,No,"lead,opportunity,order,quote"
+9811da84-2aaa-eb11-8236-0022489b4c66,# Dynamics 365 Sales,79b9f3b0-c8c2-4c1e-9d4c-97f0c38d1401,Sales Who Knows Whom Search Admin,No,"lead,systemuser,quote,order,user,opportunity"
+9811da84-2aaa-eb11-8236-0022489b4c66,# Dynamics 365 Sales,896a28e5-678d-4fa8-ad59-c606d1aa98ce,DataProcessingConfigTableAppAccess,Unknown (no entity mapping),
+9811da84-2aaa-eb11-8236-0022489b4c66,# Dynamics 365 Sales,b5b6cb27-47e9-49f7-84bb-f6823fc8461c,Sales system access,No,"lead,opportunity,order,quote"
+c2de3a54-2baa-eb11-8236-0022489b4c66,# SIAutoCapture,5d667671-6492-4651-a297-cb1a9981e159,SalesInsights AutoCapture Admin,No,"lead,systemuser,quote,order,user,opportunity"
+be359f9b-2daa-eb11-8236-0022489b4c66,Microsoft Forms Pro,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+be359f9b-2daa-eb11-8236-0022489b4c66,Microsoft Forms Pro,abce3b01-5697-4973-9d7d-fca48ca84445,Survey Services Administrator(Deprecated),No,"user,systemuser"
+5a11eb6b-30aa-eb11-8236-0022489b4c66,Support User,d0d056c8-00aa-eb11-8236-0022489b4c66,Support User,No,"support,ticket"
+6311eb6b-30aa-eb11-8236-0022489b4c66,Delegated Admin,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+82deb0f9-490e-ef11-9f8a-0022489b4d69,# PowerPlatformDataAnalytics,57e714ae-debb-4164-9380-58b8585358a8,Power Platform Data Analytics Role,Unknown (no entity mapping),
+82deb0f9-490e-ef11-9f8a-0022489b4d69,# PowerPlatformDataAnalytics,a0537877-879d-4b70-a391-bb07b94fbba2,DataLakeFolderEntityContributor,Unknown (no entity mapping),
+8e775be8-1c58-ef11-bfe3-0022489b4d69,# Sales Conversation Intelligence,f6f7455f-bcea-44dc-abbd-7fd51b1cc880,Sales system access extension,No,"lead,opportunity,order,quote"
+8e775be8-1c58-ef11-bfe3-0022489b4d69,# Sales Conversation Intelligence,b5b6cb27-47e9-49f7-84bb-f6823fc8461c,Sales system access,No,"lead,opportunity,order,quote"
+531a0680-3e24-ef11-840b-0022489b4de1,# D365WorkAssignment2,255ee185-7158-41df-891f-bc3ef9b60365,Sales Work Assignment API Access,No,"lead,opportunity,order,quote"
+531a0680-3e24-ef11-840b-0022489b4de1,# D365WorkAssignment2,a567525b-10b3-473d-8665-ef33786e4d26,Sales Work Assignment API Extended Access,No,"lead,opportunity,order,quote"
+55f52686-3e24-ef11-840b-0022489b4de1,# D365WorkAssignment3,255ee185-7158-41df-891f-bc3ef9b60365,Sales Work Assignment API Access,No,"lead,opportunity,order,quote"
+55f52686-3e24-ef11-840b-0022489b4de1,# D365WorkAssignment3,a567525b-10b3-473d-8665-ef33786e4d26,Sales Work Assignment API Extended Access,No,"lead,opportunity,order,quote"
+83eee59a-b4f2-ed11-8849-0022489b4de1,# DynamicsInstaller,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+f3994dcc-62a4-ef11-8a6b-0022489b4de1,# Dataverse Information Protection,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+f3994dcc-62a4-ef11-8a6b-0022489b4de1,# Dataverse Information Protection,df3185a3-3141-4361-fb29-6eaa33dd0169,Purview Label Role,Unknown (no entity mapping),
+f0b04d8d-a7e8-ee11-904d-0022489b4de1,# ProjectForTheWebBackgroundServices,209a44f9-636e-40bb-8cb0-67a34459f39a,Project Background Services App Role,Unknown (no entity mapping),
+1492dbd6-9c58-ed11-9562-0022489b4de1,# Flow-CDSNativeConnectorSouthAfrica,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+aaf634cd-69b8-ed11-9886-0022489b4de1,# CCaaSCRMClient,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+8b5606a1-3fba-ee11-a569-0022489b4de1,# UnifiedRoutingForRecord_App,e4435009-7653-e811-8147-000d3aa39708,Omnichannel supervisor,Unknown (no entity mapping),
+8b5606a1-3fba-ee11-a569-0022489b4de1,# UnifiedRoutingForRecord_App,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+8b5606a1-3fba-ee11-a569-0022489b4de1,# UnifiedRoutingForRecord_App,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+8b5606a1-3fba-ee11-a569-0022489b4de1,# UnifiedRoutingForRecord_App,3b305bc7-5cf5-464b-985e-d6237f6496f1,Service Deleter,Unknown (no entity mapping),
+86348f11-f775-ef11-a670-0022489b4de1,Microsoft Microsoft Flow CDS Integration Service,b9b08637-acf6-e711-a95a-000d3a11f5ee,Approvals User,No,approval
+86348f11-f775-ef11-a670-0022489b4de1,Microsoft Microsoft Flow CDS Integration Service,d58407f2-48d5-e711-a82c-000d3a37c848,Environment Maker,Unknown (no entity mapping),
+86348f11-f775-ef11-a670-0022489b4de1,Microsoft Microsoft Flow CDS Integration Service,854af338-f3c5-e711-8122-000d3aa01c52,Approvals Administrator,No,"approval,user,systemuser"
+86348f11-f775-ef11-a670-0022489b4de1,Microsoft Microsoft Flow CDS Integration Service,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+9f9e7032-84e8-ed11-a7c6-0022489b4de1,# D365 Experimentation,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+9f9e7032-84e8-ed11-a7c6-0022489b4de1,# D365 Experimentation,a02d65d0-5d67-4a36-b1a6-dffe75974a58,Cxp Experimentation Services User,Unknown (no entity mapping),
+126654e0-28a4-ed11-aad1-0022489b4de1,# PowerAppsCustomerManagementPlaneBackend,527c7b12-e5ac-4408-9f46-ecc762397544,PowerAppsRPRole,Unknown (no entity mapping),
+276654e0-28a4-ed11-aad1-0022489b4de1,# PowerAppsDataPlaneBackend,527c7b12-e5ac-4408-9f46-ecc762397544,PowerAppsRPRole,Unknown (no entity mapping),
+376654e0-28a4-ed11-aad1-0022489b4de1,# Quartzite,6e33f75d-802e-4d79-b9e7-1fcdd2b3122e,RPE Role,Unknown (no entity mapping),
+376654e0-28a4-ed11-aad1-0022489b4de1,# Quartzite,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+5e0504f9-8ac6-ed11-b597-0022489b4de1,# KISPAdminProd,bd33526c-3668-4f81-9045-cb70c6156dc6,IntegratedSearchApp,Unknown (no entity mapping),
+b7da05ff-8ac6-ed11-b597-0022489b4de1,# KISPIngProd,bd33526c-3668-4f81-9045-cb70c6156dc6,IntegratedSearchApp,Unknown (no entity mapping),
+c2da05ff-8ac6-ed11-b597-0022489b4de1,# KISPSyncProd,bd33526c-3668-4f81-9045-cb70c6156dc6,IntegratedSearchApp,Unknown (no entity mapping),
+6e556fe8-3d54-ef11-bfe3-0022489b4de1,# CloudFlowRunHistory,f75f4034-068a-463c-ba85-0ae80ad5aecd,Flow-RP Role,Unknown (no entity mapping),
+3fdac4f6-3d54-ef11-bfe3-0022489b4de1,# ConnectorManagementServiceBackend,527c7b12-e5ac-4408-9f46-ecc762397544,PowerAppsRPRole,Unknown (no entity mapping),
+e5eff26e-b4ca-ee11-907a-0022489ba0c8,# PowerAutomate-DesktopFlowAI,726d11d6-d9cf-4503-ade9-d6a4be7fa095,Desktop Flows AI Application User,Unknown (no entity mapping),
+532dc07f-2374-ed11-81ab-0022489ba102,# MicrosoftCustomerEngagementPortalInfra,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+532dc07f-2374-ed11-81ab-0022489ba102,# MicrosoftCustomerEngagementPortalInfra,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+532dc07f-2374-ed11-81ab-0022489ba102,# MicrosoftCustomerEngagementPortalInfra,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+532dc07f-2374-ed11-81ab-0022489ba102,# MicrosoftCustomerEngagementPortalInfra,a75a6d67-1730-4298-8fc7-af7e93064fa1,Portal Application User,Unknown (no entity mapping),
+532dc07f-2374-ed11-81ab-0022489ba102,# MicrosoftCustomerEngagementPortalInfra,3b305bc7-5cf5-464b-985e-d6237f6496f1,Service Deleter,Unknown (no entity mapping),
+5638d5cf-ac35-ef11-840a-0022489ba102,# CDSUserManagementApi,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+90bf2edc-ac35-ef11-840a-0022489ba102,# SSSAdminProd,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+ae1761c6-47f7-ed11-8849-0022489ba102,# CatalogServiceEur,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+ae1761c6-47f7-ed11-8849-0022489ba102,# CatalogServiceEur,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+ae1761c6-47f7-ed11-8849-0022489ba102,# CatalogServiceEur,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+4e43795f-86cf-ee11-907a-0022489ba102,# D365 SequenceStats,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+4e43795f-86cf-ee11-907a-0022489ba102,# D365 SequenceStats,afd66a78-57d5-4bad-a60d-b226b1a8b5d3,Sales Sequence Stats Service User,No,"lead,opportunity,order,quote"
+4e43795f-86cf-ee11-907a-0022489ba102,# D365 SequenceStats,9094f3e2-40e1-491f-b8d9-b621a38f60ef,Sales Sequence Stats Reporting Service User,No,"lead,opportunity,order,quote"
+5f501362-0a5e-ed11-9561-0022489ba102,# CDSAcisInfraAppGlobal,4a434894-a4a4-48bf-b939-7b6327529e2e,SupportUserCustomAPI Role,No,"support,ticket"
+fb64c680-0162-ed11-9561-0022489ba102,# PowerBIApplicationUser,e94f2257-92be-48b3-bc66-2279e0e68675,Sync Permissions,Unknown (no entity mapping),
+01f87407-2a28-ee11-9966-0022489ba102,# D365WorkAssignment,255ee185-7158-41df-891f-bc3ef9b60365,Sales Work Assignment API Access,No,"lead,opportunity,order,quote"
+01f87407-2a28-ee11-9966-0022489ba102,# D365WorkAssignment,a567525b-10b3-473d-8665-ef33786e4d26,Sales Work Assignment API Extended Access,No,"lead,opportunity,order,quote"
+14bc2270-953b-ed11-9db1-0022489ba102,# PowerCards-S2S-IL-Prod,f9e46d0f-d53e-4d5c-b06b-24948b4606ed,Cards Role,Unknown (no entity mapping),
+14ccc10d-36ed-ee11-a203-0022489ba102,# PowerVirtualAgentsProdS2S,89fbbea7-7a4f-43eb-9962-2329f1cf5cff,VA Analytics Role,Unknown (no entity mapping),
+5abb2fd2-f4a3-ed11-aad1-0022489ba102,# D365 Sms Channel,ff99ba3d-063d-428e-bc39-aa63a13b96e7,Shared Sms Channels Role,Unknown (no entity mapping),
+43f09376-f5a3-ed11-aad1-0022489ba102,# D365 Personalization,d55cd2f7-60e8-44cd-8ba8-dd45382e9151,Cxp Personalization Services User,Unknown (no entity mapping),
+7af09376-f5a3-ed11-aad1-0022489ba102,# D365 Dataverse Data,060a3f14-a531-4214-a30f-22ef4c5838ce,Cxp Dataverse Datasource Services User,Unknown (no entity mapping),
+7af09376-f5a3-ed11-aad1-0022489ba102,# D365 Dataverse Data,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+d0d8ac80-177d-ef11-ac21-0022489ba102,# AIBuilder_StructuredML_Gcc_CDS_Legacy,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+d0d8ac80-177d-ef11-ac21-0022489ba102,# AIBuilder_StructuredML_Gcc_CDS_Legacy,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+d0d8ac80-177d-ef11-ac21-0022489ba102,# AIBuilder_StructuredML_Gcc_CDS_Legacy,e57bff35-58b4-4725-aee2-40fb18f4c8bd,AIB Roles,Unknown (no entity mapping),
+d0d8ac80-177d-ef11-ac21-0022489ba102,# AIBuilder_StructuredML_Gcc_CDS_Legacy,68f2d372-e1a5-4298-9a93-4b39757caf93,Service Writer,Unknown (no entity mapping),
+d0d8ac80-177d-ef11-ac21-0022489ba102,# AIBuilder_StructuredML_Gcc_CDS_Legacy,3f199ebd-977e-43e5-abe5-fe865a1f2904,AIB SML Roles,Unknown (no entity mapping),
+9ab79e09-6bc7-ed11-b597-0022489ba102,# MicrosoftDynamicsNRDService,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+9ab79e09-6bc7-ed11-b597-0022489ba102,# MicrosoftDynamicsNRDService,6543ef96-37ab-4add-8c31-6dcd7cfa12ab,Non-Relational Data App Access,Unknown (no entity mapping),
+e7752e5e-bbdc-ee11-904d-0022489ba240,# D365EEApp,9b18e47d-a666-ef11-a670-0022480b93b6,Email engagement app user role,Unknown (no entity mapping),
+e7752e5e-bbdc-ee11-904d-0022489ba240,# D365EEApp,f6f7455f-bcea-44dc-abbd-7fd51b1cc880,Sales system access extension,No,"lead,opportunity,order,quote"
+b3d4c4dc-68d3-ee11-907a-0022489ba240,# Flow-CDSNativeConnectorSweden,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+77f7fdb9-8949-ed11-bba2-0022489ba382,Afsal Koya,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+ab68d148-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-NAM,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+ab68d148-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-NAM,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+e968d148-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-EMEA-FRA-GBR-GER,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+e968d148-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-EMEA-FRA-GBR-GER,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+f468d148-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-APJ,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+f468d148-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-APJ,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+ff68d148-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-SAM,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+ff68d148-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-SAM,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+ebb3c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-JPN,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+ebb3c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-JPN,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+f7b3c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-OCE,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+f7b3c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-OCE,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+02b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-CAN,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+02b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-CAN,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+0db4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-IND-UAE-ZAF,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+0db4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-IND-UAE-ZAF,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+18b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-CHE,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+18b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-CHE,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+24b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-NOR,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+24b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-NOR,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+33b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-KOR,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+33b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncFramework-KOR,b21a7144-299d-4c21-a116-30f60e9c159a,Data Sync Framework Role,Unknown (no entity mapping),
+41b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-NAM,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+41b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-NAM,fc3e65d9-450a-4301-933b-f9bcaee20521,Data Sync Service Role,Unknown (no entity mapping),
+4eb4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-EMEA-FRA-GBR-GER,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+4eb4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-EMEA-FRA-GBR-GER,fc3e65d9-450a-4301-933b-f9bcaee20521,Data Sync Service Role,Unknown (no entity mapping),
+5ab4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-APJ,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+5ab4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-APJ,fc3e65d9-450a-4301-933b-f9bcaee20521,Data Sync Service Role,Unknown (no entity mapping),
+68b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-SAM,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+68b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-SAM,fc3e65d9-450a-4301-933b-f9bcaee20521,Data Sync Service Role,Unknown (no entity mapping),
+84b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-JPN,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+84b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-JPN,fc3e65d9-450a-4301-933b-f9bcaee20521,Data Sync Service Role,Unknown (no entity mapping),
+a9b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-OCE,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+a9b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-OCE,fc3e65d9-450a-4301-933b-f9bcaee20521,Data Sync Service Role,Unknown (no entity mapping),
+bab4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-CAN,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+bab4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-CAN,fc3e65d9-450a-4301-933b-f9bcaee20521,Data Sync Service Role,Unknown (no entity mapping),
+f3b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-IND-UAE-ZAF,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+f3b4c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-IND-UAE-ZAF,fc3e65d9-450a-4301-933b-f9bcaee20521,Data Sync Service Role,Unknown (no entity mapping),
+27b5c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-CHE,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+27b5c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-CHE,fc3e65d9-450a-4301-933b-f9bcaee20521,Data Sync Service Role,Unknown (no entity mapping),
+57b5c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-NOR,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+57b5c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-NOR,fc3e65d9-450a-4301-933b-f9bcaee20521,Data Sync Service Role,Unknown (no entity mapping),
+69b5c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-KOR,494d392f-d3f4-42ba-af49-30c6f41e6093,Service Reader,Unknown (no entity mapping),
+69b5c94e-8533-ec11-b6e6-0022489bd51d,# DataSyncService-KOR,fc3e65d9-450a-4301-933b-f9bcaee20521,Data Sync Service Role,Unknown (no entity mapping),
+a2ce141f-b87e-ec11-8d21-0022489be1a8,Sharif Elregeiba,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+c4f22425-b87e-ec11-8d21-0022489be1a8,Gouthaman Puthen Veettil,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+c4f22425-b87e-ec11-8d21-0022489be1a8,Gouthaman Puthen Veettil,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+7db153c8-ab7d-ec11-8d21-0022489bef85,Mayuri Kalita,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+7fb153c8-ab7d-ec11-8d21-0022489bef85,Vijay George,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+7fb153c8-ab7d-ec11-8d21-0022489bef85,Vijay George,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+cc18bd07-0d07-ec11-94ef-0022489c0f78,Adeel Shahzad Sabir Hussain,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+cc18bd07-0d07-ec11-94ef-0022489c0f78,Adeel Shahzad Sabir Hussain,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+cc18bd07-0d07-ec11-94ef-0022489c0f78,Adeel Shahzad Sabir Hussain,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+d018bd07-0d07-ec11-94ef-0022489c0f78,Rajeev Pakideeri,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+d018bd07-0d07-ec11-94ef-0022489c0f78,Rajeev Pakideeri,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+d018bd07-0d07-ec11-94ef-0022489c0f78,Rajeev Pakideeri,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+e218bd07-0d07-ec11-94ef-0022489c0f78,Rajshekhar Deshmukh,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+e218bd07-0d07-ec11-94ef-0022489c0f78,Rajshekhar Deshmukh,966467ba-6b67-4b0e-a5d2-3be6ab67bd30,Paramount Support Associate,No,"support,paramount,ticket"
+e218bd07-0d07-ec11-94ef-0022489c0f78,Rajshekhar Deshmukh,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+4104786d-fa71-ec11-8943-0022489c0f97,Imran Pasha,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+4104786d-fa71-ec11-8943-0022489c0f97,Imran Pasha,5e81fd0c-fc50-462f-9c49-6c7029aabe02,Paramount MSS Shift Lead,No,paramount
+4104786d-fa71-ec11-8943-0022489c0f97,Imran Pasha,61ae5738-3a67-48e3-bf1a-73551ed6a812,Customer service app access,No,"incident,case"
+315f5e35-88d8-ec11-a7b5-0022489c2ada,# PowerAutomate-MachineProvisioning,d58407f2-48d5-e711-a82c-000d3a37c848,Environment Maker,Unknown (no entity mapping),
+315f5e35-88d8-ec11-a7b5-0022489c2ada,# PowerAutomate-MachineProvisioning,9f572d55-6090-493b-904a-3956bdc55343,Desktop Flows Machine Application User,Unknown (no entity mapping),
+f7a523f5-a2c2-eb11-bacc-0022489c4a92,Amritha Kamalon,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+60502afb-a2c2-eb11-bacc-0022489c4a92,Gautham Srinivasa T,eef96238-7bf1-4b60-8ae4-01db3ef05317,Basic User,Unknown (no entity mapping),
+60502afb-a2c2-eb11-bacc-0022489c4a92,Gautham Srinivasa T,3e8e07b6-a743-49de-9c07-b5ed7dcb8ea1,PCS Renewal Sales,No,"lead,pcs,quote,order,opportunity"
+6b502afb-a2c2-eb11-bacc-0022489c4a92,Tarun Kumar,5464d532-3129-4dc8-ac31-07cbf98fc2d8,Dynamics 365 App for Outlook User,No,"activity,email"
+6b502afb-a2c2-eb11-bacc-0022489c4a92,Tarun Kumar,10f98a2a-c34f-41e6-a158-6620fe31729b,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+6b502afb-a2c2-eb11-bacc-0022489c4a92,Tarun Kumar,1b90c3d7-2175-4d47-a715-66451e11b51e,PCS Presales User,No,"lead,pcs,quote,order,opportunity"
+78502afb-a2c2-eb11-bacc-0022489c4a92,Deepak Kankarwal,b6d2af81-b9f3-49f5-be36-2c9a8e856e1e,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+78502afb-a2c2-eb11-bacc-0022489c4a92,Deepak Kankarwal,4ca55d0c-3396-44b2-a783-556374f100de,Basic User,Unknown (no entity mapping),
+78502afb-a2c2-eb11-bacc-0022489c4a92,Deepak Kankarwal,6e25b396-f450-44b0-8f50-74aa965c050e,Dynamics 365 App for Outlook User,No,"activity,email"
+78502afb-a2c2-eb11-bacc-0022489c4a92,Deepak Kankarwal,d1179082-801e-4c42-b312-cdc07db49308,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+a6502afb-a2c2-eb11-bacc-0022489c4a92,Priya Dsilva,b6d2af81-b9f3-49f5-be36-2c9a8e856e1e,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+a6502afb-a2c2-eb11-bacc-0022489c4a92,Priya Dsilva,4ca55d0c-3396-44b2-a783-556374f100de,Basic User,Unknown (no entity mapping),
+a6502afb-a2c2-eb11-bacc-0022489c4a92,Priya Dsilva,6e25b396-f450-44b0-8f50-74aa965c050e,Dynamics 365 App for Outlook User,No,"activity,email"
+a6502afb-a2c2-eb11-bacc-0022489c4a92,Priya Dsilva,a0dbb94c-1c5f-4816-9666-848e814ee6cb,Customer service app access,No,"incident,case"
+a6502afb-a2c2-eb11-bacc-0022489c4a92,Priya Dsilva,d1179082-801e-4c42-b312-cdc07db49308,PCS Sales User,No,"lead,pcs,quote,order,opportunity"
+47f47567-36c4-eb11-bacc-0022489c4a92,Zena #,96d156c8-00aa-eb11-8236-0022489b4c66,Basic User,Unknown (no entity mapping),
+9d745fd7-f3f6-eb11-94ee-0022489c96ee,# DataServices,edfcbfd2-358f-ea11-a81f-000d3a6eafd3,DataLakeWorkspaceAppAccess,Unknown (no entity mapping),
+9d745fd7-f3f6-eb11-94ee-0022489c96ee,# DataServices,896a28e5-678d-4fa8-ad59-c606d1aa98ce,DataProcessingConfigTableAppAccess,Unknown (no entity mapping),
+ba32f60c-a577-ec11-8d21-0022489ca392,Mohammad Khaled,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+7711d021-9240-ec11-8c62-0022489cba62,Sooraj S Sukumaran,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+22b08f4b-2e9d-ec11-b400-0022489cbe08,Adil Mohamed Musliam VT,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+55878116-03eb-ec11-bb3d-0022489cd7be,Sugumar Sivalingam,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+55878116-03eb-ec11-bb3d-0022489cd7be,Sugumar Sivalingam,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+bfd05313-74ec-ec11-bb3d-0022489cd7be,Sumaira Mohammed Ashraf,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+bfd05313-74ec-ec11-bb3d-0022489cd7be,Sumaira Mohammed Ashraf,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+bfd05313-74ec-ec11-bb3d-0022489cd7be,Sumaira Mohammed Ashraf,97d156c8-00aa-eb11-8236-0022489b4c66,System Customizer,Unknown (no entity mapping),
+3e10e1f7-864a-ef11-bfe2-0022489cdeb6,Akshay Sharma,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+6f8c1c7c-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorPreview,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+3fe7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorUS,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+50e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorEurope,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+63e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorAsia,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+6ee7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorAustralia,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+7ce7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorIndia,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+99e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorJapan,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+b3e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorCanada,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+c8e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorUK,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+d4e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorBrazil,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+e3e7a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorFrance,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+03e8a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorUAE,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+14e8a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorGermany,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+21e8a382-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorSwitzerland,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+9680aa88-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorKorea,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+a280aa88-f8bc-ec11-9840-0022489e2e28,# Flow-CDSNativeConnectorNorway,8be3e3ca-a304-451f-9dc1-2478d224ea0e,Flow-CDS Native Connector Role,Unknown (no entity mapping),
+0c199783-523b-ee11-bdf4-0022489ea33a,Grisha Thawani,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+4df96533-a0d7-ee11-904c-002248a18b93,Shwetank Jayaswal,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+4df96533-a0d7-ee11-904c-002248a18b93,Shwetank Jayaswal,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+4df96533-a0d7-ee11-904c-002248a18b93,Shwetank Jayaswal,7cc4833a-3ec3-4e92-a5d5-90b0af07b89e,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+4df96533-a0d7-ee11-904c-002248a18b93,Shwetank Jayaswal,75f59018-685a-4cbd-b026-a22b3d609591,PCS Country Manager,No,pcs
+4df96533-a0d7-ee11-904c-002248a18b93,Shwetank Jayaswal,57b647c3-8703-45e7-8c31-e2a475693ab0,Dynamics 365 App for Outlook User,No,"activity,email"
+1b8accf4-f8ec-ef11-be1f-6045bddd1bad,Hareesh Poonthottathil,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+459f6627-d0ed-ef11-be1f-6045bddd1bad,Ganga Gowri Ponnuswamy,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+5d30d823-f5ea-ef11-be20-6045bddd1bad,Amneh Moh’d Ali Shehadeh,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+63e230e1-fd68-ef11-bfe2-6045bddeadfa,Alghareeb Omar,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+1e7dac82-32da-ef11-a72f-6045bddf00e4,Kavin S,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+1e7dac82-32da-ef11-a72f-6045bddf00e4,Kavin S,3dac4d9e-568c-e611-80d4-00155d42a122,Customer service app access,No,"incident,case"
+5061a163-c6df-ef11-a72f-6045bddf00e4,Jaden Ade,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+2b53c846-27ec-ee11-a203-6045bde0cdf4,# Dynamics 365 Web API,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+398dac59-3032-f011-8c4d-7c1e52362954,Nour Eddin Babi,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+b0347c91-7935-f011-8c4d-7c1e52362954,Mohamed Yaser Farook M,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+b0347c91-7935-f011-8c4d-7c1e52362954,Mohamed Yaser Farook M,3dac4d9e-568c-e611-80d4-00155d42a122,Customer service app access,No,"incident,case"
+b0347c91-7935-f011-8c4d-7c1e52362954,Mohamed Yaser Farook M,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+b0347c91-7935-f011-8c4d-7c1e52362954,Mohamed Yaser Farook M,97d156c8-00aa-eb11-8236-0022489b4c66,System Customizer,Unknown (no entity mapping),
+12e3b979-4a36-f011-8c4d-7c1e52362954,# Access review demo,46cd56c8-00aa-eb11-8236-0022489b4c66,System Administrator,No,"user,systemuser"
+12e3b979-4a36-f011-8c4d-7c1e52362954,# Access review demo,97d156c8-00aa-eb11-8236-0022489b4c66,System Customizer,Unknown (no entity mapping),
+5041cfd3-2515-f011-998a-7c1e52362954,Zameer Baig Mirza,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+e99de6d9-2515-f011-998a-7c1e52362954,Harinand Baburaj Sindhu,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+179ee6d9-2515-f011-998a-7c1e52362954,Akram Adel Mohamed Tawfik Elsayed,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+bdf54c33-dd15-f011-998a-7c1e52362954,Nidal Nasouh Awad Abushaqreh,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+6f136b3f-dd15-f011-998a-7c1e52362954,Jagadishkumar Pantheti Venkatadri Raju,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+ae60cc5d-0f0a-f011-bae3-7c1e52362954,Farzeen Wasim,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+cdb36fef-0ef5-ef11-be1f-7c1e52362954,Khasiba Sultan Obaid M A,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
+52f65564-4cbb-ef11-b8e8-7c1e5276d8f4,# Power Policy Service CM PROD,e9a54b07-f763-45a1-88e7-0b67bbe18cf2,Power Policy App User Role,Unknown (no entity mapping),
+77d6c7ed-db20-f011-9989-7c1e52881ff7,Ashish Ganapati Hegde,cad52a75-568c-e611-80d4-00155d42a122,Sales Enterprise app access,No,"lead,opportunity,order,quote"
